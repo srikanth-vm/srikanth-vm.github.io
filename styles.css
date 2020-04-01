@@ -1,0 +1,29 @@
+body {
+    background-color: #D9E1DC;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    margin: 0;
+    text-align: center;
+}
+
+#content {
+    max-width: 400px;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+#field label {
+    display: block;
+    font-size: 12px;
+    text-align: left;
+    color: rgb(109, 113, 110);
+}
+
+#field input {
+    border: 0;
+    background-color: transparent;
+    font-size: 28px;
+    color: rgb(109, 113, 110);
+}
