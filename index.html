@@ -1,5 +1,9 @@
 <html>
     <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+        <meta content="utf-8" http-equiv="encoding">
         <title>Karnataka Quarantined People</title>
         <link rel="stylesheet" type="text/css" href="styles.css"/>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -17,17 +21,18 @@
                             $.each(data, function(k, person) {
                                 if (person.pin == pinCode) {
                                     caseMatchingPin.push('<tr><td>' + 
-                                    person.arrival + '</td><td>' + 
-                                    person.quarantinedTill + '</td><td>' +
-                                    person.houseNo + '</td><td>' +
-                                    person.street + '</td><td>' +
-                                    person.tehsil + '</td><td>' +
-                                    person.district + '</td></tr>');
+                                    person.arrival + '<span>Person Arrival</span></td><td>' + 
+                                    person.quarantinedTill + '<span>Quarantined Till</span></td><td>' +
+                                    person.houseNo + '<span>House No.</span></td><td>' +
+                                    person.street + '<span>Street</span></td><td>' +
+                                    person.tehsil + '<span>Area</span></td><td>' +
+                                    person.district + '<span>District</span></td></tr>');
                                 }
                             });
+                            var tableHeaders = '<thead><tr><th>Person Arrival</th><th>Quarantined Till</th><th>House No.</th><th>Street</th><th>Tehsil</th><th>District</th></tr></thead>'
 
                             if (caseMatchingPin.length > 0) {
-                                $('#matchingCases').append('<table>' + caseMatchingPin.join('') + '</table>');
+                                $('#matchingCases').append('<table>' + tableHeaders + caseMatchingPin.join('') + '</table>');
                             }
                         });
                     }
@@ -36,7 +41,7 @@
         </script> 
     </head>
     <body>
-        <div id="header">
+        <div class="header">
             <p>KARNATAKA COVID-19 TRACKER</p>
         </div>
         <div id="content">
@@ -47,5 +52,7 @@
             </div>
             <div id="matchingCases"></div>
         </div>
+        <div class="footer"> <a class="link" href="http://supr.design">Brought to you by - Supr•Design</a></div>
+
     </body>
 </html>
