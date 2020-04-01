@@ -7,11 +7,27 @@
             $(document).ready(function() {
                 $('#pincode').on('keypress', function(e) {
                     if (e.which === 13) {
+                        var caseMatchingPin = [];
+                        var pinCode = $('#pincode').val();
                         $.getJSON('blr.json', function(data) {
-                            $.each(data, function(key, value) {
-                                console.log('Key: ' + key);
-                                console.log('Value: ' + value);
+                            $.each(data, function(k, person) {
+                                if (person.pin == pinCode) {
+                                    caseMatchingPin.push('<tr><td>' + 
+                                    person.arrival + '</td><td>' + 
+                                    person.quarantinedTill + '</td><td>' +
+                                    person.houseNo + '</td><td>' +
+                                    person.street + '</td><td>' +
+                                    person.tehsil + '</td><td>' +
+                                    person.district + '</td></tr>');
+                                    console.log("Found one");
+                                } else {
+                                    console.log("Nah");
+                                }
                             });
+
+                            if (caseMatchingPin.length > 0) {
+                                $('#matchingCases').append('<table>' + caseMatchingPin + '</table>');
+                            }
                         });
                     }
                 });
@@ -26,6 +42,9 @@
             <div id="field">
                 <label>PINCODE</label>
                 <input id="pincode" type="text" placeholder="e.g 560085" class="sys-font"/>
+            </div>
+            <div id="matchingCases">
+
             </div>
         </div>
     </body>
