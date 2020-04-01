@@ -1,16 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background-color: #D9E1DC;
+    background-color: #fafafa;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#header {
-    margin: 0;
-    text-align: center;
+.header {
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+	letter-spacing: 1.2px;
+	font-size: 20px;
+	position: fixed;     
+	text-align: center;    
 }
 
 #content {
-    max-width: 400px;
-    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
     padding-top: 100px;
 }
 
@@ -26,4 +36,73 @@ body {
     background-color: transparent;
     font-size: 28px;
     color: rgb(109, 113, 110);
+}
+
+.footer{ 
+    font-family: 'Open Sans', sans-serif;
+	letter-spacing: 1.2px;
+	font-size: 12px;
+	position: fixed;     
+	text-align: center;    
+	bottom: 20px; 
+	width: 100%;
+	color: rgb(0, 0, 0);
+} 
+
+.link { 
+	color: rgb(0, 0, 0); 
+	text-decoration:none;
+} 
+
+/* Default table styles for this demo */
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+table tr {
+    background: white;
+    border-bottom: 1px solid
+}
+table th, table td {
+    padding: 10px 20px;
+}
+table td span {
+    font-family: "Avenir", "Helvetica", sans-serif;
+    background: #eee;
+    color: dimgrey;
+    display: none;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 5px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 0;
+    left: 0;
+}
+
+/* Simple CSS for flexbox table on mobile */
+@media(max-width: 800px) {
+    table thead {
+        left: -9999px;
+        position: absolute;
+        visibility: hidden;
+    }
+    table tr {
+        border-bottom: 0;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-bottom: 40px;
+    }
+    table td {
+        border: 1px solid;
+        margin: 0 -1px -1px 0;
+        padding-top: 35px;
+        position: relative;
+        width: 50%;
+    }
+    table td span {
+        display: block;
+    }
 }
