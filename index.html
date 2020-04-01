@@ -9,7 +9,9 @@
                     if (e.which === 13) {
                         var caseMatchingPin = [];
                         var pinCode = $('#pincode').val();
-                        $.getJSON('blr.json', function(data) {
+
+                        $('#matchingCases').empty();
+                        $.getJSON('https://karnataka-covid19-cases.firebaseio.com/quarantine.json', function(data) {
                             $.each(data, function(k, person) {
                                 if (person.pin == pinCode) {
                                     caseMatchingPin.push('<tr><td>' + 
@@ -19,9 +21,6 @@
                                     person.street + '</td><td>' +
                                     person.tehsil + '</td><td>' +
                                     person.district + '</td></tr>');
-                                    console.log("Found one");
-                                } else {
-                                    console.log("Nah");
                                 }
                             });
 
