@@ -15,7 +15,9 @@
                         var pinCode = $('#pincode').val();
 
                         $('#matchingCases').empty();
+                        $('#loader').show();
                         $.getJSON('https://karnataka-covid19-cases.firebaseio.com/quarantine.json', function(data) {
+                            $('#loader').hide();
                             $.each(data, function(k, person) {
                                 if (person.pin == pinCode) {
                                     caseMatchingPin.push('<tr><td>' + 
@@ -46,6 +48,7 @@
             <div id="field">
                 <label>PINCODE</label>
                 <input id="pincode" type="text" placeholder="e.g 560085" class="sys-font"/>
+                <div id="loader"></div>
             </div>
             <div id="matchingCases"></div>
         </div>
