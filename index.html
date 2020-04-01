@@ -27,7 +27,7 @@
                             });
 
                             if (caseMatchingPin.length > 0) {
-                                $('#matchingCases').append('<table>' + caseMatchingPin + '</table>');
+                                $('#matchingCases').append('<table>' + caseMatchingPin.join('') + '</table>');
                             }
                         });
                     }
@@ -45,9 +45,7 @@
                 <input id="pincode" type="text" placeholder="e.g 560085" class="sys-font"/>
                 <div id="loader"></div>
             </div>
-            <div id="matchingCases">
-
-            </div>
+            <div id="matchingCases"></div>
         </div>
     </body>
 </html>
