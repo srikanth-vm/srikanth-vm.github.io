@@ -42,10 +42,10 @@
 
                         $('#matchingCases').empty();
                         $('#loader').show();
-                        $.getJSON('karnataka.json', function(data) {
+                        $.getJSON('blr.json', function(data) {
                             $('#loader').hide();
                             $.each(data, function(k, person) {
-                                if (person.pin.includes(pinCode)) {
+                                if (person.pin == pinCode) {
                                     caseMatchingPin.push('<tr><td>' + 
                                     person.arrival + '<span>Person Arrival</span></td><td>' + 
                                     person.quarantinedTill + '<span>Quarantined Till</span></td><td>' +
