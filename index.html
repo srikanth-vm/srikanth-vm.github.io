@@ -33,28 +33,14 @@
         gtag('js', new Date());
 
         gtag('config', 'G-8FV8KMH8G1');
-<<<<<<< HEAD
-    </script>
+        </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script>
         $(document).ready(function() {
+            $('#loader').hide();
             var lastCheckedPinCode = '';
             $('#pincode').on('keypress', function(e) {
                 if (e.which === 13) {
-=======
-        </script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <script>
-            $(document).ready(function() {
-                var lastCheckedPinCode = '';
-                $('#pincode').on('keypress', function(e) {
-                    if (e.which === 13) {
-                        fetchMatchingCases();
-                    }
-                });
-
-                $('#pincode').focusout(function(e) {
->>>>>>> master
                     fetchMatchingCases();
                 }
             });
@@ -67,7 +53,6 @@
                 var caseMatchingPin = [];
                 var pinCode = $('#pincode').val();
 
-<<<<<<< HEAD
                 if (pinCode != lastCheckedPinCode) {
                     lastCheckedPinCode = pinCode;
                     $('#matchingCases').empty();
@@ -84,33 +69,14 @@
                                 person.street + '<span>Street</span></td><td>' +
                                 person.tehsil + '<span>Area</span></td><td>' +
                                 person.district + '<span>District</span></td></tr>');
-=======
-                    if (pinCode != lastCheckedPinCode) {
-                        lastCheckedPinCode = pinCode;
-                        $('#matchingCases').empty();
-                        $('#loader').show();
-                        $.getJSON('karnataka.json', function(data) {
-                            $('#loader').hide();
-                            $.each(data, function(k, person) {
-                                if (person.pin == pinCode || person.pin == (pinCode + ".0")) {
-                                    caseMatchingPin.push('<tr><td>' + 
-                                    person.arrival + '<span>Person Arrival</span></td><td>' + 
-                                    person.origin + '<span>Arrived From</span></td><td>' + 
-                                    person.quarantinedTill + '<span>Quarantined Till</span></td><td>' +
-                                    person.houseNo + '<span>House No.</span></td><td>' +
-                                    person.street + '<span>Street</span></td><td>' +
-                                    person.tehsil + '<span>Area</span></td><td>' +
-                                    person.district + '<span>District</span></td></tr>');
-                                }
-                            });
-                            var tableHeaders = '<thead><tr><th>Person Arrival</th><th>Arrived From</th><th>Quarantined Till</th><th>House No.</th><th>Street</th><th>Tehsil</th><th>District</th></tr></thead>'
-
-                            if (caseMatchingPin.length > 0) {
-                                $('#matchingCases').append('<table>' + tableHeaders + caseMatchingPin.join('') + '</table>');
->>>>>>> master
                             }
                         });
-                    }
+                        var tableHeaders = '<thead><tr><th>Person Arrival</th><th>Arrived From</th><th>Quarantined Till</th><th>House No.</th><th>Street</th><th>Tehsil</th><th>District</th></tr></thead>'
+
+                        if (caseMatchingPin.length > 0) {
+                            $('#matchingCases').append('<table>' + tableHeaders + caseMatchingPin.join('') + '</table>');
+                        }
+                    });
                 }
             }
         });
