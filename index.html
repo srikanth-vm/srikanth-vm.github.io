@@ -1,98 +1,106 @@
 <html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-        <meta content="utf-8" http-equiv="encoding">
-        <title>Be Home. Be Safe.</title>
-        <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
-        <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
-        <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-        <link rel="manifest" href="/manifest.json">
-        <meta name="msapplication-TileColor" content="#ffffff">
-        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-        <meta name="theme-color" content="#ffffff">
 
-        <link rel="stylesheet" type="text/css" href="styles.css"/>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-8FV8KMH8G1"></script>
-        <script>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <title>Be Home. Be Safe.</title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-8FV8KMH8G1"></script>
+    <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
 
         gtag('config', 'G-8FV8KMH8G1');
         </script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <script>
-            $(document).ready(function() {
-                var lastCheckedPinCode = '';
-                $('#pincode').on('keypress', function(e) {
-                    if (e.which === 13) {
-                        fetchMatchingCases();
-                    }
-                });
-
-                $('#pincode').focusout(function(e) {
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#loader').hide();
+            var lastCheckedPinCode = '';
+            $('#pincode').on('keypress', function(e) {
+                if (e.which === 13) {
                     fetchMatchingCases();
-                });
-
-                function fetchMatchingCases() {
-                    var caseMatchingPin = [];
-                    var pinCode = $('#pincode').val();
-
-                    if (pinCode != lastCheckedPinCode) {
-                        lastCheckedPinCode = pinCode;
-                        $('#matchingCases').empty();
-                        $('#loader').show();
-                        $.getJSON('karnataka.json', function(data) {
-                            $('#loader').hide();
-                            $.each(data, function(k, person) {
-                                if (person.pin == pinCode || person.pin == (pinCode + ".0")) {
-                                    caseMatchingPin.push('<tr><td>' + 
-                                    person.arrival + '<span>Person Arrival</span></td><td>' + 
-                                    person.origin + '<span>Arrived From</span></td><td>' + 
-                                    person.quarantinedTill + '<span>Quarantined Till</span></td><td>' +
-                                    person.houseNo + '<span>House No.</span></td><td>' +
-                                    person.street + '<span>Street</span></td><td>' +
-                                    person.tehsil + '<span>Area</span></td><td>' +
-                                    person.district + '<span>District</span></td></tr>');
-                                }
-                            });
-                            var tableHeaders = '<thead><tr><th>Person Arrival</th><th>Arrived From</th><th>Quarantined Till</th><th>House No.</th><th>Street</th><th>Tehsil</th><th>District</th></tr></thead>'
-
-                            if (caseMatchingPin.length > 0) {
-                                $('#matchingCases').append('<table>' + tableHeaders + caseMatchingPin.join('') + '</table>');
-                            }
-                        });
-                    }
                 }
             });
-        </script> 
-    </head>
-    <body>
-        <div class="header">
-            <p>KARNATAKA COVID-19 TRACKER</p>
-        </div>
-        <div id="field">
-            <label>PINCODE</label>
-            <input id="pincode" type="text" placeholder="e.g 560085"/>
-            <div id="loader"></div>
-        </div>
-        <div id="content">
-            <div id="matchingCases"></div>
-        </div>
-        <div class="footer"> <a class="link" href="http://supr.design">Brought to you by - Supr•Design</a></div>
 
-    </body>
+            $('#pincode').focusout(function(e) {
+                fetchMatchingCases();
+            });
+
+            function fetchMatchingCases() {
+                var caseMatchingPin = [];
+                var pinCode = $('#pincode').val();
+
+                if (pinCode != lastCheckedPinCode) {
+                    lastCheckedPinCode = pinCode;
+                    $('#matchingCases').empty();
+                    $('#loader').show();
+                    $.getJSON('karnataka.json', function(data) {
+                        $('#loader').hide();
+                        $.each(data, function(k, person) {
+                            if (person.pin == pinCode || person.pin == (pinCode + ".0")) {
+                                caseMatchingPin.push('<tr><td>' + 
+                                person.arrival + '<span>Person Arrival</span></td><td>' + 
+                                person.origin + '<span>Arrived From</span></td><td>' + 
+                                person.quarantinedTill + '<span>Quarantined Till</span></td><td>' +
+                                person.houseNo + '<span>House No.</span></td><td>' +
+                                person.street + '<span>Street</span></td><td>' +
+                                person.tehsil + '<span>Area</span></td><td>' +
+                                person.district + '<span>District</span></td></tr>');
+                            }
+                        });
+                        var tableHeaders = '<thead><tr><th>Person Arrival</th><th>Arrived From</th><th>Quarantined Till</th><th>House No.</th><th>Street</th><th>Tehsil</th><th>District</th></tr></thead>'
+
+                        if (caseMatchingPin.length > 0) {
+                            $('#matchingCases').append('<table>' + tableHeaders + caseMatchingPin.join('') + '</table>');
+                        }
+                    });
+                }
+            }
+        });
+    </script> 
+</head>
+
+<body>
+    <div class="header">
+        <p>KARNATAKA COVID-19 TRACKER</p>
+    </div>
+    <div class="field">
+        <label>PINCODE</label>
+        <div class="inputcontainer">
+            <input id="pincode" type="text" placeholder="e.g 560085" />
+            <div class="icon-container">
+                <i id="loader"></i>
+            </div>
+        </div>
+    </div>
+    <div id="content">
+        <div id="matchingCases"></div>
+    </div>
+    <div class="footer"> <a class="link" href="http://supr.design">Brought to you by - Supr•Design</a></div>
+
+</body>
+
 </html>
