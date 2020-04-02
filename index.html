@@ -4,7 +4,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
         <meta content="utf-8" http-equiv="encoding">
-        <title>KARNATAKA COVID-19 TRACKER</title>
+        <title>Be Home. Be Safe.</title>
         <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
         <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -22,6 +22,7 @@
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
         <meta name="theme-color" content="#ffffff">
+
         <link rel="stylesheet" type="text/css" href="styles.css"/>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-8FV8KMH8G1"></script>
@@ -70,12 +71,12 @@
         <div class="header">
             <p>KARNATAKA COVID-19 TRACKER</p>
         </div>
+        <div id="field">
+            <label>PINCODE</label>
+            <input id="pincode" type="text" placeholder="e.g 560085"/>
+            <div id="loader"></div>
+        </div>
         <div id="content">
-            <div id="field">
-                <label>PINCODE</label>
-                <input id="pincode" type="text" placeholder="e.g 560085" class="sys-font"/>
-                <div id="loader"></div>
-            </div>
             <div id="matchingCases"></div>
         </div>
         <div class="footer"> <a class="link" href="http://supr.design">Brought to you by - Supr•Design</a></div>
