@@ -38,9 +38,20 @@
             $(document).ready(function() {
                 $('#pincode').on('keypress', function(e) {
                     if (e.which === 13) {
-                        var caseMatchingPin = [];
-                        var pinCode = $('#pincode').val();
+                        fetchMatchingCases();
+                    }
+                });
 
+                $('#pincode').focusout(function(e) {
+                    fetchMatchingCases();
+                });
+
+                function fetchMatchingCases() {
+                    var caseMatchingPin = [];
+                    var pinCode = $('#pincode').val();
+
+                    if (pinCode.length != 6) {alert('Please enter a valid pincode');}
+                    else {
                         $('#matchingCases').empty();
                         $('#loader').show();
                         $.getJSON('karnataka.json', function(data) {
@@ -61,10 +72,12 @@
 
                             if (caseMatchingPin.length > 0) {
                                 $('#matchingCases').append('<table>' + tableHeaders + caseMatchingPin.join('') + '</table>');
+                            } else {
+                                alert('No matching cases found.');
                             }
                         });
                     }
-                });
+                }
             });
         </script> 
     </head>
