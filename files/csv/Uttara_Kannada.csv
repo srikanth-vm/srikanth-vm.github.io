@@ -1,0 +1,417 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,Baharan,Bangalore,101.0,Baliundmere,Batkal,Karwar,Karnataka,581320.0,Uttara Kannada
+2.0,2020-03-22,2020-04-05,Dubai,Bangalore,571.0,Bhatkal,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+3.0,2020-03-22,2020-04-05,Dubai,Bangalore,420.0,Bhatkal,-,Karwar,Karnataka,581320.0,Uttara Kannada
+4.0,2020-03-22,2020-04-05,Dubai,Bengaluru,571.0,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+5.0,2020-03-22,2020-04-05,Dubai,Bangalore,420.0,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+6.0,2020-03-21,2020-04-04,"San Diego,California","Bengaluru,India",laxman Krupa,Marikamba Nagar Sirsi/ U.K,-,Uttar Kannada,Karnataka,581401.0,Uttara Kannada
+7.0,2020-03-21,2020-04-04,Usa,Bangalore,B18,Viveknagar,Kumata,Karwar ,Karnataka,581343.0,Uttara Kannada
+8.0,2020-03-21,2020-04-04,Dxb,Bengaluru,308.0,Devevragadde,Manug,Honnavar,Karnataka,581348.0,Uttara Kannada
+9.0,2020-03-21,2020-04-04,Dubai ,Bangalore,-,-,Bandar Road,Bhatkal,Karnataka,581320.0,Uttara Kannada
+10.0,2020-03-21,2020-04-04,Dubai,Bangalore,1453.0,4Th Cross Azad Nagar,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+11.0,2020-03-21,2020-04-04,Dubai,bangalore,59 salavasi house,shazli street bhatkul,_,karwar,Karnataka,581320.0,Uttara Kannada
+12.0,2020-03-21,2020-04-04,Dubai,Bangalore,,AL Imran ,Bhatkal,Mangalore,Karnataka,8385.0,Uttara Kannada
+13.0,2020-03-21,2020-04-04,DXB,Bangalore,Al Imran,,Bhatkal,Mangalore,Karnataka,8385.0,Uttara Kannada
+14.0,2020-03-21,2020-04-04,DXB,Bangalore,Al Imran,,Bhatkal,Mangalore,Karnataka,8385.0,Uttara Kannada
+15.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,A,Bangalore,Uk,Karnatka,673542.0,Uttara Kannada
+16.0,2020-03-20,2020-04-03,Doha,Bangalore,37.0,Heroor,Siddapur,Karwar,Karnataka,581450.0,Uttara Kannada
+17.0,2020-03-20,2020-04-03,Dubai,Bangalore,#21,Bhatkal,-,Bhatkal,Karnataka,581320.0,Uttara Kannada
+18.0,2020-03-20,2020-04-03,Bangalore,Dubai,EMYAAT,Baatkal,-,Uk,Karnataka,581380.0,Uttara Kannada
+19.0,2020-03-20,2020-04-03,Dubai,Bangalore Int Airport,175.0,Shirali,-,Karwar,Karnataka,581354.0,Uttara Kannada
+20.0,2020-03-20,2020-04-03,Abudhabi,Bangalore ,243/B,Unchageri,Kadle,"Honnavar, Uttar Kannada ",Karnataka ,581334.0,Uttara Kannada
+21.0,2020-03-20,2020-04-03,Dubai,Bangalore,21.0,Herur,-,Karwar,Karnataka,581450.0,Uttara Kannada
+22.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,Sirsi Khb Colony,Kannada,Karnataka,Karnataka,581402.0,Uttara Kannada
+23.0,2020-03-19,2020-04-02,Germany,Bangalore,# 939/1,"Rajatagiri, 1St Cross Prabhat Nagar",Honnavar,Karawar,Karnataka,581334.0,Uttara Kannada
+24.0,2020-03-19,2020-04-02,Frankfurt ,Bangalore,"939/1, Rajatagiri , 1st Cross,Honnavar",Karwar,Karwar,Karwar,Karnataka,581334.0,Uttara Kannada
+25.0,2020-03-19,2020-04-02,Dubai,Bangalore,32A symbbin hous,32A Symbbin Hous,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+26.0,2020-03-19,2020-04-02,Oman,Bangalore,52.0,-,Siddapur,Chipla,-,-,Uttara Kannada
+27.0,2020-03-19,2020-04-02,Vienna,Banaglaore,257.0,Mamchikevi,Yellapur,Uttar Kanda,Karnataka,581347.0,Uttara Kannada
+28.0,2020-03-19,2020-04-02,Sharjah,Bangalore,Makh Hamia,Murdeswar,Murdeswar,Karwar,Karnataka,581350.0,Uttara Kannada
+29.0,2020-03-19,2020-04-02,Finland,Karwar,-,Siddapur,-,Karwar,Karnataka,581340.0,Uttara Kannada
+30.0,2020-03-19,2020-04-02,Dublin,Bangalore,242/1,Nadavara Keri Road Mavalli-2,-,"Murudeshwar, Bhatkal",Karnataka ,581350.0,Uttara Kannada
+31.0,2020-03-19,2020-04-02,Dubai,Bangalore,"160,Billugunda",Kodugu,Karnataka,Karnataka,Karnataka,571211.0,Uttara Kannada
+32.0,2020-03-19,2020-04-02,Dubai,Bangalore,"160,Billugunda",Kodugu,Karnataka,Karnataka,Karnataka,571211.0,Uttara Kannada
+33.0,2020-03-19,2020-04-02,Dubai,Mangalore,194/B,Vannalli,Kuta,Uttar Kannada,Karnataka,581343.0,Uttara Kannada
+34.0,2020-03-19,2020-04-02,Dubai,Mangalore,,,,Karwar,Karnataka,581320.0,Uttara Kannada
+35.0,2020-03-19,2020-04-02,Dubai,Mangalore,,Firdous nagar,,Karwar,Karnataka,,Uttara Kannada
+36.0,2020-03-19,2020-04-02,Dubai,Mangalore,35.0,Alwar Street,,Karwar,Karnataka,581320.0,Uttara Kannada
+37.0,2020-03-19,2020-04-02,Dubai,Mangalore,19.0,Bhatkal,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+38.0,2020-03-19,2020-04-02,Dubai,Mangalore,19.0,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+39.0,2020-03-19,2020-04-02,Dubai,Mangalore,282.0,Gundibala,,Mohavar,Karnataka,581361.0,Uttara Kannada
+40.0,2020-03-19,2020-04-02,Dubai,Mangalore,21.0,Jamia street,,Dakshin Kannada,Karnataka,581320.0,Uttara Kannada
+41.0,2020-03-18,2020-04-01,Sharjah,Bangalore India,75/A,Dandeli,Dandeli,Karwar,Karnataka,581325.0,Uttara Kannada
+42.0,2020-03-18,2020-04-01,Qatar,Bangalore,1638.0,Near Holy Cross Church  Manki,Honavar,Utara Kanada,Karnataka,581348.0,Uttara Kannada
+43.0,2020-03-18,2020-04-01,Dubhai,Mangalore,Roman Villa,Kasargod Tonka,Honavar,Karwar,Karnataka,581342.0,Uttara Kannada
+44.0,2020-03-18,2020-04-01,Dubhai,Mangalore,51.0,Khalipa,bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+45.0,2020-03-18,2020-04-01,Dubai,Mangalore,4/10A,Bhatkal,Bhatkal,Uttar Kannada,Karnataka,581320.0,Uttara Kannada
+46.0,2020-03-18,2020-04-01,Dubai,Mangalore,,,Bhatkal,karwar,Karnataka,581350.0,Uttara Kannada
+47.0,2020-03-18,2020-04-01,Dubai,Manglore,921.0,henikagal,kumta,uttara kannada,karnataka,581351.0,Uttara Kannada
+48.0,2020-03-18,2020-04-01,Dubai,Manglore,,darul nlurah,,Dakshina kannada,karnataka,581320.0,Uttara Kannada
+49.0,2020-03-18,2020-04-01,Dubai,Manglore,190-3,bhatakal,,bhatakal,karnataka,581320.0,Uttara Kannada
+50.0,2020-03-18,2020-04-01,Dubai,Mangalore,Saiban 80,Jama road,Bhatkal,Kharwar,Karnataka,581320.0,Uttara Kannada
+51.0,2020-03-18,2020-04-01,Dubai,Mangalore,40.0,2nd cross,Azad Nagar,Bhakkai,Karnataka,581320.0,Uttara Kannada
+52.0,2020-03-18,2020-04-01,Dubai,Mangalore,Darnl Nagod,Good Luck Road,,Bhatkal,Karnataka,581320.0,Uttara Kannada
+53.0,2020-03-18,2020-04-01,Dubai,Mangalore,569.0,Nagar basti Keri,Honavar,Karwar,Karnataka,581384.0,Uttara Kannada
+54.0,2020-03-18,2020-04-01,Oman,Mangalore,"06, Alwa Street",bhatkal,Uttar Kannada,Uttar Kannada,Karnataka,581320.0,Uttara Kannada
+55.0,2020-03-18,2020-04-01,Abu dhabi,Mangalore,,"Saudagar house, usman nagar",Bhatkal,Kaswar,Karnataka,581320.0,Uttara Kannada
+56.0,2020-03-18,2020-04-01,Muscat,Mangalore,231-41,,,Hospattan,Karnataka,581324.0,Uttara Kannada
+57.0,2020-03-18,2020-04-01,Muscat,Mangalore,H.No-37,bhatkal,PORUArga,Karwar,Karnataka,581320.0,Uttara Kannada
+58.0,2020-03-18,2020-04-01,Muscat,Mangalore,,yelwadi kawur,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+59.0,2020-03-18,2020-04-01,Abu dhabi,Mangalore,310.0,,,,Karnataka,581333.0,Uttara Kannada
+60.0,2020-03-18,2020-04-01,Muscat,Mangalore,,,,,Karnataka,581325.0,Uttara Kannada
+61.0,2020-03-18,2020-04-01,Muscat,Mangalore,232/B,,,,Karnataka,581325.0,Uttara Kannada
+62.0,2020-03-18,2020-04-01,Abu dhabi,Mangalore,,,KAREWAR,,Karnataka,581320.0,Uttara Kannada
+63.0,2020-03-18,2020-04-01,Abu Dhabi,Mangalore,240.0,Arolli Mundgod,Honavar,Karwar,Karnataka,581344.0,Uttara Kannada
+64.0,2020-03-18,2020-04-01,Oman,Mangalore,44.0,Kidwai Road,,Karwar,Karnataka,581320.0,Uttara Kannada
+65.0,2020-03-18,2020-04-01,Oman,Mangalore,44.0,Kidwai Road,,Karwar,Karnataka,581320.0,Uttara Kannada
+66.0,2020-03-18,2020-04-01,Muacat,Mangalore,44.0,kidwiroadbhatka,,karwar,karnataka,581320.0,Uttara Kannada
+67.0,2020-03-18,2020-04-01,Oman Maskad,Manglore,44.0,kidwairoad BRL,,Karvar,karnataka,581320.0,Uttara Kannada
+68.0,2020-03-18,2020-04-01,muscat,India,44.0,Kidwi Road Bhatkal,,Karwar,karnataka,581320.0,Uttara Kannada
+69.0,2020-03-18,2020-04-01,Oman,Mangalore,17/18,Sultan Badhkal,,Karvar,karnataka,581320.0,Uttara Kannada
+70.0,2020-03-18,2020-04-01,Dubai,Mangalore,No 3,Bhatkal,,karwar,Karnataka,581320.0,Uttara Kannada
+71.0,2020-03-18,2020-04-01,Dubai,Mangalore,884.0,village bhatkal,,karwar,Karnataka,581320.0,Uttara Kannada
+72.0,2020-03-18,2020-04-01,Dubai,Mangalore,no 3,bhatkal,,karwar,Karnataka,581320.0,Uttara Kannada
+73.0,2020-03-18,2020-04-01,Dubai,Mangalore,no 3,bhattal,,karwar,Karnataka,581320.0,Uttara Kannada
+74.0,2020-03-18,2020-04-01,Dubai,Mangalore,,bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+75.0,2020-03-18,2020-04-01,Dubai,Mangaluru,51.0,"Kaikini, Aglole",Bhatkal,Karwar,Karnataka,581421.0,Uttara Kannada
+76.0,2020-03-18,2020-04-01,Dubai,Mangalore,Pharulmajath,Goodluck Road,,Bhatkal,Karnataka,581320.0,Uttara Kannada
+77.0,2020-03-17,2020-03-31,Dubai ,Mangalore,43.0,Khakefa Street,-,Bhatkal,Karnataka,581320.0,Uttara Kannada
+78.0,2020-03-17,2020-03-31,Dubai ,Mangalore,3.0,Bhatkal,-,Karwar,Karnataka,581320.0,Uttara Kannada
+79.0,2020-03-17,2020-03-31,Dubai ,Mangalore,884.0,Bhatkal,-,Karwar,Karnataka,581320.0,Uttara Kannada
+80.0,2020-03-17,2020-03-31,Dubai ,Mangalore,3.0,Bhatkal,-,Karwar,Karnataka,581320.0,Uttara Kannada
+81.0,2020-03-17,2020-03-31,Dubai ,Mangalore,3.0,Bhatkal,-,Karwar,Karnataka,581320.0,Uttara Kannada
+82.0,2020-03-17,2020-03-31,Dubai ,Mangalore,-,Bhatkal,-,Karwar,Karnataka,581320.0,Uttara Kannada
+83.0,2020-03-17,2020-03-31,Dubai,Managlore,87 A,Harakade,Kamte,Vattar Kannad,Karnataka,581343.0,Uttara Kannada
+84.0,2020-03-17,2020-03-31,Dubai,Managlore,10-Gwozi Street ,Bhathkal Karwan,Uttar Kannada,Uttar Kannada,Karnataka,581320.0,Uttara Kannada
+85.0,2020-03-17,2020-03-31,Dxb,Ixe,Mariyamalli Street 1st cross,-,-,Batakal-Karwakar,Karnataka,581320.0,Uttara Kannada
+86.0,2020-03-17,2020-03-31,Dxb,Ixe,Near mariyamali street,Batkal-Karwar,-,Batakal-Karwakar,Karnataka,581320.0,Uttara Kannada
+87.0,2020-03-17,2020-03-31,Dubai,Mangalore,980/1,Guzar Street,Karwar,-,Karnataka,581320.0,Uttara Kannada
+88.0,2020-03-17,2020-03-31,Dubai,Mangalore,980/1,Guzar Street,Karwar,-,Karnataka,581320.0,Uttara Kannada
+89.0,2020-03-17,2020-03-31,Dubai,Mangalore,27.0,Marikamba Nagar,Karwar,-,Karnataka,581401.0,Uttara Kannada
+90.0,2020-03-17,2020-03-31,Paris (Cdg),Bangalore,282.0,Modeena Colony,Bhatkal,Uttara Kannada,Karnataka,581320.0,Uttara Kannada
+91.0,2020-03-17,2020-03-31,"Kl,Malaysia",Goa,2754.0,Baad,Nandangadda,Karwar,Karanataka,581301.0,Uttara Kannada
+92.0,2020-03-17,2020-03-31,"Kl,Malaysia",Goa,2754.0,Baad,Nandangadda,Karwar,Karanataka,581301.0,Uttara Kannada
+93.0,2020-03-17,2020-03-31,"Kl,Malaysia",Goa,2754.0,Baad,Nandangadda,Karwar,Karanataka,581301.0,Uttara Kannada
+94.0,2020-03-17,2020-03-31,"Kl,Malaysia",Goa,2754.0,Baad,Nandangadda,Karwar,Karanataka,581301.0,Uttara Kannada
+95.0,2020-03-17,2020-03-31,Dubai,Bangalore,66.0,-,-,-,Karnataka,581320.0,Uttara Kannada
+96.0,2020-03-17,2020-03-31,Dubai,Bangalore,FAKARDEYGARL,Bonder Road,5Th Cross,Bhatkac,Karnataka,581320.0,Uttara Kannada
+97.0,2020-03-17,2020-03-31,Auh Uae,Blr,66.0,Khaliffi,-,Bhatkal,Karnataka,581320.0,Uttara Kannada
+98.0,2020-03-17,2020-03-31,Auh,Bangalore,68.0,Jama Street,-,-,Karnataka,581320.0,Uttara Kannada
+99.0,2020-03-17,2020-03-31,Dubai,Bangalore,29.0,Bhaderroad,-,Karnataka,Karnataka,581320.0,Uttara Kannada
+100.0,2020-03-17,2020-03-31,Dubai ,Banglore,79/A1,Vanalli,Sirsi,Karawara,Karnataka ,581336.0,Uttara Kannada
+101.0,2020-03-17,2020-03-31,Bahrain,Bangaluru,4112.0,Malldar Mohalla ,Karmar,Uttarakannada ,Karnataka ,581352.0,Uttara Kannada
+102.0,2020-03-17,2020-03-31,Dubhai,Mangalore,87A,Harakade,Kumta,Uttar Kannad,Karnataka,581343.0,Uttara Kannada
+103.0,2020-03-17,2020-03-31,Dubhai,Mangalore,chindule-house,gowri street,Karwar,Uttar Kannad,Karnataka,581320.0,Uttara Kannada
+104.0,2020-03-17,2020-03-31,Dubai,Mangalore,249.0,Zafer Mansion,,Bhatkal,Karnataka,581370.0,Uttara Kannada
+105.0,2020-03-17,2020-03-31,Dubai,Mangalore,Pajal ambadepadi house,kumjargiri post karkal village,udupi taluk,udupi district,Karnataka,574105.0,Uttara Kannada
+106.0,2020-03-17,2020-03-31,Dubai,Mangalore,HNO 43,Khaleefa street,,bhatkal,Karnataka,581320.0,Uttara Kannada
+107.0,2020-03-17,2020-03-31,Dubai,Mangalore,3-36,Katapadi,Katapadi,Udupi,karnataka,574105.0,Uttara Kannada
+108.0,2020-03-17,2020-03-31,Dubai,Mangaluru,Jyothi Nivas,Majali Karwar,,Uttara Kannada Karwar,Karnataka,,Uttara Kannada
+109.0,2020-03-17,2020-03-31,Dubai,Mangaluru,Afreen Manzil,Denger,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+110.0,2020-03-17,2020-03-31,Dubai,Mangalore,207.0,Bhatkal Karnataka,,karwar,Karnataka,581320.0,Uttara Kannada
+111.0,2020-03-16,2020-03-30,Dubai,Mangalore,,Kargadde,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+112.0,2020-03-16,2020-03-30,Dubai,Mangalore,11.0,Takiya-Muhaila,,Bhatkal,Karnataka,,Uttara Kannada
+113.0,2020-03-16,2020-03-30,Dubai,Mangalore,,Khalifa Hoaden,Bhatkal,Bhatkal Uk,Karnataka,581320.0,Uttara Kannada
+114.0,2020-03-16,2020-03-30,Dxb2,Mangalore,134,Bilal Masjid,Honnavar,Karwar,Karnataka,581395.0,Uttara Kannada
+115.0,2020-03-16,2020-03-30,Dubai,Mangalore,18,Muscut Colony,Bhatkal,"Karwar, U.K",Karnataka,581320.0,Uttara Kannada
+116.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Bhatkal,-,Karwar,Karnataka,-,Uttara Kannada
+117.0,2020-03-16,2020-03-30,Dxb,Ixe,-,Moosa Nagar,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+118.0,2020-03-16,2020-03-30,Dxb ,Ixe,-,Moosa Nagar,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+119.0,2020-03-16,2020-03-30,Dubai,Mangalore,bag e waseem,Bunder Road,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+120.0,2020-03-16,2020-03-30,Dubai,Mangalore,III/1443,V T Road,Opp Arogya Mata,Nursing Home,Karnataka,581320.0,Uttara Kannada
+121.0,2020-03-16,2020-03-30,Dubai,Mangalore,3B/459,Near Urdu,Balavadi Kasturba Nagar,Sirisi,Karnataka,-,Uttara Kannada
+122.0,2020-03-16,2020-03-30,Dubai,Mangalore,1327.0,Khb Colony,Al-Ayman,Bhatkal,Karnataka,581320.0,Uttara Kannada
+123.0,2020-03-16,2020-03-30,Dubai,Mangalore,147.0,Sirsi,Kasturba Nagar,Karwar,Karnataka,581402.0,Uttara Kannada
+124.0,2020-03-16,2020-03-30,Dubai,Mangalore,Kasturba Nagar,Chicken Center,Karwar,Sirsi,Karnataka,-,Uttara Kannada
+125.0,2020-03-16,2020-03-30,Dubai,Mangalore,55.0,Doner Palli,-,Bhatkal,Karnataka,581320.0,Uttara Kannada
+126.0,2020-03-16,2020-03-30,Dubai,Mangalore,M 1,Azad Nagar,2Nd Cross,Bhatkal,Karnataka,581320.0,Uttara Kannada
+127.0,2020-03-16,2020-03-30,Dubai,Mangalore,Qasre Noor,Nawayad Colony,Aminuddin Road,Karwar/Bhatkal,Karnataka,581320.0,Uttara Kannada
+128.0,2020-03-16,2020-03-30,Dxb,Ixe,07,Heragaei,-,Karwar,Karnataka,581334.0,Uttara Kannada
+129.0,2020-03-16,2020-03-30,Muscat,Mangalore,1585.0,Honavarprabat ,Vivek V Shami,Karwar,Karnataka,581334.0,Uttara Kannada
+130.0,2020-03-16,2020-03-30,Muscat,Mangalore,1585.0,Honavarprabat ,Vivek V Shami,Karwar,Karnataka,581334.0,Uttara Kannada
+131.0,2020-03-16,2020-03-30,Mct,Mangalore,5298.0,Sirsi,Sirsi,Karwar,Karnataka,581402.0,Uttara Kannada
+132.0,2020-03-16,2020-03-30,Mascut,India Manglore,Kazmiss,Mawattat,Colony,North Kannada,Karnataka,581320.0,Uttara Kannada
+133.0,2020-03-16,2020-03-30,Muscat,Mangalore,RA-RT,Usman Nagara,Bhatkal,Karayara,Karnataka,581320.0,Uttara Kannada
+134.0,2020-03-16,2020-03-30,2 Manth,Ixb,8050314649,Bengre Kasaba Mangalore,Mangalore,,Karnataka,575001.0,Uttara Kannada
+135.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,Kasamazo Renjala VPO,"Karkal Taluk,Udupi D.T",Udupi,,Karnataka,5723446,Uttara Kannada
+136.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,,Upponi,Honnavara,Karvar,Karnataka,581334,Uttara Kannada
+137.0,2020-03-16,2020-03-30,Dubai,Mangalore,1245,Roshan Street Bhatkal,-,Karwar,Karnataka,581320.0,Uttara Kannada
+138.0,2020-03-16,2020-03-30,Dubai,Mangalore,134,Holy Cross Road Honavar,-,Karwar,Karnataka,581334.0,Uttara Kannada
+139.0,2020-03-16,2020-03-30,Dubai,Mangalore,4/15,Nagappa Nayak Bhatkal,Karwar,Karwar,Karnataka,581320.0,Uttara Kannada
+140.0,2020-03-16,2020-03-30,Dubai,Mangalore,147,Ranganatan Street,Rasail Nagar,Madras,Chennai,581320.0,Uttara Kannada
+141.0,2020-03-16,2020-03-30,Uae,Mangalore,18.0,Alwa Street Bhatkal,Batkal,Karwar,Karnataka,581320.0,Uttara Kannada
+142.0,2020-03-16,2020-03-30,Dubai,Mangalore,13.0,Khalifa Street,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+143.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Bhatkal Jali Road,-,Bhatkal,Karnataka,581320.0,Uttara Kannada
+144.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Bhatkal Jali Road,-,Bhatkal,Karnataka,581320.0,Uttara Kannada
+145.0,2020-03-16,2020-03-30,Dubai,Mangalore,649,Kavgadde,Bhatkal,Bhatkal,Bhatkal,581320.0,Uttara Kannada
+146.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,-,-,Honnavara,Karnataka,581334.0,Uttara Kannada
+147.0,2020-03-16,2020-03-30,Dubai,Mangalore,1148 Bailal Nayyar,Umer Street,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+148.0,2020-03-16,2020-03-30,Singapore,Bengaluru,Mongut,Galden,-,Karwar,Karnataka,511711.0,Uttara Kannada
+149.0,2020-03-16,2020-03-30,Bahrain,Bengaluru,151/3,Sirsi,-,Karwar,Karnataka,581402.0,Uttara Kannada
+150.0,2020-03-16,2020-03-30,Usa,Bangalore,"1290, Machagone Hegde",Kumta,-,Karwar,Karnataka,581330.0,Uttara Kannada
+151.0,2020-03-16,2020-03-30,Dubai,Bangalore,36 Bankapur,Mundgor,-,Karwar,Karnataka,581349.0,Uttara Kannada
+152.0,2020-03-16,2020-03-30,Dubai,Mangalore,,Bhatkal jail Road,,Bhatkal,karnataka,581320.0,Uttara Kannada
+153.0,2020-03-16,2020-03-30,Dubai,Mangalore,,Bhatkal jail Road,,Bhatkal,karnataka,581320.0,Uttara Kannada
+154.0,2020-03-15,2020-03-29,,Honnavar,,Batkal,,Honnavar,Karnataka,581348.0,Uttara Kannada
+155.0,2020-03-15,2020-03-29,Dubai,Mangalore,E,Honnavar,Honnavar,Karwar,Karnataka,581342.0,Uttara Kannada
+156.0,2020-03-15,2020-03-29,Dxb,Ixe,BAB-E-abdullah,3Rd Cross,Madina Colony,Bhatical,Karnataka,581320.0,Uttara Kannada
+157.0,2020-03-15,2020-03-29,Dxb,Mangalore,Khadar Shahed,Syeddastagear,Shivamogga,,Karnataka,577205.0,Uttara Kannada
+158.0,2020-03-15,2020-03-29,Dubai,Mangalore,-,Honavara,Gandhinagar,Karwar,Karnataka,581395.0,Uttara Kannada
+159.0,2020-03-15,2020-03-29,Dubai,Mangalore,,Batkar,,Karvar ,Karnataka,581320.0,Uttara Kannada
+160.0,2020-03-15,2020-03-29,Dubai,Managalore,359.0,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+161.0,2020-03-15,2020-03-29,Dubai,Managalore,359.0,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+162.0,2020-03-15,2020-03-29,Dubai,Managalore,359.0,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+163.0,2020-03-15,2020-03-29,Dubai,India-Mangalore,3184.0,Bhatkal,,Karwar,Karnataka,581370.0,Uttara Kannada
+164.0,2020-03-15,2020-03-29,Auh,Ka,231.0,-,,,Karnataka,574257.0,Uttara Kannada
+165.0,2020-03-15,2020-03-29,Uae -Abu Dhabi,Mangaore,2/251,Sellia,,,Karnataka,574259.0,Uttara Kannada
+166.0,2020-03-15,2020-03-29,Auh,Uae,Arukadapu,Belthangady Kalya,,,Karnataka,574717.0,Uttara Kannada
+167.0,2020-03-15,2020-03-29,Dubai,Hunavar,,Bavoor,Hunavar,,Karvar,581334.0,Uttara Kannada
+168.0,2020-03-15,2020-03-29,Dubai,Manglore,,Umer Street,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+169.0,2020-03-15,2020-03-29,Dubai,Manglore,,Azad Nagar,Bhatkal,Karvara,Karnataka,581320.0,Uttara Kannada
+170.0,2020-03-15,2020-03-29,Dubai,Manglore,SIM Houses,Bandar Road 5Th Cross,,Bhatkal,Karnataka,,Uttara Kannada
+171.0,2020-03-15,2020-03-29,Dubai,Manglore,87/C,Tattikkal Shirati,Bhatkal,Uttar Kannada,Karnataka,581354.0,Uttara Kannada
+172.0,2020-03-15,2020-03-29,Dubai,Manglore,25.0,Nagarakan,Yellapur,Uttar Kannada,Karnataka,581359.0,Uttara Kannada
+173.0,2020-03-15,2020-03-29,Dubai,Mangalore,-,Albettu,,,Karnataka,,Uttara Kannada
+174.0,2020-03-15,2020-03-29,Dubai,,Bab-e-abdullah,3Rd Cross,Madina Colony,Bhatkal,Karnataka,581320.0,Uttara Kannada
+175.0,2020-03-15,2020-03-29,Dubai,Managalore ,154A,Periya,Kasaragod,,Kerala,671316.0,Uttara Kannada
+176.0,2020-03-15,2020-03-29,Dubai,Manglore,294.0,Bavoor,Honnavar,Karwar,Karnataka,581384.0,Uttara Kannada
+177.0,2020-03-15,2020-03-29,Lax,Bangalore-India,Momin Garden,Jali Road,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+178.0,2020-03-15,2020-03-29,Abu Dhabi,Mangaluru,8387261672.0,Muslim Keri,,Karwar,Karnataka,581334.0,Uttara Kannada
+179.0,2020-03-15,2020-03-29,Dxb,Ixe,,Seema Cottage 5Th Cross Azad Nagar,Jali Road,Bhatkal,Karnataka,581320.0,Uttara Kannada
+180.0,2020-03-15,2020-03-29,Dubai,Mangalore,,Basha Colony,,Karwar,Karnataka,581348.0,Uttara Kannada
+181.0,2020-03-15,2020-03-29,Dubai Uae,Mangalore,AL RAS,Azadnagar,4Th Cross,Bhatkal,Karnataka,581320.0,Uttara Kannada
+182.0,2020-03-15,2020-03-29,Dbx,Ixe,131 Qasre Naseem,Madin Colony Ummer Street 1St Cross,,Bhatkal,Karnataka,581320.0,Uttara Kannada
+183.0,2020-03-15,2020-03-29,Dubai,Mangalore,,Basha Colony,,Karwar,Karnataka,581348.0,Uttara Kannada
+184.0,2020-03-15,2020-03-29,Dubai,Mangalore,1171.0,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+185.0,2020-03-15,2020-03-29,Dubai,Mangalore,1157.0,Arad Road,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+186.0,2020-03-15,2020-03-29,Dubai,Mangalore,879.0,Azad Nagar,,Bhatkal,Karnataka,581320.0,Uttara Kannada
+187.0,2020-03-15,2020-03-29,Dubai,Mangalore,199.0,Irshad Nagar,Doroarga,Karwar-Bhatkal,Karnataka,581320.0,Uttara Kannada
+188.0,2020-03-15,2020-03-29,Dubai,Mangalore,1/972,Haldipur,,Karwar,Karnataka,581327.0,Uttara Kannada
+189.0,2020-03-15,2020-03-29,Dubai,Mangalore,Bunder Road,Buttal,,Uttar Karnataka,Karnataka,581320.0,Uttara Kannada
+190.0,2020-03-15,2020-03-29,Dubai,Mangalore,24.0,Divalli,,Kumta,Karnataka,581323.0,Uttara Kannada
+191.0,2020-03-15,2020-03-29,Vietnam,Bangalore,18/108,H Type,Bengur Nagar,"Haliyal, Karwar",Karnataka,581325.0,Uttara Kannada
+192.0,2020-03-15,2020-03-29,Taiwan ,Bangalore,-,Gadenjangtse,Mundgod,Karwar,Karnataka,-,Uttara Kannada
+193.0,2020-03-15,2020-03-29,Taiwan ,Bangalore,-,Gadenjangtse,Mundgod,Karwar,Karnataka,-,Uttara Kannada
+194.0,2020-03-15,2020-03-29,Taiwan ,Bangalore,-,Gadenjangtse,Mundgod,Karwar,Karnataka,-,Uttara Kannada
+195.0,2020-03-15,2020-03-29,Del,Bangalore,-,Gaden Jangtse,Mundgod,Karwar,-,-,Uttara Kannada
+196.0,2020-03-15,2020-03-29,Del,Bangalore,-,Gaden Jangtse,Mundgod,Karwar,-,-,Uttara Kannada
+197.0,2020-03-15,2020-03-29,Dubai,"Bengaluru ,India",6064.0,Kasmnagar Temple ,"Kasmnagar, Yellapur ",Karvar ,Karnataka ,381359.0,Uttara Kannada
+198.0,2020-03-15,2020-03-29,Dammam,Bangalore,686.0,"Janataplet,Masoon Cross",Kumta,Karnar,Karnataka,581343.0,Uttara Kannada
+199.0,2020-03-15,2020-03-29,Brussels,Belagavi,"660/C, Gangambika nilaya",Basava Nagar,Haliyal,Uttara Kannada,Karnataka,581329.0,Uttara Kannada
+200.0,2020-03-14,2020-03-28,Dubai,Mangalore,302.0,Bhatal,,Karavara,Karnataka,581320.0,Uttara Kannada
+201.0,2020-03-14,2020-03-28,Dubai,Mangalore,92.0,Purvarga,Bhatkal,North Kannada,Karnataka,581320.0,Uttara Kannada
+202.0,2020-03-14,2020-03-28,Dubai,Mangalore,92.0,Purvarga,Bhatkal,North Kannada,Karnataka,581320.0,Uttara Kannada
+203.0,2020-03-14,2020-03-28,Dubai,Mangalore,37.0,Siddique Street,Karwar,Karwar,Karnataka,581320.0,Uttara Kannada
+204.0,2020-03-14,2020-03-28,Dubai,Mangalore,14.0,Shoukath Ali Road,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+205.0,2020-03-14,2020-03-28,Dammam,Mangalore,433.0,Patkal,Karwar,Karwar,Karnataka,,Uttara Kannada
+206.0,2020-03-14,2020-03-28,Dammam,Mangalore,,Magdoom Colony,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+207.0,2020-03-14,2020-03-28,Dubai,Mangalore,32.0,Dasgod Samsi,Honnavar,Karwar,Karnataka,581334.0,Uttara Kannada
+208.0,2020-03-14,2020-03-28,Dubai,Mangalore,"74, Jali Panchayat",Hurulisal,Bhatkal,North Kannada,Karnataka,581320.0,Uttara Kannada
+209.0,2020-03-14,2020-03-28,Dubai,Mangalore,"74, Jali Panchayat",Hurulisal,Bhatkal,North Kannada,Karnataka,581320.0,Uttara Kannada
+210.0,2020-03-14,2020-03-28,Dubai,Mangalore,-,Manki ,Karwar,Karwar,Karnataka,581348.0,Uttara Kannada
+211.0,2020-03-14,2020-03-28,Dubai,Mangalore,349.0,Jamia Abad Road,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+212.0,2020-03-14,2020-03-28,Dubai,Mangalore,131.0,Sulthan,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+213.0,2020-03-14,2020-03-28,Dubai,Mangalore,349.0,Rahmat Abad,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+214.0,2020-03-14,2020-03-28,Dubai,Mangalore,131.0,Sulthan,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+215.0,2020-03-14,2020-03-28,Dubai,Mangalore,51.0,Aznagar,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+216.0,2020-03-14,2020-03-28,Dubai,Mangalore,45.0,Hanif Abad,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+217.0,2020-03-14,2020-03-28,Dubai,Mangalore,-,Bhatkala,-,Karwar,Karnataka,581320.0,Uttara Kannada
+218.0,2020-03-14,2020-03-28,Dubai,Mangalore,"70, Bagre Rahman",Haneef Abad,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+219.0,2020-03-14,2020-03-28,Dubai,Mangalore,6.0,Shoukath Ali Road,-,Uttar Kannada,Karnataka,581320.0,Uttara Kannada
+220.0,2020-03-14,2020-03-28,Dubai,Mangalore,48.0,Khb Colony,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+221.0,2020-03-14,2020-03-28,Dubai,Mangalore,52.0,Khb Colony,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+222.0,2020-03-14,2020-03-28,Dubai,Mangalore,52.0,Khb Colony,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+223.0,2020-03-14,2020-03-28,Dubai,Mangalore,52.0,Khb Colony,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+224.0,2020-03-14,2020-03-28,Dubai,Mangalore,140.0,Sulthan Steel,Bhatkala,Karwar,Karnataka,581320.0,Uttara Kannada
+225.0,2020-03-14,2020-03-28,Dubai,Mangalore,629.0,Bhatkala,-,Karwar,Karnataka,581320.0,Uttara Kannada
+226.0,2020-03-14,2020-03-28,Dammam,Mangalore,Bhatkal,-,-,Karwar,Karnataka,581320.0,Uttara Kannada
+227.0,2020-03-14,2020-03-28,Dubai,Mangalore,3191/1,Ramatirth Cross Road,Honnavar,Karwar,Karnataka,581334.0,Uttara Kannada
+228.0,2020-03-14,2020-03-28,Dubai,Mangalore,3191/1,Ramatirth Cross Road,Honnavar,Karwar,Karnataka,581334.0,Uttara Kannada
+229.0,2020-03-14,2020-03-28,Dubai,Mangalore,536,Shirali,Bhatkal,Karwar,Karnataka,581354.0,Uttara Kannada
+230.0,2020-03-14,2020-03-28,Dubai,Mangalore,349.0,Jamiabad Road,-,Karwar,Karnataka,581320.0,Uttara Kannada
+231.0,2020-03-14,2020-03-28,Dubai,Mangalore,131.0,Sulthan,Bhatkal,Karwar,Karnataka,582320.0,Uttara Kannada
+232.0,2020-03-14,2020-03-28,Dubai,Mangalore,349.0,Rahmatbad,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+233.0,2020-03-14,2020-03-28,Dubai,Mangalore,131.0,Sulthan,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+234.0,2020-03-14,2020-03-28,Dubai,Mangalore,351.0,Nawayat Street,Manki,Karwar,Karnataka,581348.0,Uttara Kannada
+235.0,2020-03-14,2020-03-28,Dubai,Mangalore,9.0,Siddique Street,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+236.0,2020-03-14,2020-03-28,Dubai,Mangalore,7 Fatima Manzil,Near Water Tank,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+237.0,2020-03-14,2020-03-28,Dubai,Mangalore,56.0,Honnavar,Janataplot,Karwar,Karnataka,581384.0,Uttara Kannada
+238.0,2020-03-14,2020-03-28,Dubai,Mangalore,351.0,Nawayat Street,Manki,Karwar,Karnataka,581346.0,Uttara Kannada
+239.0,2020-03-14,2020-03-28,Dubai,Mangalore,37.0,Bekka,Bhatkal,Karwar,Karnataka,581326.0,Uttara Kannada
+240.0,2020-03-14,2020-03-28,Dubai,Mangalore,-,Manki,-,Karwar,Karnataka,581348.0,Uttara Kannada
+241.0,2020-03-14,2020-03-28,Abu Dhabi,Bengaluru,296.0,Valisha Galli,Yellapur,Uttar Kannada,Karnataka,581359.0,Uttara Kannada
+242.0,2020-03-14,2020-03-28,Nepal,India,Monustevy camerov,Mungod,Kavvar,-,-,-,Uttara Kannada
+243.0,2020-03-14,2020-03-28,Ams,Bengaluru,134.0,Guddebal,Honnavar,Karwar,Karnataka,581334.0,Uttara Kannada
+244.0,2020-03-14,2020-03-28,Ams,Bengaluru,134.0,Guddebel,Honnavar,Karwar,Karnataka,581334.0,Uttara Kannada
+245.0,2020-03-14,2020-03-28,Chicago,Bangalore,Mukunda Nikya,Ayyappa Nagar Hubli Road,Sirsi,Uttar Kannada,Karnataka,581402.0,Uttara Kannada
+246.0,2020-03-14,2020-03-28,Baharain,Bangalore,"395, Part 2",Hosabedkani Post,Siddapura,Karwara,Karnataka,581355.0,Uttara Kannada
+247.0,2020-03-14,2020-03-28,Baharain,Bangalore,"395, Part 2",Hosabedkani Post,Siddapura,Karwara,Karnataka,581355.0,Uttara Kannada
+248.0,2020-03-14,2020-03-28,Ams,Bengaluru,134.0,Guddebel,Honnavar,Karwar,Karnataka,581334.0,Uttara Kannada
+249.0,2020-03-14,2020-03-28,Frankfurt,Bengaluru,1209.0,"Machagon 2Nd Cross, Hegde",Kumta,Karwar,Karnataka,581330.0,Uttara Kannada
+250.0,2020-03-14,2020-03-28,Nairobi Addis,Bangalore,-,Bilagi Kategadde,Siddapur,North Karnataka,Karnataka,581322.0,Uttara Kannada
+251.0,2020-03-14,2020-03-28,Usa,Bangalore,"32,hallimane",Balgar,Yellapur,Uttar Karnataka,Karnataka,581359.0,Uttara Kannada
+252.0,2020-03-13,2020-03-27,Bahrain,Mangalore,252.0,Honnavara Uppani,,Karwar,Karnataka,581384.0,Uttara Kannada
+253.0,2020-03-13,2020-03-27,Bahrain,Mangalore,,Honnavara Uppani,,Karwar,Karnataka,581387.0,Uttara Kannada
+254.0,2020-03-13,2020-03-27,Bahrain,Mangalore,,Hinavar,,"Karwar, Honavar",Karnatala,581387.0,Uttara Kannada
+255.0,2020-03-13,2020-03-27,Bahrain,Mangalore,21.0,Upponi,,"Karwar, Honavar",Karnatala,,Uttara Kannada
+256.0,2020-03-13,2020-03-27,Dubai,Mangalore,#588,Sirsi,Kasturba Nagar,Karwar,Karnataka,581402.0,Uttara Kannada
+257.0,2020-03-13,2020-03-27,Abudhabi ,Mangalore ,#768,Cherag ,Mangalore ,,Kerala ,671324.0,Uttara Kannada
+258.0,2020-03-13,2020-03-27,Abh Dhabi Uae,Mangalore,607.0,Nawayath,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+259.0,2020-03-13,2020-03-27,Abh Dhabi Uae,Mangalore,,Jali Road,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+260.0,2020-03-13,2020-03-27,Dubai,India-Mangalore,4.0,Vellage,Mulki,,Karnataka,574154.0,Uttara Kannada
+261.0,2020-03-13,2020-03-27,Dubai,Mangalore,Edrukaje,Adyanand,Kenu,,Karnataka,574260.0,Uttara Kannada
+262.0,2020-03-13,2020-03-27,Dubai,Mangalore,-,-,,,Karnataka,574228.0,Uttara Kannada
+263.0,2020-03-13,2020-03-27,Dubai,Mangalore,-,Thekkil,,,Kerala,671541.0,Uttara Kannada
+264.0,2020-03-13,2020-03-27,United Arab Emirates,India (Mangalore),1432.0,Honnavara,Uttar- Karnataka,Uttar- Karnataka,Karnataka,581348.0,Uttara Kannada
+265.0,2020-03-13,2020-03-27,Dxb,Mangalore,Munchicot(H),Palli,Bekal,,Kerala,671318.0,Uttara Kannada
+266.0,2020-03-13,2020-03-27,Dubai,Mangalore,982.0,Nh66,Bhatkal,Kavevav,Karnataka,581320.0,Uttara Kannada
+267.0,2020-03-13,2020-03-27,Uae,Mangaluru,15/49,Modanbap,Bmooda,,Karnataka,574219.0,Uttara Kannada
+268.0,2020-03-13,2020-03-27,Dubai,Mangalore,263.0,Hanifabad,,Bhatkal,Karnataka,581320.0,Uttara Kannada
+269.0,2020-03-13,2020-03-27,Dubai,Mangalore,,,,,,,Uttara Kannada
+270.0,2020-03-13,2020-03-27,Ixe - Dxb - Ixe,Ixe,-,,,,,,Uttara Kannada
+271.0,2020-03-13,2020-03-27,Dubai,Mangalore,28.0,Jamia Street,,Bhatkal,Karnataka,581320.0,Uttara Kannada
+272.0,2020-03-13,2020-03-27,Dubai,Mangalore,263.0,Hanifabad,,Bhatkal,Karnataka,581320.0,Uttara Kannada
+273.0,2020-03-13,2020-03-27,,Dubai,-,-,,,,,Uttara Kannada
+274.0,2020-03-13,2020-03-27,Dubai,Mangalore,-,-,,,Kera,,Uttara Kannada
+275.0,2020-03-13,2020-03-27,Dubai,Mangalore,97.0,-,,,,,Uttara Kannada
+276.0,2020-03-13,2020-03-27,Dubai,Mangalore,53.0,Oidesari R,,Bhaaka,Karnataka,581320.0,Uttara Kannada
+277.0,2020-03-13,2020-03-27,Usai,Dubai Terminah-2,-,-,,,,,Uttara Kannada
+278.0,2020-03-13,2020-03-27,Bangkok,Banglore,-,Doctor Street,Murdeshwara,-,Karnataka,581350.0,Uttara Kannada
+279.0,2020-03-13,2020-03-27,Dubai,Bangalore,-,Byrabada,Virajpet,Kodagu,Karnataka,571211.0,Uttara Kannada
+280.0,2020-03-13,2020-03-27,Auh,Bangalore,-,Indira Nagar,"Sirsi, Karwar",Uttar Kannada,Karanataka,581401.0,Uttara Kannada
+281.0,2020-03-13,2020-03-27,Abudhabi,Bangalore,# 162,Guddadamane,Sirsi,Uttar Kannada,Karanataka,581402.0,Uttara Kannada
+282.0,2020-03-13,2020-03-27,Dubai,Bangalore,c/883,Dalayat Galli Haliyal,-,Karwar,Karnataka,581329.0,Uttara Kannada
+283.0,2020-03-13,2020-03-27,Thailand,Banglore,-,Murudeshwara,-,Karwar,Karnataka,581350.0,Uttara Kannada
+284.0,2020-03-13,2020-03-27,Thailand,Banglore,-,Murudeshwara,-,Karwar,Karnataka,581350.0,Uttara Kannada
+285.0,2020-03-12,2020-03-26,Dubai,Bangalore,-,Kb Nagar Sirsi,-,Karwar,Karnataka,581402.0,Uttara Kannada
+286.0,2020-03-12,2020-03-26,Abodhabi,Bangalore,1009.0,Karxume,-,Uttar Kannada,Karnataka,581360.0,Uttara Kannada
+287.0,2020-03-12,2020-03-26,Colombo,Bangalore,NO,Mine Beach,No,Gokarna  ,Karnataka,NO,Uttara Kannada
+288.0,2020-03-12,2020-03-26,Doha,Bangalore,1-46/1,Hospital Road Bhatakal.Karwar,-,-,Karnataka,-,Uttara Kannada
+289.0,2020-03-12,2020-03-26,Colombo,Bangalore,-,Ruddrappa Road,-,Gokarna,Karnataka,-,Uttara Kannada
+290.0,2020-03-12,2020-03-26,Colombo Sri Lanka,Goa,-,Janata Vidyalaya Rd,-,Dhareshwarg,Karnakata,581327.0,Uttara Kannada
+291.0,2020-03-12,2020-03-26,Colombo,Goa,-,Fanata Vidyalaya,-,Dheiveshuaz,Karnakata,581327.0,Uttara Kannada
+292.0,2020-03-12,2020-03-26,Sri Lanka Colombo,Bangalore India,NAGAPPA GUEST HOUSE,Seaweedah Main Beach,Gokaena,Uttara Kannada,Karnakata,-,Uttara Kannada
+293.0,2020-03-12,2020-03-26,Colombo Srilanka,Bangalore,NAGAPPA #6,Seaweea Hg Main Beech,Gokaena,Uttara Kannada,Karnakata,-,Uttara Kannada
+294.0,2020-03-12,2020-03-26,Kathmandu Tribhuwan Intl Airport,Bangalore Kempegowda Intl Airport,Lama Camp No.1,Mundgod,-,Karwar,Karnataka,-,Uttara Kannada
+295.0,2020-03-12,2020-03-26,Kathmandu,Bangalore,Lama Camp No.1,Mundgod,-,-,Karnataka,-,Uttara Kannada
+296.0,2020-03-12,2020-03-26,Kathmandu,Bangalore,Lama Camp No.1,Sirgau,-,Mundgod,Karnataka,-,Uttara Kannada
+297.0,2020-03-12,2020-03-26,Kathmandu,Bangalore,Lama Camp No.1,Sirgau,-,Mundgod,Karnataka,-,Uttara Kannada
+298.0,2020-03-12,2020-03-26,Kathmandu,Bangalore,Lama Camp No.1,Barma,-,Mundgod,Karnataka,-,Uttara Kannada
+299.0,2020-03-12,2020-03-26,Dxb,Mangalore,Nayakkam,Cheroor,Chongala,,Kerala,671123.0,Uttara Kannada
+300.0,2020-03-12,2020-03-26,Holiday Trip,Bangalore,623.0,Meesar Nagar,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+301.0,2020-03-12,2020-03-26,Dubai,Mangalore,-,-,,,,,Uttara Kannada
+302.0,2020-03-12,2020-03-26,Auh,India,"14,",Shifa Cross Khb Colony Bhatkata Kolkata,No,Uttar Kanda,Kolkata,581320.0,Uttara Kannada
+303.0,2020-03-12,2020-03-26,Colombo,Bangalore,NO,Mine Beach,No,Gokarna  ,Karnataka,NO,Uttara Kannada
+304.0,2020-03-12,2020-03-26,Colombo,Bangalore,-,Ruddrappa Road,-,Gokarna,Karnataka,-,Uttara Kannada
+305.0,2020-03-12,2020-03-26,Dubai,Mangalore,,Azad Nagar,-,Bhatkal,Karnataka,581320.0,Uttara Kannada
+306.0,2020-03-12,2020-03-26,Dubai,Mangalore,706.0,Basha Colony,-,Kauar,Karnataka,581348.0,Uttara Kannada
+307.0,2020-03-12,2020-03-26,Dubai,Mangalore,,Bhatkal,Jamia Abad Rd,Karwar,Karnataka,581320.0,Uttara Kannada
+308.0,2020-03-12,2020-03-26,Dubai(Uae),Mangalore,,Nawaz Basthikar,"Garsappa,Karwar",,Karnataka,581384.0,Uttara Kannada
+309.0,2020-03-12,2020-03-26,Dubai,Mangalore,47.0,,,Honnavar,Karnataka,581334.0,Uttara Kannada
+310.0,2020-03-12,2020-03-26,Dubai,Mangalore,#3/4,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+311.0,2020-03-12,2020-03-26,Dubai,Mangalore,#3/4,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+312.0,2020-03-12,2020-03-26,Dubai,Mangalore,#3/4,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+313.0,2020-03-12,2020-03-26,Dubai,Mangalore,#3/4,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+314.0,2020-03-12,2020-03-26,Dubai,Mangalore,#3/4,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+315.0,2020-03-12,2020-03-26,Dubai,Mangalore,#3/4,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+316.0,2020-03-12,2020-03-26,Dammam,Mangalore,DABUL HASAAT,Opp.Urban Bank,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+317.0,2020-03-12,2020-03-26,Dammam,Mangalore,102,Kargaday,,Bhatkal,Karnataka,581320.0,Uttara Kannada
+318.0,2020-03-12,2020-03-26,Dammam,Mangalore,-,"Manki,Karwar",-,Manki,Karnataka,581348.0,Uttara Kannada
+319.0,2020-03-12,2020-03-26,Dubai,Mangalore,482.0,Nh66/Bhatkal,-,Karwar,Karnataka,581320.0,Uttara Kannada
+320.0,2020-03-12,2020-03-26,Dubai,Mangalore,24-nawath street,Manki,Honavar,-,Karnataka,581348.0,Uttara Kannada
+321.0,2020-03-12,2020-03-26,Dubai,Mangalore,,Manki,,Karwar,Karnataka,,Uttara Kannada
+322.0,2020-03-12,2020-03-26,Dubai,Mangalore,498.0,Nawayat Street Manki,-,Karwar,Karnataka,581348.0,Uttara Kannada
+323.0,2020-03-12,2020-03-26,Dubai,Mangalore,181.0,Nawanth Street Manki,-,Karwar,Karnataka,581348.0,Uttara Kannada
+324.0,2020-03-12,2020-03-26,Dubai,Mangalore,191.0,Alfirdous Behind Lowna Complex Salman Abad,-,Bhatkal,Karnataka,8385.0,Uttara Kannada
+325.0,2020-03-12,2020-03-26,Dubai,Mangalore,191.0,Alfirdous Behind Lowna Complex Salman Abad,-,Bhatkal,Karnataka,8385.0,Uttara Kannada
+326.0,2020-03-12,2020-03-26,Dubai,Mangalore,191.0,Alfirdous Behind Lowna Complex Salman Abad,-,Bhatkal,Karnataka,8385.0,Uttara Kannada
+327.0,2020-03-12,2020-03-26,Dubai,Mangalore,-,Manki,Honavar,Karwar,Karnataka,581348.0,Uttara Kannada
+328.0,2020-03-12,2020-03-26,Dubai,Mangalore,Navath street,Manki,Honavar,Karwar,Karnataka,581348.0,Uttara Kannada
+329.0,2020-03-12,2020-03-26,Dubai,Mangalore,63.0,Main Road Bhatkal,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+330.0,2020-03-12,2020-03-26,Oman,India,-,Nawayath Colony,-,Karwar,Karnataka,581320.0,Uttara Kannada
+331.0,2020-03-12,2020-03-26,Oman,India,216.0,Nawayath Colony,-,Karwar,Karnataka,581320.0,Uttara Kannada
+332.0,2020-03-12,2020-03-26,Dubai,Mangalore,,Nagar Bastikeri,Honavar,Honnavar,Karnataka,581395.0,Uttara Kannada
+333.0,2020-03-12,2020-03-26,Dubai,Mangalore,,Madeena Colony,,Karwar,Karnataka,581320.0,Uttara Kannada
+334.0,2020-03-12,2020-03-26,Dubai,Mangalore,AL Maliki 4/100,Nagappa Naite Street,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+335.0,2020-03-12,2020-03-26,Dubai,Mangalore ,4/10 A Nagappa Naik Street,Bhathkal,Bhatrac,Karwar,Karnataka,581320.0,Uttara Kannada
+336.0,2020-03-12,2020-03-26,Dubai,Mangalore,Plot #27,Marikamba nagar,Sirsi,Karwar,Karnataka,581401.0,Uttara Kannada
+337.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,18 A,Helegadde Gorte Cross,Balke Post,Batkal,Karnataka,Uttara Kannada
+338.0,2020-03-11,2020-03-25,Dubai,Mangalore,202.0,Sirsi,-,Utarkanndal,Karnataka,-,Uttara Kannada
+339.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Karnataka Murdeshwar Valki Garden Mavalli,-,Karwar,Karnataka,581350.0,Uttara Kannada
+340.0,2020-03-11,2020-03-25,Dubai,Mangalore,898/A,Dahdebag,Majali,Uttara Kannada,Karnataka,581345.0,Uttara Kannada
+341.0,2020-03-11,2020-03-25,Dubai,Mangalore,37.0,Kazia St,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+342.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Bhatkal,-,Karwar,Karnataka,581320.0,Uttara Kannada
+343.0,2020-03-11,2020-03-25,Dubai,Mangalore,14.0,Bunder Road,-,Bhatkal,Karnataka,581320.0,Uttara Kannada
+344.0,2020-03-11,2020-03-25,Dubai,Mangalore,708.0,Basha Colony,-,Uttara Kannada,Karnataka,581348.0,Uttara Kannada
+345.0,2020-03-11,2020-03-25,Dubai,Mangalore,708.0,Basha Colony,-,Uttara Kannada,Karnataka,581348.0,Uttara Kannada
+346.0,2020-03-11,2020-03-25,Dubai,Mangalore,708.0,Basha Colony,-,Uttara Kannada,Karnataka,581348.0,Uttara Kannada
+347.0,2020-03-11,2020-03-25,Dubai,Mangalore,708.0,Basha Colony,-,Uttara Kannada,Karnataka,581348.0,Uttara Kannada
+348.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,-,Bhatkal,Karwar,Karnataka,-,Uttara Kannada
+349.0,2020-03-11,2020-03-25,Bahrain,Mangalore,,Hittalari Nagar,,Karwar,Karnataka,581384.0,Uttara Kannada
+350.0,2020-03-11,2020-03-25,Dubai,Mangalore,MMAEH 138775,Manki,Manki,Karwar,Karnataka,581348.0,Uttara Kannada
+351.0,2020-03-11,2020-03-25,Dubai,Mangalore,48/1,"Bunder Road, 2Nd Cross",,Uk/Bhatkal,Karnataka,581320.0,Uttara Kannada
+352.0,2020-03-11,2020-03-25,Dubai,Mangalore,17,Azad Nagar,Bhatkal,Uk/Bhatkal,Karnataka,581320.0,Uttara Kannada
+353.0,2020-03-11,2020-03-25,Dubai,Mangalore,201,Bhatkal,,Karwar,Karnataka,,Uttara Kannada
+354.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Bhatkol,-,Karwar,Karnataka,581320.0,Uttara Kannada
+355.0,2020-03-11,2020-03-25,Dubai,Mangalore,429.0,Manki,Manki,Karwar,Karnataka,581348.0,Uttara Kannada
+356.0,2020-03-11,2020-03-25,Dubai,Mangalore,No#19,Mushma Street,-,Karwar,Karnataka,581320.0,Uttara Kannada
+357.0,2020-03-11,2020-03-25,Dubai,Mangalore,28KV,Honavar,-,Karwar,Karnataka,581334.0,Uttara Kannada
+358.0,2020-03-11,2020-03-25,Dubai,Mangalore,28.0,Honavar,-,Karwar,Karnataka,581334.0,Uttara Kannada
+359.0,2020-03-11,2020-03-25,Dubai,Mangalore,28.0,Honavar,-,Karwar,Karnataka,581334.0,Uttara Kannada
+360.0,2020-03-11,2020-03-25,Dubai,Mangalore,28.0,Honavar,-,Karwar,Karnataka,581334.0,Uttara Kannada
+361.0,2020-03-11,2020-03-25,Dubai,Mangalore,59 salamat house,Shazil Street Bkl,Batkal,Karwae,Karnataka,581320.0,Uttara Kannada
+362.0,2020-03-11,2020-03-25,Dubai,Mangalore,nagar bastert,Nagar Bastert,North Karnataka,Honavar,Karnataka,581334.0,Uttara Kannada
+363.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Herangade,-,Karwar,Karnataka,581335.0,Uttara Kannada
+364.0,2020-03-11,2020-03-25,Dubai,India,124,Kudrige Samsi,-,Hannavar,Karnataka,581334.0,Uttara Kannada
+365.0,2020-03-11,2020-03-25,Dubai,Mangalore,amaeh 138775,Manki,Manki,Karwar,Karnataka,581348.0,Uttara Kannada
+366.0,2020-03-11,2020-03-25,Dubai,Mangalore,55 1102/1,Doner Palli,Nageena Street,Bhatkal,Karnataka,581320.0,Uttara Kannada
+367.0,2020-03-11,2020-03-25,Male,Bangalore,Gavapathi Guest House,Main Beach,-,Gokarana,Karnataka,-,Uttara Kannada
+368.0,2020-03-11,2020-03-25,Male,Bangalore,Gavapathi Guest House,Main Beach,-,Gokarana,Karnataka,-,Uttara Kannada
+369.0,2020-03-11,2020-03-25,Male,Bangalore,Gavapathi Guest House,Main Beach,-,Gokarana,Karnataka,-,Uttara Kannada
+370.0,2020-03-11,2020-03-25,Maldives,Mangalore,Ganapati guest house,Main Beach,-,Gokarna,Karnataka,-,Uttara Kannada
+371.0,2020-03-11,2020-03-25,Hochimin City,Bengaluru,Block no 15,H Type,Bangur Nagar,Dandeli,Karnataka,581325.0,Uttara Kannada
+372.0,2020-03-11,2020-03-25,Dubai,Bangalore,-,"Purvagra, Bhatkal",North Karnataka,Karwar,Karnataka,581320.0,Uttara Kannada
+373.0,2020-03-11,2020-03-25,Bangkok ,Bangalore,83.0,Sultan Street,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+374.0,2020-03-11,2020-03-25,Dubai,Bangalore,43891.0,Vinuthapur,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+375.0,2020-03-11,2020-03-25,Riyadh,Bangalore,CTS 13911,Peersab Muslim Gall,Sirsi,Karwar,Karnataka,581401.0,Uttara Kannada
+376.0,2020-03-11,2020-03-25,Riyadh,Bangalore,"cts ,1391",Peer Sam Muslim Gali,Sirsi,Karwar,Karnataka,581401.0,Uttara Kannada
+377.0,2020-03-11,2020-03-25,New York,Bangalore,-,Poorvarga,Bhatkal,Nk,Karnataka,581320.0,Uttara Kannada
+378.0,2020-03-11,2020-03-25,Dubai To Mangalore,Herangdi,A-143,Herangdi,,Karwar,Karnataka,581334.0,Uttara Kannada
+379.0,2020-03-11,2020-03-25,Dubai To Mangalore,Herangdi,A-143,Herangdi,,Karwar,Karnataka,581334.0,Uttara Kannada
+380.0,2020-03-11,2020-03-25,Dubai,Mangalore,292.0,Manki Keri ,Honnavar,Karwar,Karnataka,581348.0,Uttara Kannada
+381.0,2020-03-10,2020-03-24,Muscat,Manglore,"221,4th cross",National Colony Murdershwar,Mavalli,Karwar,Karnataka,581350,Uttara Kannada
+382.0,2020-03-10,2020-03-24,Dubai,Mangalore,,Nagappa Main Road,,Bhatkal,Karnataka,581320,Uttara Kannada
+383.0,2020-03-10,2020-03-24,Dubai,Mangalore,#623,Bazar Road Manki,-,Karwar,Karnataka,581348.0,Uttara Kannada
+384.0,2020-03-10,2020-03-24,Dubai ,Mangalore,#33,Shadlib Street,,Bhatkal,Karnataka,581320.0,Uttara Kannada
+385.0,2020-03-10,2020-03-24,Dubai ,Mangalore,,Moosa Nagar,Karvar,Karwar,Karnataka,581320.0,Uttara Kannada
+386.0,2020-03-10,2020-03-24,Dubai ,Mangalore,,"Naivayath Colony,Thanzeeth Road,Bhatkal",,Bhatkal,Karnataka,581320.0,Uttara Kannada
+387.0,2020-03-10,2020-03-24,Dubai ,Mangalore,258.0,Manki,Honnavar,Karwar,Karnataka,581348.0,Uttara Kannada
+388.0,2020-03-10,2020-03-24,Dubai,Mangalore ,623.0,Halematta Rout Manlei,-,Karwar,Karnataka,581348.0,Uttara Kannada
+389.0,2020-03-10,2020-03-24,Dubai,Mangalore ,-,Natraj Road,Sirsi,Karwar,Karnataka,581401.0,Uttara Kannada
+390.0,2020-03-10,2020-03-24,Dubai,Mangalore ,#23,Kazia Street,-,Karavar,Karnataka,581320.0,Uttara Kannada
+391.0,2020-03-10,2020-03-24,Dubai,Mangalore,336.0,2Nd Cross Mapna Colony,-,Bhatkal,Karnataka,581320.0,Uttara Kannada
+392.0,2020-03-10,2020-03-24,Dubai,Mangalore ,398.0,-,Honavara,Karwar,Karnataka,501348.0,Uttara Kannada
+393.0,2020-03-10,2020-03-24,Dubai,Ankola,221.0,Mullawada,,Karwar,Karnataka,581374.0,Uttara Kannada
+394.0,2020-03-10,2020-03-24,Dubai,Bhatkal,,Bhatkal,,Karwar,Karnataka,581320.0,Uttara Kannada
+395.0,2020-03-10,2020-03-24,Dubai,Mangalore,84,Mordheshwara,,Karwar,Karnataka,581350.0,Uttara Kannada
+396.0,2020-03-10,2020-03-24,Dubai,Mangalore,Rizwan House,Modeena Colony,-,Karwar,Karnataka,580320.0,Uttara Kannada
+397.0,2020-03-10,2020-03-24,Uae,Mangalore,401,Nawayat Street,Honnavar,Karwar,Karnataka,-,Uttara Kannada
+398.0,2020-03-10,2020-03-24,Dubai,Ixe,84,Murdeshwar,-,Karwar,Karnataka,581350.0,Uttara Kannada
+399.0,2020-03-10,2020-03-24,Dubai,Mangalore,"821, Fatima Villah",Alas Nagar 6Th Cross,-,Bhatkal,Karnataka,581320.0,Uttara Kannada
+400.0,2020-03-10,2020-03-24,Dubai,Mangalore,"821, Fatima Villah",Alas Nagar 6Th ,Cross,Bhatkal,Karnataka,581320.0,Uttara Kannada
+401.0,2020-03-10,2020-03-24,Dubai,Mangalore,744,,,Karwar,Karnataka,581348.0,Uttara Kannada
+402.0,2020-03-10,2020-03-24,Dubai,Mangalore,744,Manki,Honavar,N.Kanara,Karnataka,,Uttara Kannada
+403.0,2020-03-10,2020-03-24,Dxb,Ixe-Mangalore,#20 ,Marikatte Basha House,-,Karwar,Karnataka,581320.0,Uttara Kannada
+404.0,2020-03-10,2020-03-24,Dxb,Mangalore India,26/18,Baitul Mussarath,Baitul Mussarath,Karwar,Karnataka,581320.0,Uttara Kannada
+405.0,2020-03-10,2020-03-24,Dxb,Mangalore, -,Darul Zakwani,Bhatkal,Karwar,Karnataka,581320.0,Uttara Kannada
+406.0,2020-03-10,2020-03-24,"Dubai, Uae",Mangalore, -,Bhatkal, -,Bhatkal,Karnataka,575006.0,Uttara Kannada
+407.0,2020-03-10,2020-03-24,oman,bangalore,195 B ,badkur,karwar,-,Karnataka,-,Uttara Kannada
+408.0,2020-03-10,2020-03-24,Muscat,Bengaluru,HNO II 1658,Mhalsawada,Karwar,Uttara Kannada,Karnataka,581307.0,Uttara Kannada
+409.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,Mudgod,-,Karwar,Karnataka,581411.0,Uttara Kannada
+410.0,2020-03-10,2020-03-24,K.T.M,India Bengalor,-,Mudgod,-,Karwar,Karnataka,581411.0,Uttara Kannada
+411.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,Po Tibetion Coloni ,-,Karwar,Karnataka,581411.0,Uttara Kannada
+412.0,2020-03-10,2020-03-24,Dubai,Bangalore,104.0,#104 Sultan,Bhatkol,Karwar,Karnataka,581320.0,Uttara Kannada
+413.0,2020-03-10,2020-03-24,Dubai,Bangalore,"104, Sultan",Bhatkal, Karwar,Karwar,Karnataka,581326.0,Uttara Kannada
+414.0,2020-03-10,2020-03-24,Dubai,Bangalore,No 20,KA2i,Bhatkal,karwar,karnatka ,581320.0,Uttara Kannada
+415.0,2020-03-10,2020-03-24,RALIGH- DUSHAM USA,BANGALORE,-,"GEJJARGALLI, KUMTA",KUMTA,KARWAR,KARNATAKA,581343.0,Uttara Kannada
+416.0,2020-03-10,2020-03-24,RALIGH- DUSHAM USA,BANGALORE,-,"GEJJARGALLI, KUMTA",KUMTA,KARWAR,KARNATAKA,581343.0,Uttara Kannada

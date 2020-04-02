@@ -1,0 +1,69 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-20,2020-04-03,Dubai,Bangalore,685/A,Mg Road Cross,-,Chanapatna,Karnataka,562160.0,Ramanagara
+2.0,2020-03-19,2020-04-02,Germany,Bangalore,"#1, 2nd block",Kudur,Magadi,Ramanagar,Karnataka,561101.0,Ramanagara
+3.0,2020-03-19,2020-04-02,"Berlin, Germany",Bangalore,"1, 2nd Block, Kudur, Magadi",Ramanagara,Bangalore,Bangalore,Karnataka,561101.0,Ramanagara
+4.0,2020-03-19,2020-04-02,London,Bangalore,"4350,Shethali Mohalla",Rama Nagar,Bangalore,Bangalore,Karnataka,562159.0,Ramanagara
+5.0,2020-03-19,2020-04-02,London,Bangalore,"4350,Shethali Mohalla",Rama Nagar,Bangalore,Bangalore,Karnataka,562159.0,Ramanagara
+6.0,2020-03-19,2020-04-02,London,Bangalore,"4350,Shethali Mohalla",Rama Nagar,Bangalore,Bangalore,Karnataka,562159.0,Ramanagara
+7.0,2020-03-18,2020-04-01,Frankfurt,Bangalore,908/B,Upper Datra,-,Channapatna,Karnataka,562160.0,Ramanagara
+8.0,2020-03-18,2020-04-01,Singapore,Bangalore,#440/60 ,Shivajinagar,Kanakapura,Belham,Karnataka,59302.0,Ramanagara
+9.0,2020-03-18,2020-04-01,Singapore,Bangalore,#440/60 ,Shivajinagar,Kanakapura,Belham,Karnataka,59302.0,Ramanagara
+10.0,2020-03-18,2020-04-01,Franfurt ,Bangalore,908/B,Upper Daira ,-,Chennpatna,Karnataka,562166.0,Ramanagara
+11.0,2020-03-18,2020-04-01,Singapore,Kolkata,-,Kantabani,Gobra,Ramnagar,West Bengal,721441.0,Ramanagara
+12.0,2020-03-18,2020-04-01,Amsterdam,Bengaluru,468.0,Channapatna,-,Ramanagaram,Karnataka,562160.0,Ramanagara
+13.0,2020-03-18,2020-04-01,Amsterdam,Bengaluru,468.0,Channapatna,-,Ramanagaram,Karnataka,562160.0,Ramanagara
+14.0,2020-03-18,2020-04-01,Dubai,Bangalore,597/41,Vaderali,-,Ramanagar,Karnataka,562159.0,Ramanagara
+15.0,2020-03-18,2020-04-01,Franfurt ,Bangalore,908/B,Upper Daira ,-,Chennpatna,Karnataka,562166.0,Ramanagara
+16.0,2020-03-17,2020-03-31,Dubai,Channapatna,"#1280,J88VAN",Pvr Mohalla,Ramanagar,Channapatna,Karnataka,562160.0,Ramanagara
+17.0,2020-03-17,2020-03-31,United Arab,Bangalore,#16,Kalenager,Channapatna,Ramanagar,Karnataka,562160.0,Ramanagara
+18.0,2020-03-17,2020-03-31,Muiscat,Banglore,50/1,Madina Road Channaptna,Ramanagar,Bangalore,Karnataka,571501.0,Ramanagara
+19.0,2020-03-17,2020-03-31,Muiscat,Bangalore,850.0,Madina Road Channaptna,Ramanagar,Bangalore,Karnataka,571501.0,Ramanagara
+20.0,2020-03-16,2020-03-30,Dubai,Bengaluru,415. B M street,Channapatna,-,Ramnagar,Karnataka,-,Ramanagara
+21.0,2020-03-16,2020-03-30,Dubai,Bengaluru,415. B M street,Channapatna,-,Ramnagar,Karnataka,-,Ramanagara
+22.0,2020-03-16,2020-03-30,Dubai ,Bangalore,4341 Shaltahali,Mohalukh,Ramnagar,Ramnagar,Karnataka,579591.0,Ramanagara
+23.0,2020-03-15,2020-03-29,Riyah,Bangalore,-,Channapatna,R,Ramnagar,Karnataka,571501.0,Ramanagara
+24.0,2020-03-15,2020-03-29,Saudi Arabia,Bangalore,C/o Devdas,St Ritas High School Road,-,Kanakpura,Karnataka,562117.0,Ramanagara
+25.0,2020-03-15,2020-03-29,Montreal,Bangalore,#27,Kanchidoddi,Jalamangala,Ramanagara,Karnataka,562159.0,Ramanagara
+26.0,2020-03-15,2020-03-29,Sydney,Bangalore,Ward no. 26,"Geetha Mandira End, Ijoor",-,Ramanagara,Karnataka,562159.0,Ramanagara
+27.0,2020-03-14,2020-03-28,Dissddorf Germany,"Bangalore,India",26.0,"Puttierammanadoddi,Orgahalli",Bidadi,Ramanagara,Karnataka,562109.0,Ramanagara
+28.0,2020-03-14,2020-03-28,"Dusselddorf, Germany",Bengaluru,26.0,"Puttierammnadoddi, Orgahalli(P)",Bidadi,Ramanagara,Karnataka,562109.0,Ramanagara
+29.0,2020-03-14,2020-03-28,Germany,Bangalore,26.0,"Puttierammnadoddi, Orgahalli",Bidadi,Ramanagara,Karnataka,562109.0,Ramanagara
+30.0,2020-03-14,2020-03-28,Baharain,Bangalore,# 20 B,Nalbandwadi,-,Ramanagaram,Karnataka,562159.0,Ramanagara
+31.0,2020-03-14,2020-03-28,Baharain,Bangalore,# 20 B,Nalbandwadi,-,Ramanagaram,Karnataka,562159.0,Ramanagara
+32.0,2020-03-14,2020-03-28,Baharain,Bangalore,# 20 B,Nalbandwadi,-,Ramanagaram,Karnataka,562159.0,Ramanagara
+33.0,2020-03-14,2020-03-28,London,Bengaluru,villa A-10,Eagleton,Bidadi,Bangalore,Karnataka,562109.0,Ramanagara
+34.0,2020-03-14,2020-03-28,Mouritius,India,No 8,Hosadoddi,-,Ramanagara,Karnataka,562109.0,Ramanagara
+35.0,2020-03-14,2020-03-28,Mauritius,India,-,Hosadoddi,-,Bangalore,Karnataka,562109.0,Ramanagara
+36.0,2020-03-14,2020-03-28,Bali,Bangalore,-,"Honniganahalli, Govt Bhk Form Check Post",Channapattana,Ramanagara,Karnataka,562160.0,Ramanagara
+37.0,2020-03-14,2020-03-28,Dubai,Bangalore,1410.0,Islampur Mohallah,Channaptna,Ramanagar,Karnataka,571501.0,Ramanagara
+38.0,2020-03-13,2020-03-27,Abu Dhabi,Bangalore,-,Transfor Road,Kanakpur,Ramanagar,Karnataka,562117.0,Ramanagara
+39.0,2020-03-13,2020-03-27,Uae,"Bengalore, India",#4534,Behind Post Office,-,Ramanagar,Karnataka,562159.0,Ramanagara
+40.0,2020-03-13,2020-03-27,Went To Sister Home,India,415.0,Street Devi,-,Banglore,Karnataka,562160.0,Ramanagara
+41.0,2020-03-12,2020-03-26,Dubai,Bangalore,64.0,Abji Miyan Mondla,-,Ramanagaram,Karnataka,562160.0,Ramanagara
+42.0,2020-03-12,2020-03-26,Dubai,Bengalure,NO. 37,Shanthi Nilky Ragavendra Colony,-,Ramanagaram,Karnataka,562159.0,Ramanagara
+43.0,2020-03-12,2020-03-26,Male Maldives,Usa,2226.0,2Nd Cross,Channapatna,Ramanagar,Karnataka,562160.0,Ramanagara
+44.0,2020-03-12,2020-03-26,Male Maldives,Usa,2226.0,2Nd Cross,Channapatna,Ramanagar,Karnataka,562160.0,Ramanagara
+45.0,2020-03-12,2020-03-26,Singapore,Bangalore,SAPTHAGIRI NILAYAM,Harohalli,-,Ramnagar,Karnataka,562112.0,Ramanagara
+46.0,2020-03-12,2020-03-26,Sydney,Bangalore,No:15 Police,Quatradcharch,Dtreet,Kanakapara,Ramagngarloit,562117.0,Ramanagara
+47.0,2020-03-12,2020-03-26,Muscat,Bengaluru,KENGEGOADA YALADHALLE  KOPPALA SASLLA,-,Hobale Manadya,Manadya,Karanataka,-,Ramanagara
+48.0,2020-03-11,2020-03-25,Londan,Banalore,-,Chikkamuduvadi,Kankadura,Ramnagar,Karnataka,562117.0,Ramanagara
+49.0,2020-03-11,2020-03-25,Londan,Banalore,-,Chikkamuduvadi,Kankadura,Ramnagar,Karnataka,562117.0,Ramanagara
+50.0,2020-03-11,2020-03-25,Don Mong Thailand,Bangalore,1853/A,4Th Cross,-,Ramnagar,Karnataka,5671511.0,Ramanagara
+51.0,2020-03-11,2020-03-25,Abu Dhabi,Bangalore,636.0,K M Street,-,Ramnagara,Karnataka,571501.0,Ramanagara
+52.0,2020-03-11,2020-03-25,Abu Dhabi,Bangalore,636.0,K M Street,-,Ramnagara,Karnataka,571501.0,Ramanagara
+53.0,2020-03-11,2020-03-25,Abu Dhabi,Bangalore,636.0,K M Street,-,Ramnagara,Karnataka,571501.0,Ramanagara
+54.0,2020-03-11,2020-03-25,Abu Dhabi,Bangalore,636.0,K M Street,-,Ramnagara,Karnataka,571501.0,Ramanagara
+55.0,2020-03-11,2020-03-25,Jeddha,Bangalore,91 - A,Those Ramanahalli,Mandal,Magadi,Karnataka,561101.0,Ramanagara
+56.0,2020-03-11,2020-03-25,Jeeda,Bangalore,Opposite  to Jamia masjid  ,Syedwadi,-,Channapatna,Karnataka,562160.0,Ramanagara
+57.0,2020-03-11,2020-03-25,Damman,Bangalore,#341,Bm Street ,Channapatna,Ramanagaram,Karnataka,562160.0,Ramanagara
+58.0,2020-03-11,2020-03-25,Damman,Bangalore,#341,B M Street,Channapatna,Ramanagaram,Karnataka,562160.0,Ramanagara
+59.0,2020-03-11,2020-03-25,Jeddah,Bangalore,726 / A,Syed Wadi ,Channapatna,Rama Nagar,Karnataka,562160.0,Ramanagara
+60.0,2020-03-11,2020-03-25,Jeddah,Bangalore,324 / 6 /1 ,Syed Wadi ,Channapatna,Rama Nagar,Karnataka,562160.0,Ramanagara
+61.0,2020-03-11,2020-03-25,Jeddah,Bangalore,91-A,Thoreramanhalli,Mandal,Magadi,Karnataka,561101.0,Ramanagara
+62.0,2020-03-10,2020-03-24,jiddah,bangalore,-,Tippunagar,ramanagara,ramanagara,Karnataka,562159.0,Ramanagara
+63.0,2020-03-10,2020-03-24,-,-,2052.0,malavalli,mandya,-,Karnataka,-,Ramanagara
+64.0,2020-03-10,2020-03-24,JADLAH,BENGALURU,29.0,MOHEDAL KAULU,"S.S PALYA, MAGADI",RAMANAGAR,KARNATAKA,-,Ramanagara
+65.0,2020-03-10,2020-03-24,JIDDA,-,-,Tippu Nagar,-,Ramanagara,Karnataka,562159.0,Ramanagara
+66.0,2020-03-10,2020-03-24,Jeddah,BANGALORE,29.0,SS Palya,Magadi,Ramnagara,karnataka,-,Ramanagara
+67.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,Jain University ,Kanakapura,Ramanagara,Karnataka,562112.0,Ramanagara
+68.0,2020-03-10,2020-03-24,MAURITUS,BANGALORE,NO-11,BYRAVI COLONY,"RAMNAGARA, BIDADI",RAMANAGARA,KARNATAKA,-,Ramanagara

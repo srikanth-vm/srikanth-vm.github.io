@@ -1,0 +1,185 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,"Doha, Qatar",Bangalore,454.0,Naruganahally,Tumkur,Tumkur,Karnataka,572122.0,Tumkuru
+2.0,2020-03-22,2020-04-05,US,Bangalore,,Kallanayakanahalli,Kunigal,Tumkur,Karnataka,572130.0,Tumkuru
+3.0,2020-03-21,2020-04-04,Ghana,Banglore,91.0,-,Tukumur,Tukumur,Karnataka,561202.0,Tumkuru
+4.0,2020-03-21,2020-04-04,Addis Ababa,Bengaluru,# 23,Kittagernedralli,Tukumur,Tukumur,Karnataka,572118.0,Tumkuru
+5.0,2020-03-21,2020-04-04,-,-,-,Tumkur,Tumkur,Tumkur,Karnataka,572103.0,Tumkuru
+6.0,2020-03-21,2020-04-04,Melbourne,Bangalore,Apeksha,4th Cross,Vidyanagar,Thumkur,Karnataka,572103.0,Tumkuru
+7.0,2020-03-21,2020-04-04,Istanburl Via muscat,Bangalore,101.0,Doddanhalij,SIRA,Tummakur,KA,572137.0,Tumkuru
+8.0,2020-03-21,2020-04-04,Turkey,Bengaluru,#03,Paneerahalli,Korategere Taluk,Tumkur,Karnataka,572121.0,Tumkuru
+9.0,2020-03-20,2020-04-03,"Muscat, Oman",Bangalore,-,-,Tumkur,Tumkur,Karnataka,-,Tumkuru
+10.0,2020-03-20,2020-04-03,Dubai,Bangalore Int Airport,-,-,Koratagere,Tumkur,Karnataka,572129.0,Tumkuru
+11.0,2020-03-20,2020-04-03,Delhi,Bangalore,-,Lodge,-,Thirumani,Karnataka,572156.0,Tumkuru
+12.0,2020-03-19,2020-04-02,Miami,Banglore,224.0,Roppa Post,Pavagada,Tumkur,Karnataka,561202.0,Tumkuru
+13.0,2020-03-19,2020-04-02,Dubai,Bangalore,-,Gur Bothappanagudi Gowdagere Hobali,Tumkur,Tumkur,Karnataka,572139.0,Tumkuru
+14.0,2020-03-19,2020-04-02,Dubai,Bangalore,Gurunatha bhotgappaagudi,Gowdagere Hobali,-,Tumkur,Karnataka,,Tumkuru
+15.0,2020-03-19,2020-04-02,"Monterrer, Mexico ",Bangalore ,-,Santhee Beedi ,-,Tumkuru ,Karnataka ,572104.0,Tumkuru
+16.0,2020-03-19,2020-04-02,San Francisco,Bangalore,-,-,Sit Extension,Tumkur,Karnataka,572103.0,Tumkuru
+17.0,2020-03-19,2020-04-02,San Francisco,Bangalore,-,-,Sit Extension,Tumkur,Karnataka,572103.0,Tumkuru
+18.0,2020-03-19,2020-04-02,Ams,Bangalore,renuka nilaya,"Ss Puram, 11Th Class",Tumkur,Tumkur,Karnataka,572102.0,Tumkuru
+19.0,2020-03-19,2020-04-02,Miami,Bangalore,224.0,Roppa Post,Pavagada,Tumkur,Karnataka,561202.0,Tumkuru
+20.0,2020-03-19,2020-04-02,Paris,Bangalore,Himagiri Nilaya,5Th Cross Sapthagiri Ext,-,Tumkuru,Karnataka,572101.0,Tumkuru
+21.0,2020-03-19,2020-04-02,London,Bengaluru,suprasada,Ashok Nagar 4Th Cross,-,Tumkur,Karnataka,572102.0,Tumkuru
+22.0,2020-03-19,2020-04-02,London,Bangalore,24.0,Nyayadagunte,Pavagada,Tumkur,Karnataka ,572116.0,Tumkuru
+23.0,2020-03-18,2020-04-01,Australia,"Bangalore, India",Madhava Nivasa,2Nd Cross,Vidyanagar,Tumkur,Karnataka,572162.0,Tumkuru
+24.0,2020-03-18,2020-04-01,Dubai,Bangalore,-,511,-,Bangalore,Karnataka,572101.0,Tumkuru
+25.0,2020-03-18,2020-04-01,Hong Kong,Bangalore,-,Naganahalli,Muthridurgh,Tumkur,Karnataka,572130.0,Tumkuru
+26.0,2020-03-18,2020-04-01,Dubai,Bangalore,#114,Yettinahalli,-,Pavagada,Karnataka,561202.0,Tumkuru
+27.0,2020-03-18,2020-04-01,Newcastle Uk,Bengalore,Shambavi Nilaya ,1St Cross ,Srinagar,Tumkur,Karnataka,572104.0,Tumkuru
+28.0,2020-03-18,2020-04-01,"Newcashe Upon Type,Uk",Bangalore,-,Shambavi Village,-,Tumkur,Karnataka,572104.0,Tumkuru
+29.0,2020-03-18,2020-04-01,Dubai,Bangalore,38.0,5Th Cross,Vino Binagar,Tumkur,Karnataka,572101.0,Tumkuru
+30.0,2020-03-18,2020-04-01,"Male, Maldives","Banglore, India",922.0,12Th Cross Gangothri Nagar,,Tumkur,Karnataka,572103.0,Tumkuru
+31.0,2020-03-18,2020-04-01,Doha,Bangalore,72.0,Haradagere Gubbi (T),-,Tumkur,Karnataka,572222.0,Tumkuru
+32.0,2020-03-18,2020-04-01,Doha,Bangalore,"59, BMThota",Kr Extension,-,Tumkur,Karnataka,572101.0,Tumkuru
+33.0,2020-03-18,2020-04-01,Mah,Bangalore,365.0,Peshimany,-,-,Karanataka,572137.0,Tumkuru
+34.0,2020-03-18,2020-04-01,Maldives,Bangalore,#365,Peshimammohala,-,Sira,Karnataka,572137.0,Tumkuru
+35.0,2020-03-18,2020-04-01,Australia,"Bangalore, India",Madhava Nivasa,2Nd Cross,Vidyanagar,Tumkur,Karnataka,572162.0,Tumkuru
+36.0,2020-03-17,2020-03-31,"Amsteradom,Schiphol",Bengaluru,SHIVASANDANA,"10Th A Cross, Ss Puram",Tumkur,Tumkur,Karnataka,572102.0,Tumkuru
+37.0,2020-03-17,2020-03-31,Buenos Aires,Bangalore,9880511482.0,Vidyanagar,Sira,Tumkur,Karnataka,572137.0,Tumkuru
+38.0,2020-03-17,2020-03-31,Abu Dhabi,Bangalore,-,Sira,-,Tumkur,Karnataka,572137.0,Tumkuru
+39.0,2020-03-17,2020-03-31,Muscat Oman,Bangloreb Karnataka,-,-,Tumkur,Tumkur,Karnataka,-,Tumkuru
+40.0,2020-03-16,2020-03-30,Singapore,India,-,Sira,-,Tumkur,Karnataka,572101.0,Tumkuru
+41.0,2020-03-16,2020-03-30,Penang,Bangalore,"#24, 6th B Cross",Hanumanthapura,-,Tumkur,Karnataka,572103.0,Tumkuru
+42.0,2020-03-16,2020-03-30,Penang,Bangalore,"#24, 6th B Cross",Hanumanthapura,-,Tumkur,Karnataka,572103.0,Tumkuru
+43.0,2020-03-16,2020-03-30,Chicago,Bangalore,#5834,S5 Puram Dhobighat,Tumkur,Tumkur,Karnataka,-,Tumkuru
+44.0,2020-03-16,2020-03-30,Singapur,Kolkata,-,Street Gokula,-,Tumkar,Karnataka,572104.0,Tumkuru
+45.0,2020-03-16,2020-03-30,Usa,Bangalore,"45, Veerobanhalli",Bukkapatana,Karatagere,Tumkur,Karnataka,572129.0,Tumkuru
+46.0,2020-03-16,2020-03-30,"Belfast, Uk","Banaglore, India",-,"Baif Road, Sharada Nagar",Tiptur,Tumkur,Karnataka,572201.0,Tumkuru
+47.0,2020-03-16,2020-03-30,Dubai,"Banaglore, India",-,Bhaktarahalli,Kunigal,Tumkur,Karnataka,572120.0,Tumkuru
+48.0,2020-03-16,2020-03-30,Colombo,Bangalore,"2nd Cross, Christian Street",Padmadurga Nagar,Tumkur,Tumkur,Karnataka,572101.0,Tumkuru
+49.0,2020-03-16,2020-03-30,Usa,Bangaluru,-,A.T.Street  C.N Hally,-,Tumkur,Karnataka,572214.0,Tumkuru
+50.0,2020-03-16,2020-03-30,Usa,Bangaluru,-,A.T.Street  C.N Hally,-,Tumkur,Karnataka,572214.0,Tumkuru
+51.0,2020-03-15,2020-03-29,Berline,Bengaluru,"#2, Ayesha Sattar",Krishna Nagar 8Th Cross,-,Tumkur,Karnataka,572103.0,Tumkuru
+52.0,2020-03-15,2020-03-29,Berline,Bengaluru,"#2, Ayesha Sattar",Krishna Nagar 8Th Cross,-,Tumkur,Karnataka,572103.0,Tumkuru
+53.0,2020-03-15,2020-03-29,Singapore,Bangalore,Behind Chetana,10Th  C Cross Tpk Road,Tumakuru,Tumakuru,Karnataka,572102.0,Tumkuru
+54.0,2020-03-15,2020-03-29,Dubai,Bangalore,#569,Icros,Upparahalli,Tumkur,Karnataka,572102.0,Tumkuru
+55.0,2020-03-15,2020-03-29,Uae(Dubai),Bangalore,#569,Icros,Upparahalli,Tumkur,Karnataka,572102.0,Tumkuru
+56.0,2020-03-15,2020-03-29,Portugal,Bangalore ,Srirama Nilaya ,"1St Cross, 4Th Main ",Sadashivanagar ,Tumkuru,Karnataka ,572101.0,Tumkuru
+57.0,2020-03-15,2020-03-29,Dubai,Bangalore,#224,Siradasanagar,Tumkur,Tumkur,Karnataka,572106.0,Tumkuru
+58.0,2020-03-15,2020-03-29,Riyadh,Benglaore ,-,8Th Cross Sadashivanagar,Tumakuru,Tumakuru,Karnataka,572103.0,Tumkuru
+59.0,2020-03-15,2020-03-29,Riyadh,Benglaore ,-,8Th Cross Sadashivanagar,Tumakuru,Tumakuru,Karnataka,572103.0,Tumkuru
+60.0,2020-03-15,2020-03-29,Paris -France,Banglore,liyakat manzil,4Th Main 5Th Cross,Sadashiva Nagar,Tumukur,Karnataka,572101.0,Tumkuru
+61.0,2020-03-15,2020-03-29,Dubai,Bangalore,199.0,Kitanamangala,Kunigal,Tumkur,Karnataka,572130.0,Tumkuru
+62.0,2020-03-15,2020-03-29,Dubai,Bangalore,155.0,Madehnhalli,Gubbi,Tumkur,Karnataka,572216.0,Tumkuru
+63.0,2020-03-15,2020-03-29,Dubai,Bangalore,155.0,Madehnhalli,Gubbi,Tumkur,Karnataka,572216.0,Tumkuru
+64.0,2020-03-15,2020-03-29,Uganda,Bangalore,-,-,-,Tumkur,Karnataka,572103.0,Tumkuru
+65.0,2020-03-15,2020-03-29,Ruh,Bangalore,Veerasagar,Tumkur,-,Bangalore,Karnataka,572101.0,Tumkuru
+66.0,2020-03-15,2020-03-29,Damam,Bangalore,-,Sadashiua Nagar,-,Tumkur,Karnataka,572101.0,Tumkuru
+67.0,2020-03-15,2020-03-29,Dubai,Bangalore,224.0,Sira Gate,Tumkur ,Tumkur ,Karnataka,5721922.0,Tumkuru
+68.0,2020-03-15,2020-03-29,Dubai,Bangalore,224.0,Sira Gate,Tumkur ,Tumkur ,Karnataka,572106.0,Tumkuru
+69.0,2020-03-15,2020-03-29,"Jfk, New York",Bangalore,B 401,"Ds Max Supreme, Dr Vishnuvardan Road",Kengeri,Bangalore,Karnataka,572102.0,Tumkuru
+70.0,2020-03-14,2020-03-28,Relay -Wca,Bangalore,Honnavalli,Honnavalli,Tripura,Tumkur,Karnataka,572717.0,Tumkuru
+71.0,2020-03-14,2020-03-28,France,Bangalore,Honnavalli,Honnavalli,Tripura,Tumkur,Karnataka,572717.0,Tumkuru
+72.0,2020-03-14,2020-03-28,Kuwait,Bengaluru,-,Kitnamangala,Kunigal,Tumkur,Karnataka,572130.0,Tumkuru
+73.0,2020-03-14,2020-03-28,Kuwait,Bengaluru,-,Kitnamangala,Kunigal,Tumkur,Karnataka,572130.0,Tumkuru
+74.0,2020-03-14,2020-03-28,Newyork,Bangalore,"2, NRI Girls Hostel",Sri Siddhartha Medical College,-,Tumkur,Karnataka,572107.0,Tumkuru
+75.0,2020-03-14,2020-03-28,Kuwait,Bangalore,-,-,Kunigal,Tumkur,Karnataka,572130.0,Tumkuru
+76.0,2020-03-14,2020-03-28,Kathamandu,Bangalore,Umiyani Nivas,Sadashivanagar,4Th Main Road,Tumkur,Karnataka,572102.0,Tumkuru
+77.0,2020-03-14,2020-03-28,Hooston,Bangalore,"Dhavala, 1st Main Rd",Rv Colony,Kothithopu,Tumkur,Karnataka,572103.0,Tumkuru
+78.0,2020-03-14,2020-03-28,Katmandu,Bangalore,umiya Nivayh,4Th Main Road,Sadashivanagar,Tumkur,Karnataka,572102.0,Tumkuru
+79.0,2020-03-14,2020-03-28,Katmandu,Bangalore,74.0,Vinayaka Nagar,-,Tumkur,Karnataka,572101.0,Tumkuru
+80.0,2020-03-14,2020-03-28,Katmandu,Bangalore,74.0,Vinayaka Nagar,-,Tumkur,Karnataka,572101.0,Tumkuru
+81.0,2020-03-14,2020-03-28,Usa,Bangalore,"915,Vibhava",Opp.S.I.T College Back Gate,Sit Extn,Tumkur,Karnataka,572103.0,Tumkuru
+82.0,2020-03-14,2020-03-28,"Sanfrancisco, Usa","Bengaluru, India","54/64, Yashawini",Gandhi Nagar,-,Tumkur,Karnataka,572101.0,Tumkuru
+83.0,2020-03-14,2020-03-28,Tokyo,Bangalore,-,Thappagand Doddi,Pavagand,Tumkur,Karnataka,572136.0,Tumkuru
+84.0,2020-03-14,2020-03-28,Tokyo,Bangalore,-,Thappagand Doddi,Pavagand,Tumkur,Karnataka,572136.0,Tumkuru
+85.0,2020-03-14,2020-03-28,Tokyo,Bangalore,-,Thappagand Doddi,Pavagand,Tumkur,Karnataka,572136.0,Tumkuru
+86.0,2020-03-14,2020-03-28,Tokiyo,Bangalore,-, B K Halli,Pavayadh,Tumkur,Karnataka,572136.0,Tumkuru
+87.0,2020-03-14,2020-03-28,Chicago Usa,Bangalore,16-13-733,Balmatta,Mangaluru,Mangaluru,Karnataka,576002.0,Tumkuru
+88.0,2020-03-13,2020-03-27,Bali Airport Indonesia,Banglore  ,“SRIHARI KRUPA,Behind Chethana School,"Keb Layout, Sit Area",Tumkur,Karnataka,572103.0,Tumkuru
+89.0,2020-03-13,2020-03-27,Bali  Indonesia,Banglore  ,SRIHARI KRUPPA,Behind Chethana School,"Keb Layout, Sit Area",Tumkur,Karnataka,572103.0,Tumkuru
+90.0,2020-03-13,2020-03-27,Bali Airport Indonesia,Banglore  ,SRIHARI KRUPPA,Behind Chethana School,"Keb Layout, Sit Area",Tumkur,Karnataka,572103.0,Tumkuru
+91.0,2020-03-13,2020-03-27,Dubai,Bangalore,864.0,8 Th Cross Veer Sagas,-,Tumkuru,Karnataka,572101.0,Tumkuru
+92.0,2020-03-13,2020-03-27,Kula Lumpur,Bangalore,1.0,Melekote Main Road,Nazarbhad,Tumkur,Karnataka,572101.0,Tumkuru
+93.0,2020-03-13,2020-03-27,"Washington, Usa",India-Banglore,# Gangadhaneshwara Nilaya,3Rd Main Road,Sadhashivanagar,Tumakuru,Karnataka,572102.0,Tumkuru
+94.0,2020-03-13,2020-03-27,"Washington, Usa",India-Banglore,"# 115, Gangadhaneshwara Nilaya",3Rd Main Road,Sadhashivanagar,Tumakuru,Karnataka,572102.0,Tumkuru
+95.0,2020-03-13,2020-03-27,Bdh Babivin,Bangalore,284.0,Railway Station Road Ammasandra ,Turuvekere Tq,Tumkur,Karnataka,572211.0,Tumkuru
+96.0,2020-03-13,2020-03-27,Delhi,Banglore,Sri Mukhya prana,Nivasa Venkatadri,Extension,Tumkur,Karnataka,572104.0,Tumkuru
+97.0,2020-03-13,2020-03-27,Delhi,Bangalore,"#27, Maruthi Nilaya",6Th Cross,Sadashivnagara,Tumkur,Karnataka,572102.0,Tumkuru
+98.0,2020-03-13,2020-03-27,Dusseldorf,Banglore,Sri vishnu nilaya,2Nd Cross 2Nd Block Kuvempunagar,,Tumkur,Karnataka,572103.0,Tumkuru
+99.0,2020-03-13,2020-03-27,Dusseldorf,Banglore,Sri vishnu nilaya,2Nd Cross 2Nd Block Kuvempunagar,,Tumkur,Karnataka,572103.0,Tumkuru
+100.0,2020-03-13,2020-03-27,Turkey,Bangalore,syed manzil,4Th Cross,Sit College,Tumkur,Karnataka,572102.0,Tumkuru
+101.0,2020-03-13,2020-03-27,"New Orleans, Usa","Bangalore, India","24NRI Shivashakthi Nilaya, Viswanna Layout","Bsk 2Nd Stage, Shanthi Nagar",Tumakuru,Tumakuru,Karnataka,572102.0,Tumkuru
+102.0,2020-03-13,2020-03-27,Doha,Bengaluru,"""Allama""","1St Mai, 8Th Cross, Srinagar",-,Tumkur,Karnataka,572104.0,Tumkuru
+103.0,2020-03-13,2020-03-27,Bangkok,Bangalore,147.0,Grand House,Honnavalli Road,Tiptur,Tumkur,572201.0,Tumkuru
+104.0,2020-03-12,2020-03-26,Amsterdam,Bengalure,-,Arakere,"Turnkua,Tallik",Tumkur,Karnataka,572106.0,Tumkuru
+105.0,2020-03-12,2020-03-26,Dubai,Bangalore,599.0,Shree Shyla Railway Station Road,Tumkur,Tumkur,Karnataka,572201.0,Tumkuru
+106.0,2020-03-12,2020-03-26,Dubai,Bangalore,599.0,Railway Station Road Tiptur,Tiptur,Tumkur,Karnataka,572201.0,Tumkuru
+107.0,2020-03-12,2020-03-26,London,India,-,Pavagada,-,Tumkur Distick,Karnataka,561202.0,Tumkuru
+108.0,2020-03-12,2020-03-26,"Kaula Lampur, Malaysia",Bangalore,-,Sathyamanagata Road Rad,-,Tumkur,Karanataka,572106.0,Tumkuru
+109.0,2020-03-12,2020-03-26,Toronto - Abudhabi,Bangalore,'CHEERADEEPA ‘,5Th Crosse,Ashoke Nagara,Thumkuru,Karnataka,572102.0,Tumkuru
+110.0,2020-03-12,2020-03-26,Doha,Bengaluru,"336,",I Link Iii Cross Sixten Thumkur,Thumkur,Thumkur,Karnataka,572103.0,Tumkuru
+111.0,2020-03-12,2020-03-26,Singapore,India,NO,Sira,No,Thumkur,Karnataka,572101.0,Tumkuru
+112.0,2020-03-12,2020-03-26,Doha,Bengaluru,336.0,Vikas 3Cross,Tumkur,Tumkur,Karanataka,572103.0,Tumkuru
+113.0,2020-03-12,2020-03-26,"Raleirh Achirmam, Nc",Bangalore,FTOLE NO.3,Siragbte,-,Tumkur,Karnakata,572106.0,Tumkuru
+114.0,2020-03-12,2020-03-26,Kathmandu Tribhuwan Intl Airport,Bangalore Kempegowda Intl Airport,-,"Tumkur Sira Road,Shridevi Girls Hostel",-,-,Karnataka,-,Tumkuru
+115.0,2020-03-12,2020-03-26,Kathmandu Tribhuwan Intl Airport,Bangalore Kempegowda Intl Airport,-,"Tumkur Sira Road,Shridevi Girls Hostel",-,-,Karnataka,-,Tumkuru
+116.0,2020-03-12,2020-03-26,"Kaula Lampur, Malaysia",Bangalore,-,Sathyamanagata Road Rad,-,Tumkur,Karanataka,572106.0,Tumkuru
+117.0,2020-03-12,2020-03-26,Toronto - Abudhabi,Bangalore,'CHEERADEEPA ‘,5Th Crosse,Ashoke Nagara,Thumkuru,Karnataka,572102.0,Tumkuru
+118.0,2020-03-12,2020-03-26,Doha,Bengaluru,"336,",I Link Iii Cross Sixten Thumkur,Thumkur,Thumkur,Karnataka,572103.0,Tumkuru
+119.0,2020-03-12,2020-03-26,Singapore,India,NO,Sira,No,Thumkur,Karnataka,572101.0,Tumkuru
+120.0,2020-03-12,2020-03-26,Doha,Bengaluru,336.0,Vikas 3Cross,Tumkur,Tumkur,Karanataka,572103.0,Tumkuru
+121.0,2020-03-12,2020-03-26,Tls Airport,Bangalore,sri siddalingeshwara,Dvg Road,Tumkur,Bangalore ,Karnataka,572102.0,Tumkuru
+122.0,2020-03-11,2020-03-25,Jedda,Bengaluru,mazzarbad four,Mill Road 1St Cross,Veerasagara,Tumkur,Karnataka,572101.0,Tumkuru
+123.0,2020-03-11,2020-03-25,"Melborne, Australia",Bangalore,ahmed house,"6Th Main , 5Th Cross",-,Tumkur,Karnataka,572101.0,Tumkuru
+124.0,2020-03-11,2020-03-25,Dubai,Bangalore,-,Marhalli Palya,Atauruvekere,Tumkure,Karanataka,572227.0,Tumkuru
+125.0,2020-03-11,2020-03-25,Dubai,Bangalore,-,K N Mangla,Kunigal Taluk,Tumkur,Karnataka,572130.0,Tumkuru
+126.0,2020-03-11,2020-03-25,Brasil,Bangalore,126.0,Gubbi,-,Tumkur,Karnataka,577216.0,Tumkuru
+127.0,2020-03-11,2020-03-25,Jeddah,Bangalore,No941/1,Thanjavoor Mohalla,Kunigal,Tumkuru,Karnataka,572130.0,Tumkuru
+128.0,2020-03-11,2020-03-25,Saudi Arabia Jed,Bangalore,3.0,Gcr  Colony Shantpet,-,Tumkuru,Karnataka,572101.0,Tumkuru
+129.0,2020-03-11,2020-03-25,Saudi Arabia Jed,Bangalore,3.0,Gcr  Colony Shantpet,-,Tumkuru,Karnataka,572101.0,Tumkuru
+130.0,2020-03-11,2020-03-25,Riyadh,Bangalore,82.0,Sanpet,-,Tumkuru,Karnataka,572101.0,Tumkuru
+131.0,2020-03-11,2020-03-25,Jeddha,Bangalore,941.0,Majeed Road Y.N. Hosakote,-,Tumkur,Karnataka,572141.0,Tumkuru
+132.0,2020-03-11,2020-03-25,Jeddha,Bangalore,941.0,Majeed Road Y.N. Hosakote,-,Tumkur,Karnataka,572141.0,Tumkuru
+133.0,2020-03-11,2020-03-25,Riyadh,Bangalore,-,"3Rd Cross Nelekote Road, Tumkuru",-,Bangalore,Karnataka,572105.0,Tumkuru
+134.0,2020-03-11,2020-03-25,"Riyadh,Ksa","Bangalore, India",702.0,7Th Cross Ah Colony,Tumkur,Tumkur,Karnataka,572101.0,Tumkuru
+135.0,2020-03-11,2020-03-25,"Riyadh,Ksa","Bangalore, India",-,Jyothi Nagar,Hubbi,Tumkur,Karnataka,572216.0,Tumkuru
+136.0,2020-03-11,2020-03-25,Rhd,"Bangalore, India",-,Swandenahalli,-,Tumkur,Karnataka,572104.0,Tumkuru
+137.0,2020-03-11,2020-03-25,Rhd,"Bangalore, India",-,Swandenahalli,-,Tumkur,Karnataka,572104.0,Tumkuru
+138.0,2020-03-11,2020-03-25,Mecca Madina,"Bangalore, India",1048.0,5Th Cross Maddur Road ,Kuwigeli,Tumkur,Karnataka,572130.0,Tumkuru
+139.0,2020-03-11,2020-03-25,Medina Saudi Arabia,Bangalore,1048.0,5Th Cross Maddur Road,Kunigal,Tumkur, Karnataka,572130.0,Tumkuru
+140.0,2020-03-11,2020-03-25,Riyadh,Bangalore,31/6 Shada Shiva Nagar,Ph Colony ,-,Tumkur,Karnataka,572105.0,Tumkuru
+141.0,2020-03-11,2020-03-25,Riyadh,Bangalore,-,Uduve Street ,Chikkanayakanahalli Taluk,Tumkur,Karnataka,572214.0,Tumkuru
+142.0,2020-03-11,2020-03-25,Saudi Arabia Jed,Bangalore,3.0,G C R Colony Santtnepet,-,Tumkur,Karnataka,572101.0,Tumkuru
+143.0,2020-03-11,2020-03-25,Sharjah,Kochi,-,"Ph Colony, 15Th Cross",-,Tumkur,Karnataka,572101.0,Tumkuru
+144.0,2020-03-11,2020-03-25,Sharjah,Bengaluru,# 729,-,-,Tumkur,Karnataka,872101.0,Tumkuru
+145.0,2020-03-10,2020-03-24,jeddah,bangalore,-,-,-,tumkur,Karnataka,572101.0,Tumkuru
+146.0,2020-03-10,2020-03-24,jeddah,bangalore,sami building ,"4th main, 5th cross,",tumkur,tumkur,Karnataka,572101.0,Tumkuru
+147.0,2020-03-10,2020-03-24,jeddah,bangalore,-,6th cross,P H colony,tumkur,Karnataka,572101.0,Tumkuru
+148.0,2020-03-10,2020-03-24,JEDDHA,BENGALURU,-,12 CROSS,P.H.COLONY,TUMKUR,KARNATAKA,-,Tumkuru
+149.0,2020-03-10,2020-03-24,JEDDAH,BENGALURU,-,-,THAVAREKERE,TUMKUR,KARNATAKA,572122.0,Tumkuru
+150.0,2020-03-10,2020-03-24,Umrah,Bengaluru,-,Banashankari,-,Tumkur,Karnataka,572101.0,Tumkuru
+151.0,2020-03-10,2020-03-24,Umrah,Bengaluru,-,Banashankari,-,Tumkur,Karnataka,572101.0,Tumkuru
+152.0,2020-03-10,2020-03-24,Umrah,Bengaluru,-,Banashankari,-,Tumkur,Karnataka,572101.0,Tumkuru
+153.0,2020-03-10,2020-03-24,JEDDAH,Bengaluru,Floor mill,Veerasaga Aprtment,-,Tumkur,Karnataka,572101.0,Tumkuru
+154.0,2020-03-10,2020-03-24,JEDDAH,Bengaluru,-,-,-,Tumkur,karnataka,572101.0,Tumkuru
+155.0,2020-03-10,2020-03-24,JEDDAH,Bengaluru,Floor mill Road,-,-,Tumkur,Karnataka,572101.0,Tumkuru
+156.0,2020-03-10,2020-03-24,JEDDAH,Bengaluru,-,Upparhalli,-,Tumkur,Karnataka,572101.0,Tumkuru
+157.0,2020-03-10,2020-03-24,MALDIVES,DUBAI TO INDIA,-,KODDEHALLI,-,TUMKUR,KARNATAKA,572227.0,Tumkuru
+158.0,2020-03-10,2020-03-24,SHARJAH UAE,BENGALURU,3rd  Cross ,Nazarabad,Tumkur,Tumkur,KARNATAKA,-,Tumkuru
+159.0,2020-03-10,2020-03-24,JEDDA,BENGALURU,Floormill Road,Najarabad,-,Tumkur,Karnataka,572101.0,Tumkuru
+160.0,2020-03-10,2020-03-24,JIDHA,BANGALORE,L-3,Floormill Road,Tumkur,Tumkur,Karnataka,572101.0,Tumkuru
+161.0,2020-03-10,2020-03-24,JIDHA,BANGALORE,-,Masjid Road,-,Tumkur,Karnataka,572101.0,Tumkuru
+162.0,2020-03-10,2020-03-24,JIDDHA,BANGALORE,Floormill Road,Najarabad,-,Tumkur,Karnataka,572101.0,Tumkuru
+163.0,2020-03-10,2020-03-24,JEDDAH,BANGALORE,-,-,Tumkur,Tumkur,Karnataka,572101.0,Tumkuru
+164.0,2020-03-10,2020-03-24,JEDDAH,BANGALORE,326.0,Eidga Mahall,Tumkur,Tumkur,Karnataka,572101.0,Tumkuru
+165.0,2020-03-10,2020-03-24,JEDDAH,BENGALURU,-,"2nd cross, Veerasandra",Tumkur,Tumkur,Karnataka,572101.0,Tumkuru
+166.0,2020-03-10,2020-03-24,JEDDAH,BANGALORE,-,-,Tumkur,Tumkur,Karnataka,572101.0,Tumkuru
+167.0,2020-03-10,2020-03-24,JEDDAH,BANGALORE,326.0,Eidga Mahall,Tumkur,Tumkur,Karnataka,572101.0,Tumkuru
+168.0,2020-03-10,2020-03-24,Bangok,Bengaluru,56.0,Kammasandra,Tumkur,Tumkur,Karnataka,-,Tumkuru
+169.0,2020-03-10,2020-03-24,Bangok,Bengaluru,29.0,Kammasandra,Tumkur,Tumkur,Karnataka,572213.0,Tumkuru
+170.0,2020-03-10,2020-03-24,Baharain,Bengaluru,#35 Megalpete,Sira Taluk,Tumkur,Tumkur,Karnataka,572137.0,Tumkuru
+171.0,2020-03-10,2020-03-24,"PARIS, CBC",BENGALURU,REITZEL,-,-,TUMKUR,KARNATAKA ,572130.0,Tumkuru
+172.0,2020-03-10,2020-03-24,DUBAI,BANGALORE,-,-,Turuveker,Tumkur,karnataka,576002.0,Tumkuru
+173.0,2020-03-10,2020-03-24,DUBAI,BANGALORE,-,Subramaya Nagar,Turuveker,Tumkur,karnataka,576002.0,Tumkuru
+174.0,2020-03-10,2020-03-24,DUBAI,BANGALORE,-,Subramaya Nagar,Turuveker,Tumkur,karnataka,576002.0,Tumkuru
+175.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,tumkur,-,tumkur,Karnataka,572321.0,Tumkuru
+176.0,2020-03-10,2020-03-24,MALDEVES,BENGALURU,SREEVATSA NILAYA,1ST CROSS,VIDYA NAGAR,TUMKUR,KARNATAKA,572105.0,Tumkuru
+177.0,2020-03-10,2020-03-24,-,-,#40,-,-,Tumkur,Karnataka,572102.0,Tumkuru
+178.0,2020-03-10,2020-03-24,Jeddah,Bengaluru,-,Eidgah Mohalla,-,Tumkur,Karnataka,572101.0,Tumkuru
+179.0,2020-03-10,2020-03-24,Jeddah,Bengaluru,-,Eidgah Mohalla,-,Tumkur,Karnataka,572101.0,Tumkuru
+180.0,2020-03-10,2020-03-24,-,-,#40,-,-,Tumkur,Karnataka,512102.0,Tumkuru
+181.0,2020-03-10,2020-03-24,Jeddah,Bengaluru,-,12th Cross,A H Colony,Tumkur,Karnataka,-,Tumkuru
+182.0,2020-03-10,2020-03-24,Jeddah,Bengaluru,-,Bana Palya,Turuvekere,Tumkur,Karnataka,572101.0,Tumkuru
+183.0,2020-03-10,2020-03-24,Jeddah,Bengaluru,-,"12th Cross, B B Road",P H Colony,Tumkur,Karnataka,-,Tumkuru
+184.0,2020-03-10,2020-03-24,Umrah,Bengaluru,8th Cross,P H Colony,-,Tumkur,Karnataka,-,Tumkuru

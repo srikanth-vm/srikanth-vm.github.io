@@ -1,0 +1,718 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,Dubai,Bengaluru,196.0,BN Street,,Mysore,Karnataka,,Mysore
+2.0,2020-03-22,2020-04-05,USA,INDIA,25.0,C.V ROAD,BANIMANTAP,MYSORE,KARNATAKA ,570015.0,Mysore
+3.0,2020-03-22,2020-04-05,QATAR,BENGALURU,-,HUNSURU,-,MYSORE,KARNATAKA,571105.0,Mysore
+4.0,2020-03-22,2020-04-05,Qatar,India,,,Hunsur,Mysore,Karnataka,571105.0,Mysore
+5.0,2020-03-22,2020-04-05,Dubai,Bangalore,101.0,Rajivnagar,-,Mysore,Karnataka,570019.0,Mysore
+6.0,2020-03-22,2020-04-05,Dubai,Bangalore ,#227,Balvatta,-,Mysore,Karnataka,-,Mysore
+7.0,2020-03-22,2020-04-05,"Muscat, Dubai",Bangalore,#547,"16Th Cross, Bogadi",-,Mysore,Karnataka,-,Mysore
+8.0,2020-03-22,2020-04-05,Dubai,Bangalore ,-,Byrankuppa,H D Kotta ,Mysore,Karnataka,571114.0,Mysore
+9.0,2020-03-21,2020-04-04,New Delhi,Bangalore,2.0,Khalal-ul-rehamn Colony,hanumantnagar,Mysore,Karnataka,570015.0,Mysore
+10.0,2020-03-21,2020-04-04,Bangkok,Bangalore,33.0,16th main 17th coss,Vijaynagar 3rd stage,Mysore,Karnataka,570030.0,Mysore
+11.0,2020-03-21,2020-04-04,Muscat,Bengaluru,#154,Bannimantap,-,Mysore,Karnataka,570015.0,Mysore
+12.0,2020-03-21,2020-04-04,Sydney,Bangalore,2817.0,Jayanagar,Mysore,Mysore,Karnataka,570014.0,Mysore
+13.0,2020-03-21,2020-04-04,Johannes Busg,Bangalore,"BLOZ, Sai prath",Lakshmipuram,-,Mysore,Karnataka,570004.0,Mysore
+14.0,2020-03-21,2020-04-04,Melbourne,Bengaluru,"No 350, Infosys Ltd",Hebbal 2Nf Stage,-,Mysore ,Karnataka,5000029.0,Mysore
+15.0,2020-03-21,2020-04-04,Auckland-To-Singapore,Bengaluru,#66,"Ceis Layout, Bogadhi 2Nd Stage Mysore",-,Mysuru,Karnataka,570026.0,Mysore
+16.0,2020-03-21,2020-04-04,Kathmandu,Bengaluru,-,Bailkuppe,-,Mysore,Karnataka,571104.0,Mysore
+17.0,2020-03-21,2020-04-04,Kathmandu,Mysore,-,Bylakuppe Anlikumari,-,Mysore,Karnataka,571104.0,Mysore
+18.0,2020-03-21,2020-04-04,"Katmandu,Np","Bengaluru,In",-,-,Namdorling,Mysore ,Karnataka,-,Mysore
+19.0,2020-03-21,2020-04-04,Australia,Bangalore,22.0,Mananal,Hunsur,Mysore,Karnataka,571105.0,Mysore
+20.0,2020-03-21,2020-04-04,"Katmandu,Np","Bengaluru,In",NYMGMAPA,Bylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+21.0,2020-03-21,2020-04-04,Melbourne,Bangalore,2736.0,V V Mohalla,,Mysore,Karnataka,570002.0,Mysore
+22.0,2020-03-21,2020-04-04,New Delhi,Mysore,DRDO Complex,Hebbal Industrial Complex,,Mysore,Karnataka,,Mysore
+23.0,2020-03-21,2020-04-04,Kathmandu,Bengaluru,#79,Anlykumari,-,Mysore,Karnataka,-,Mysore
+24.0,2020-03-21,2020-04-04,Yangon,Bangalore,No.231,12th cross ,Janatha Nagar,Mysore,Karnataka,570009.0,Mysore
+25.0,2020-03-21,2020-04-04,Kathmandu,Bengaluru,-,Golden Temple,Mysore,Mysore,Karnataka,,Mysore
+26.0,2020-03-21,2020-04-04,Nepal,Bengaluru,8.0,Arli Kumari Nagar,Mysore,Mysore,Karnataka,571104.0,Mysore
+27.0,2020-03-21,2020-04-04,Boston - Usa,Bangalore,182.0,22Nd Cross D Block 12Th Main,Jp Nagar,Mysore,Karnataka,570008.0,Mysore
+28.0,2020-03-21,2020-04-04,Kathmandu,Bangalore,Seva May Monestry,Mysore,Mysore,Mysore,Karnataka,571104.0,Mysore
+29.0,2020-03-21,2020-04-04,Kathmandu,Bengaluru,408.0,Golden Temple Bailkuppe,-,Mysore,Karnataka,-,Mysore
+30.0,2020-03-21,2020-04-04,"Taipei,Taiwan",Bangalore,#328,Near Saint,Antony Church,Mysore,Karnataka,-,Mysore
+31.0,2020-03-21,2020-04-04,Kansas ,Bengaluru,214.0,Marigudi Street,,Mysore,Karnataka,570016.0,Mysore
+32.0,2020-03-21,2020-04-04,Perth,Bangalore,LIG-93,2Nd Stage Kuvempunagar,Mysore,Mysore,Karnataka,570023.0,Mysore
+33.0,2020-03-21,2020-04-04,Dubai,Bangalore,141.0,Istoge mugsor,-,Mysore,Karnataka,570019.0,Mysore
+34.0,2020-03-21,2020-04-04,Yangon,Bangalore,#258 G,1st cross 5th main,"E&F Block, R K nagar",Mysore,Karnataka,570022.0,Mysore
+35.0,2020-03-21,2020-04-04,Aukland to Singapore,Bangalore,66.0,"CEIS Layot, Bogadhi 2nd Stage(s)",Prashanathanagar,Mysore,Karnataka,570026.0,Mysore
+36.0,2020-03-21,2020-04-04,Dubai,Bangalore,#106 model.house,"5Th Main,6Th Cross",-,Mysore,Karnataka,57008.0,Mysore
+37.0,2020-03-21,2020-04-04,Prague Tahiti,Bangalore,#237,Tyaga Marga,Siddarthanagar ,Mysore,Karnataka,570011.0,Mysore
+38.0,2020-03-21,2020-04-04,Bangalore,Bangalore,#427 KONARK,Contour Road,Gokulam ,Mysore,Karnataka,-,Mysore
+39.0,2020-03-21,2020-04-04,Dubai,Bangalore,1.0,Aishwariya Layout,-,Mysore,Karnataka,-,Mysore
+40.0,2020-03-21,2020-04-04,Kathmandu,Bengaluru,-,Kushalnagar,-,Mysore,Karnataka,-,Mysore
+41.0,2020-03-21,2020-04-04,"Katmandu,Np",-,221 NYMGMAPA,Bylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+42.0,2020-03-21,2020-04-04,Tahiti,Bangalore,#237,Tyaga Marga,Siddarthanagar ,Mysore,Karnataka,570011.0,Mysore
+43.0,2020-03-21,2020-04-04,Kathmandu,Bengaluru,-,Golden Temple Bailkuppe,-,Mysore,Karnataka,571104.0,Mysore
+44.0,2020-03-21,2020-04-04,Delhi,Bengaluru,,Malakalli,,Mysore,Karnataka,571424.0,Mysore
+45.0,2020-03-21,2020-04-04,Oman(Muscat),Bangalore,#551,10Th Cross Tank Road,N.R Mohalla,Mysore,Karnataka,570007.0,Mysore
+46.0,2020-03-21,2020-04-04,Melbourne,Bangalore,2759.0,V V Mohalla,,Mysore,Karnataka,570002.0,Mysore
+47.0,2020-03-21,2020-04-04,Bangkok,Banglore,#30,Roopa Nagar,Mysoor,Mysoor,Karnataka,570020.0,Mysore
+48.0,2020-03-21,2020-04-04,Bali,Bengaluru,1.0,Karanji Layout,-,Mysore ,Karnataka,570011.0,Mysore
+49.0,2020-03-21,2020-04-04,Auckland-Singapore,Bengaluru,#66,Ceis Layout,"Prashantha Nagar, Bogadhi 2Nd Stage(S)",Mysuru,Karnataka,570026.0,Mysore
+50.0,2020-03-21,2020-04-04,"Katmandu,Np","Bengaluru,In",225.0,Golden Temple,-,Mysore ,Karnataka,571104.0,Mysore
+51.0,2020-03-21,2020-04-04,Delhi,Bengaluru,56.0,Peryapatnan Palya,,Mysore,Karnataka,571104.0,Mysore
+52.0,2020-03-21,2020-04-04,Sydney,Bangalore,241.0,Hpo & Rms Colony,Sakthinagar,Mysore,Karnataka,570029.0,Mysore
+53.0,2020-03-21,2020-04-04,Dubai,Bangalore,"116/B, I block",Ramkrishna Nagar,-,Mysore,Karnataka,570022.0,Mysore
+54.0,2020-03-21,2020-04-04,Singapore,Bangalore,2716/L 1st Cross,Snake Sham Road,Vijayanagar 2nd Stage,Mysore,Karnataka,570012.0,Mysore
+55.0,2020-03-21,2020-04-04,Atlanta USA,Bangalore,"D.No LL-4/A, 6th Cross, 2nd Main",Vivekanadanagar,Mysore,Mysore,Karnataka,570023.0,Mysore
+56.0,2020-03-21,2020-04-04,Melbourne,Mysore,#777,Contour Road,Gokulam 3Rd Stage,Mysore,Karnataka,570002.0,Mysore
+57.0,2020-03-21,2020-04-04,"Katmandu,Np","Bengaluru,In",264.0,Golden Temple,-,Bangalore,Karnataka,571104.0,Mysore
+58.0,2020-03-21,2020-04-04,Hanoi,Bangalore,#214,3Rd Main Road,Jayalakshmipuram,Mysore,Karnataka,570012.0,Mysore
+59.0,2020-03-21,2020-04-04,Melbourne,Mysore,#777,Contour Road,Gokulam 3Rd Stage,Mysore,Karnataka,570002.0,Mysore
+60.0,2020-03-21,2020-04-04,Nepal,Bengaluru,8.0,Arli Kumari Nagar,Mysore,Mysore,Karnataka,571104.0,Mysore
+61.0,2020-03-21,2020-04-04,Kathmandu,Bengaluru,208.0,Golden Temple Bailkuppe,-,Mysore,Karnataka,-,Mysore
+62.0,2020-03-21,2020-04-04,Nepal,Bengaluru,8.0,Arli Kumari Nagar,Mysore,Mysore,Karnataka,571104.0,Mysore
+63.0,2020-03-21,2020-04-04,Sydney,Bangalore,875 Manjunatha nilaya,Bogadi,Mysore,Mysore,Karnataka,570026.0,Mysore
+64.0,2020-03-21,2020-04-04,Kathmandu,Bengaluru,215.0,Golden Temple Bailkuppe,-,Mysore,Karnataka,-,Mysore
+65.0,2020-03-21,2020-04-04,Auckland-Singapore,Bengaluru,#66,"Ceis Layout, Bogadhi 2Nd Stage Mysore",-,Mysuru,Karnataka,570026.0,Mysore
+66.0,2020-03-21,2020-04-04,Sydney,Bangalore,2817.0,Jayanagar,Mysore,Mysore,Karnataka,570014.0,Mysore
+67.0,2020-03-20,2020-04-03,Dubai,Bangalore,"#754, 12th cross",Rajiv Nagar,2Nd Stage,Mysore,Karnataka,570019.0,Mysore
+68.0,2020-03-20,2020-04-03,Los Angeles ,Bangalore ,878/4A,Dewans Road Lakshmipuram,Mysore,Mysore ,Karnataka ,570004.0,Mysore
+69.0,2020-03-20,2020-04-03,Charlotte,Bangalore,"APT 301, siddarthnagar",Kc Layout,-,Mysore,Karnataka,280211.0,Mysore
+70.0,2020-03-20,2020-04-03,Canberra Australia,Karnataka Bangalore,#361,10Th Cross,"Ch Road , J C Layout",Mysuru,Karnataka,570011.0,Mysore
+71.0,2020-03-20,2020-04-03,Melbourne,Bangalore,48.0,"2Nd Cross,Kalyangiri Nagar",Near Triveni Circle,Mysore,Karnataka,570019.0,Mysore
+72.0,2020-03-20,2020-04-03,"Dubai, Uae",Banaglore,-, #1 1/2,Pakshirajpura,Honsur,Mysuru,Karnatak,Mysore
+73.0,2020-03-20,2020-04-03,Melbourne,Banglore,#5177,H.T Double Road,Vijayanagar 2Nd Stage,Mysore,Karnataka,570017.0,Mysore
+74.0,2020-03-20,2020-04-03,Canada Montreal,Bangalore,135.0,3Rd Main Cross,Niveditha Nagar,Mysore,Karnataka,570024.0,Mysore
+75.0,2020-03-20,2020-04-03,Canberra Australia,Bangalore,#361,10Th Cross,"Ch Road , J C Layout",Mysuru,Karnataka,570011.0,Mysore
+76.0,2020-03-20,2020-04-03,Dubai,Bangalore,"#128, EWS","6Th Main, 3Rd Stage",-,Gokulam,Karnataka,570020.0,Mysore
+77.0,2020-03-20,2020-04-03,Melborne,Bangalore,#2272,Rajiv Nagar,-,Mysore,Karnataka,570019.0,Mysore
+78.0,2020-03-20,2020-04-03,Uae,Bangalore,149.0,1St Cross,Rajiv Nasar,Mysore,Karnataka,570019.0,Mysore
+79.0,2020-03-20,2020-04-03,Singapore,Bangalore,335.0,"7Th Cross, C Layout",Bannimantap,Mysore,Karnataka,570015.0,Mysore
+80.0,2020-03-20,2020-04-03,"Muscat, Oman",Bangalore,"364, 2nd phase",Vijayanagar,M,Mysore,Karnataka,570008.0,Mysore
+81.0,2020-03-20,2020-04-03,Sydney,Bangalore,"07HS, NO.3","K Block 1St Stage, Adichunchangiri Road",Kuvempu Nagar,Mysore,Karnataka,570023.0,Mysore
+82.0,2020-03-20,2020-04-03,Indonesia- Surabager- Bangkok,Bangalore,c-4,"Telecom Stgg Quaores,Telphone Excharng","Gokulam,V.V Mohalla",Mysore,Karnataka,570002.0,Mysore
+83.0,2020-03-20,2020-04-03,Detriot/Usa,Bangalore,"Lakshminivas , Bagaria Layout","Near Tapcms Godown, R.P Road,12Th Cross",Nanjangud,Mysore,Karnataka,1571301.0,Mysore
+84.0,2020-03-20,2020-04-03,Dubai,Bangalore,32.0,Tiger Plant,-,Mysore,Karnataka,571114.0,Mysore
+85.0,2020-03-20,2020-04-03,Hong Kong,Bangalore,"#268, Teacher's Layout",Basavesvara Nagar,Yeraganahalli ,Mysore,Karnataka,570029.0,Mysore
+86.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,-,-,Mysore,Karnataka,570019.0,Mysore
+87.0,2020-03-20,2020-04-03,"Dubai, Uae",Banaglore,-,-,Pukoshirajpuar,Hunsur,Mysuru,Karnatak,Mysore
+88.0,2020-03-20,2020-04-03,Melbourne,Banglore,#5177,H.T Double Road,Vijayanagar 2Nd Stage,Mysore,Karnataka,570017.0,Mysore
+89.0,2020-03-20,2020-04-03,Sigapore,B'Lore,"740,DB Garden port","Mohelle Mesthi,Mysore",-,-,Karnataka,-,Mysore
+90.0,2020-03-20,2020-04-03,Abudhabi,Bangalore ,380.0,1St Cross ,Raji Nagar ,Mysore ,Karnataka ,570019.0,Mysore
+91.0,2020-03-19,2020-04-02,Uk (London-Heathrow),Bangalore,"#C, Sankalpa Sappthire","5Th Main, Vv Mohalla",-,Mysore,Karnataka,570002.0,Mysore
+92.0,2020-03-19,2020-04-02,Dubai,Bangalore,22.0,Beml Layout,-,Mysore,Karnataka,570023.0,Mysore
+93.0,2020-03-19,2020-04-02,Male,Bangalore,4312/2 1st cross,Gandhinagar,Mysore,Mysore,Karnataka,570007.0,Mysore
+94.0,2020-03-19,2020-04-02,Jakarta,Bangalore,#10 Kausalya,Girigowda Marg Telecom Layout,-,Mysore,Karnataka,570009.0,Mysore
+95.0,2020-03-19,2020-04-02,Dubai,Bangalore,101 NR Mohalla,-,Mysore,Mysore,Karnataka,-,Mysore
+96.0,2020-03-19,2020-04-02,Dubai,Bangalore,"164, NR Mohalla",Mysore,Mysore,Mysore,Karnataka,570007.0,Mysore
+97.0,2020-03-19,2020-04-02,London,Bangalore,404.0,Murallinagar,Kanuru,Vijaywada,Andhrapradesh,570008.0,Mysore
+98.0,2020-03-19,2020-04-02,Narita-Japan,Bangalore,#74,5Th Main Road,"M Block, Kuvempunagar",Mysore,Karnataka,570023.0,Mysore
+99.0,2020-03-19,2020-04-02,London,Bangalore,#1346,Pachamantra Road Kuvempunagal,-,Mysuru,Karnataka,570023.0,Mysore
+100.0,2020-03-19,2020-04-02,Delhi,Banaglaore,24.0,Rmp Layout ,Vijayanagar 4Th Stage,Mysore,Karnataka,570032.0,Mysore
+101.0,2020-03-19,2020-04-02,Sydney,Bangalore,1864.0,"2Nd Cross, 2Nd Main, K Block",Kuvempunagar,Mysore,Karnataka,570023.0,Mysore
+102.0,2020-03-19,2020-04-02,Chicago,Bangalore,"#2, 22nd Block","3Rd Cross, 4Th Main",Shakthinagar,Mysore,Karnataka,570019.0,Mysore
+103.0,2020-03-19,2020-04-02,Chicago,Banglore,"#2, 22nd Block","3Rd Cross, 4Th Main","Shakathinagar, Mysore",Mysore,Karnataka,570019.0,Mysore
+104.0,2020-03-19,2020-04-02,Germany,Bengaluru,#327/A,5Th Cross 7Th Main E Block,-,Mysuru,Karnataka,570003.0,Mysore
+105.0,2020-03-19,2020-04-02,Amsterdam,Bangalore,#558,Ramakrishna Nagae I Block,-,Mysore,Karnataka,570022.0,Mysore
+106.0,2020-03-19,2020-04-02,London,Bangalore,"58, Century park",-,Mysore,Mysore,Karnataka,570010.0,Mysore
+107.0,2020-03-19,2020-04-02,London,Bangalore,"Gitanjali Farm,Siddhartha Nagar",Mysore,Mysore,Mysore,Karnataka,57001.0,Mysore
+108.0,2020-03-19,2020-04-02,Dubai,Bangalore,1198 Kesare 2nd Stage,Mysureu,-,Mysuru,Karnataka ,570007.0,Mysore
+109.0,2020-03-19,2020-04-02,H I A Doha,Banglore,2027.0,2Nd Stage,Rajivnagar,Mysore,Karnataka,570019.0,Mysore
+110.0,2020-03-19,2020-04-02,Delhi,Bangalore,4627,16Th Main,Vijayanagar 2Nd Stage,Mysuru,Karnataka,570017.0,Mysore
+111.0,2020-03-19,2020-04-02,Sydney,Bangalore,1864.0,"2Nd Cross, 2Nd Main, K Block",Kuvempunagar,Mysore,Karnataka,570023.0,Mysore
+112.0,2020-03-19,2020-04-02,Adelaide,Bangalore,#110,"4Th Cross, Gangothri Layout",-,Mysore,Karnataka,570009.0,Mysore
+113.0,2020-03-19,2020-04-02,"Cairo,Egypt",Bangalore,"26,Paramahamsa Road",Yadavagiri,Mysore,Mysore,Karnataka,570020.0,Mysore
+114.0,2020-03-19,2020-04-02,Amsterdam,Bangalore,#558,Ramakrishna Nagae I Block,-,Mysore,Karnataka,570022.0,Mysore
+115.0,2020-03-19,2020-04-02,Delhi,Bangalore,no.22,Adipama Road 1St Cross,Mohalla,Mysorecity,Karnataka,570002.0,Mysore
+116.0,2020-03-19,2020-04-02,Jakarta,Bangalore,-,Vaddarahalli,-,Mysore,Karnataka,571102.0,Mysore
+117.0,2020-03-19,2020-04-02,Abu Dhabi,Bangalore,"Alder , B401,Godrej Woodsman Estate",Hebbal,Bangalore,Bangalore,Karnataka,570024.0,Mysore
+118.0,2020-03-19,2020-04-02,Dubai,Bangalore,32.0,Tiger Block,-,Mysore,Karnataka,571114.0,Mysore
+119.0,2020-03-19,2020-04-02,"London,Uk",Bangalore,#25/1c 7th cross,78Th Main Vinayakanagar,Mysuru,Mysuru,Karnataka,5700012.0,Mysore
+120.0,2020-03-19,2020-04-02,Minich,Bengaluru,3021.0,24Th Main 24Th Cross,2Nd Stage Vijaynager ,Mysuru,Karnataka,570017.0,Mysore
+121.0,2020-03-19,2020-04-02,Adelaide,Bangalore,110.0,"4Th Cross, Gangothri Layout",-,Mysore,Karnataka,570009.0,Mysore
+122.0,2020-03-19,2020-04-02,Amsterdam,Bangalore,#558,Ramakrishna Nagae I Block,-,Mysore,Karnataka,570022.0,Mysore
+123.0,2020-03-19,2020-04-02,Egypt,Bangalore,"26, 1st Main , Paramahamsari",Mysore,Mysore,Mysore,Karnataka,570020.0,Mysore
+124.0,2020-03-19,2020-04-02,Sharjah,Bangalore,#344,Mosque Road,Nazerbad,Mysore,Karnataka,570010.0,Mysore
+125.0,2020-03-19,2020-04-02,Sharjah,Bangalore,77-1,Haleyur Badanane,K R Nagar(T),Mysore,Karnataka,571617.0,Mysore
+126.0,2020-03-19,2020-04-02,Abu Dhabi,Bangalore,"Alder , B401,Godrej Woodsman Estate",Hebbal,Bangalore,Bangalore,Karnataka,570024.0,Mysore
+127.0,2020-03-19,2020-04-02,Dubai,Bangalore,"13/184, Shariff Mohalla",Mysore,Mysore,Mysore,Karnataka,571101.0,Mysore
+128.0,2020-03-18,2020-04-01,Sweden,Bengaluru,237.0,E Block Sbm Layout,Bogadi Post,Mysore,Karnataka,570026.0,Mysore
+129.0,2020-03-18,2020-04-01,Dubai,Bangalore,23 shri vidhayalaya,5Th Block Rk Nagar,-,Mysore,Karnataka,570023.0,Mysore
+130.0,2020-03-18,2020-04-01,Usa,Bangalore,409.0,Devamba Agrahara,Krishnaraja ,Mysore,Karnataka,570024.0,Mysore
+131.0,2020-03-18,2020-04-01,Manchester,Bangalore,993-Ss nagar,-,B Layout,Mysore,Karnataka,570015.0,Mysore
+132.0,2020-03-18,2020-04-01,Manchester,Bangalore,1497.0,23Rd Cross 30Th Main,Jp Nagar,Mysore,Karnataka,570031.0,Mysore
+133.0,2020-03-18,2020-04-01,Berlin,Bangalore,625.0,19Th Cross,Vidyaranya Puram,Mysore,Kerala,570008.0,Mysore
+134.0,2020-03-18,2020-04-01,Dubai,Bangalore,1917.0,4Th Main,Hebbal,Mysore,Karnataka,570017.0,Mysore
+135.0,2020-03-18,2020-04-01,Paris,Bangalore,"22, Kamlesh Estates","Door-22, Guntur",-,Guntur,Ap,570002.0,Mysore
+136.0,2020-03-18,2020-04-01,Germany,Bangalore,no 19 ,East  Of Wenigan,Achari Colony,Bengaluru,Karnataka,570019.0,Mysore
+137.0,2020-03-18,2020-04-01,Manchester ,Bangalore,#50 LIC COLONY,3Rd Cross Srirampura,2Nd Stage,Mysore,Karnataka,570023.0,Mysore
+138.0,2020-03-18,2020-04-01,London,Bengaluru,88/A,-,Jayalakshmi Puram,Mysore,Karnataka,-,Mysore
+139.0,2020-03-18,2020-04-01,Dublin,Bangalore,48/A,"1St Cross, 4Th Block",Jayalakshmi Puram,Mysore,Karnataka,570012.0,Mysore
+140.0,2020-03-18,2020-04-01,Dubai,Bengaluru,23.0,Jp Nagar,-,Mysore,Karnataka,570008.0,Mysore
+141.0,2020-03-18,2020-04-01,United Kingdom,Bangalore,"67,M 14-2",Khb Colony Hootagalli,-,Mysore,Karnataka,570018.0,Mysore
+142.0,2020-03-18,2020-04-01,Amsterdam,Bengaluru,#458,Ganesh Temple,-,Mysuru,Karnataka,576004.0,Mysore
+143.0,2020-03-18,2020-04-01,Dubai,Bangalore,23 shri vidhayalaya,5Th Block Rk Nagar,-,Mysore,Karnataka,570023.0,Mysore
+144.0,2020-03-18,2020-04-01,Stuggart,Bangalore,46.0,Cftri Layout,Bogadi,Mysuru,Karnataka,570026.0,Mysore
+145.0,2020-03-18,2020-04-01,Switzerland,Mysore,560/T,Damodhar Layout,Alanahalli,Mysore,Karnataka,570028.0,Mysore
+146.0,2020-03-18,2020-04-01,Singapore,Bangalore,"13, 1st Main",1St Cross,"Kandaya Nagarg, Srirampura 2Nd Stage",Mysore,Karnataka,570023.0,Mysore
+147.0,2020-03-18,2020-04-01,Usa,Bangalore,211.0,"M Block, 9Th Cross 2Nd Stage",Kuvempunagara,Mysore,Karnataka,570023.0,Mysore
+148.0,2020-03-18,2020-04-01,Bangkok,Bangalore,"#19, Serameg House",Po- Bylahusse,-,Mysuru,Karnataka,571104.0,Mysore
+149.0,2020-03-18,2020-04-01,Manchester,Bangalore,No MIG3 2nd stage E&F Block,Ramakrishna Nagar Mysore,-,Mysore,Karnataka,570022.0,Mysore
+150.0,2020-03-18,2020-04-01,Dubai,Bangalore,2744.0,Rasool Khan,-,Mysore,Karnataka,570021.0,Mysore
+151.0,2020-03-18,2020-04-01,Switzerland,Bangalore,"560/I, Shivam",A1Anahalli,-,Mysore,Karnataka,570028.0,Mysore
+152.0,2020-03-18,2020-04-01,Dubai,Bengaluru,949.0,Hunsur,-,Bengaluru,Karnataka,571105.0,Mysore
+153.0,2020-03-18,2020-04-01,Abudhabi,Banglore ,#6/b,1St Stage Ist Cross ,Gayatri Purasor,Mysore,Karnataka,570019.0,Mysore
+154.0,2020-03-18,2020-04-01,Maldives,"Banglore, India",46/3,Valmiki Road,V.V Mohally,Mysore,Karnataka,570020.0,Mysore
+155.0,2020-03-18,2020-04-01,"Frankfruit, Germany",Bangalore,No-142,Gudumadana Halli,Vasuna Hobli,Mysore,Karnataka,570025.0,Mysore
+156.0,2020-03-18,2020-04-01,Paris(Cdg),"Bangalore, India",29521B,"2Nd Cross, 1St Main",Saraswathi Puram,Mysore,Karnataka,570009.0,Mysore
+157.0,2020-03-18,2020-04-01,United Kingdom,Banglore ,#HIG-29,Group 1,Khb Colony Hootagalli,Mysore,Karnataka,570018.0,Mysore
+158.0,2020-03-18,2020-04-01,Amsterdam,Bengaluru,4281.0,11B Main Road 3Rd Cross ,Kanakadasa Nagar,Mysore,Karnataka,570023.0,Mysore
+159.0,2020-03-18,2020-04-01,Stuggart,Bangalore,"41M, first floor",E&F Block,Ramakrishnanagara,Mysore,Karnataka,570022.0,Mysore
+160.0,2020-03-18,2020-04-01,Dubai,Bangalore,24.0,9Th Main 7Th Cross,Sarswathipura,Mysore,Karnataka,570009.0,Mysore
+161.0,2020-03-18,2020-04-01,Paris,"Banglore, India",2.0,"Aishwarya Layout, Bhind Christ Public School",,Mysore,Karnataka,570026.0,Mysore
+162.0,2020-03-18,2020-04-01,London Uk,"Bengaluru, India",#68,6Th Cross ,Malleshwaram,Bangalore,Karnataka,570003.0,Mysore
+163.0,2020-03-18,2020-04-01,Frankfurt,Bangalore,A/3,Behind New Kantharaja Ursroad,Kuvempunagar,Mysore,Karnataka,570023.0,Mysore
+164.0,2020-03-18,2020-04-01,Sydney,Bangalore,2885.0,"Pampapati Road, 3Rd Cross",Saraswatipuram,Mysuru,Karnataka,570009.0,Mysore
+165.0,2020-03-18,2020-04-01,Dubai,Bangalore,HIG/1A,N.R,-,Mysore,Karnataka,570007.0,Mysore
+166.0,2020-03-18,2020-04-01,"Belfast,Uk",Bangalore,"#12, 1st Stage",Industrial Subrub Vishweshwara,Nagar,Mysore,Karnataka,570008.0,Mysore
+167.0,2020-03-18,2020-04-01,Stuggart,Bangalore,-,Bogadi,Mysore,Mysore,Karnataka,570026.0,Mysore
+168.0,2020-03-18,2020-04-01,Muscat,Bangalore,1221.0,"2Nd Cross, 2Nd Main",Srirampura,Mysore,Karnataka,570023.0,Mysore
+169.0,2020-03-18,2020-04-01,Jakarta,"Bangalore, India",-,Khhallu,Mysore,Mysore,Karnataka,570007.0,Mysore
+170.0,2020-03-18,2020-04-01,Egypt,Bangalore,"71, 1st floor",1St Cross,Minishamba Layout,Mysore,Karnataka,570023.0,Mysore
+171.0,2020-03-18,2020-04-01,Munich,Bangalore,3021.0,24Th Main 24Th Cross,2Nd Stage Vijaynagar,Mysore,Karnatka,570017.0,Mysore
+172.0,2020-03-18,2020-04-01,Dubai,Bengaluru,"23,20", Jp Nagar,-,Mysore,Karnataka,570008.0,Mysore
+173.0,2020-03-18,2020-04-01,Dubai,Bangalore,23 shri vidhayalaya,5Th Block Rk Nagar,-,Mysore,Karnataka,570023.0,Mysore
+174.0,2020-03-18,2020-04-01,Dubai,Bangalore,54.0,"Bada Makesh, Tippu Circle",-,Mysore,Karnataka,570007.0,Mysore
+175.0,2020-03-18,2020-04-01,London Uk,"Bengaluru, India","#635/A4, 1st Floor",Bagadhi Bank,Colony,Mysore,Karnataka,570026.0,Mysore
+176.0,2020-03-18,2020-04-01,Dubai,Mysore,Doddunureni,-,-,Mysore,Karnataka,571102.0,Mysore
+177.0,2020-03-18,2020-04-01,Egypt,Bangalore,"71, 1st floor",1St Cross,Minishamba Layout,Mysore,Karnataka,570023.0,Mysore
+178.0,2020-03-18,2020-04-01,Dubai,Bangalore,"23,20th main road",D Block,J P Nagar,Mysore,Karnataka,570008.0,Mysore
+179.0,2020-03-17,2020-03-31,Dubai,India,E 632,"Bridge Mountain View Gp Crt Movt, Beside Jss Multi",-,Mysore,Karnataka,570004.0,Mysore
+180.0,2020-03-17,2020-03-31,Dubai ,Banglore,413/319,"Shabir Nagar, Hunsur",Hunsur,Mysore,Karnataka ,571105.0,Mysore
+181.0,2020-03-17,2020-03-31,Dubai,Bangalore,34/4 A LAYOUT,-,-,Mysore,Karnataka,570015.0,Mysore
+182.0,2020-03-17,2020-03-31,Qatar ,Bangalore,392/5/A,9Th Crose Shivaji Rd,Nr Mohalla,Mysore,Karnataka,570007.0,Mysore
+183.0,2020-03-17,2020-03-31,Doha,Bangalore,"39LS/A, 9TH CRS",Shivaji Road,Nr Mbhalli,Mysore,Karnataka,570007.0,Mysore
+184.0,2020-03-17,2020-03-31,London Heathrow Dubai,Kempegowda Inte Airport Banglore,"#106,3RD MAIN",Bannimantap,-,Mysore,Karnataka,570015.0,Mysore
+185.0,2020-03-17,2020-03-31,Nepal Kathmandu,Bangalore,16 BLACK 28,Sbm Colony Sriramapura,-,Mysore,Karnataka,570023.0,Mysore
+186.0,2020-03-17,2020-03-31,Malaysia,Bangalore,"#12,6TH MAIN",2Block,Jayalakshmipuram,Mysore,Karnataka,570012.0,Mysore
+187.0,2020-03-17,2020-03-31,Dubai,India,"2/53, P","Bridge Mountain View Gp Crt Movt, Beside Jss Multi",-,Mysore,Karnataka,570004.0,Mysore
+188.0,2020-03-17,2020-03-31,Nepal,Banglore,#1,Datta Threya Templeroadmain Road,-,Bangalore,Karnataka,570004.0,Mysore
+189.0,2020-03-17,2020-03-31,Qatez,Bangalore,2977/IC,5Th Main,V.V. Mohalla,Mysore,Karnataka,570002.0,Mysore
+190.0,2020-03-17,2020-03-31,New York,Bangalore,9.0,"8Th Main, 8Th Cross",-,Mysore,Karnataka,570009.0,Mysore
+191.0,2020-03-17,2020-03-31,Kathmandu,Banglore,"202,AISHWARYA SIGNUM",Sera-Mey Monastery,Bylakuppe,Mysore,Karnataka,571104.0,Mysore
+192.0,2020-03-17,2020-03-31,Mauritis,Banglore ,NO.731ESF BLOCK,Kuvempunagar,-,Mysore,Karanatka,570023.0,Mysore
+193.0,2020-03-17,2020-03-31,Uae,Bangalore,#216,-,-,Mysour,Karnataka,571107.0,Mysore
+194.0,2020-03-17,2020-03-31,Birmingham Uk,Bangalore,#1037 PRENA,5Th Main Cross E&F Block,Ramakrishna Nagar,Mangalore,Karnataka,570023.0,Mysore
+195.0,2020-03-17,2020-03-31,Doha Qatar,Bangalore,3915/A,9Th Crose Shivaji Road,Nr Mohalla,Mysore,Karnataka,570007.0,Mysore
+196.0,2020-03-17,2020-03-31,Dubai,Mangaluru,24.0,Giridarshini ,PG Palya ,Mysore ,Karnataka,571440.0,Mysore
+197.0,2020-03-17,2020-03-31,Birmingham Uk,Bangalore,#1037 PRENA,5Th Main Cross E&F Block,Ramakrishna Nagar,Mysore,Karnataka,570023.0,Mysore
+198.0,2020-03-17,2020-03-31,Safrancesco,Bangaluru,857.0,2Ndcross Aravindanagar,Mysore,Mysore,Karnataka,570023.0,Mysore
+199.0,2020-03-17,2020-03-31,Kathmandu,Banglore,-,Nying Mapa Monastry,Bylakuppe,Mysore,Karnataka,-,Mysore
+200.0,2020-03-17,2020-03-31,Kathmandu,Bangalore,20.0,Sermey_Tsangpa,-,Mysore,Karnataka,571104.0,Mysore
+201.0,2020-03-17,2020-03-31,London,Banglore ,1557 11TH CROSS 9TH MAIN,1St Stage Sriramapura,-,Mysore,Karanatka,570023.0,Mysore
+202.0,2020-03-17,2020-03-31,Bali,Bangalore,646/647,Poojya Nilaya,22Nd/A Cross, Mysore,Karnataka,570030.0,Mysore
+203.0,2020-03-17,2020-03-31,Doha,Bangalore,2927.0,2 Phase ,Rajeevaagar,Mysore,Karnataka,570019.0,Mysore
+204.0,2020-03-17,2020-03-31,Kathmandu,Banglore,"#16,BLOCK28",Sbmcolony Srirampura 2Ndstage,-,Mysore,Karnataka,570023.0,Mysore
+205.0,2020-03-17,2020-03-31,Muscat,Banglore,"697,2NDMAIN",15Thcross,B.M Srinagar,Mysore,Karnataka,570016.0,Mysore
+206.0,2020-03-17,2020-03-31,Ktm,Banglore,9206624213.0,Sera Monstery,N,Mysore,Karnataka,571104.0,Mysore
+207.0,2020-03-17,2020-03-31,New York,Bangalore,9.0,"8Th Main, 8Th Cross",-,Mysore,Karnataka,570009.0,Mysore
+208.0,2020-03-17,2020-03-31,New York,Bangalore,9.0,"8Th Main, 8Th Cross",-,Mysore,Karnataka,570009.0,Mysore
+209.0,2020-03-17,2020-03-31,Muscat,Bangaluru,35.0,Shivaji Road,N.R. Mohalla,Mysore,Karnataka ,570007.0,Mysore
+210.0,2020-03-17,2020-03-31,Doha Qatar,Bangalore,2977/1C,Conservaucy Lovl 5Th Main V.V Mohalli,-,Mysore,Karnataka,570002.0,Mysore
+211.0,2020-03-17,2020-03-31,Montreal ,Bangalore,"18, AD NO 2924",V.V. Mohalla ,-,Mysore,Karnataka,510002.0,Mysore
+212.0,2020-03-17,2020-03-31,Muscat,Banglore,"697,2NDMAIN",15Thcross,B.M Srinagar,Mysore,Karnataka,570016.0,Mysore
+213.0,2020-03-17,2020-03-31,Melbourne,Bangalore,99.0,Sai Sadana Pearlhabitat,Vijayanagar 4Th Stage,Mysore,Karnataka,570017.0,Mysore
+214.0,2020-03-17,2020-03-31,Seattle(Usa),Bengaluru,303.0,Royal Clail Layout,Bogadi Gaddige Rd,Mysore,Karnataka ,570026.0,Mysore
+215.0,2020-03-17,2020-03-31,"Kl,Malaysia",Bangalore,39/2675 36a cross,9Th Blck,Jayanagar,Bangalore,Karanataka,570014.0,Mysore
+216.0,2020-03-17,2020-03-31,Bah ,Blr,# 147,3Rd Main Kalyangri,-,Mysore,Karnataka ,570019.0,Mysore
+217.0,2020-03-17,2020-03-31,Dubai,India,E 632,"Bridge Mountain View Gp Crt Movt, Beside Jss Multi",-,Mysore,Karnataka,570004.0,Mysore
+218.0,2020-03-17,2020-03-31,Dubai,Bangalore,2738/1,2Nd Cross 2Nd Main,Medakeri,Mysore,Karnataka,570004.0,Mysore
+219.0,2020-03-17,2020-03-31,Dubai,Mysore,537/N2NE,N.R Mohelli,-,Mysour,Karnataka,570007.0,Mysore
+220.0,2020-03-17,2020-03-31,New York,Bangalore,9.0,"8Th Main, 8Th Cross",-,Mysore,Karnataka,570009.0,Mysore
+221.0,2020-03-17,2020-03-31,Mauritis,Banglore ,NO.731ESF BLOCK,Kuvempunagar,-,Bangalore,Karanatka,570023.0,Mysore
+222.0,2020-03-17,2020-03-31,Bali,Bangalore,646/647,"Poojya Nilaya,22/A Cross",Vijayanagara Post Office 3Rd Stage,Mysore,Karnataka,570030.0,Mysore
+223.0,2020-03-17,2020-03-31,Raleigh,Bangalore,No. 114,Gokulam Road,Jayalaxmipuram,Mysore,Karnataka,570012.0,Mysore
+224.0,2020-03-17,2020-03-31,England,London,43.0,1St Pakshirjadwa,-,Mysore,Karnataka,571105.0,Mysore
+225.0,2020-03-17,2020-03-31,Aeattle (Usa0,Bengaluru,303.0,Royal Clail Layout,Bogadi Gaddige Rd,Mysore,Karnataka ,570026.0,Mysore
+226.0,2020-03-16,2020-03-30,Sydney,Bengaluru,#208,Kbl Gardenila Vijayanagar 4Th Stage,-,Mysuru,Karnataka,570032.0,Mysore
+227.0,2020-03-16,2020-03-30,"Hamad, Doha ",Bangalore,"#76, sheriff house ",A Layout Bannimatap,-,Mysore ,Karnataka ,570015.0,Mysore
+228.0,2020-03-16,2020-03-30,Dhubai,Bangaluru,@224,Mysure,-,-,Mysure,570007.0,Mysore
+229.0,2020-03-16,2020-03-30,Abu Dhabi,Bangalore,M 89 ,Hottagallu,Belavadi Post,Mysore,Karnataka,571186.0,Mysore
+230.0,2020-03-16,2020-03-30,"Doha , Qatar ",Bangalore,"#76, sheriff house ",A Layout Bannimatap,-,Mysore ,Karnataka ,570015.0,Mysore
+231.0,2020-03-16,2020-03-30,Dublin,Bangalore,Flot no 102 ,Iris Apt Yadavgiri,Mysore,Bangalore,Karnataka,570020.0,Mysore
+232.0,2020-03-16,2020-03-30,New Zealand,Bengaluru,#55,Jayalakshmipuram,-,Mysuru,Karnataka,570012.0,Mysore
+233.0,2020-03-16,2020-03-30,Bali,Bangalore,# 469,Nanjangud Road,T Narsipura,Mysore,Karnataka,571124.0,Mysore
+234.0,2020-03-16,2020-03-30,New Zealand,Bengaluru,#55,8Thmain 3Rd Block,-,Mysuru,Karnataka,570012.0,Mysore
+235.0,2020-03-16,2020-03-30,Dubai,"Banaglore, India",27.0,5Th Main,Subash Nagar,Mysore ,Karnataka,570007.0,Mysore
+236.0,2020-03-16,2020-03-30,Dublin,Bangalore,Flot no 102 ,Iris Apt Yadavgiri,Mysore,Bangalore,Karnataka,570020.0,Mysore
+237.0,2020-03-16,2020-03-30,Manila,Bangalore,# 59,Srp Road Opp Govt Hospital Ward No - 05,Bannur - T Narsipura,Mysore,Karnataka,571101.0,Mysore
+238.0,2020-03-16,2020-03-30,Ireland,Bengaluru,#78 6th cross,Kc Layout,-,Mysuru,Karnataka,570011.0,Mysore
+239.0,2020-03-16,2020-03-30,Birmingham,Bangalore,#55 DVC layout,Ramakrishnanagar,-,Mysore,Karnataka,570023.0,Mysore
+240.0,2020-03-16,2020-03-30,Australia,Bengaluru,#208shivaganga,Kbl Gardenila,Vijaynagar 4Th Stage,Mysuru,Karnataka,570032.0,Mysore
+241.0,2020-03-16,2020-03-30,Zurich ,Bangalore,1008.0,I-Block ,-,Mysore ,Karnataka ,570022.0,Mysore 
+242.0,2020-03-16,2020-03-30,Bali,Bangalore,# 255,"4Th Main, 6Th Cross, Siddlingeshwara Layout",Jp Nagar,Mysore,Karnataka,570008.0,Mysore
+243.0,2020-03-16,2020-03-30,Kualalampur,Bangalore,Mysure village,-,-,Madepara,Karnataka,-,Mysore
+244.0,2020-03-16,2020-03-30,Dubai,Bangalore,353 2nd Block,Koppa,Koppa,Mysore,Karnataka,571104.0,Mysore
+245.0,2020-03-16,2020-03-30,Usa,Bangalore,156.0,8Th Main ,Hebbal 1St Stage,Mysore,Karnataka,570016.0,Mysore
+246.0,2020-03-16,2020-03-30,Malaysia,Bangalore,Mysure village,-,-,Madepara,Karnataka,-,Mysore
+247.0,2020-03-16,2020-03-30,Dubai,Mysore,G-4,Tranquil Blue Apartment,Jayalakshimipuram,Mysore,Karnataka,570012.0,Mysore
+248.0,2020-03-16,2020-03-30,Bali,Bangalore,"3076, ","Gokulam, 4Th Cross,",Mysore,Mysore,Karnataka,570002.0,Mysore
+249.0,2020-03-16,2020-03-30,Dubai,Manglore,#231,Akkamahadevi Road ,Mysore,Mysore,Karnataka,577031.0,Mysore
+250.0,2020-03-16,2020-03-30,Dubai,Manglore,#231,Akkamahadevi Road ,Mysore,Mysore,Karnataka,577031.0,Mysore
+251.0,2020-03-16,2020-03-30,Dubai,Bangalore,305.0,Akbar Road,Nandi Mohalla,Mysore,Karnataka,570021.0,Mysore
+252.0,2020-03-16,2020-03-30,"Dubai, Uae",Banaglore,3059.0,Akbar Boad,Mandimohalla,Mysore,Karnataka,570021.0,Mysore
+253.0,2020-03-16,2020-03-30,Los Angeles,Bangalore,-,Rannagar St,-,Mysore,Karnataka,570023.0,Mysore
+254.0,2020-03-16,2020-03-30,Los Angeles,Bangalore,1929.0,"4Th Cross, K Block Kwemunagar",-,Mysore,Karnataka,570023.0,Mysore
+255.0,2020-03-16,2020-03-30,Dubai,Bangalore,2687.0,Sultan Park  ,Road Mandi ,Mysore,Karnataka,570021.0,Mysore
+256.0,2020-03-16,2020-03-30,Dubai,Bangalore,490 Mig II,K S Ashwath Road Kalyangiri,-,Mysore,Karnataka,570019.0,Mysore
+257.0,2020-03-16,2020-03-30,Dubai,Bangalore,2687.0,Sultan Park  ,Road Mandi ,Mysore,Karnataka,570021.0,Mysore
+258.0,2020-03-16,2020-03-30,Dubai,Bangalore,2687.0,Sultan Park  ,Road Mandi ,Mysore,Karnataka,570021.0,Mysore
+259.0,2020-03-16,2020-03-30,Dubai,"Banaglore, India",114.0,"7Th Cross , Bannimantap",-,Mysore ,Karnataka,570019.0,Mysore
+260.0,2020-03-16,2020-03-30,Bali,Bangalore,517/2,Chamaraja Double Road,-,Mysore,Karnataka,570024.0,Mysore
+261.0,2020-03-16,2020-03-30,Bengaluru,Bengaluru,shreenidhi,Kannegala,Gundalpet,Mysuru,Karnataka,-,Mysore
+262.0,2020-03-16,2020-03-30,Bali,Bangalore,469.0,Nanjangud Road,T Narsipur,Mysore,Karnataka,571124.0,Mysore
+263.0,2020-03-16,2020-03-30,Colombo,Bangalore,588.0,Giridarshini Badawane,Mysuru,Mysuru,Karnataka,570028.0,Mysore
+264.0,2020-03-16,2020-03-30,Bali,Bangalore,"3076/1,",V V Mohalla,Mysore,Mysore,Karnataka,570002.0,Mysore
+265.0,2020-03-16,2020-03-30,Australia,Bengaluru,#208shivaganga,Kbl Gardenila,Vijaynagar 4Th Stage,Mysuru,Karnataka,570032.0,Mysore
+266.0,2020-03-16,2020-03-30,Lagos- Nigeria,Bangalore,#09,"Opp Kr Mill,Naganahalli",Naganahalli,Mysore,Karnataka,570003.0,Mysore
+267.0,2020-03-16,2020-03-30,Usa,Bangalore,156.0,8Th Main ,Hebbal 1St Stage,Mysore,Karnataka,570016.0,Mysore
+268.0,2020-03-16,2020-03-30,Bali,Bangalore,14/4,Chikkaharadanahalli,-,Mysore,Karnataka,570023.0,Mysore
+269.0,2020-03-16,2020-03-30,"Colombo,Srilanka",Bangalore,119.0,-,Chirmagha,Mysore,Karnataka,570025.0,Mysore
+270.0,2020-03-16,2020-03-30,Sharjah,Bangalore,64 Devanoor ,2Nd Cross,Rajive Nagar,Mysore,Karnataka,570019.0,Mysore
+271.0,2020-03-16,2020-03-30,Dubai (Uae),Bangalore,#78,5Th Gross,Mysore,Mysore,Karnataka,570015.0,Mysore
+272.0,2020-03-16,2020-03-30,Ireland,Bengaluru,#78 6th cross,Kc Layout,-,Mysuru,Karnataka,570011.0,Mysore
+273.0,2020-03-16,2020-03-30,Paris,Bengaluru ,859/A,8Th Main 12Th Cross ,Saraswathipuram,Mysore,Karnataka,570009.0,Mysore
+274.0,2020-03-16,2020-03-30,Paris,Bangalore,854/A,5Th Main 12Th Cross,Scraswamipuram,Mysore,Karnataka,550009.0,Mysore
+275.0,2020-03-16,2020-03-30,Washington Iad,Bangalore,705-Aspen,Sankalp Central Road ,Yadavgiri ,Mysore,Karnataka ,570020.0,Mysore
+276.0,2020-03-16,2020-03-30,Dubai (Uae),Bangalore,606.0,College Road,Mysore,Mysore,Karnataka,570024.0,Mysore
+277.0,2020-03-16,2020-03-30,Dubai,"Banaglore, India",606.0,"College Road,K.R Mohalla",-,Mysore ,Karnataka,570024.0,Mysore
+278.0,2020-03-16,2020-03-30,Malaysia,Bangalore,1327.0,Kuvempunagar,Mysore,Mysore,Karnataka,570023.0,Mysore
+279.0,2020-03-15,2020-03-29,Sharjah,Bangalore,"44, 2nd Corss",M C R Tc Layout,Koppulore,Mysuru,Karnataka,570008.0,Mysore
+280.0,2020-03-15,2020-03-29,Melbourne,Bangalore,"425,kooigalli",Belavati Post,Mysaore,Bangalore,Karnataka,570018.0,Mysore
+281.0,2020-03-15,2020-03-29,Frankfurt Germany,Banglore,"6091A, ist floor",8Th Main Vijaynagar 1St Stage,Mysore,Mysore,Karnataka,570017.0,Mysore
+282.0,2020-03-15,2020-03-29,Spain,Bangalore,602.0,Lokanayaka Nagar,Hebbal,Mysore,Karnataka,-,Mysore
+283.0,2020-03-15,2020-03-29,Dubai,Bangalore,29/3,1St Main ,-,Mysore ,Karnataka ,570012.0,Mysore
+284.0,2020-03-15,2020-03-29,New York,Bangalore,"23, 20th main","D Block, Jp Nagar",-,Mysuru,Karnataka,570008.0,Mysore
+285.0,2020-03-15,2020-03-29,Singapore,Bengalore,No.47,"2Nd Main Rd, Ydavagiri",-,Mysore,Karnataka,570020.0,Mysore
+286.0,2020-03-15,2020-03-29,Singapore,Bangalore,No.47,"2Nd Main Rd, Ydavagiri",-,Mysore,Karnataka,570020.0,Mysore
+287.0,2020-03-15,2020-03-29,Abu Dhabi,Bangalore,"3rd cross, 885","Dattagalli, 3Rd Stage",Kanakdudanagara,Mysore,Karnataka,570023.0,Mysore
+288.0,2020-03-15,2020-03-29,Abu Dhabi,Bengaluru,524.0,"Gokulam, 3Rd Stage, 5Th Main",-,Mysore,Karnataka,570002.0,Mysore
+289.0,2020-03-15,2020-03-29,Dubai,Benn,165 C Block,Jp Nagar,-,Mysore,Karnataka,-,Mysore
+290.0,2020-03-15,2020-03-29,Auckland,Bangalore,143/3 CH2/3,Near Lakshmipuram Post Office,Mysore,Mysore,Karnataka,570004.0,Mysore
+291.0,2020-03-15,2020-03-29,Dubai,Bangalore,308.0,41 Gokulam Road,-,Mysuru,Karnataka,570002.0,Mysore
+292.0,2020-03-15,2020-03-29,Melbourne,Bangalore,"1218, 3rd cross",Paduvana Road,-,Mysuru,Karnataka,570023.0,Mysore
+293.0,2020-03-15,2020-03-29,Melbourne,Bangalore,"1218, 3rd cross",Paduvana Road,-,Mysuru,Karnataka,570023.0,Mysore
+294.0,2020-03-15,2020-03-29,Auckland,Bangalore,143/3 CH2/3,Near Lakshmipuram Post Office,Mysore,Mysore,Karnataka,570004.0,Mysore
+295.0,2020-03-15,2020-03-29,Srilanka,Bangalore,78.0,8Th Street,,Mysore,Karnataka,570002.0,Mysore
+296.0,2020-03-15,2020-03-29,Dubai,Bangalore,143.0,"1St Stage,3Rd Cross",-,Mysore,Karnataka,570015.0,Mysore
+297.0,2020-03-15,2020-03-29,Singapore,Bengaluru,770.0,1St Stage,Rajivnagar,Mysore,Karnataka,-,Mysore
+298.0,2020-03-15,2020-03-29,Auckland,Bangalore,143/3 CH2/3,Near Lakshmipuram Post Office,Mysore,Mysore,Karnataka,570004.0,Mysore
+299.0,2020-03-15,2020-03-29,Auckland,Bangalore,143/3 CH2/3,Near Lakshmipuram Post Office,Mysore,Mysore,Karnataka,570004.0,Mysore
+300.0,2020-03-15,2020-03-29,"Adelaide, Australia",Bangalore,190.0,4Th Main Road,"4Th Block, Rk Nagar",Mysuru,Karnataka,570022.0,Mysore
+301.0,2020-03-15,2020-03-29,Malaysia,Bangalore,15.0,Kebbehundi Village,Hebbehundi,Mysore District,Karnataka,571110.0,Mysore
+302.0,2020-03-15,2020-03-29,Newyork,Banglore,7.0,Bylakupu,Kushalnagar,Mysore,Karnataka,571104.0,Mysore
+303.0,2020-03-15,2020-03-29,Male,Bangalore,#34,Kammanagere Handi,Ramanahalli Po,Mysore,Karnataka,570020.0,Mysore
+304.0,2020-03-15,2020-03-29,Abu Dhabi,Bangalore,"3rd cross, 885","Dattayalli, 3Rd Stage",Kanakadasanagara,Mysore,Karnataka,570023.0,Mysore
+305.0,2020-03-15,2020-03-29,Zurich,Bangalore,"5651, 1st main, ","Vijaynagar, 2Nd Stage",-,Mysore,Karnataka,570017.0,Mysore
+306.0,2020-03-15,2020-03-29,Singapore,Bangalore,Country in by raddison,-,-,Mysore,Karanataka,570016.0,Mysore
+307.0,2020-03-15,2020-03-29,Amsterdam,Bangalore,64/1,Vinayaka Layout ,Vijayanagar 4Th Stage ,Mysore ,Karnataka,570017.0,Mysore
+308.0,2020-03-15,2020-03-29,Sharjah Vae,Bangalore,1.0,2Nd Cross Bamboobazar,Mysuru,Mysuru,Karnataka,570021.0,Mysore
+309.0,2020-03-15,2020-03-29,Dubai,Benglaore ,165 C Block,Jp Nagar,-,Mysore,Karnataka,-,Mysore
+310.0,2020-03-15,2020-03-29,Sydney,Bangalore,17/B,Thyagamarga,Sidharth Nagar,Mysore,Karnataka,570011.0,Mysore
+311.0,2020-03-15,2020-03-29,London,Bangalore,33.0,"3Rd Main, 3Rd Cross","Drc Layout, Rk Nagar",Mysore,Karnataka,570022.0,Mysore
+312.0,2020-03-15,2020-03-29,Sofia Bulgaria,Bengaluru,1248.0,"9Th Cross, Nara Street, Kr Mohalla",-,Mysore,Karnatak,570024.0,Mysore
+313.0,2020-03-15,2020-03-29,Germany Munich,Bangalore,8944.0,"4Th Stage, Vijayanagar",-,Mysore,Karnataka,570018.0,Mysore
+314.0,2020-03-15,2020-03-29,"Amsterdam, Netherlands",Bangalore,"28, flat C4","1St Cross, 4Th Block",Jayalakshmipuram,Mysuru,Karnataka,570012.0,Mysore
+315.0,2020-03-15,2020-03-29,Singapore,Bangalore,county in by raddison,-,-,Mysore,Karnataka,570016.0,Mysore
+316.0,2020-03-15,2020-03-29,Sharjah,Bangalore,1.0,2Nd Cross Bamboobazar,Mysuru,Mysuru,Karnataka,570021.0,Mysore
+317.0,2020-03-15,2020-03-29,"Adelaide, Australia",Bangalore,190.0,4Th Main Road,"4Th Block, Rk Nagar",Mysuru,Karnataka,570022.0,Mysore
+318.0,2020-03-15,2020-03-29,Singapore,Bangalore,F7/B Country inn by raddison,Sartanagri Ph 1,-,Mysore,Karnataka,570016.0,Mysore
+319.0,2020-03-15,2020-03-29,"Barcelona, Spain",Bangalore,4A Paramount Prince ,Java Main Rd ,-,Mysore ,Karnataka ,-,Mysore
+320.0,2020-03-15,2020-03-29,Abu Dhabi,Bengaluru,524.0,"Gokulam, 3Rd Stage, 5Th Main",-,Mysore,Karnataka,570002.0,Mysore
+321.0,2020-03-14,2020-03-28,Jeddah,Bangalore,MIG-18,Hudco,-,Mysore,Karnataka,570015.0,Mysore
+322.0,2020-03-14,2020-03-28,Brussels,Bangalore,4423/B,"3Rd Cross, 18Th Main",Vijayanagar 2Nd Stage,Mysore,Karnataka,570017.0,Mysore
+323.0,2020-03-14,2020-03-28,Dubai ,Bangalore,EW148,Rs Naidunagar,-,Mysore,Karnataka,570007.0,Mysore
+324.0,2020-03-14,2020-03-28,Netherlands,Bangalore,G-1 GMR Gloor Apts,9Th Cross,Hebbal 1St Stage,Mysore,Karnataka,570017.0,Mysore
+325.0,2020-03-14,2020-03-28,"Dubai, Uae","Bengaluru, India",88A,5Th Cross 1St Stage,Brundavan Extn,Mysore,Karnataka,570020.0,Mysore
+326.0,2020-03-14,2020-03-28,Abudhabi,Bangalore,700.0,Rajiv Nagar,-,Mysore,Karnataka,570019.0,Mysore
+327.0,2020-03-14,2020-03-28,Uganda,Bangalore,-,Nilgiri Rd,-,Mysore,Karnataka,570025.0,Mysore
+328.0,2020-03-14,2020-03-28,Srilanka,Bangalore,96.0,"4Th Main, 11Th Cross",Mysore,Mysure,Karnataka,570008.0,Mysore
+329.0,2020-03-14,2020-03-28,London,Banglore,2138.0,1St Cross,-,Mysore,Karnataka,570019.0,Mysore
+330.0,2020-03-14,2020-03-28,Ktm,Bangalore,golden temple,Kushal Nagar,Ballekopp,Mysore,Karnataka,-,Mysore
+331.0,2020-03-14,2020-03-28,"Doha, Qatar",Bangalore,"#1655, HIG",E&F Block,Ramakrishna Nagar,Mysore,Karnataka,570022.0,Mysore
+332.0,2020-03-14,2020-03-28,Colombo,Bangalore,9TH BLK,-,-,Mysore ,Karnataka,570016.0,Mysore
+333.0,2020-03-14,2020-03-28,Kathmando,Bengaluru,Comp 4,By Callppe,-,Mysore,Karnataka,-,Mysore
+334.0,2020-03-14,2020-03-28,Sharjah - Uae,Bengaluru,118 LIG Hudco,Bannimantap Ext,Mysore,Mysore,Karnataka,570015.0,Mysore
+335.0,2020-03-14,2020-03-28,Dubai,Bangalore,EWS 28,22Nd Main,J P Nagar,Mysore,Karnataka,-,Mysore
+336.0,2020-03-14,2020-03-28,Kathmando,Bengaluru,21.0,Bylakuppe,-,Mysore ,Karnataka,571104.0,Mysore
+337.0,2020-03-14,2020-03-28,Uganda,Bangalore,-,Nilgiri Rd,-,Mysore,Karnataka,570025.0,Mysore
+338.0,2020-03-14,2020-03-28,Nepal,Bangalore,Camp4,Mysore Bylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+339.0,2020-03-14,2020-03-28,Kathmando,Bengaluru,Golden Temple,Byla,Karnataka Byla Kupre,Mysore,Karnataka,-,Mysore
+340.0,2020-03-14,2020-03-28, London,Bangalore,111 17th main 2nd Cross,-,J.P Nagar,Mysore,Karnataka,570008.0,Mysore
+341.0,2020-03-14,2020-03-28,Nepal,Bangalore,-,By Lakuppe,-,Mysore,Karnataka,571104.0,Mysore
+342.0,2020-03-14,2020-03-28,Kathmando,Bengaluru,40.0,Sera Monasterry,Po By Lakuppe,Mysore,Karnataka,-,Mysore
+343.0,2020-03-14,2020-03-28,"Schiphol, Netherlands",Bengaluru,#2,"5Th Main, 1St Cross, Cftri Layout",Bogadi 2Nd Stage,Mysore,Karnataka,570026.0,Mysore
+344.0,2020-03-14,2020-03-28,Brisbane Australia,Bangalore,"8, The land",Kyathamaranahalli Road,Nazarbad Mohalla,Mysore,Karnataka,570019.0,Mysore
+345.0,2020-03-14,2020-03-28,"London,Uk",Mysore,#45/2 1st cross 4th block,Jaylaxmi Puram Mysore,-,Mysore,Karnataka,570012.0,Mysore
+346.0,2020-03-14,2020-03-28,Uganda,Bangalore,-,"Nilgiri Road, Near Ganapathi Ashram",-,Mysore,Karnataka,570023.0,Mysore
+347.0,2020-03-14,2020-03-28,Brisbane Australia,Bangalore,"8, the Land",Kyathamaranahalli Road,Nazarbad Mohalla,Mysore,Karnataka,570019.0,Mysore
+348.0,2020-03-14,2020-03-28,Sharjah - Uae,Bengaluru,118 LIG Hudco,Bannimantap Ext,Mysore,Mysore,Karnataka,570015.0,Mysore
+349.0,2020-03-14,2020-03-28,Sharjah,Bangalore,2227/3 Mysore,-,-,Mysore,Karnataka,570001.0,Mysore
+350.0,2020-03-14,2020-03-28,Giga ,Bangalore,1197.0,Gange Roda 2Nd Cross ,-,Mysore,Karnataka,570023.0,Mysore
+351.0,2020-03-14,2020-03-28,Muskat,Bangalore,2035.0,"Anjnaneya Badavane, 13Th Cross",-,Davangeri,Karnataka,570004.0,Mysore
+352.0,2020-03-14,2020-03-28,Sandi Arabia- Bahser,Bangalore-India,297.0,D Subbiah Road,-,Mysore,Karnataka,520024.0,Mysore
+353.0,2020-03-14,2020-03-28,Dubai ,Bangalore,1389.0,3Rd Cross,Manimohalla,Mysore,Karnataka,570021.0,Mysore
+354.0,2020-03-14,2020-03-28,Dxb,Bangalore,905/25 4th main 2nd cross ,-,-,Mysore,Karnataka,570008.0,Mysore
+355.0,2020-03-14,2020-03-28,Melbourne,Bangalore,"965/1, CH 14, JLB Road",Lakshmipuram,Mysore,Mysore,Karnataka,570004.0,Mysore
+356.0,2020-03-14,2020-03-28,Dxb,Bangalore,Sai Jayadurga Apts,Kantharaj Urs Road,Mysore,Mysore,Karnataka,570004.0,Mysore
+357.0,2020-03-14,2020-03-28,Dubai ,Bangalore,6.0,A Layout Opp Haleemnagare,Bannimantapa,Mysore,Karnataka,570015.0,Mysore
+358.0,2020-03-14,2020-03-28,Nepal,Bangalore,Camp4,Mysore Bylakuppe,-,-,Karnataka,571104.0,Mysore
+359.0,2020-03-14,2020-03-28,Hydarabad,Bengaluru,SMQ P 3/4,2 Air Force Selection Board,-,Muysuru,Karnataka,570011.0,Mysore
+360.0,2020-03-14,2020-03-28,Usa,Bangalore,4.0,2Nd Main ,V.V Mohalla ,Mysore,Karnataka,570002.0,Mysore
+361.0,2020-03-14,2020-03-28,Phnom Penh,Bengaluru,Prakruti Sigma # 105 B Wing,Vijay Nagar 3Rd Stage,Vijayanagar,Mysore,Karnataka,570012.0,Mysore
+362.0,2020-03-14,2020-03-28,"Phoenix Arizona , Usa",Bangalore,E25,"High Tension Road, Mahadeswara Colony",-,Mysore,Karnataka,570016.0,Mysore
+363.0,2020-03-14,2020-03-28,Colombo,Bengaluru,#219/1,"1St Main Road ,Sri Krishna Nager",-,Mysore,Karnataka,570011.0,Mysore
+364.0,2020-03-14,2020-03-28,Dubai,Bengaluru,T-7,"Sai Durga Apartments, Kanthajurs Road",-,Mysore,Karnataka,570004.0,Mysore
+365.0,2020-03-14,2020-03-28,Frankfurt,Bengaluru,322.0,Brindaban Extension,-,Mysore,Karnataka,570020.0,Mysore
+366.0,2020-03-14,2020-03-28,Dubai,Bangalore,EWS 28,22Nd Main,2Nd Stage,Mysore,Karnataka,-,Mysore
+367.0,2020-03-14,2020-03-28,Baharain,Bangalore,"147, Ring road","2Nd Stage, 2Nd Phase",Rajajinagar,Mysore,Karnataka,570019.0,Mysore
+368.0,2020-03-14,2020-03-28,"Dubai, Uae","Bengaluru, India",88A,5Th Cross 1St Stage,Brundavan Extn,Mysore,Karnataka,570020.0,Mysore
+369.0,2020-03-14,2020-03-28,Dubai,Bengaluru,297.0,Netaji Nagar,-,Mysore,Karnataka,570028.0,Mysore
+370.0,2020-03-14,2020-03-28,Dubai ,Bangalore,6 Opp Haleemnagar,Bannimantap,-,Mysore,Karnataka,570015.0,Mysore
+371.0,2020-03-14,2020-03-28,Uganda,Bangalore,-,Nilgiri Road,-,Mysore,Karnataka,570025.0,Mysore
+372.0,2020-03-14,2020-03-28,Muscat,Bangalore,"19th west cross, Ashoka road",-,-,Mysore,Karnataka,570001.0,Mysore
+373.0,2020-03-14,2020-03-28,Paris,Bengaluru,12.0,"Vlock No 23, Bethal Nagar",-,Mysore ,Karnataka,570023.0,Mysore
+374.0,2020-03-14,2020-03-28,Paris,Bengaluru,79.0,6Th Rk Nagar,-,Mysore,Karnataka,570022.0,Mysore
+375.0,2020-03-14,2020-03-28,Kathmando,Bengaluru,Golden Temple,Kushal Nagar,-,Mysore,Karnataka,-,Mysore
+376.0,2020-03-14,2020-03-28,Amsterdam ,Bangalore,5935.0,3Rd Main Road,Vijayanagar 2Nd Stage,Mysore,Karnataka,570017.0,Mysore
+377.0,2020-03-14,2020-03-28,Nepal,Bangalore,House No 23,Preyapanta,-,Mysore,Karnataka,571104.0,Mysore
+378.0,2020-03-14,2020-03-28,Sharjah,Bangalore,MIG 22,"Hvdco, Bennimer",Mysore,Mysore,Karnataka,570015.0,Mysore
+379.0,2020-03-14,2020-03-28,San Francisco,Bangalore,"204, Damden city",Mysore,Mysore,Mysore,Karnataka,,Mysore
+380.0,2020-03-14,2020-03-28,Nepal,India,-,Golden Temple Kortha Nagar,-,Mysore,Karnataka,-,Mysore
+381.0,2020-03-14,2020-03-28,Nepal,India,-,-,-,Mysore,Karnataka,570017.0,Mysore
+382.0,2020-03-14,2020-03-28,Dubai,Bengaluru,T-7,"Sai Durga Apartments, Kanthajurs Road",-,Mysore,Karnataka,570004.0,Mysore
+383.0,2020-03-14,2020-03-28,Canada,Bangalore,346.0,14 Main ,Saraswathi Puram,Mysore,Karnataka,570009.0,Mysore
+384.0,2020-03-14,2020-03-28,Dubai,Bangalore,3036.0,Sajiad Apt,Mandmahil,Mysore,Karnataka,576021.0,Mysore
+385.0,2020-03-14,2020-03-28,Ktm,Bangalore,-,-,-,Mysore,Karnataka,570017.0,Mysore
+386.0,2020-03-14,2020-03-28,Delhi ,Bangalore,Mysore,Mysore,Mysore,Mysore,Karnataka,570008.0,Mysore
+387.0,2020-03-14,2020-03-28,Phnom Penh,Bengaluru,107711.0,2Nd Stage Bagodi,Cftri Layout,Mysore,Karnataka,570026.0,Mysore
+388.0,2020-03-14,2020-03-28,Newzland,Bangalore,"#299, 6th main",6Th Cross,Saraswathipuram ,Mysore,Karnataka,570009.0,Mysore
+389.0,2020-03-14,2020-03-28,Newzland,Bangalore,"#299, 6th main",6Th Cross,Saraswathipuram ,Mysore,Karnataka,570009.0,Mysore
+390.0,2020-03-14,2020-03-28,Delhi,Bangalore,30.0,26 Cross,Vidyaranyapuram,Mysore,Karnataka,570008.0,Mysore
+391.0,2020-03-14,2020-03-28,Sharjah - Uae,Bengaluru,118 LIG Hudco,Bannimantap Ext,Mysore,Mysore,Karnataka,570015.0,Mysore
+392.0,2020-03-14,2020-03-28,Jeddah,Bangalore,MIG-18,Hudco,-,Mysore,Karnataka,570015.0,Mysore
+393.0,2020-03-13,2020-03-27,Bali,Banglore  ,#39 MIG 1ST STAGE,Udhayaravi Road,Kuvempunagar,Mysore,Karnataka,570023.0,Mysore
+394.0,2020-03-13,2020-03-27,Bali,Banglore  ,#39 MIG 1ST STAGE,Udhayarawi Road,Kuvempunagar,Mysore,Karnataka,570023.0,Mysore
+395.0,2020-03-13,2020-03-27,Abudhabi,Bangalore,445.0,Panchajanya,Mysore,Mysore,Karnataka,570023.0,Mysore
+396.0,2020-03-13,2020-03-27,Muscat,India-Banglore,76/C,Banach East Of Bed College,,Mysore,Karnataka,570009.0,Mysore
+397.0,2020-03-13,2020-03-27,Malaysia,Banglore,#211,"Gayathripuram, Nazarbad Mohala",-,Mysuru,Karnataka,570019.0,Mysore
+398.0,2020-03-13,2020-03-27,Abhu Dhabi,Bangalore,"222,Jenny Villa",Kesare 1St Stage,Rs Naidu Nagar,Mysore,Karnataka,570007.0,Mysore
+399.0,2020-03-13,2020-03-27,Usa,Bangalore,"1446,C & D Block, Kuvempunagar","C & D Block, Kuvempunagar",Mysore,Mysore,Karnataka,570023.0,Mysore
+400.0,2020-03-13,2020-03-27,Delhi,Bangalore,2.0,Dfrl Colony,Siddharth Nagar,Mysore,Karnataka,,Mysore
+401.0,2020-03-13,2020-03-27,Kuala Lumpur Malaysia,Banglore,"137, 11th main",Madegowda Circle,Hebbal,Mysuru,Karnataka,570016.0,Mysore
+402.0,2020-03-13,2020-03-27,Kuala Lumpur Malaysia,Banglore,17 Behind famous bekery,"Christian Colony Devanur, Rajivnagar",-,Mysuru,Karnataka,570019.0,Mysore
+403.0,2020-03-13,2020-03-27,Lax Usa,Blr India,No 78/1,Karthalu,K R Nagar,Mysore,Karnataka,571617.0,Mysore
+404.0,2020-03-13,2020-03-27,Atlanta,Bangalore India,1956.0,"1St Cross, Hebbal 2Nd Stage",Vijaynagar,Mysore,Karnataka,570017.0,Mysore
+405.0,2020-03-13,2020-03-27,Dubai,Bangalore,"no 2, opp cipet college",Mahalakshmi Layout ,Hebbal Industrial Area ,Mysore ,Karnataka,570016.0,Mysore
+406.0,2020-03-13,2020-03-27,Malaysia,Banglore,#1068,Lashkar Mohalla,-,Mysuru,Karnataka,570001.0,Mysore
+407.0,2020-03-13,2020-03-27,Malaysia,Banglore,132.0,"9Th Cross, 6Th Main, 4Th Stage",-,Mysuru,Karnataka,570009.0,Mysore
+408.0,2020-03-13,2020-03-27,Delhi,Mysuru,30.0,Vidyaranyapuram,Mysuru,Mysuru,Karnataka,570014.0,Mysore
+409.0,2020-03-13,2020-03-27,Landon,Banglore,36.0,Srirampura,-,Mysore,Karnataka ,570023.0,Mysore
+410.0,2020-03-13,2020-03-27,Sharjah,Bangalore,#59/1 CV road,2Nd Main ,Layout Bannimantap,Mysore,Karnataka,570015.0,Mysore
+411.0,2020-03-13,2020-03-27,Dubai,Bengaluru,171.0,New Street Saligrama,Kr Nagar,Mysore,Karnataka,571604.0,Mysore
+412.0,2020-03-13,2020-03-27,Delhi,Banglore,135.0,Sera Monastery,Bylakuppe,Mysore,Karnataka,571104.0,Mysore
+413.0,2020-03-13,2020-03-27,"Manila, Phillipines",Banglore,23.0,5Th Main 10Th Cross ,Lalith Mahal Nagar,Mysuru,Karnataka,570028.0,Mysore
+414.0,2020-03-13,2020-03-27,Austin,Kuvempunagar Mysore,No 1740,4Th Cross Anikethana Road ,Kuvempunagar,Mysore,Karnataka,570023.0,Mysore
+415.0,2020-03-13,2020-03-27,Delhi,Bylakuppe,26.0,"Seraje, Bylakuppe",Kushalnagar,Mysore,Karnataka,571104.0,Mysore
+416.0,2020-03-13,2020-03-27,Singapore,Banglore,1198.0,R K Nagar 4/11Th Cross E & F Block,-,Mysuru,Karnataka,570028.0,Mysore
+417.0,2020-03-13,2020-03-27,Abudhabi,Mysore,#153/3,"4Th Cross,5Th Main",Basavanagudi Basaveshwara Nagar,Mysore,Karnataka,570016.0,Mysore
+418.0,2020-03-13,2020-03-27,Malaysia,Banglore,14.0,Mahadeshwara Temple Street,-,Mysuru,Karnataka,570016.0,Mysore
+419.0,2020-03-13,2020-03-27,Malaysia,Banglore Airport,246.0,Koppa Village,Kushal Nagar,Mysuru,Karnataka,571104.0,Mysore
+420.0,2020-03-13,2020-03-27,Austin Texas State Usa,Kuvempunagar Mysore,No 1740,4Th Cross Anikethana Road ,Kuvempunagar,Mysore,Karnataka,570023.0,Mysore
+421.0,2020-03-13,2020-03-27,Mauritius,Bangalore,487.0,Ss Rolgar,-,Mysore,Karnataka,570015.0,Mysore
+422.0,2020-03-13,2020-03-27,Oman,India,# 45,Haleen Nagar Banni Mantap Mysuru,,Mysore,Karnataka,570015.0,Mysore
+423.0,2020-03-13,2020-03-27,Dxb,Bengaluru,1.0,Sankalp,Mysore,Mysore,Karnataka,-,Mysore
+424.0,2020-03-13,2020-03-27,Malaysia,Banglore,#11,"A-Block, Teachers Layout",-,Mysuru,Karnataka,570003.0,Mysore
+425.0,2020-03-13,2020-03-27,Malaysia,Bengaluru,1043.0,Vijaya Nagar,"First 1 Stage,Tv Main",Mysore,Karnataka,570017.0,Mysore
+426.0,2020-03-13,2020-03-27,Dubai,Bangalore,-,Hulimavu,Nanjungud,Mysore,Karnataka,571302.0,Mysore
+427.0,2020-03-13,2020-03-27,Bali,Banglore  ,"#86/ I, 5TH MAIN ROAD",N’ Block Kuvempunagar,Mysore,Mysore,Karnataka,570023.0,Mysore
+428.0,2020-03-13,2020-03-27,Malaysia,Banglore,-,Kavalande Village,Nangangud,Mysuru,Karnataka,571312.0,Mysore
+429.0,2020-03-13,2020-03-27,"Barcelona,Spain","Bangalore,India",16.0,H T Line A Layout,Bannimatap,Mysore,Karnataka,570015.0,Mysore
+430.0,2020-03-13,2020-03-27,Germany,India,#554/4,25Th Cross,Hebbal 2Nd Stage,Mysuru,Karnataka,570017.0,Mysore
+431.0,2020-03-13,2020-03-27,Muscat,Bangalore,"#201,B block",K.R.S Road Foundation,Hootagalli,Mysore,Karnataka,570018.0,Mysore
+432.0,2020-03-13,2020-03-27,Kuala Lumpur,Banglore Airport,17\5  Khaleel,Colony Bannimantap,-,Mysuru,Karnataka,570015.0,Mysore
+433.0,2020-03-13,2020-03-27,Dubai,Bengaluru,12.0,Bannimantap,-,Mysore,Karnataka,510015.0,Mysore
+434.0,2020-03-13,2020-03-27,Dubai,Bangalore,LIG 164,2Nd Main 4Th Cross,-,Mysore,Karnataka,570007.0,Mysore
+435.0,2020-03-13,2020-03-27,Paris,"Bangalore,India",5712.0,22Nd Main 3Rd Cross Vijayanagr ,-,Mysore,Karnataka,570017.0,Mysore
+436.0,2020-03-13,2020-03-27,Malaysia,Banglore,466 S.No 194/1,Hebbal,-,Mysuru,Karnataka,570016.0,Mysore
+437.0,2020-03-13,2020-03-27,Malaysia,Banglore,#219,6Th Main,Siddartha Layout,Mysuru,Karnataka,570011.0,Mysore
+438.0,2020-03-13,2020-03-27,Swiss,Bylakuppe,777.0,Bylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+439.0,2020-03-13,2020-03-27,Malaysia,Banglore,#99CH20/1,"3Rd Main, 9Th Cross, Jayanagar",-,Mysuru,Karnataka,570014.0,Mysore
+440.0,2020-03-13,2020-03-27,London ,Bangalore,36 23rd cross,Srerampura 2Nd Stage,Vivekananda Nagar,Mysore,Karnataka,570023.0,Mysore
+441.0,2020-03-13,2020-03-27,Kaulalampur Airport (Malaysia),Bangalore Airport (India),240/1,"4Th Cross, Vijaynagar, Railway",Layout,Mysore,Karnataka,570016.0,Mysore
+442.0,2020-03-13,2020-03-27,Australia,Bangalore,603.0,1St Main 14Th Cross  B M Srinagar,Mysore,Mysore,Karnataka,570016.0,Mysore
+443.0,2020-03-13,2020-03-27,Malaysia,Banglore,#745,Dd Urs Road,Devaraja Mohalla,Mysuru,Karnataka,570001.0,Mysore
+444.0,2020-03-13,2020-03-27,London ,Bangalore,36 23rd cross,Srerampura 2Nd Stage,Vivekananda Nagar,Mysore,Karnataka,570023.0,Mysore
+445.0,2020-03-13,2020-03-27,Abudhabi ,Mangalore ,7.0,Bamboo Bazaar ,Mysore,Mysore,Karnataka,570019.0,Mysore
+446.0,2020-03-13,2020-03-27,Malaysia - Kl,"Bangalore,India",1043.0,Vijaynagar,"1St Stage, 4Th Main",Mysore,Karnataka,570017.0,Mysore
+447.0,2020-03-13,2020-03-27,London Heathrow,Bangaluru,Nabini ruijer lodge,Nissand Bgllun ,Hd Nolr Taluk,Mysuru,Karnataka,571114.0,Mysore
+448.0,2020-03-13,2020-03-27,Paris,"Bangalore,India",3171 2nd main, Vijayanagr ,-,Mysore,Karnataka,570017.0,Mysore
+449.0,2020-03-13,2020-03-27,"Munich,Germany","Bangalore,India",A706 Foundation silver springs,Hootagalli,-,Mysore,Karnataka,570018.0,Mysore
+450.0,2020-03-13,2020-03-27,Chicago Usa,"Bangalore, India",#82,Inchara Hcbs Layout,-,Mysuru,Karnataka,570023.0,Mysore
+451.0,2020-03-13,2020-03-27,Spain,Bangalore,2895/2,3Rd Main Road,Vv Mohalla,Mysore,Karnataka,570002.0,Mysore
+452.0,2020-03-13,2020-03-27,Bali Indonesia,Banglore  ,# 86/I,N; Block,Kuvempunagar,Mysore,Karnataka,570023.0,Mysore
+453.0,2020-03-13,2020-03-27,Atlanta,"Bangalore, India",NO: 1956,"1St Cross, Hebbal 2Nd Stage",Vijayanagara- Po,Mysore,Karnataka,570017.0,Mysore
+454.0,2020-03-13,2020-03-27,Doha,Bangalore,401/68,Hosamanegelu Vp,Hunsur,Mysuru,Karnataka,571105.0,Mysore
+455.0,2020-03-13,2020-03-27,Oman,India,# 1090 LIGZ,4Th Cross 4 Th Stage,Kalyangiri,Mysore,Karnataka,,Mysore
+456.0,2020-03-13,2020-03-27,Maldives ,Banglore  ,548.0,Anikethan Road,-,Mysore,Karnataka,570023.0,Mysore
+457.0,2020-03-13,2020-03-27,Male,Bengaluru,"No.440, 3rd cross",Budha Nagar,Siddarthanagar,Mysore,Karnataka,570011.0,Mysore
+458.0,2020-03-13,2020-03-27,Kuala Lumpur Malaysia,Banglore,691 6th cross,Manchegowdan Koppal Hebbal,-,Mysuru,Karnataka,570017.0,Mysore
+459.0,2020-03-13,2020-03-27,Malaysia,Banglore Airport,693  B  layout,Unnati Nagar,Mysore,Mysuru,Karnataka,570015.0,Mysore
+460.0,2020-03-13,2020-03-27,Malaysia,Banglore,#2660/9,"4Th Main Road, Vontikoppal",-,Mysuru,Karnataka,570002.0,Mysore
+461.0,2020-03-13,2020-03-27,New York,Bangalore,K-4,Gurupura,Hunsur,Mysore,Karnataka,571104.0,Mysore
+462.0,2020-03-13,2020-03-27,Paris,"Bangalore,India",82 nisargadhama,Jayalakshmi Road,-,Mysore,Karnataka,570005.0,Mysore
+463.0,2020-03-13,2020-03-27,Australia,Bangalore,603.0,1St Main 14Th Cross  B M Srinagar,Mysore,Mysore,Karnataka,570016.0,Mysore
+464.0,2020-03-13,2020-03-27,Baharain,Bangalore,51/A,5Th Cross Shivaji Road,Nr Mohalla,Mysore,Karnataka,570007.0,Mysore
+465.0,2020-03-13,2020-03-27,Landon,Banglore,36.0,Srirampura,-,Mysore,Karnataka ,570023.0,Mysore
+466.0,2020-03-13,2020-03-27,Male,B;Lr,#697,M.G.Road,Udayagiri,Mysore,Karnataka,570019.0,Mysore
+467.0,2020-03-13,2020-03-27,Seattle (Usa),Bangalore,1446.0,"C & D Block, Kuvempunagar",-,Mysore,Karnataka,570023.0,Mysore
+468.0,2020-03-13,2020-03-27,Malaysia,Banglore Airport,# 2409/ 25A ,4Th Main 6Th Cross Vinayaka Nagar,-,Mysuru,Karnataka,570012.0,Mysore
+469.0,2020-03-13,2020-03-27,Bali  Indonesia,Banglore  ,86/I,N; Block,Kuvempunagar,Mysore,Ka,570023.0,Mysore
+470.0,2020-03-13,2020-03-27,Dubai,Bangalore,565.0,S.S. Nagar,Mysuru,Mysuru,Karnataka,570015.0,Mysore
+471.0,2020-03-13,2020-03-27,Delhi,Bylakuppe,31 Seraje,Bylakuppe ,Kushalnagar,Mysore,Karnataka,571104.0,Mysore
+472.0,2020-03-13,2020-03-27,Male,Blr,#697,Mg Road,Udayagiri,Mysore,Karnataka,570019.0,Mysore
+473.0,2020-03-12,2020-03-26,London,Bangalore,Kabini River Lodge,Nissnabettur,Hd Kote,Mysore,Karnataka,571114.0,Mysore
+474.0,2020-03-12,2020-03-26,House Teyas Usa,Bangalore,"5485, SHRI NINDI",3Rd Village,-,Mysore,Karnataka,570017.0,Mysore
+475.0,2020-03-12,2020-03-26,"Dallas,Usa",Bangalore,118 1 ST MAIN,-,-,Mysuru,Karnataka,-,Mysore
+476.0,2020-03-12,2020-03-26,House Teyas Usa,Bangalore,"5485, SHRI NINDI",3Rd Village,-,Mysore,Karnataka,570017.0,Mysore
+477.0,2020-03-12,2020-03-26,Banalury,Bangalore,165.0,"8Th Cross, 2Nd Stage",Indiranagar,Bangalore,Karnakata,57001.0,Mysore
+478.0,2020-03-12,2020-03-26,Dublin Ireland,Bangalore India,19 VRC,Railway Officers Colony,-,Mysore,Karnataka,-,Mysore
+479.0,2020-03-12,2020-03-26,Bahrain,Bangalore,51.0,2Nd Main 2Nd Cross,Udayagiri Mysore,No,Karnataka,570019.0,Mysore
+480.0,2020-03-12,2020-03-26,Singapore,Bangalore,165.0,"8Th Cross, 2Nd Dilya",Indiranagar,Bangalore,Karnataka,570001.0,Mysore
+481.0,2020-03-12,2020-03-26,Dubai,Bangalore,#670,R S Nadu Nogoco Kuore 3Rd Stoge,-,Mysore,Karnataka,570007.0,Mysore
+482.0,2020-03-12,2020-03-26,Pliladelphia Usa,Bangalure,NO 381 C LAYOUT,2Nd Cross,-,Mysore,Karnataka,570015.0,Mysore
+483.0,2020-03-12,2020-03-26,Zvartnoc- Shaklah,Kochi Airport,THE RITZ CARLTOR,"99, Residency Poad",-,Bangalore,Karnataka,570015.0,Mysore
+484.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,TIBETIAN CAMP,Sera Lama Camp,Periyapatna,Mysuru,Karnataka,571104.0,Mysore
+485.0,2020-03-12,2020-03-26,House Teyas Usa,Bangalore,-,3Rd Village,-,Mysore,Karnataka,570017.0,Mysore
+486.0,2020-03-12,2020-03-26,Dubai,Bangalore,83.0,1St Cross,Roopa Nagar,Mysore,Karnataka,570026.0,Mysore
+487.0,2020-03-12,2020-03-26,Male,Bangalore,#50,Mathuranagar,-,Mysore,Karnataka,570016.0,Mysore
+488.0,2020-03-12,2020-03-26,Italy,Bangalore,a block,Mysore,-,Mysore,Karnataka,570017.0,Mysore
+489.0,2020-03-12,2020-03-26,Chicago,Bangalore,748.0,Bosanayakara Beedi Alagudu,T. Narasipura Taluk,Mysuru,Karnataka,571124.0,Mysore
+490.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,50.0,Belacoba,Kushal Nagar,Mysore,No,NO,Mysore
+491.0,2020-03-12,2020-03-26,Sharjaha,Bangalore,17.0,Mig – 2,Bogocli 2Nd Stage,Mysore,Karnataka,570026.0,Mysore
+492.0,2020-03-12,2020-03-26,Nepal,Bangalore,4th camp,Kushalnagar Bylakuppe,-,Mysuru,Karnataka,571104.0,Mysore
+493.0,2020-03-12,2020-03-26,"Melbourne, Australia",Mysore,"504/1,4TH CROSS",Veeneshethana Road,No,Mysore,Karnataka,570024.0,Mysore
+494.0,2020-03-12,2020-03-26,Coloubo Sri Lanka,Bangalore,1118.0,Kuvemdu Magari,Lalifardi Road,Mysore,Karnakata,-,Mysore
+495.0,2020-03-12,2020-03-26,Zurith,Mysore,11632.0,2Nd Phase 4Th Stage,-,Mysore,Karnataka,570017.0,Mysore
+496.0,2020-03-12,2020-03-26,Zurich,Bengaluru,HOTEL QUORUM,Vinoba Road,-,Mysure,Karnataka,-,Mysore
+497.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,LAMA CAME -4,Byla Kuppe,Preyapathna,Mysuru,Karnataka,571102.0,Mysore
+498.0,2020-03-12,2020-03-26,Sharjaha,Bangalore,#65,Bannimantap,-,Mysore,Karnataka,570015.0,Mysore
+499.0,2020-03-12,2020-03-26,Kathmandu,Bangalore,"2936,D14/1",2Nd Main Road,-,Mysore,Karnataka,570002.0,Mysore
+500.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,2936.0,Mysuru 2Th Main Road,-,Mysuru,Karanataka,570002.0,Mysore
+501.0,2020-03-12,2020-03-26,Nedarland,Bangalore ,2 B,Serajay Bylahype,-,Mysore,Karnataka,521104.0,Mysore
+502.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,17.0,A-Village,Gurupura,Hunsur,Karnataka,571188.0,Mysore
+503.0,2020-03-12,2020-03-26,Male,Bangalore,925.0,2Nd Flat,-,Mysore,Karnataka,570011.0,Mysore
+504.0,2020-03-12,2020-03-26,"Ottawa, Canada",Bangalore,1782.0,Anikethna Rd,-,Mysore,Karnataka,570023.0,Mysore
+505.0,2020-03-12,2020-03-26,Lulombo,Bangalore,710I BLOCK,Brd Cross,-,Mysore,Karnakata,590023.0,Mysore
+506.0,2020-03-12,2020-03-26,London,Bangalore,#15.BLOCK NO.6,2Nd Stage,Madhusudhan Layout,Mysore,Karnataka,570023.0,Mysore
+507.0,2020-03-12,2020-03-26,San Fransisco Usa,Bangalore,-,-,-,Mysuru,Karnataka,571124.0,Mysore
+508.0,2020-03-12,2020-03-26,"Chrishchurch, New Zealand",Bengaluru,"752/2,K-38",Nala Street,K. R Mohalla,Mysoor,Karnataka,570004.0,Mysore
+509.0,2020-03-12,2020-03-26,Uae Abu Dubhai,Bangalore,94.0,Jayanagar,-,Mysore,Karnataka,-,Mysore
+510.0,2020-03-12,2020-03-26,London,Bangalore,YOGA SATTWA,Gokulam,-,Mysore,Karnataka,-,Mysore
+511.0,2020-03-12,2020-03-26,Kathmandu Nepal,Bangalore,NGILUGREPA MONASTGY,Goldem Terplure,Priya Patna,Mysore,Karnakata,571104.0,Mysore
+512.0,2020-03-12,2020-03-26,"Melbourne, Australia",Bangalore,45 Hudeo,1St Stage,                 -,Mysure,Karnataka,570015.0,Mysore
+513.0,2020-03-12,2020-03-26,Uk London,Bangalore,"NUM 728, 3RD STRTE",Rajiv Nagar,-,Mysore,Karnataka,570019.0,Mysore
+514.0,2020-03-12,2020-03-26,Dubai,Bangalore,2187/3,Sawdwy Road,Lashkan Mohalda,Mysore,Karnataka,570001.0,Mysore
+515.0,2020-03-12,2020-03-26,Sharjah,Bangalore,"#88, 1 STAGE, 3RD CROSS",Kesare,-,Mysore,Karnataka,570007.0,Mysore
+516.0,2020-03-12,2020-03-26,"Ottawa, Canada",Bangalore,1782.0,Anikethna Rd,-,Mysore,Karnataka,570023.0,Mysore
+517.0,2020-03-12,2020-03-26,Hoha Oamari,Bangalure,#201. FLAT,6Th Cross Vv Molaalia,-,Mysore,Karnataka,570002.0,Mysore
+518.0,2020-03-12,2020-03-26,Dubai,Bangalore,2399.0,Esekete,Lashkar Mohalla,Mysore,Karnataka,570001.0,Mysore
+519.0,2020-03-12,2020-03-26,Uganda,Bangalore,74.0,Kodagahabbi,T Narasipura,Mysore,Karnataka,571124.0,Mysore
+520.0,2020-03-12,2020-03-26,London,Bangalore,12.1ST BLOCK,2Nd Stage,Madhusudhan Layout,Mysore,Karnataka,570023.0,Mysore
+521.0,2020-03-12,2020-03-26,London Uk,Bangalore,416.0,Bannimantap,2Ndmain Ciayoot,Mysore,Karnataka,570015.0,Mysore
+522.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,50.0,Belocoba,Maxior Kushalnagar,Mysore,-,-,Mysore
+523.0,2020-03-12,2020-03-26,Manchester London-Banglore,Bangalore,#1266 1 ST MAIN 1 ST STAGE,"Hebbal,Metagally Mysore",-,Mysore,Karnataka,570016.0,Mysore
+524.0,2020-03-12,2020-03-26,Kua,Blr  ,579 OPP 70,St Phllonreas,Churoh,Ashora Road,Mysore,-,Mysore
+525.0,2020-03-12,2020-03-26,Qatar,Bengaluru,2-74A,Sasthi Cross,-,Mysore,Karnataka,574146.0,Mysore
+526.0,2020-03-12,2020-03-26,Sharjaha,Bangalore,17.0,Mig – 2,Bogocli 2Nd Stage,Mysore,Karnataka,570026.0,Mysore
+527.0,2020-03-12,2020-03-26,Dubi,Bangalore,538/1,25Th Main Saraswathaipurum,-,Mysore,Karnataka,570009.0,Mysore
+528.0,2020-03-12,2020-03-26,Lax,Bangalore,-,Radisson Hotel,-,Mysore,Karnataka,-,Mysore
+529.0,2020-03-12,2020-03-26,Usa ,Bangalore,266.0,Sonar Streat,Chamraj Mohava,Mysore,Karnataka,570001.0,Mysore
+530.0,2020-03-12,2020-03-26,Zurich,Bengaluru,HOTEL QUORUM,Vinoba,Monalla,Mysure,Karnataka,-,Mysore
+531.0,2020-03-12,2020-03-26,Kathmandu,Bangalore,"2936,14/1",2Nd Main Rood,-,Mysore,Karnataka,570002.0,Mysore
+532.0,2020-03-12,2020-03-26,Kathmandu,Bangalore,"2936,14/1",-,-,Mysore,Karnataka,570002.0,Mysore
+533.0,2020-03-12,2020-03-26,Maldives,Bengaluru,#50,Mathura Nagar,Mysore,Mysuru,Karnataka,570016.0,Mysore
+534.0,2020-03-12,2020-03-26,Dubai,Bangalore,#678,-,-,Mysore,Karnataka,570017.0,Mysore
+535.0,2020-03-12,2020-03-26,Muscat,Bengaluru,381.0,1St Cross Becid Colony,-,Mysore,Karanataka,570019.0,Mysore
+536.0,2020-03-12,2020-03-26,Bahrain,Bangalore,#28,1St Floor Jp Nagar,'D’Block,Mysore,Karnataka,570008.0,Mysore
+537.0,2020-03-12,2020-03-26,Istanbul,Bengaluru,381.0,"1Stcross,Beebi",Wlory,"Mysore,",Karanataka,570019.0,Mysore
+538.0,2020-03-12,2020-03-26,Sharjaha,Bangalore,17.0,Mig-2,Bogocli 2Nd Stage,Mysore,Karnataka,570026.0,Mysore
+539.0,2020-03-12,2020-03-26,Male,Bangalore,"925,2ND FLAT",-,-,Mysore,Karnataka,570011.0,Mysore
+540.0,2020-03-12,2020-03-26,Usa,Bangalore,656 VIJETHA,11Th Cross,-,Mysore,Karnataka,570002.0,Mysore
+541.0,2020-03-12,2020-03-26,Male Madras,Bangalore,314.0,Mysore,-,C-Layout,Karnataka,-,Mysore
+542.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,2936.0,2Nd Main Vv Mohalla,                 -,Mysure,Karnataka,570002.0,Mysore
+543.0,2020-03-12,2020-03-26,San Francisco,Bangalore ,1677.0,Anikethana Road,-,Mysore,Karnataka,570023.0,Mysore
+544.0,2020-03-12,2020-03-26,Sharjaha,Bangalore,#65,Bannimantap,-,Mysore,Karnataka,570015.0,Mysore
+545.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,17.0,"A,Village",Gurupura,Hunsur,Karnataka,571188.0,Mysore
+546.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,House Number 20,Sera Lama Camp,-,Mysore,Karnataka,571104.0,Mysore
+547.0,2020-03-12,2020-03-26,"Chrishchurch, New Zealand",Bengaluru,752/2 K.38,Nald Street,K.R.Mohallha,Mysore,Karnataka,570024.0,Mysore
+548.0,2020-03-12,2020-03-26,Sharjaha,Bangalore,17.0,Mig – 2,Bogocli 2Nd Stage,Mysore,Karnataka,570026.0,Mysore
+549.0,2020-03-12,2020-03-26,Singapore,Bangalore,-,"1564,2Nd Cross Hosakeri",-,Mysuru City,Karnataka,570024.0,Mysore
+550.0,2020-03-12,2020-03-26,New Delhi,Bangalore,58.0,"5A ,Main Ventikoppal",-,Mysuru,Karnataka,570002.0,Mysore
+551.0,2020-03-12,2020-03-26,London,Bangalore,#15.BLOCK NO.6,2Nd Stage,Madhusudhan Layout,Mysore,Karnataka,570023.0,Mysore
+552.0,2020-03-12,2020-03-26,Singapore,Bangalore,TRENDZ APPARTMENTS BLD4 NO 5,Bogadi-Gaddige Road,-,Musore,Karnataka,570026.0,Mysore
+553.0,2020-03-11,2020-03-25,Riyadh,Bangalore,D/0 538,4Th Main Cross ,"Bannimantap B Layout, S5 Nagar",Mysore,Karnataka,-,Mysore
+554.0,2020-03-11,2020-03-25,Riyadh Saudi Arabia,Bangalore,4561/L16,5Th Cross Nr Mohalla,-,Mysore,Karnataka,570007.0,Mysore
+555.0,2020-03-11,2020-03-25,Kualalampur,Bengaluru,#317 ,Sadashivnagar ,-,Tumkur ,Karnataka ,571102.0,Mysore
+556.0,2020-03-11,2020-03-25,Riyadh,Bangalore,450.0,M G Road ,Udayagiri,Mysore,Karnataka,570019.0,Mysore
+557.0,2020-03-11,2020-03-25,Sharjah,Bangalore,2118/A,Turab Ali Street,Mandi Mohalla,Mysore,Karnataka,570001.0,Mysore
+558.0,2020-03-11,2020-03-25,Riyadh,Bangalore,2573 - M.D.K road,3Rd Cross ,-,Mysore,Karnataka,572021.0,Mysore
+559.0,2020-03-11,2020-03-25,Saudi Arabia,Bangalore,17/ A4,A Layout,-,Mysore,Karnataka,570015.0,Mysore
+560.0,2020-03-11,2020-03-25,Doha-Qatar,Bangalore,"S2, 1192",Opp Park,Kalyan Giri 1St Stage,Mysore,Karnataka,570019.0,Mysore
+561.0,2020-03-11,2020-03-25,Bangkok ,Bangalore,14.0,"Tibetian Camp, Bylukuppe",-,Mysore,Karnataka,-,Mysore
+562.0,2020-03-11,2020-03-25,Riyadh,Bangalore,D/0 538,4Th Main Cross ,"Bannimantap B Layout, S5 Nagar",Mysore,Karnataka,-,Mysore
+563.0,2020-03-11,2020-03-25,Calgary Canada,Bangalore,Jayalakshmi vilas Road,-,Mysure,Karnataka,-,570005.0,Mysore
+564.0,2020-03-11,2020-03-25,Bahrain,Bengaluru,Shilton Royale ,Koramangala,-,Bangalore,Karnataka,570017.0,Mysore
+565.0,2020-03-11,2020-03-25,Doha-Qatar,Bangalore,"S2, 1192",Opp Park,Kalyan Giri 1St Stage,Mysore,Karnataka,570019.0,Mysore
+566.0,2020-03-11,2020-03-25,Dubai,Bangalore,"243/4, 15th cross","Subhash Nagar, Sbi Road, Hebbal 1St Stage",Mysore,Mysore,Karnataka,570027.0,Mysore
+567.0,2020-03-11,2020-03-25,Male,Bangalore,748.0,Ss Nagar ,Bannimantap ,Mysuru ,Karnataka ,570015.0,Mysore
+568.0,2020-03-11,2020-03-25,Jfk New York,Bengaluru,B-29 K block,Kuvempu Nagara,-,Mysore,Karnataka,570023.0,Mysore
+569.0,2020-03-11,2020-03-25,Dubai,Bangalore,4731.0,New L7 1St Cross,Shivaji Road,Mysore,Karnataka,570007.0,Mysore
+570.0,2020-03-11,2020-03-25,Bahrain,Bengaluru,Shilton Royale ,Koramangala,-,Bangalore,Karnataka,570017.0,Mysore
+571.0,2020-03-11,2020-03-25,Uk,Bangalore,No: 5982 2nd floor,3Rd Stage Near Triveni Market Store,Kanakadasanagara,Mysore,Karnataka,570023.0,Mysore
+572.0,2020-03-11,2020-03-25,Los Angelia,Bangalore,1st floor,Basvanagadi,Mysore,Mysore,Karnataka,570016.0,Mysore
+573.0,2020-03-11,2020-03-25,Dubai,Bangalore,#3,Abba Rd,Eearangere,Mysore,Karnataka,570007.0,Mysore
+574.0,2020-03-11,2020-03-25,Colombo,Bangalore,#2848,Halladakeri ,-,Musuru,Karnataka ,570001.0,Mysore
+575.0,2020-03-11,2020-03-25,Newzeland,Bangalore,17.0,Sidhartha Layout ,-,Mysore,Karnataka,570011.0,Mysore
+576.0,2020-03-11,2020-03-25,Abu Dhabi,Bangalore,#694,Azzez Sait Nagar,-,Mysore,Karnataka,570019.0,Mysore
+577.0,2020-03-11,2020-03-25,Dubai,Bangalore,#370/371 1st floor 2nd  stage,Hanumantha Nagar Bannimantap,-,Mysore,Karnataka,570015.0,Mysore
+578.0,2020-03-11,2020-03-25,Jeddha,"Bangalore, India",#169,Jamia Masjid,Tn Pura,Mysore,Karnataka,571110.0,Mysore
+579.0,2020-03-11,2020-03-25,Riyadh,Bangalore,450 MG road,4 Cross,Udayagiri,Mysore,Karnataka,570019.0,Mysore
+580.0,2020-03-11,2020-03-25,Buenos Aires / Doha,Bangalore,# 220,3Rd Main ,3Rd Cross Vijaynagar,Mysore,Karnataka,5700017.0,Mysore
+581.0,2020-03-11,2020-03-25,Amman,Bengaluru,-,Mysuru,Unnathi,Mysuru,Karnataka,570023.0,Mysore
+582.0,2020-03-11,2020-03-25,Amman,Bangalore,-,Mysore,Unnathi,Mysore,Karanataka,570023.0,Mysore
+583.0,2020-03-11,2020-03-25,Dubai,Bangalore,3212-G,"White Building, Bannimantapa",Krtc -Layout,Mysore,Karnataka,-,Mysore
+584.0,2020-03-11,2020-03-25,Jeddha,"Bangalore, India",#169,Jamia Masjid,Tn Pura,Mysore,Karnataka,571110.0,Mysore
+585.0,2020-03-11,2020-03-25,Qatar,Bangalore,jss medical college,Bannimantap,-,Mysore,Karnataka,570015.0,Mysore
+586.0,2020-03-11,2020-03-25,Bangkok Don Mueang,Bangalore,342.0,2Nd Cross 29Th Main,"2 Main Road , Bogadi",Mysore,Karnataka,570019.0,Mysore
+587.0,2020-03-11,2020-03-25,Jeddha,Bangalore,91/A,2Nd Stage Udaygiri,-,Mysuru,Karnataka,-,Mysore
+588.0,2020-03-11,2020-03-25,Riyadh Ksa,Bangalore,45.0,-,Udayagiri,Mysore,Karnataka,-,Mysore
+589.0,2020-03-11,2020-03-25,"Bangkok ,Thailand",Bangalore,14.0,"Tibetian Camp -2, Bylukuppe",Madikeri,Mysore,Karnataka,71104.0,Mysore
+590.0,2020-03-11,2020-03-25,"Bali, Singapura",Bangalore,1 st main VV nagar,-,-,Mysore,Karnataka,570008.0,Mysore
+591.0,2020-03-11,2020-03-25,London,Bangalore,1329/1,Kr Street 1St Cross,Devraj Mohalla,Mysore ,Karnataka,570001.0,Mysore
+592.0,2020-03-11,2020-03-25,Dubai,Bangalore,1764.0,8Th Main 2Nd Stage,Vijyanagar,Mysore,Karnataka,570017.0,Mysore
+593.0,2020-03-11,2020-03-25,Saudia,Bangalore,17/A4,A -Layout,-,Mysore,Karnataka,570015.0,Mysore
+594.0,2020-03-11,2020-03-25,"Heathrow, Uk",Bengaluru,6.0,2Nd Cross,Ramakrishna Nagar,Mysore,Karnataka,570023.0,Mysore
+595.0,2020-03-11,2020-03-25,London,Bangalore,124.1st floor,C Block 6Th Cross,Mysore I.P,Mysore,Karnataka,570008.0,Mysore
+596.0,2020-03-11,2020-03-25,Dubai,Mysore,915 ENS 4th ,3Rd Cross,Rajivnagar,Mysuru,Karnataka,570021.0,Mysore
+597.0,2020-03-11,2020-03-25,Dubai,Bangalore,#2464 1st floor,7Th Cross,K G Koppal,Mysore,Karnataka,570009.0,Mysore
+598.0,2020-03-11,2020-03-25,Saudia,Bangalore,17/A4,A' Layout,-,Mysore,Karnataka,570015.0,Mysore
+599.0,2020-03-11,2020-03-25,Nyc Usa,Bengaluru,B-29 K block,Kuvempu Nagara,-,Mysore,Karnataka,570023.0,Mysore
+600.0,2020-03-11,2020-03-25,Jeddha,Bangalore,"119, 9th cross",Shantinagar,-,Mysuru,Karnataka,570019.0,Mysore
+601.0,2020-03-11,2020-03-25,Dubai,Bangalore,1251/13,-,Hunsur,Mysore,Karnataka,571105.0,Mysore
+602.0,2020-03-11,2020-03-25,Dubai,Bangalore,#370/371 1st floor 2nd  stage,Hanumantha Nagar Bannimantap,-,Mysore,Karnataka,570015.0,Mysore
+603.0,2020-03-11,2020-03-25,Oman,Bangalore,-,Hunsuru,-,Mysore,Karnataka,571105.0,Mysore
+604.0,2020-03-11,2020-03-25,Sharjah,Bangalore,53 LIG,K H B Colony,-,Mysore,Karnataka,570007.0,Mysore
+605.0,2020-03-11,2020-03-25,Atlanata,Bengaluru,92 2nd main,C Layout Bannimantiya,-,Mysuru,Karnataka,570015.0,Mysore
+606.0,2020-03-11,2020-03-25,Sharjah,Bangalore,2118/B,Tukab Ali Sirbhi,Mandi Mohalla,Mysore,Karnataka,570001.0,Mysore
+607.0,2020-03-11,2020-03-25,Dubai,Bengaluru,169.0,Mysore,Mysore,Mysore,Karnataka,570007.0,Mysore
+608.0,2020-03-11,2020-03-25,Atlanata,Bengaluru,92 2nd main,C Layout Bannimantiya,-,Mysuru,Karnataka,570015.0,Mysore
+609.0,2020-03-11,2020-03-25,Sharjah,Bangalore,521.0,-,-,Mysore,Karnataka,570019.0,Mysore
+610.0,2020-03-11,2020-03-25,Muscut,Bangalore,-,Nh Narayana Hospital,-,Mysore,Karnataka,570019.0,Mysore
+611.0,2020-03-11,2020-03-25,Colombo,Bangalore,#2848,Halladakeri ,-,Musuru,Karnataka ,570001.0,Mysore
+612.0,2020-03-11,2020-03-25,Colombo,Banglore,332/1,"2Nd Cross, D. Subbarai Road",Chamraj Mohal,Mmysore,Karnataka,570024.0,Mysore
+613.0,2020-03-11,2020-03-25,Jeddha,"Bangalore, India",#169,Jamia Masjid,"Gargeshwari, Tn Pura",Mysore,Karnataka,571110.0,Mysore
+614.0,2020-03-11,2020-03-25,Dubai ,Bangalore,#246,Cavery Street,-,Mysore,Karnataka,570017.0,Mysore
+615.0,2020-03-11,2020-03-25,Kualalampur,Bengaluru,23.0,14Th Cross,V.V> Mohalla,Mysorlo,Karnataka ,570002.0,Mysore
+616.0,2020-03-11,2020-03-25,"Armstradam, Neatherland",Bangalore,#3,Abba Rd,Eearangere,Mysore,Karnataka,570007.0,Mysore
+617.0,2020-03-11,2020-03-25,Jeddha,"Bangalore, India",91/A,Udayagiri,-,Mysuru,Karnataka,570019.0,Mysore
+618.0,2020-03-11,2020-03-25,Colombo,Bangalore,499/7,R.S Naidu Nagar,Kesere,Mysore,Karnataka,570007.0,Mysore
+619.0,2020-03-11,2020-03-25,Colombo,Bangalore,499/2-12,R.S Naidu Nagar,Kesere,Mysore,Karnataka,570007.0,Mysore
+620.0,2020-03-11,2020-03-25,Sharjah,Bangalore,521.0,-,-,Mysore,Karnataka,570019.0,Mysore
+621.0,2020-03-11,2020-03-25,Sharjah,Bangalore,53 colony,R S Naidu Nagar,-,Mysore,Karnataka,570007.0,Mysore
+622.0,2020-03-11,2020-03-25,Al-Kaobar Saudi Arabia,Mysore,2050.0,"10Th Cross ,Rajiv Nagar, 1St Stage  ",-,Mysore,Karnataka,570019.0,Mysore
+623.0,2020-03-11,2020-03-25,Perth,Bangalore,29B,-,-,Bylakuppe,Karnataka,571104.0,Mysore
+624.0,2020-03-11,2020-03-25,Perth,Bangalore,29B,-,-,Bylakuppe,Karnataka,571104.0,Mysore
+625.0,2020-03-11,2020-03-25,London,Mysore,Southern Star hotel,-,-,Mysore,Karnataka,-,Mysore
+626.0,2020-03-11,2020-03-25,"Colombo,Srilanka",Bangalore,39/1,Gokulam Main Road,-,Mysore,Karnataka,570002.0,Mysore
+627.0,2020-03-11,2020-03-25,Abu Dhabi,Bangalore,#7 ,Dasanooru,Nanjanaguru,Mysore,-,571316.0,Mysore
+628.0,2020-03-11,2020-03-25,"Bali, Singapura",Bangalore,1 st main VV nagar,-,-,Mysore,Karnataka,570008.0,Mysore
+629.0,2020-03-11,2020-03-25,Colombo,Bangalore,Nayamara,-,-,Mysore,Karnataka,570011.0,Mysore
+630.0,2020-03-11,2020-03-25,Muscut,Bangalore,-,Nh Narayana Hospital,-,Mysore,Karnataka,570019.0,Mysore
+631.0,2020-03-11,2020-03-25,Dubai,Bengaluru,169.0,Mysore,Mysore,Mysore,Karnataka,570007.0,Mysore
+632.0,2020-03-11,2020-03-25,"Dubia,Uae",Bangalore,138.0,2Nd Stage 3Rd Cross,-,Bangalore,Karnataka,570007.0,Mysore
+633.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,RR College of Bng,-,Kamakshi Pura Mysore,Karnataka,-,Mysore
+634.0,2020-03-10,2020-03-24,-,Bengaluru,280.0,Bannimantap,3rd Stage,Mysuru,Karnataka,-,Mysore
+635.0,2020-03-10,2020-03-24,AUSTIN  TX (US),BANGALORE,13/30,BAZAR STREET,-,K R NAGAR,KARNATAKA,571602.0,Mysore
+636.0,2020-03-10,2020-03-24,bangalore,bangalore,1721/c,kabir road,-,mysore,Karnataka,570001.0,Mysore
+637.0,2020-03-10,2020-03-24,"ABERDEEN SCOTLAND, UK",BANGALORE,ROYAL ORCHID METROPOLE,JHANSI LAKSHMIBAI ROAD,-,MYSORE,-,570005.0,Mysore
+638.0,2020-03-10,2020-03-24,-,dubai,26.0,karakulanagara,mysuru,mysur,karnataka,-,Mysore
+639.0,2020-03-10,2020-03-24,DUBAI,BANGALORE,395.0,C Lay Out,3rd Main,Mysore,karnataka,570065.0,Mysore
+640.0,2020-03-10,2020-03-24,"DETROIT, USA",BENGALURU,150.0,"10TH MAIN, 3RD CROSS",KH ROAD,MYSURU,KARNATAKA ,570009.0,Mysore
+641.0,2020-03-10,2020-03-24,Jeddah,Bengaluru,1130/12A,-,Vidyaranyapuram,Mysuru,Karnataka,570023.0,Mysore
+642.0,2020-03-10,2020-03-24,K.T.M,Begalore,150.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+643.0,2020-03-10,2020-03-24,"ABERDEEN SCOTLAND, UK",DELHI,ROYAL ORCHID METROPOLE,JHANSI LAKSHMIBAI ROAD,-,MYSORE,-,570005.0,Mysore
+644.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,baiylakuppe,-,Mysore,Karnataka,560114.0,Mysore
+645.0,2020-03-10,2020-03-24,K.T.M,Begalore,79.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+646.0,2020-03-10,2020-03-24,K.T.M,Begalore,134.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+647.0,2020-03-10,2020-03-24,KUWAIT,BENGALURU,Hebbal Electronics city,-,Hootagalli,Mysore,KARNATAKA,570027.0,Mysore
+648.0,2020-03-10,2020-03-24,K.T.M,Begalore,Nyingmapa Manastery,-,-,Mysore,Karnataka,571104.0,Mysore
+649.0,2020-03-10,2020-03-24,K.T.M,Begalore,701.0,Bavagadi 2nd Stage,-,Mysore,Karnataka,-,Mysore
+650.0,2020-03-10,2020-03-24,SAN ATLANTA,BENGALURU,"403 MERD, AN",RTA ROAD,-,MYSURU,KARNATAKA ,-,Mysore
+651.0,2020-03-10,2020-03-24,DUBAI,BANGALORE,203.0,-,Rajendra nagar,Mysore,karnataka,570007.0,Mysore
+652.0,2020-03-10,2020-03-24,Dubai,Bangalore,1142/1 Geetha Road ,Chamarajapuram Mysore,-,Mysore,Karnataka,-,Mysore
+653.0,2020-03-10,2020-03-24,K.T.M,Begalore,777.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+654.0,2020-03-10,2020-03-24,"CHAVLOTTE, NC USA",BANGALORE,#416/1B ,V NAGAV,-,MYSORE,KARNATAKA,570008.0,Mysore
+655.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+656.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,kusha nagar,-,Mysore,Karnataka,571104.0,Mysore
+657.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,Ballappa 4th camp,-,Mysore,Karnataka,571104.0,Mysore
+658.0,2020-03-10,2020-03-24,MAURITUS,BANGALORE,"107, OCCEAN ROYALE",VISHWESHWARA NAGAR,MYSORE,MYSORE,KARNATAKA,570008.0,Mysore
+659.0,2020-03-10,2020-03-24,K.T.M,Begalore,308.0,Bailakuppa,-,Mysore,Karnataka,-,Mysore
+660.0,2020-03-10,2020-03-24,K.T.M,Begalore,224.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+661.0,2020-03-10,2020-03-24,K.T.M,Begalore,506.0,baiylakuppe,-,Mysore,Karnataka,560114.0,Mysore
+662.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,baiylakuppe,-,Mysore,Karnataka,171104.0,Mysore
+663.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+664.0,2020-03-10,2020-03-24,"CHAVLOTTE, NC USA",BANGALORE,#416/1B ,V NAGAV,-,MYSORE,KARNATAKA,570008.0,Mysore
+665.0,2020-03-10,2020-03-24,bangalore,jeddah,janatha colonly,-,kasaba hobli,mysore,Karnataka,-,Mysore
+666.0,2020-03-10,2020-03-24,UK Heathrow/London,Bengalurur,Rodisson BI,1MJ Road,Mysuru,Mysuru,Karnataka,-,Mysore
+667.0,2020-03-10,2020-03-24,K.T.M,Begalore,222.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+668.0,2020-03-10,2020-03-24,Jeddah,Bengaluru,-,-,Kuvempunagar,Mysuru,Karnataka,570023.0,Mysore
+669.0,2020-03-10,2020-03-24,Jeddah,Bengaluru,-,-,Kuvempunagar,Mysuru,Karnataka,-,Mysore
+670.0,2020-03-10,2020-03-24,Jeddah,Bengaluru,#306,Kuvempunagar,-,Mysuru,Karnataka,570023.0,Mysore
+671.0,2020-03-10,2020-03-24,-,Bengaluru,280.0,Bannimantap,3rd Stage,Mysuru,Karnataka,-,Mysore
+672.0,2020-03-10,2020-03-24,K.T.M,Begalore,506.0,baiylakuppe,-,Mysore,Karnataka,560114.0,Mysore
+673.0,2020-03-10,2020-03-24,KLIA 2,Golden Temple,239.0,Bylakuppar,-,Mysore,Karnataka ,-,Mysore
+674.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+675.0,2020-03-10,2020-03-24,K.T.M,Begalore,141.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+676.0,2020-03-10,2020-03-24,K.T.M,Begalore,115.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+677.0,2020-03-10,2020-03-24,K.T.M,Begalore,701.0,Bavagadi 2nd Stage,-,Mysore,Karnataka,-,Mysore
+678.0,2020-03-10,2020-03-24,K.T.M,Begalore,66.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+679.0,2020-03-10,2020-03-24,K.T.M,Begalore,206.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+680.0,2020-03-10,2020-03-24,K.T.M,Begalore,141.0,baiylakuppe,-,Mysore,Karnataka,560114.0,Mysore
+681.0,2020-03-10,2020-03-24,DUBAI,BENGALURU,#10 Gangothri layout,Near maruthi temple,-,Mysore,KARNATAKA,570007.0,Mysore
+682.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,11th Main,-,Mysore,Karnataka,570026.0,Mysore
+683.0,2020-03-10,2020-03-24,SRILANKA,INDIA,"#1420, AKSHAYA ","KAVERI, SIRCLE, OPP,DHYAM SCHOOL, HEBBAL",-,MYSORE,KARNATAKA,570017.0,Mysore
+684.0,2020-03-10,2020-03-24,BREMEN GERMANY,BENGALURU,534.0,GIRIDARSHINI LAYOUT,-,MYSURU,KARNATAKA,560028.0,Mysore
+685.0,2020-03-10,2020-03-24,Dubai,Bangalore,#5,"2nd stage, Hudco Bannimantapa",-,Mysore,Karnataka ,570015.0,Mysore
+686.0,2020-03-10,2020-03-24,DUBAI,BENGALURU,"283,284, VIJAYANAGAR",II STAGE,-,MYSORE,KARNATAKA,570006.0,Mysore
+687.0,2020-03-10,2020-03-24,K.T.M,Begalore,74.0,Ballappa 4th camp,-,Mysore,Karnataka,571104.0,Mysore
+688.0,2020-03-10,2020-03-24,Dubai,Bangalore,Windsor Apis ,Kalidasa road ,Jayalaxamipuram,Mysore,karnatka ,560020.0,Mysore
+689.0,2020-03-10,2020-03-24,bangalore,bangalore,1721/c,kabir road,-,mysore,Karnataka,570001.0,Mysore
+690.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,RR College of Bng,-,Kamakshi Pura Mysore,Karnataka,-,Mysore
+691.0,2020-03-10,2020-03-24,bangalore,bangalore,1721/c,kabir road,-,mysore,Karnataka,570001.0,Mysore
+692.0,2020-03-10,2020-03-24,K.T.M,Begalore,150.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+693.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,-,Bylakuppe,Mysore,Karnataka,571104.0,Mysore
+694.0,2020-03-10,2020-03-24,K.T.M,Begalore,142.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+695.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,RR College of Nursing,-,Kamakshi Pura Mysore,Karnataka,560074.0,Mysore
+696.0,2020-03-10,2020-03-24,MAURITUS,BANGALORE,"107, OCCEAN ROYALE",VISHWESHWARA NAGAR,MYSORE,MYSORE,KARNATAKA,570008.0,Mysore
+697.0,2020-03-10,2020-03-24,K.T.M,Begalore,114.0,Bailakuppa,-,Mysore,Karnataka,-,Mysore
+698.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,11th Main,-,Mysore,Karnataka,570026.0,Mysore
+699.0,2020-03-10,2020-03-24,K.T.M,Begalore,319.0,Ballappa 4th camp,-,Mysore,Karnataka,571104.0,Mysore
+700.0,2020-03-10,2020-03-24,Singapore,Bangalore,1046.0,Kesare ,3rd stage,Mysore,Karnataka,570007.0,Mysore
+701.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,baiylakuppe,-,Mysore,Karnataka,-,Mysore
+702.0,2020-03-10,2020-03-24,Dubai,Bangalore,#5,"2nd stage, Hudco Bannimantapa",-,Mysore,Karnataka ,570015.0,Mysore
+703.0,2020-03-10,2020-03-24,UAE,Bangalore,528.0,7th cross 11th main kc laout,-,Mysore,Karnataka ,570011.0,Mysore
+704.0,2020-03-10,2020-03-24,K.T.M,Begalore,52.0,baiylakuppe,-,Mysore,Karnataka,-,Mysore
+705.0,2020-03-10,2020-03-24,K.T.M,Begalore,110.0,Ballappa 4th camp,-,Mysore,Karnataka,571104.0,Mysore
+706.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+707.0,2020-03-10,2020-03-24,K.T.M,Begalore,222.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+708.0,2020-03-10,2020-03-24,jeddah,bangalore,-,"128, 4th corss","vijayanagara, ",mysore,Karnataka,570017.0,Mysore
+709.0,2020-03-10,2020-03-24,K.T.M,Begalore,110.0,Balakrupa 4th Camp,-,Mysore,Karnataka,571104.0,Mysore
+710.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+711.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,-,-,Mysore,Karnataka,571104.0,Mysore
+712.0,2020-03-10,2020-03-24,K.T.M,Begalore,Nyingmapa Manastery,-,-,Mysore,Karnataka,571104.0,Mysore
+713.0,2020-03-10,2020-03-24,K.T.M,Begalore,116.0,baiylakuppe,-,Mysore,Karnataka,571104.0,Mysore
+714.0,2020-03-10,2020-03-24,Dubai,Bangalore,"No.6, Vinutha",constum road,gokulam 3rd stage,Mysore,Karnataka,570020.0,Mysore
+715.0,2020-03-10,2020-03-24,Muscat,Bengaluru,2019.0,K-block,Kuvempunagar,Mysore,Karnataka,570023.0,Mysore
+716.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,11th Main,-,Mysore,Karnataka,570026.0,Mysore
+717.0,2020-03-10,2020-03-24,COLOMBO,BENGALUU,15.0,2ND CROSS CRESECENT ROAD ,gokulam,mysore,KARNATAKA,570002.0,Mysore

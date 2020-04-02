@@ -1,0 +1,14 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-19,2020-04-02,London,Bangalore,-,"Jyothi Pultary Farm, At Shivapur Post, Munirabad",-,Koppal,Karnataka ,583234.0,Koppala
+2.0,2020-03-17,2020-03-31,Singapore,Bangalore,108.0,"Ward 3, Malgitti",-,Koppal,Karnataka,584166.0,Koppala
+3.0,2020-03-17,2020-03-31,Bucharest Romania,Bangalore,#1/6/57,Valmiki Circle Nayaka Street ,Gangavathi ,Gangavathi ,Karnataka,583227.0,Koppala
+4.0,2020-03-16,2020-03-30,Dubai ,Bangalore,H.No 02,Karatagi,Karatagi,Koppal,Karnataka,583229.0,Koppala
+5.0,2020-03-15,2020-03-29,Singapore,Bangalore,9-7-680/1187,Agadi Saganna Layout Koppal,Koppal,Koppal,Karnataka,583231.0,Koppala
+6.0,2020-03-15,2020-03-29,Mamama,Benglaore ,-,Chambaranagar,-,Koppal,Karnataka,583231.0,Koppala
+7.0,2020-03-14,2020-03-28,Sharjah,Bengaluru,-,Iyyanahalli,Kudlagi,Ballari,Karnataka,583126.0,Koppala
+8.0,2020-03-14,2020-03-28,"Heath Row, London",Bengaluru,Laxmi Nivas,Vivekanada Colony,Gangavati,Koppal,Karnataka,583227.0,Koppala
+9.0,2020-03-12,2020-03-26,Dubai Terminal 1,Bangalore India,C\O SRINIVAS. B,Marali Bapvara Cmp Sriram Nagar ( Poor),-,Koppal,Karnataka,583282.0,Koppala
+10.0,2020-03-11,2020-03-25,Dondbushi,Bangalore,21.0,Sanjana Nagar,Kukkun,Koppal,Karnataka,583232.0,Koppala
+11.0,2020-03-11,2020-03-25,Vienna,Bangalore,"4/97, Ward No 2",Ranganatha Temple Street,Gangavathi,Koppal,Karnataka,583227.0,Koppala
+12.0,2020-03-11,2020-03-25,Jeddah,Bangalore,4 TR Ward,Patan Street ,Koppal,Koppal,Karnataka,583231.0,Koppala
+13.0,2020-03-11,2020-03-25,Kaulalampur,Blr,20.0,H. Basavanna Comp,-,Koppal,Karnataka,583229.0,Koppala

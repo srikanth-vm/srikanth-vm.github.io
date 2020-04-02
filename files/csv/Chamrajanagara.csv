@@ -1,0 +1,31 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,"Erevan, Armenia",Bangalore,#143,main road kamagere,koltegal talluk,chamaraj nagar,karnataka,571443.0,Chamarajanagar
+2.0,2020-03-21,2020-04-04,Bali,"Bengaluru,India",No 81,Gundegala,-,Chamarajanagara (Kollegala),Karnataka,571440.0,Chamrajanagara
+3.0,2020-03-21,2020-04-04,Delhi,Kempegowda International Airpot,old post offic road,Kudrru,Chamarajanagar,-,Karnataka,571316.0,Chamrajanagara
+4.0,2020-03-21,2020-04-04,Delhi,Kempegowda International Airpot,#220 nanyajara street,Kollegalla,Chhakavadi,Chamarajanagar,Karnataka,571442.0,Chamarajanagar
+5.0,2020-03-21,2020-04-04,Delhi,"Bengaluru,India",No 7,Kuderu,-,Chamarajanagar,Karnataka,571316.0,Chamarajanagar
+6.0,2020-03-21,2020-04-04,New Delhi,Bangalore,220.0,Lingayatra Street,"Kollegal, chilakavad",Chamrajanagar ,Karnataka,571442.0,Chamarajanagar
+7.0,2020-03-20,2020-04-03,Dubai,Bangalore,226.0,Singannalur,Kollegola,Chamaraja Nagar,Karnataka,571440.0,Chamrajanagara
+8.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,Sathegal,Sathegal,Chamarajanagar,Karnataka,-,Chamrajanagara
+9.0,2020-03-19,2020-04-02,Jakarta,Bangalore,-,Bommasapura,Gundlupet ,Chamarajanagara,Karnataka,571111.0,Chamrajanagara
+10.0,2020-03-19,2020-04-02,Dubai,Bangalore,krishna kripa,Devanga Extension,-,-,Karnataka,571313.0,Chamrajanagara
+11.0,2020-03-17,2020-03-31,Dubai,Mangalore,-,Pg Palya ,Girridini ,Pg Palya ,Mysore ,571440.0,Chamrajanagara
+12.0,2020-03-17,2020-03-31,London ,Bangalur,AISIRI,26Th Ward,-,Chamtajanagar,Karnataka,571313.0,Chamrajanagara
+13.0,2020-03-17,2020-03-31,Muritius,Banglore ,-,Doddarayapet,-,Chamaraja Nagar,Karanatka,571313.0,Chamrajanagara
+14.0,2020-03-15,2020-03-29,Kuala Lumpur,Bangalore,211.0,Old Santhamala ,G Peta ,Ch Nagar ,Karnataka ,571111.0,Chamrajanagara
+15.0,2020-03-14,2020-03-28,Dubai,Bangalore,24.0,Basavangudi,-,-,Karnataka,571457.0,Chamrajanagara
+16.0,2020-03-13,2020-03-27,Baharain,Chamarajanagar,12/336,Devanga Bidi,-,Chamarajanagar,Karnataka,571313.0,Chamrajanagara
+17.0,2020-03-13,2020-03-27,Baharain,Bangalore,98/1,Nayakarabidi Palya,Kollegal,Chamarajanagar,Karnataka,571440.0,Chamrajanagara
+18.0,2020-03-13,2020-03-27,Baharain,Bangalore,98/1,Nayakarabidi Palya,Kollegal,Chamarajanagar,Karnataka,571440.0,Chamrajanagara
+19.0,2020-03-13,2020-03-27,Baharain,Bangalore,98/1,Nayakarabidi Palya,Kollegal,Chamarajanagar,Karnataka,571440.0,Chamrajanagara
+20.0,2020-03-13,2020-03-27,Manchester London,Bangalore,Ward 2,Ksn Layout,Gundlupet,Chamarajnagar District,Karnataka,571111.0,Chamrajanagara
+21.0,2020-03-13,2020-03-27,Manchester London,Bangalore,Ward 2,Ksn Layout,Gundlupet,Chamarajnagar,Karnataka,571111.0,Chamrajanagara
+22.0,2020-03-13,2020-03-27,Manchester,Bangalore,Ward 2,Ksn Layout,Gundlupet,Chamarajnagar,Karnataka,571111.0,Chamrajanagara
+23.0,2020-03-13,2020-03-27,London Manchester,Bangalore,Ward 2,Ksn Layout,Gundlupet,Chamarajnagar,Karnataka,571111.0,Chamrajanagara
+24.0,2020-03-13,2020-03-27,Kuala Lumpur Malaysia,Banglore,-,Okkaligara Strret Gumballi (V),-,Chamarajanagar,Karnataka,571441.0,Chamrajanagara
+25.0,2020-03-11,2020-03-25,Jed,Bangalore,927.0,Muslim Street,Kollegal,Chamarajanagara,Karnataka,-,Chamrajanagara
+26.0,2020-03-11,2020-03-25,Jeddha,"Bangalore, India",421.0,Bandahali Post,Rollegal,Bachamraj Nagar,Karnataka,571439.0,Chamrajanagara
+27.0,2020-03-11,2020-03-25,"Riyadh,Ksa","Bangalore, India",421.0,Bandahali Post,Kollegel,Chandranagar,Karnataka,571439.0,Chamrajanagara
+28.0,2020-03-10,2020-03-24,DUBAI,BANGALORE,#1/651,-,Kollegala,Chamrajnagar,Chamrajnagar,-,Chamrajanagara
+29.0,2020-03-10,2020-03-24,"USA, TOTONTO",BANGALORE,28.0,ODEYARPALYA ,-,CHAMARAJA NAGAR,KARNATAKA,571457.0,Chamrajanagara
+30.0,2020-03-10,2020-03-24,Jeddah,Bengaluru,-,-,Yalandur,Chamarajanagar,Karnataka,571441.0,Chamrajanagara

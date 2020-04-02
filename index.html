@@ -42,10 +42,10 @@
 
                         $('#matchingCases').empty();
                         $('#loader').show();
-                        $.getJSON('https://karnataka-covid19-cases.firebaseio.com/quarantine.json', function(data) {
+                        $.getJSON('karnataka.json', function(data) {
                             $('#loader').hide();
                             $.each(data, function(k, person) {
-                                if (person.pin == pinCode) {
+                                if (person.pin.includes(pinCode)) {
                                     caseMatchingPin.push('<tr><td>' + 
                                     person.arrival + '<span>Person Arrival</span></td><td>' + 
                                     person.quarantinedTill + '<span>Quarantined Till</span></td><td>' +

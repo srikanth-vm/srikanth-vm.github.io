@@ -1,0 +1,98 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,Dubai,Bangalore,0.0,Harohalli Gardens,-,Kolar,Karnataka,563101,Kolar
+2.0,2020-03-22,2020-04-05,Dubai,Bangalore,"3742, SRI VENTAKESHWARA","1St Cross, 1St Main",Vijaynagar,Bangarpet,Karnataka,563115,Kolar
+3.0,2020-03-22,2020-04-05,Dubai,Bengaluru,9535563114.0,New Colony,Bangarpet,Kolar/Andersonpet,Karnataka,563113.0,Kolar
+4.0,2020-03-22,2020-04-05,ABUDHABI,BENGALURU,#122,KOGILAHLLI K.N.S(P),,KOLAR,KARNATAKA,563101.0,Kolar
+5.0,2020-03-21,2020-04-04,Barbados,Bangalore,4754.0,Vidya Nagar,Bangarpet,Kolar,Karnataka,563114.0,Kolar
+6.0,2020-03-21,2020-04-04,Nigeria,Bangalore,2929.0,P.T.Halli,Deshi Halli,Kolar,Karnataka,563114.0,Kolar
+7.0,2020-03-20,2020-04-03,Dubai,Bangalore,1.0,Kubaripuri,Kolar,Kolar,Karnatka,563116.0,Kolar
+8.0,2020-03-19,2020-04-02,Oman,Bangalore,#84,Press Road,Anderson Pet,Kolar-Kgf,Karnataka,563113.0,Kolar
+9.0,2020-03-19,2020-04-02,Muscat,Bangalore,-,Kodihalli,Lakkur,Kolar Malur,Karnataka,563160.0,Kolar
+10.0,2020-03-19,2020-04-02,Dublin,Bangalore,119.0,Araleri,Malur Talug,Kolar,Karantaka,563130.0,Kolara
+11.0,2020-03-19,2020-04-02,Abu Dhabi,Bangalore,Anderson  Pet,Kolar,Kolar,Kolar,Karnataka,563133.0,Kolara
+12.0,2020-03-18,2020-04-01,Dubai,Bangalore,112.0,Newtown,Bethamangala,Kolar,Karnataka,563116.0,Kolar
+13.0,2020-03-18,2020-04-01,Dubai,Bangalore,112.0,Newtown,Bethmangala,Kolar,Karnataka,563116.0,Kolar
+14.0,2020-03-18,2020-04-01,Johannesbarg,Bengaluru,-,-,-,Rayalpad,Karnataka,563134.0,Kolara
+15.0,2020-03-18,2020-04-01,Johannesbung,Bangalore,Shreehari Garden,Neelbhag Cross,-,Rayol Pad,Karnataka,563134.0,Kolara
+16.0,2020-03-18,2020-04-01,Abu Dhabi,"Bengaluru, India",2 near old employment Office,Smith Road,-,Kgf,Karnataka,563120.0,Kolara
+17.0,2020-03-18,2020-04-01,Qatar,Bangalore,91.0,Maruthi Nagar,Kolar Gold Fields,Kolar,Karnataka,563115.0,Kolara
+18.0,2020-03-17,2020-03-31,Paris ,Bangalore,CHANDHAN NILAYA,Swarna Nagar,-,K.G.F [Kolar],Karnataka,563122.0,Kolar
+19.0,2020-03-17,2020-03-31,Thailand,India,4000.0,Tnagaraj Colony,Kolar District,Muabagal,Karanataka,573131.0,Kolar
+20.0,2020-03-17,2020-03-31,Thailand,Bengalure,4000.0,Tnagaraj Colony,Kolar District,Muabagal,Karanataka,563131.0,Kolar
+21.0,2020-03-17,2020-03-31,Thailand,India,4000.0,Tnagaraj Colony,Kolar District,Muabagal,Karanataka,573131.0,Kolar
+22.0,2020-03-17,2020-03-31,Dhubai,Bangaluru,-,Masthi,-,Kolar,Karnataka,563139.0,Kolar
+23.0,2020-03-17,2020-03-31,Bangalore,Cox Town,644.0,6Th Cross Road,-,Kolar,Karnataka,533122.0,Kolar
+24.0,2020-03-17,2020-03-31,Dubai,Bangalore,34/L,Hospital Compond,-,-,Karnataka,563117.0,Kolar
+25.0,2020-03-17,2020-03-31,Salah Oman ,Bangalore,322.0,Sir Mv Nagar ,Beml Nagar ,Kgf ,Karanataka ,563115.0,Kolar
+26.0,2020-03-17,2020-03-31,Dubai ,Banglore,-,Kolar,Kote Opposite,Kolar,Karnataka ,563101.0,Kolar
+27.0,2020-03-16,2020-03-30,Manila,Bangalore,lasmi nilaya,Behind Stadium Keelukote,-,Kolar,Karnataka,563101.0,Kolar
+28.0,2020-03-16,2020-03-30,Dubai,"Banaglore, India",V5 ,Hp Nagar,"Kgf, Kolar Gold ",Kolar,Karnataka,63115.0,Kolar
+29.0,2020-03-15,2020-03-29,Colombo,Bangalore,No:1477,Town ,-,Kolar,Karnataka,563114.0,Kolar
+30.0,2020-03-15,2020-03-29,San Fransisco,Bangalore,"ISIRI, 1st Cross",Araleri Main Road,Malur,Kolar,Karnataka,563130.0,Kolar
+31.0,2020-03-15,2020-03-29,Manchester,Bangalore,#381,Salvation Chruch,Robersonpet Extn,Bowrilalpet,Karnataka,563122.0,Kolar
+32.0,2020-03-15,2020-03-29,London,Bengaluru_India,"10, 2PO Block ","Marikuppam, Kgf ",Kgf,Kolar,Karnataka,563119.0,Kolara
+33.0,2020-03-15,2020-03-29,Dubai,India,1st cross,Khakisha Mohaha Near Bilal Masjid,Kolar,Kolar,Karnataka,563101.0,Kolara
+34.0,2020-03-15,2020-03-29,Dublin,Bangalore,13.0,Lakshmi Apts,Adarshnagar,Malur,Karnataka,563130.0,Kolara
+35.0,2020-03-15,2020-03-29,Dubai,Bangalore,175.0,Shettyhally,Srinnivasapur,Kolar,Karnataka,563138.0,Kolara
+36.0,2020-03-15,2020-03-29,Singapore,Bangalore,"4th main, 2nd cross",Palasandra Layout,Kolar,-,Karnataka,563101.0,Kolara
+37.0,2020-03-15,2020-03-29,Singapore,Bangalore,"4th main, 2nd cross",Palasandra Layout,Kolar,-,Karnataka,563101.0,Kolara
+38.0,2020-03-15,2020-03-29,Singapore,Bangalore,"4th main, 2nd cross",Palasandra Layout,Kolar,-,Karnataka,563101.0,Kolara
+39.0,2020-03-14,2020-03-28,Umarah,Bangalore-India,-,Amvarpet,Kolar,Kolar,Karnataka,563101.0,Kolar
+40.0,2020-03-14,2020-03-28,Saudi Arabia,Bangalore-India,-,Kolar Mallat Nagar,-,Kolar,Karnataka,563101.0,Kolar
+41.0,2020-03-14,2020-03-28,Saudi Arabia,Bangalore-India,-,Amvarpet,-,Kolar,Karnataka,563101.0,Kolar
+42.0,2020-03-14,2020-03-28,Deria Dubai,Bengaluru,8.0,Hendry'S New Model House,-,Kolar,Karnataka,563118.0,Kolar
+43.0,2020-03-14,2020-03-28,Muscat,Bangalore,7th cross,Sumathinagar,Kgf,Kolar,Karnataka,563122.0,Kolar
+44.0,2020-03-14,2020-03-28,Muscat,Bangalore,7th cross,Sumathinagar,Kgf,Kolar,Karnataka,563122.0,Kolar
+45.0,2020-03-14,2020-03-28,Muscat,Bangalore,7th cross,Sumathinagar,Kgf,Kolar,Karnataka,563122.0,Kolar
+46.0,2020-03-14,2020-03-28,Jeddah ,Bangalore,129.0,Shahinasha Nagar,-,Kolar,Karnataka,563101.0,Kolara
+47.0,2020-03-14,2020-03-28,Jeddah ,Bangalore,129.0,Shahinasha Nagar,-,Kolar,Karnataka,563101.0,Kolara
+48.0,2020-03-14,2020-03-28,"Frankiurt, Germany",Bangalore,#24,Maharaja Rd,Robertsonpet,Kgf,Karnataka,563122.0,Kolara
+49.0,2020-03-14,2020-03-28,Kuala Lumpur,Bangalore,#10611,Kote,Kolar,Kolar,Karnataka,563101.0,Kolara
+50.0,2020-03-13,2020-03-27,Mauritius,India-Banglore,369.0,Near Clock Tower,Idris Sab Mohalla,Kolar,Karnataka,563101.0,Kolara
+51.0,2020-03-13,2020-03-27,Umrah,Umrah,-,"Mileit Nays, Kolar",-,Kolar,Karnataka,563101.0,Kolara
+52.0,2020-03-13,2020-03-27,Dubai,Bangalore,Sunderiammal,New Colony,-,Kollar,Karnataka,563122.0,Kolara
+53.0,2020-03-13,2020-03-27,Dubai,Bengaluru,"B-153, Bharat Nagar",Beml Nagar Post,Kolar Gold Fields,-,Karnataka,563115.0,Kolara
+54.0,2020-03-13,2020-03-27,Kol,Bangalore,37/A,Rayalamanadinne,-,Kolar,Karnataka,563132.0,Kolara
+55.0,2020-03-13,2020-03-27,"Philadelphia, Usa","Bangalore, India","A-12, 2nd main road",Bharath Nagar,-,Kolar,Karnataka,563115.0,Kolara
+56.0,2020-03-12,2020-03-26,Cayman Ds Lanch,Bangalore,NO:560,Oorgaum Polisea Sation,-,Kolar,Karnataka,563120.0,Kolara
+57.0,2020-03-12,2020-03-26,Muscat,Bengaluru,348.0,Chinna Marzyamman Trmper Street.,"B.M. Road Cross,4Th Block","Robertsonpet, Kge",Karanataka,563122.0,Kolar
+58.0,2020-03-12,2020-03-26,Muscat,Bengaluru,348.0,Chinnamariyamma Temple Strret,"B,M Road 4Th Block","Roberastopet , Kgf",Karnataka,563122.0,Kolar
+59.0,2020-03-12,2020-03-26,Muscat,Bengaluru,348.0,Chinna Mariyamma Tempal Street,"Bm Road Cross,4Block","Robrtsonpet,Kg5",Karnataka,563122.0,Kolar
+60.0,2020-03-12,2020-03-26,Muscat,Bengaluru,348.0,Chaina Mararmman,B.M Road Cross4Th Block,Robestoner,Karanataka,563122.0,Kolar
+61.0,2020-03-12,2020-03-26,Muscat,Bengaluru,348.0,Chinna Mariyamma Temple Trapti,"B.M Road Cross,4Th Block","Robrotsonpot, Kgs",Karnataka,563122.0,Kolar
+62.0,2020-03-12,2020-03-26,Dubai,Bangalore,1302.0,Kgf,-,Kolar,Karnataka,-,Kolar
+63.0,2020-03-12,2020-03-26,Dxb,Blr,1302.0,Kgf,-,Kolar,Karnataka,563122.0,Kolar
+64.0,2020-03-12,2020-03-26,Dxb,Blr,1302.0,Kgf,-,Kolar,Karnataka,563122.0,Kolar
+65.0,2020-03-12,2020-03-26,Dxb,Blr,1302.0,Kgf,-,Kolar,Karnataka,563122.0,Kolar
+66.0,2020-03-12,2020-03-26,"Kuala Lumpur,Malaysia",Bangalore,37/A.,-,-,Kolar,Karnataka,563132.0,Kolara
+67.0,2020-03-12,2020-03-26,Kul-Malaysia,Bangalore,37/A.,-,-,Kolar,Karnataka,563132.0,Kolara
+68.0,2020-03-12,2020-03-26,Sharjah,Bangalore,45 DOOR NO 45,K G F,Kolar,Bangalore,Karnataka,-,Kolar
+69.0,2020-03-12,2020-03-26,Muscat,Bengaluru,348.0,Chinna Marzyamman Trmper Street.,"B.M. Road Cross,4Th Block","Robertsonpet, Kge",Karanataka,563122.0,Kolar
+70.0,2020-03-12,2020-03-26,Muscat,Bengaluru,348.0,Chinnamariyamma Temple Strret,"B,M Road 4Th Block","Roberastopet , Kgf",Karnataka,563122.0,Kolar
+71.0,2020-03-12,2020-03-26,Muscat,Bengaluru,348.0,Chinna Mariyamma Tempal Street,"Bm Road Cross,4Block","Robrtsonpet,Kg5",Karnataka,563122.0,Kolar
+72.0,2020-03-12,2020-03-26,Muscat,Bengaluru,348.0,Chaina Mararmman,B.M Road Cross4Th Block,Robestoner,Karanataka,563122.0,Kolar
+73.0,2020-03-12,2020-03-26,Muscat,Bengaluru,348.0,Chinna Mariyamma Temple Trapti,"B.M Road Cross,4Th Block","Robrotsonpot, Kgs",Karnataka,563122.0,Kolar
+74.0,2020-03-11,2020-03-25,Singapore,Bengaluru,-,4Th Cross Kolar,Kolar ,Kolar,Karnataka,563101.0,Kolar
+75.0,2020-03-11,2020-03-25,Maldives,Bangalore,"#191, Hulimangala",Hulimangala(V & P),Malur,Kolar,Karnaaka,563160.0,Kolar
+76.0,2020-03-11,2020-03-25,Colombo,Bangalore,no7,1Cross,Kgf,Kolar,Karanataka,563122.0,Kolar
+77.0,2020-03-11,2020-03-25,"Melbourne, Australia",Bangalore,No - 29,Maruthi Extn,Malur,Kolar,Karnataka,563130.0,Kolara
+78.0,2020-03-11,2020-03-25,"Melbourne, Australia",Bangalore,44174.0,Maruthi Extn,Malur,Kolar,Karnataka,563130.0,Kolara
+79.0,2020-03-11,2020-03-25,Heathrow Uk,Bangalore,124.0,"Kennedy'S, 3Rd Lane, Oorgam Post",Kgf,Kolar,Karnataka,563120.0,Kolara
+80.0,2020-03-11,2020-03-25,Dubai,Bangalore,#117 vishnu nagar road,Kgf,Kolar,Kolar,Karnataka,563122.0,Kolara
+81.0,2020-03-10,2020-03-24,JEDDAH,BENGALURU,-,-,MULBAGAL,KOLAR,KARNATAKA,563131.0,Kolar
+82.0,2020-03-10,2020-03-24,"MECCA,MEDINA",BENGALURU,-,KOLAR,-,KOLAR,KARNATAKA,563101.0,Kolar
+83.0,2020-03-10,2020-03-24,MECCA,BENGALURU,65.0,KOLAR,-,KOLAR,KARNATAKA,563101.0,Kolar
+84.0,2020-03-10,2020-03-24,"MECCA,MEDINA",BENGALURU,65.0,KOLAR,-,KOLAR,KARNATAKA,563101.0,Kolar
+85.0,2020-03-10,2020-03-24,"MECCA,MEDINA",BENGALURU,65.0,KOLAR,-,KOLAR,KARNATAKA,563101.0,Kolar
+86.0,2020-03-10,2020-03-24,LONDON,BENGALURU,"203,204/3",RAILWAY STATION ROAD,-,KOLAR,KARNATAKA,563101.0,Kolar
+87.0,2020-03-10,2020-03-24,LONDON,BENGALURU,C-203,"NEW TENNON CIRCLE, CHAMPION RECFS, KGF",-,KOLAR,KARNATAKA,563117.0,Kolar
+88.0,2020-03-10,2020-03-24,LONDON,BANGALORE,"#70, ",CHIKKATIRUPATHI,LAKKUR AUBLI,KOLAR,KARNATAKA,523130.0,Kolar
+89.0,2020-03-10,2020-03-24,Madina,Bengaluru,101/A,Sundarapura,-,Kolar,Karnataka,-,Kolar
+90.0,2020-03-10,2020-03-24,Bengaluru,Bengaluru,#4389,Ameen Layout,Bangarpet,Kolar,Karnataka,563114.0,Kolar
+91.0,2020-03-10,2020-03-24,Bengaluru,Bengaluru,#4389,Ameen Layout,Bangarpet,Kolar,Karnataka,563114.0,Kolar
+92.0,2020-03-10,2020-03-24,-,Bengaluru,45.0,-,Sundarpalya,Kolar,Karnataka,563116.0,Kolar
+93.0,2020-03-10,2020-03-24,Madina,Bengaluru,101/B,-,Sundarpalya,Kolar,Karnataka,563116.0,Kolar
+94.0,2020-03-10,2020-03-24,-,Bengaluru,45.0,-,Sundarpalya,Kolar,Karnataka,563116.0,Kolar
+95.0,2020-03-10,2020-03-24,-,Bengaluru,378.0,-,Sundarpalya,Kolar,Karnataka,563116.0,Kolar
+96.0,2020-03-10,2020-03-24,-,Bengaluru,378.0,-,Sundarpalya,Kolar,Karnataka,563116.0,Kolar
+97.0,2020-03-10,2020-03-24,-,Bengaluru,244.0,-,Sundarpalya,Kolar,Karnataka,563116.0,Kolar

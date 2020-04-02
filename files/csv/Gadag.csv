@@ -1,0 +1,44 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-21,2020-04-04,Dubai,Bangalore,121.0,Rona,Hale Aheev,Gadag,Karnataka,,Gadag
+2.0,2020-03-19,2020-04-02,Australia,Bangalore,"RS no. 447 B, Plot no. 31A",6Th Cross,Panchaksharinagar,Gadar,Karnataka,582101.0,Gadag
+3.0,2020-03-19,2020-04-02,Australia,Bangalore,"RS no. 447 B, Plot no. 31A",6Th Cross,Panchaksharinagar,Gadar,Karnataka,582101.0,Gadag
+4.0,2020-03-19,2020-04-02,San Francisco,Bangalore,239/F/7,Vivekanand Nagar,-,Gadar,Karnataka,582101.0,Gadag
+5.0,2020-03-19,2020-04-02,San Francisco,Bangalore,239/F/7,Vivekanand Nagar,-,Gadar,Karnataka,582101.0,Gadag
+6.0,2020-03-18,2020-04-01,New York,Bangalore,437.0,Naryal,-,Gadag,Karnataka,582119.0,Gadag
+7.0,2020-03-18,2020-04-01,New York,Bangalore,437.0,Naryal,-,Gadag,Karnataka,582119.0,Gadag
+8.0,2020-03-18,2020-04-01,Manama,Bangalore,LIG-155,Hudlo Colony,Gadag,Gadag,Karnataka,582103.0,Gadag
+9.0,2020-03-18,2020-04-01,Manama,Bangalore,LIG-155,Hudlo Colony,Gadag,Gadag,Karnataka,582103.0,Gadag
+10.0,2020-03-18,2020-04-01,Manama,Bangalore,LIG-155,Hudlo Colony,Gadag,Gadag,Karnataka,582103.0,Gadag
+11.0,2020-03-17,2020-03-31,New York,Bangalore,-,Ron Road,Gajendragad,Bangalore,Karnataka,582114.0,Gadag
+12.0,2020-03-17,2020-03-31,New York,Bangalore,706.0,Sivapet 4Th Cross Rgn,Ron,Gadag,Karnataka,582209.0,Gadag
+13.0,2020-03-17,2020-03-31,New York,Bangalore,706.0,Itagi,Ron,Gadag,Karnataka,582209.0,Gadag
+14.0,2020-03-17,2020-03-31,New York,Bangalore,-,Ron Road,Gajendragad,Gadag,Karnataka,582114.0,Gadag
+15.0,2020-03-17,2020-03-31,New York,Bangalore,-,Near Pump Circle ,Veer  Gangadhar Nagar,Laxmeshwar,Karnataka,582116.0,Gadag
+16.0,2020-03-17,2020-03-31,New York,Bangalore,1942/43 C7,Nargund ,Ctadag,Bangalore,Karnataka,582207.0,Gadag
+17.0,2020-03-17,2020-03-31,New York,Bangalore,1942/43 C7,Nargund ,Ctadag,Bangalore,Karnataka,582207.0,Gadag
+18.0,2020-03-17,2020-03-31,Baia – Mare ,Bangalore,#8/83/196,Laxmeshwar ,Shirahatti ,Gadag,Karnataka,582116.0,Gadag
+19.0,2020-03-17,2020-03-31,Amman Jordan,Bangalore,#75,Mallapur,-,Gadag,Karnataka,582209.0,Gadag
+20.0,2020-03-15,2020-03-29,Dubai,Mangalore,58.0,Rehmath Nagar ,,Gadag,Karnataka,582101.0,Gadag
+21.0,2020-03-15,2020-03-29,New York,Bangalore,437.0,Naryal,-,Gadag,Karnataka,582119.0,Gadag
+22.0,2020-03-15,2020-03-29,Dubai,Bangalore,-,Near Devi Temple,Hulkoti Post,Gadag,Karnataka,582205.0,Gadag
+23.0,2020-03-14,2020-03-28,Singapore,Bangalore,"No 56,Mundargi plot",Sevalad Nagar,Kalasapur Road,Gadag,Karnataka,582103.0,Gadag
+24.0,2020-03-14,2020-03-28,Singapore,Bangalore,"No 56,Mundargi plot",Sevalad Nagar,Kalasapur Road,Gadag,Karnataka,582103.0,Gadag
+25.0,2020-03-13,2020-03-27,Dublin,Bangalore,pethabana,Near Apmc Yard,Laksmeshwar,Gadag,Karnataka,582116.0,Gadag
+26.0,2020-03-11,2020-03-25,Birnihnam,Bengalore,-,Mulluna Nada,-,Gadag,Karnataka,582101.0,Gadag
+27.0,2020-03-11,2020-03-25,Bermingham,Brovgawaw,-,Muchund Noam,Vernshum Nagam,Gadag,Karnataka,582101.0,Gadag
+28.0,2020-03-11,2020-03-25,Birmingham,Bengalore,-,Mancho Noad,-,Gadag,Karnataka,582101.0,Gadag
+29.0,2020-03-11,2020-03-25,Sudi,Bangalore,HIG- 06,New Hudco,-,Gadag,Karnataka,-,Gadag
+30.0,2020-03-11,2020-03-25,Jeddha,Bangalore,-,Hulkoti,Gadag,Gadag,Karnataka,582205.0,Gadag
+31.0,2020-03-11,2020-03-25,Jeddha,Bangalore,-,Hulkoti,Gadag,Gadag,Karnataka,582205.0,Gadag
+32.0,2020-03-11,2020-03-25,Jeddha,Bangalore,-,Hulkoti,Gadag,Gadag,Karnataka,582205.0,Gadag
+33.0,2020-03-11,2020-03-25,Jeddha,Bangalore,-,Mundarag,-,Gadag,Karnataka,852118.0,Gadag
+34.0,2020-03-11,2020-03-25,Jeddha,Bangalore,-,Mundarag,-,Gadag,Karnataka,852118.0,Gadag
+35.0,2020-03-11,2020-03-25,Jeddha,"Bangalore, India",24.0,Hullori,Gadag,Gadag,Karnataka,582205.0,Gadag
+36.0,2020-03-11,2020-03-25,Mecca Madina,"Bangalore, India",-,Hulkoti,Gadag,Gadag,Karnataka,582205.0,Gadag
+37.0,2020-03-11,2020-03-25,Jeddha,"Bangalore, India",-,Hulgoti,Gadag,Gadag,Karnataka,582205.0,Gadag
+38.0,2020-03-11,2020-03-25,Jeddah ,Bangalore,-,Munigeri,-,Gadag,Karnataka,582118.0,Gadag
+39.0,2020-03-11,2020-03-25,Jeddah ,Bangalore,-,Munigeri,-,Gadag,Karnataka,582118.0,Gadag
+40.0,2020-03-11,2020-03-25,Jeddah,Bengaluru,,Makkan Galli,Gadur,Gadur,Karnataka,582101.0,Gadag
+41.0,2020-03-10,2020-03-24,London,Bengaluru,157/B,Adhya Nagar,Gadag,Gadag,Karnataka,-,Gadag
+42.0,2020-03-10,2020-03-24,London,Bengaluru,157/B,Adhya Nagar,Gadag,Gadag,Karnataka,-,Gadag
+43.0,2020-03-10,2020-03-24,London,Bengaluru,157/B,Adhya Nagar,Gadag,Gadag,Karnataka,-,Gadag

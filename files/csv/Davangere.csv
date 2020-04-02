@@ -1,0 +1,101 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-23,2020-04-06,Dubai,Bengaluru,3095/2970,1St Main 3Rd Cross,Keshav Nagar,Davanagere,Karnataka,577601.0,Davangere
+2.0,2020-03-23,2020-04-06,Dubai,Bangalore,3095/2970,,Keshava Nagar,Harihar,Karnataka,577601.0,Davangere
+3.0,2020-03-22,2020-04-05,Dubai,Bengaluru,H.NO|1043|2,3Rd Cross,Davanagere,Davanagere,Karnataka,577002.0,Davangere
+4.0,2020-03-21,2020-04-04,Mauritius,Davangere,2596/183,39 Main,-,Davangere,-,577001.0,Davangere
+5.0,2020-03-20,2020-04-03,"Muscat, Oman",Bangalore,-,"1200/2, 2Nd Main, 7Th Cross",-,Davngere,Karnataka,577002.0,Davangere
+6.0,2020-03-20,2020-04-03,Dubai,Bangalore,436/1,Lawyer Road,-,Davangere,Karnataka,577002.0,Davangere
+7.0,2020-03-19,2020-04-02,Los Angeles,Banglore,773/22,Hadadi Road,Davanagere,Davanagere,Karnataka,577005.0,Davangere
+8.0,2020-03-19,2020-04-02,Muscat,Bangalore,120\A97\A,Chruch Road,Harihar,Davangere,Karnataka,577601.0,Davangere
+9.0,2020-03-19,2020-04-02,London,Bangalore,"3992/11, !0th cross",Anjaneya Layout,-,Davangere,Karnataka,577004.0,Davangere
+10.0,2020-03-19,2020-04-02,London,Bangalore,"3992/11, !0th cross",Anjaneya Layout,-,Davangere,Karnataka,577004.0,Davangere
+11.0,2020-03-19,2020-04-02,Amsterdam,Bangalore,#3993/99,21St Cross.Kuvempu Naghar,-,Davangere,Karnataka,577003.0,Davangere
+12.0,2020-03-19,2020-04-02,Lax,Bangalore,773/22,Hadadi Road,Davangere,Davangere,Karnataka,577005.0,Davangere
+13.0,2020-03-19,2020-04-02,Doha,Bangalore,204/37,Ss Layout B Block,-,Davangere,Karnataka,577004.0,Davangere
+14.0,2020-03-19,2020-04-02,Doha,Bangalore,204/37,Ss Layout B Block,-,Davangere,Karnataka,577004.0,Davangere
+15.0,2020-03-19,2020-04-02,Canada Montreal,Davngere,1659/31,1St Main 1St Cross Vidya Nagar,-,Davangare,Karantaka,577005.0,Davangere
+16.0,2020-03-19,2020-04-02,Brussels,Bangalore,840/11/92,Saraswathi Nagar,Davangere,Davangere,Karnataka,577005.0,Davangere
+17.0,2020-03-18,2020-04-01,Dubai,Bangalore,1379/54,Sagar Wather  Layout,-,Davanagere,Karnataka,-,Davangere
+18.0,2020-03-18,2020-04-01,Dubai,Bangalore,1379/54,Davnagare,-,Davanagere,Karnataka,-,Davangere
+19.0,2020-03-18,2020-04-01,Phx,Bangalore,859/1,"2Nd Main, 1St Cross ,Shivakumarswamy","Bhadvane, Dvg",Davangere,Karnataka,577005.0,Davangere
+20.0,2020-03-18,2020-04-01,Neetherland ,Banglore ,43891.0,Mugalihali,Channagiri,Devanagere,Karnataka,577213.0,Davangere
+21.0,2020-03-18,2020-04-01,Muscat,Bengaluru,Ooravane Old Temple,Hospete Bedi,Harihara,Davangere,Karnataka,577601.0,Davangere
+22.0,2020-03-18,2020-04-01,Paris,"Banglore, India",931.0,"Nijalingappa Layout, 4Th Main, 2Nd Cross",,Davangere,Karnataka,577004.0,Davangere
+23.0,2020-03-18,2020-04-01,London,Bangalore,1998/3,2Nd Main Road,-,Dawangerey,Karnataka,577005.0,Davangere
+24.0,2020-03-18,2020-04-01,Dbai,Bangalore,11470.0,H>S>Datention,Dewanagera,Devnahalli,Karnataka,577601.0,Davangere
+25.0,2020-03-18,2020-04-01,U.A.E,Mangalore,,,,Davangere,Karnataka,577219.0,Davangere
+26.0,2020-03-17,2020-03-31,Muscat,Bangalore,"#16,",Harimareshwara Extn Gutture ,Marihara ,Davangere,Karanataka ,577601.0,Davangere
+27.0,2020-03-17,2020-03-31,"Doha, Qatar",Bengaluru,"2234, GANGA",Saisanch Road,Mcc A Block ,Davangere,Karnataka ,577004.0,Davangere
+28.0,2020-03-17,2020-03-31,"Doha, Qatar",Bangaluru,"2234, GANGA",Saisanch Road,Mcc A Block ,Davangere,Karnataka ,577004.0,Davangere
+29.0,2020-03-16,2020-03-30,Dubai,Mangalore,#530,Jagalur,Jagalur,Davanagiri,Karnataka,577528.0,Davanagere
+30.0,2020-03-16,2020-03-30,Dubai,Mangalore,Door no 170,3Rd Cross Gandhinagar,Harihara,Davangere,Karnataka,577601.0,Davangere
+31.0,2020-03-16,2020-03-30,Bahrain,Bengaluru,-,Harihara,-,Davangere,Karnataka,577601.0,Davangere
+32.0,2020-03-15,2020-03-29,"Colombo, Srilanka",Bengaluru,1906/23,4Th Cross,Vidyanagar,Davangere,Karnataka,-,Davangere
+33.0,2020-03-15,2020-03-29,Sri Lanka,Bengaluru,#271/1,Pj Extension,Davengere,Davangere,Karnataka,-,Davangere
+34.0,2020-03-15,2020-03-29,"Colombo, Srilanka",Bengaluru,311/B,Pavilion Road,-,Davangere,Karnataka,-,Davangere
+35.0,2020-03-15,2020-03-29,"Colombo, Srilanka",Bengaluru,1906/23,Vidyanagar,Davengere,Davangere,Karnataka,-,Davangere
+36.0,2020-03-15,2020-03-29,Sri Lanka,Bengaluru,#271/1,Pj Extension,-,Davangere,Karnataka,-,Davangere
+37.0,2020-03-15,2020-03-29,"Colombo, Srilanka",Bengaluru,311/B,Pavilion Road,-,Davangere,Karnataka,-,Davangere
+38.0,2020-03-15,2020-03-29,Dubai,Bangalore,1465/1,"1St Main, 12Th Cross Vinobanagar",Davangere,Davangere,Karnataka,577006.0,Davangere
+39.0,2020-03-15,2020-03-29,Colombo,Bangalore,271/1,"4Th Main, Pj Extension ",-,Davengere,Karnataka,577002.0,Davangere
+40.0,2020-03-15,2020-03-29,Colombo,Bangalore,"1906/23, 4th cross",Vidgyanagar,Davengere,Davengere,Karnataka,577005.0,Davangere
+41.0,2020-03-15,2020-03-29,Srilanka,Bangalore,2007-29,Davengere,Siddaveerappa Layout,Davengere,Karnataka,577004.0,Davangere
+42.0,2020-03-15,2020-03-29,Colombo,Bangalore,1926/6,2Nd Main ,Tavalabalu Extension,Davengere,Karnataka,577005.0,Davangere
+43.0,2020-03-15,2020-03-29,Colombo,Bangalore,1926/6,2Nd Main ,Tavalabalu Extension,Davengere,Karnataka,577005.0,Davangere
+44.0,2020-03-15,2020-03-29,Srilanka,Bangalore,2007-29,Davangere,Siddaveerappa Layout,Davangere,Karnataka,577004.0,Davangere
+45.0,2020-03-15,2020-03-29,Colombo,Bangalore,1926/6,2Nd Main ,Tavalabalu Extension,Davengere,Karnataka,577005.0,Davangere
+46.0,2020-03-15,2020-03-29,Sri Lanka,Bengaluru,#271/1,Pj Extension,-,Davengere,Karnataka,577002.0,Davangere
+47.0,2020-03-15,2020-03-29,Orlando Dubai,Banglore,800/2 ,"1St Cross, 2Nd Main, 1St Stage",Shiva Kumar Swami,Darongere,Karnataka,577005.0,Davangere
+48.0,2020-03-15,2020-03-29,Paris,Banglore,Hno. 2417/47,Kishan A Block Ss Layout,-,Da Vanagere ,Karnataka,577004.0,Davangere
+49.0,2020-03-15,2020-03-29,Abu Dhabi,Bangalore,428.0,Doddabathi,-,Davangere,Karnataka,577566.0,Davangere
+50.0,2020-03-14,2020-03-28,Dxb,Bangalore,#130,Kagathur,Channagiri,Davangere,Karnataka,577221.0,Davangere
+51.0,2020-03-14,2020-03-28,Bahrain,Bangalore-India,3371/27/E6,"3Rd Main, 11Th Cross",Vinoba Nagar,Dovanagar,Karnataka,-,Davangere
+52.0,2020-03-14,2020-03-28,Bahrain,Bangalore-India,"1-15,","1St Main, 6Th Cross, Labour Colony",Harihara(T),Dvg(D),Karnataka,577601.0,Davangere
+53.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,D.No. 1094/3,Ktj Nagar,-,Devangere,Karnataka,577002.0,Davangere
+54.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,D.No. 1094/3,Ktj Nagar,-,Devangere,Karnataka,577002.0,Davangere
+55.0,2020-03-14,2020-03-28,Muscat,Bangalore,#58-59/3992,Anjanaya Badayane,-,Davangere,Karnataka,577004.0,Davangere
+56.0,2020-03-14,2020-03-28,Doha,Bangalore,#683/2,"8Th Cross,2Nd Main",Nijalingappa Layout,Davanagere,Karnataka,577084.0,Davangere
+57.0,2020-03-14,2020-03-28,Muskat,Bangalore,2031/201,Anjanbadan,-,Davangeri,Karnataka,-,Davangere
+58.0,2020-03-14,2020-03-28,Bangalore,Davangere,3054/18,"Mll B Block, ",-,Davangere,Karnataka,577004.0,Davangere
+59.0,2020-03-14,2020-03-28,London,Bangalore,23/22,"1St Main,1St Cross","Vidhyanagar, Harzhar",Davangere,Karnataka,577601.0,Davangere
+60.0,2020-03-14,2020-03-28,Dubai ,Banglore ,3993/99,"201 ,Main Kuvempu ",,Davangere,Karnataka,577003.0,Davangere
+61.0,2020-03-14,2020-03-28,Dubai,Bangalore,116/24,Kirwadi Layout,-,Davangere ,Karnataka,577002.0,Davangere
+62.0,2020-03-14,2020-03-28,Dubai,Bangalore,116/24,Kirwadi Layout,-,Davangere ,Karnataka,577002.0,Davangere
+63.0,2020-03-14,2020-03-28,Dubai,Bangalore,116/24,Kirwadi Layout,-,Davangere ,Karnataka,577002.0,Davangere
+64.0,2020-03-14,2020-03-28,Dubai,Bangalore,3993/199,210Th Main,-,Bangalore ,Karnataka,577002.0,Davangere
+65.0,2020-03-13,2020-03-27,Australia,Bengaluru,243.0,Hosapete Sreet,Harihara,Davanagere,Karnataka,577601.0,Davangere
+66.0,2020-03-13,2020-03-27,Abu Dhabi,India,1036.0,10Th Cross,-,Davangare,Karnataka,577002.0,Davangere
+67.0,2020-03-13,2020-03-27,Abu Dhabi,India,1036.0,Devaraja Layout 10Th Cross,-,Davangare,Karnataka,577002.0,Davangere
+68.0,2020-03-13,2020-03-27,Birmingham Uk,Bangalore,2593/2,19Cca Block 3Rd Main,Davangere,-,Karnataka,577002.0,Davangere
+69.0,2020-03-13,2020-03-27,Singapore,Bangalore,"#1675/139, 1st cross",Rajeshwari Badavane Nittuvalli Road,Davangere,Davangere,Karnataka,577004.0,Davangere
+70.0,2020-03-12,2020-03-26,Dubai,Bangalore,#610,9Th Cross Lnd Main Nijalingappa Layout,-,Davanagere,Karnataka,577004.0,Davangere
+71.0,2020-03-12,2020-03-26,Dubai,Bangalore,-,Chiradoni,-,Davanagere,Karnataka,577231.0,Davangere
+72.0,2020-03-12,2020-03-26,Dubai,Bangalore,#610 ,9Th Cross Lnd Main Nijalingappa Layout,-,Davanagere,Karnataka,577004.0,Davangere
+73.0,2020-03-12,2020-03-26,Dubai,Bangalore,C/5,Vidya Nagar Davangere ,-,Davanagere,Karnataka,577005.0,Davangere
+74.0,2020-03-12,2020-03-26,"Narita, Japan",Bengaluru,GANDHINAGARA,Hullikatte,Davangere,Davanagere,Karnataka,577512.0,Davangere
+75.0,2020-03-12,2020-03-26,"Narita, Japan",Bengaluru,GANDHINAGARA,Hullikatte,Davangere,Davanagere,Karnataka,577512.0,Davangere
+76.0,2020-03-12,2020-03-26,Doha,Bengaluru,#673C/13,Lenin Nagar,Behind I.T.I Compound,Davanagere,Karnataka,577004.0,Davangere
+77.0,2020-03-12,2020-03-26,San Fransisco Usa,Bangalore,2036/68,11 Th Cross,Taralabalu East,Davanaueke,Karnataka,577005.0,Davangere
+78.0,2020-03-12,2020-03-26,San Fransisco Usa,Bangalore,2036/68,11 Th Cross,Taralabalu East,Davanaueke,Karnataka,577005.0,Davangere
+79.0,2020-03-12,2020-03-26,San Fransisco Usa,Bangalore,2036/68,11 Th Cross,Taralabalu East,Davanaueke,Karnataka,577005.0,Davangere
+80.0,2020-03-12,2020-03-26,San Fransisco Usa,Bangalore,2036/68,11 Th Cross,Taralabalu East,Davanaueke,Karnataka,577005.0,Davangere
+81.0,2020-03-12,2020-03-26,Londan,Bangalore,3992/11,Anjaneya Layout,Near Mes Convert,Davanagere,Karnataka,577004.0,Davangere
+82.0,2020-03-12,2020-03-26,Dubai,Bangalore,3763.0,Mle B Block,-,Davamagour,Karnataka,577004.0,Davangere
+83.0,2020-03-12,2020-03-26,"Narita, Japan",Bengaluru,GANDHINAGARA,Hullikatte,Davangere,Davanagere,Karnataka,577512.0,Davangere
+84.0,2020-03-12,2020-03-26,"Narita, Japan",Bengaluru,GANDHINAGARA,Hullikatte,Davangere,Davanagere,Karnataka,577512.0,Davangere
+85.0,2020-03-12,2020-03-26,Doha,Bengaluru,#673C/13,Lenin Nagar,Behind I.T.I Compound,Davanagere,Karnataka,577004.0,Davangere
+86.0,2020-03-12,2020-03-26,Bahrain,Bangalore,#8th/28.Ssnigra,S S Layout,Bangalore,Bangalore,Karanataka,577005.0,Davangere
+87.0,2020-03-11,2020-03-25,Washington,Bangalore,1847/57,3Rd A Cross,Vinayaka Badan,Davangere,Karnataka,577005.0,Davangere
+88.0,2020-03-11,2020-03-25,London,Bangalore,143.C BLOCK,Dcm Township,-,Davanagere,Karnataka,577002.0,Davangere
+89.0,2020-03-11,2020-03-25,London Health Row Uk,Bangalore,143.C BLOCK,Dcm Township,-,Davangere,Karnataka,577002.0,Davangere
+90.0,2020-03-11,2020-03-25,London Health Row Uk,Bangalore,143.C BLOCK,Dcm Township,-,Davanagere,Karnataka,577002.0,Davangere
+91.0,2020-03-11,2020-03-25,Dubai,Bangalore,188/7/2,1St Main 8Th Cross,Ktj Nagar,Davangar,Karnataka,577002.0,Davangere
+92.0,2020-03-11,2020-03-25,Mom Health Not Well,Kualalampur,-,Katthadagre Sr . Comp,-,Davanagere,Karnataka ,-,Davangere
+93.0,2020-03-11,2020-03-25,Sharjah,Bangalore,179.0,Old Bamboo Road,-,Davangere,Karnataka,577601.0,Davangere
+94.0,2020-03-11,2020-03-25,Colombo,Bangalore,143.0,J C Extension ,Harihar,Davanagere,Karnaaka,577601.0,Davangere
+95.0,2020-03-11,2020-03-25,Colombo,Bangalore,143.0,J C Extension ,Harihar,Davanagere,Karnaaka,577601.0,Davangere
+96.0,2020-03-11,2020-03-25,Muscut,Bangalore,#150,"Rudrapura Post, Chennagiri Taluk",-,Davanagere,Karnataka,577218.0,Davangere
+97.0,2020-03-10,2020-03-24,"Maimi, USA",Bengaluru,1128.0,Kabburisnappa Nagar,Post RMC Yard,Davanagere,Karnataka,577003.0,Davangere
+98.0,2020-03-10,2020-03-24,London,Bengaluru,56 Sathyanarayanappa Pura Camp,Harihara,Davangere,Davangere,Karnataka,577566.0,Davangere
+99.0,2020-03-10,2020-03-24,London,Bengaluru,56 Sathyanarayanappa Pura Camp,Harihara,Davangere,Davangere,Karnataka,577566.0,Davangere
+100.0,2020-03-10,2020-03-24,DUBAI,BANGALORE,#6761/1,Nittuhalli,Davanger,Davangere,karnataka,-,Davangere

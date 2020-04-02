@@ -1,0 +1,40 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-21,2020-04-04,Muscat,Bangalore,318-392,Kulhalli,Babakavi Banahatti,Bagalkote,Karnataka,587311.0,Bagalkote
+2.0,2020-03-21,2020-04-04,Africa,Bangalore,Ward No 2,Ilkal,Hungound,Bagalkot,Karnataka,587125.0,Bagalkote
+3.0,2020-03-21,2020-04-04,Kathamandu,Bangalore,LOT no 06 ward no 05,Siddaram Eshwara Nagar,Mudhol,Bagalkot,Karnataka,587313.0,Bagalkote
+4.0,2020-03-21,2020-04-04,Oman,Bengaluru,Ward no 5,Guledgudd,,Bagalkot,Karnataka,587203.0,Bagalkote
+5.0,2020-03-21,2020-04-04,Oman,Bengaluru,Ward no 5,Guledgudd,,Bagalkot,Karnataka,587203.0,Bagalkote
+6.0,2020-03-21,2020-04-04,Ackland To Singapore,Bangalore,#414,Ward No 9 Near,Muragappa Jigalur,Bagalkot,Karnataka,587101.0,Bagalkote
+7.0,2020-03-21,2020-04-04,Oman,Bengaluru,Ward no 5,Guledgudd,,Bagalkot,Karnataka,587203.0,Bagalkote
+8.0,2020-03-19,2020-04-02,Australia,Bangalore,5813/17,Kudchi Road,Jamkhandi,Bagalkot,Karnataka,587301.0,Bagalkote
+9.0,2020-03-19,2020-04-02,Sydney,Bangalore,5813/17,Kudchi Road,Jamkhandi,Bagalkot,Karnataka,587301.0,Bagalkote
+10.0,2020-03-16,2020-03-30,Hongkong,Bangalore,No 3291,Vidya Nagar,Badami,Bagalkot,Karnataka,587201.0,Bagalkote
+11.0,2020-03-15,2020-03-29,Dubai,Bangalore,202.0,Gajaral Tansay,Mudrul,Bagalkot,Karnataka,587313.0,Bagalkote
+12.0,2020-03-15,2020-03-29,Kuala Lumpur ,Bangalore ,L20,Sector 61,Navanagar,Bagalkot,Karnataka,587103.0,Bagalkote 
+13.0,2020-03-15,2020-03-29,Dubai,Bangalore,38.0,Bidur Nagar ,-,Bagalkote ,Karnataka,587103.0,Bagalkote 
+14.0,2020-03-15,2020-03-29,Kuala Lumpur Malaysia,Bangalore ,L20,Sector 61,Navanagar,Bagalkot,Karnataka,587103.0,Bagalkote 
+15.0,2020-03-15,2020-03-29,Kuala Lumpur ,Bangalore ,L20,Sector 61,Navanagar,Bagalkot,Karnataka,587103.0,Bagalkote 
+16.0,2020-03-15,2020-03-29,Kaulampur,India,L20,Sector 61,Navanagar,Bagalkot,Karnataka,587103.0,Bagalkote 
+17.0,2020-03-15,2020-03-29,Dubai,Bangalore,38.0,Bidur Nagar ,-,Bagalkote ,Karnataka,587103.0,Bagalkote 
+18.0,2020-03-15,2020-03-29,Kuala Lumpur ,Bangalore ,L20,Sector 61,Navanagar,Bagalkot,Karnataka,587103.0,Bagalkote 
+19.0,2020-03-15,2020-03-29,Kuala Lumpur ,Bangalore ,L20,Sector 61,Navanagar,Bagalkot,Karnataka,587103.0,Bagalkote 
+20.0,2020-03-15,2020-03-29,Dubai,Bangalore,B-8,Svmc Staff Quartus,Navanagar,Bagalkote ,Karnataka,587103.0,Bagalkote 
+21.0,2020-03-15,2020-03-29,Dubai,Bangalore,C-5,Snmc Staff Quarters,Navanagar,Bagalkot,Karnataka,587103.0,Bagalkote
+22.0,2020-03-15,2020-03-29,Dubai,Bangalore,B-8,Svmc Staff Quartus,Navanagar,Bagalkote ,Karnataka,587103.0,Bagalkote 
+23.0,2020-03-15,2020-03-29,Dubai,Bangalore,38.0,Bidur Nagar ,-,Bagalkote ,Karnataka,587103.0,Bagalkote 
+24.0,2020-03-15,2020-03-29,Dubai,Bangalore,38.0,Bidur Nagar ,-,Bagalkote ,Karnataka,587103.0,Bagalkote 
+25.0,2020-03-15,2020-03-29,Abudhabi,Bangalore,#71,Tippa Peth,Guledagood,Bagalkot,Karnataka,587203.0,Bagalkote
+26.0,2020-03-14,2020-03-28,Singapore,Bangalore,"Sankalp, Teachers Colony",Guledgudd,Badami,Bagalkot,Karnataka,587203.0,Bagalkote
+27.0,2020-03-13,2020-03-27,Johar Baharu ,Bangalore,-,Attar Galli No.1,Banahatti,Bagalkot,Karnataka,587311.0,Bagalkote
+28.0,2020-03-13,2020-03-27,Johar Baharu Malaysia,Bangalore,no-461,Choudari Galli,Rabkavi,Bagalkot,Karnataka,587314.0,Bagalkote
+29.0,2020-03-12,2020-03-26,London  Heathrow,Bangalore,TAJ HOTEL,41-3 M.G. Road,-,Bagalkot,Karnataka,-,Bagalkote
+30.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,-,-,-,Bangalore,Karnataka,587313.0,Bagalkote
+31.0,2020-03-12,2020-03-26,Kathmandu,Bangalore,M.75,-,-,-,Karnataka,587103.0,Bagalkote
+32.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,# M 75,Sector 63 Nava Nagar,Bagalkot,Bagalkot,Karnataka,587103.0,Bagalkote
+33.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,M. 75,-,-,Bangalhot,Karnataka,587103.0,Bagalkote
+34.0,2020-03-12,2020-03-26,"Portland,Usa",Bangalore,-,"11 Ht Cross, Vidyagiri",-,Bagalkot,Karnataka,587102.0,Bagalkote
+35.0,2020-03-12,2020-03-26,"Portland,Usa",Bangalore,-,"11 Ht Cross, Vidyagiri",-,Bagalkot,Karnataka,587102.0,Bagalkote
+36.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,PLOT NO 6 WARD 5,Siddarameshwara Nagar,Mudhul,Bagalkot,Karnataka,587313.0,Bagalkote
+37.0,2020-03-11,2020-03-25,Riyadh,Bangalore,260.0,Sokanadagi,Bagalkot,Bagalkot,Karnataka,587204.0,Bagalkote
+38.0,2020-03-11,2020-03-25,Jeddha,Bangalore,-,Tikal,Tikal,Bagalkot,Karnataka,587125.0,Bagalkote
+39.0,2020-03-11,2020-03-25,Jeddha,Bangalore,-,Tikal,Tikal,Bagalkot,Karnataka,587125.0,Bagalkote

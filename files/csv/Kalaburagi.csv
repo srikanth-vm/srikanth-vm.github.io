@@ -1,0 +1,30 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,Dubai,Bangalore,-,2038 Hodan Kamala Nagar,-,Kalburgi,Karnataka,-,Kalaburagi
+2.0,2020-03-22,2020-04-05,Dubai,Bengaluru,Patwada,Kandapur,Kalbrugi,Kalbrugi,Karnataka,538313.0,Kalaburagi
+3.0,2020-03-22,2020-04-05,Dubai,Bangalore,RAMSIODEWARNAGAR,-,-,Gulbarga,Karnataka,585104.0,Kalaburagi
+4.0,2020-03-20,2020-04-03,Entbbe,Kalburgi,2-101,Jagat Tower ,-,Kalburgi,Karnataka,585103.0,Kalaburagi
+5.0,2020-03-20,2020-04-03,Doha,Bangalore,-,Lengati,-,Lengati,Karnataka,-,Kalaburagi
+6.0,2020-03-19,2020-04-02,London,Bangalore,"Plot #151, Cotton market",Nehru Gunj,-,Gulbarga,Karnataka,585103.0,Kalaburagi
+7.0,2020-03-19,2020-04-02,Finland,India,761/B,Halcher,Chincholi,Kalaburagi,Karnataka,585324.0,Kalaburagi
+8.0,2020-03-18,2020-04-01,Minchen,Bangalore,3-325,Sukshanthi Nilaya,Gazipur,Gulbarga,Karnataka,585101.0,Kalaburagi
+9.0,2020-03-18,2020-04-01,Male Maldives,Bangalore ,7-1202/37-24,Nbilalabad Colony,Gulbarga,Gulbarga,Karnataka,585104.0,Kalaburagi
+10.0,2020-03-18,2020-04-01,Muscat,Bangalore,Giri Niwas, Linganad Nagee,Bidar,-,Karnataka,-,Kalaburagi
+11.0,2020-03-18,2020-04-01,Muscat,Bangalore,Giri Niwas, Linganad Nagee,Bidar,-,Karnataka,-,Kalaburagi
+12.0,2020-03-18,2020-04-01,Muscat,Bangalore,Giri Niwas, Linganad Nagee,Bidar,-,Karnataka,-,Kalaburagi
+13.0,2020-03-18,2020-04-01,Dubai,Bangalore,Door no -21,-,Alanal Road,Kalburgi,Karnataka,585101.0,Kalaburagi
+14.0,2020-03-17,2020-03-31,"Dubai,Uae",Bangalore,# 27/217,H.M.P Road Shahabad,Shahabad,Tulbarga,Karnataka,585228.0,Kalaburagi
+15.0,2020-03-17,2020-03-31,Dublin,Bangalore,8-715/27,Jailgarden,Gulbarga,Gulbarga,Karnataka,585101.0,Kalaburagi
+16.0,2020-03-17,2020-03-31,Dublin,Bengalore,8-715/27,Jail Garden,Gulbarga,Gulbarga,Karnataka,585101.0,Kalaburagi
+17.0,2020-03-15,2020-03-29,Dubai,Bangalore,"H.No. 4/3, Rajashre Cemenks ",Aditya Nagar Malkhed,Sedem,Kalaburg,Karnataka,-,Kalaburagi
+18.0,2020-03-15,2020-03-29,United Kingdom,Bangalore,100.0,Dongargaon,-,Gulbarga,Karnataka,585313.0,Kalaburagi
+19.0,2020-03-15,2020-03-29,Dubai,Bangalore,"H.No. 4/3, Rajashre Cemenks ",Aditya Nagar Malkhed,Sedem,Kalaburg,Karnataka,585292.0,Kalaburagi
+20.0,2020-03-15,2020-03-29,Dubai,Bangalore,plot no. 281,Banashankari,Jayanagar,Gulbarga,Karnataka,585105.0,Kalaburagi
+21.0,2020-03-14,2020-03-28,Amsterdam,Bengaluru,plot no 50,Shivanagar Allan Road,Kalburgi,Kalburgi,Karnataka,585101.0,Kalaburagi
+22.0,2020-03-12,2020-03-26,Dubai Uae,Bangalore India,F9-1 868/303,Venkatesh Nagar,-,Gulberga,Karnataka,585102.0,Kalaburagi
+23.0,2020-03-12,2020-03-26,Colombo,Bangalore,1-892/71/3A,Kalaburagi,Kalaburagi,Kalaburagi,Karnataka,585102.0,Kalaburagi
+24.0,2020-03-12,2020-03-26,Colombo,Bangalore,1-892/71/3A,Kalaburagi,Kalaburagi,Kalaburagi,Karnataka,585102.0,Kalaburagi
+25.0,2020-03-12,2020-03-26,Dubai,Bangalore,SHYAN SHARADG,Ngo Colony,Jewargi Road,Gulbarga,Karnataka,585102.0,Kalaburagi
+26.0,2020-03-12,2020-03-26,Dubai,Bangalore,-,-,-,Gulbarga,Karnataka,585102.0,Kalaburagi
+27.0,2020-03-12,2020-03-26,Dtw-Detrot,Blr-Bangalore,"PLOT NO:63, SURVEY NO.8",N60 Layout,Biddapur Colony,Gulbarga,Karnataka,585103.0,Kalaburagi
+28.0,2020-03-11,2020-03-25,London,Bangalore,11-1814/8B,Vidhya Nagar,-,Gulburga,Karnataka,585103.0,Kalaburagi
+29.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,PATANGAR,-,GULBARGA,Karnataka,585324.0,Kalaburagi

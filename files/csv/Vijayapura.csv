@@ -1,0 +1,27 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,ABU-DHABI,BENGULURU,510.0,Bijapura,B.Dushala.Bjapura,Bijapura,Karnataka,5861-30,Vijayapura
+2.0,2020-03-18,2020-04-01,Frankfurt,"Bangalore, India",Plot no.19,Ekta Nagar,Behind Mata Sharada School,Vijayapur,Karnataka,586101.0,Vijayapura
+3.0,2020-03-17,2020-03-31,New York,Bangalore,-,Beejappa Nagar,Indi,Bangalore,Karnataka,586209.0,Vijayapura
+4.0,2020-03-17,2020-03-31,New York,Bangalore,-,Beejappa Nagar,Indi,Bangalore,Karnataka,586209.0,Vijayapura
+5.0,2020-03-16,2020-03-30,41682,45303,H.No-1693,Jai Hamunan Shank,Singagi,Bijapur,Karnataka,586128.0,Vijayapura
+6.0,2020-03-16,2020-03-30,Munich,Bangalore,-,Baratagi L T No 1,Vijayapura,Vijayapura,Karnataka,-,Vijayapura
+7.0,2020-03-14,2020-03-28,"Auckland, Newzeland",Bangalore,445.0,Sr Colony,-,Vijayapura,Karnataka,586-109,Vijayapura
+8.0,2020-03-14,2020-03-28,"Auckland, Newzeland",Bangalore,445.0,Sr Colony,-,Vijayapura,Karnataka,586-109,Vijayapura
+9.0,2020-03-13,2020-03-27,Thailand,Bengaluru,Bharpeth,Galli,Muddebihal,Vijapur,Karnataka,586212.0,Vijayapura
+10.0,2020-03-13,2020-03-27,Bangkok,Bengaluru,Suprabhat,"College Road, Vidyanagar",Muddebihal,Vijayapur,Karnataka,586212.0,Vijayapura
+11.0,2020-03-13,2020-03-27,Bangkok,Bengaluru,Ward No7 20 Cross,Hudco Colony,Muddebihal,Vijayapur,Karnataka,586212.0,Vijayapura
+12.0,2020-03-13,2020-03-27,Bangkok,Bengaluru,Near T.M.C Office,Horpet Galli,Muddebihal,Vijayapur,Karnataka,586212.0,Vijayapura
+13.0,2020-03-13,2020-03-27,Dublin,Bangalore,#12,Kadekal Temple,Basavan-Basawadi,Vijayapur,Karnataka,586203.0,Vijayapura
+14.0,2020-03-13,2020-03-27,Dubai,Bangalore,Guru Bagav Krupa,Venkateshwar Nagar,Bijapur,Karnataka,-,586101.0,Vijayapura
+15.0,2020-03-13,2020-03-27,Singapore,India,-,Matapathi Galli Vijapura,-,Vijapura,Karnataka,586101.0,Vijayapura
+16.0,2020-03-13,2020-03-27,Kulampur,Banglore Airport,-,Salajagi Village,-,Vijayapura,Karnataka,586217.0,Vijayapura
+17.0,2020-03-12,2020-03-26,"Kaula Lampur, Malaysia",Bangalore,Plot no 12,At.Laxman,Nagar,Bijapur,Karanataka,586101.0,Vijayapura
+18.0,2020-03-12,2020-03-26,Bangkok,Bangalore,485.0,Akkamahadevi Road,-,Vijayapur,Karnataka,586101.0,Vijayapura
+19.0,2020-03-12,2020-03-26,Bangkok,Bangalore,27 / 1,Mahadev Road,Bijapur,Bijapur,Karnataka,586101.0,Vijayapura
+20.0,2020-03-12,2020-03-26,Dubai,Bangalore,NO 99/2,2Nd Maindruad Sidparth,Nagar,Mysor Road,Karnataka,60053.0,Vijayapura
+21.0,2020-03-12,2020-03-26,"Kaula Lampur, Malaysia",Bangalore,Plot no 12,At.Laxman,Nagar,Bijapur,Karanataka,586101.0,Vijayapura
+22.0,2020-03-12,2020-03-26,Bangkok,Bangalore,485.0,Akkamahadevi Road,-,Vijayapur,Karnataka,586101.0,Vijayapura
+23.0,2020-03-12,2020-03-26,Bangkok,Bangalore,27 / 1,Mahadev Road,Bijapur,Bijapur,Karnataka,586101.0,Vijayapura
+24.0,2020-03-11,2020-03-25,Sudan,Bijapur,Evals 73 jala nagar,Bijapur,-,Bijapur,Karnataka,586101.0,Vijayapura
+25.0,2020-03-11,2020-03-25,Bangkok ,Bangalore,555/A,Gopalpur Galli,-,Bijapur,Karnataka,586101.0,Vijayapura
+26.0,2020-03-11,2020-03-25,Sharjah,Kochi,11.0,Millat Nagar,Muddesinal,Bijapur,Karnataka,586214.0,Vijayapura

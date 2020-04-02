@@ -1,0 +1,80 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-21,2020-04-04,Vietnam,Bangalore,49/1,Kamanayakana Halli,Pandavapura,Mandya,Karnataka,571455.0,Mandya
+2.0,2020-03-21,2020-04-04,Dubai,bangalore,10.0,schannapura village bommanahalli,_,mandya nagamagula ,Karnataka,571432.0,Mandya
+3.0,2020-03-21,2020-04-04,Dubai,Bangalore,113.0,Indian Gasagenel Road,Mandya,Nagamangala,Karnataka,571432.0,Mandya
+4.0,2020-03-21,2020-04-04,melbourne australia ,bengaluru,#78,4th cross marigpwda layout ,_,mandya,karnataka,571401.0,Mandya
+5.0,2020-03-20,2020-04-03,Muscot,Bangalore,259.0,1St Cross,-,Mandya,Karnatka,571401.0,Mandya
+6.0,2020-03-20,2020-04-03,Dubai,Bangalore,458\4,Kr Pet,-,Mandya,Karnataka,571605.0,Mandya
+7.0,2020-03-19,2020-04-02,Germany,Bangalore,#1331,Basaveshwara Nagar,Kr Pate,Mandya,Karnataka,571426.0,Mandya
+8.0,2020-03-19,2020-04-02,Germany,Bengaluru,c/o madayya,-,Srirangapatana,Mandya,Karnataka,-,Mandya
+9.0,2020-03-19,2020-04-02,Dubai,Bangalore,3360.0,Uttaradhi Mata Street,Srirangapattana,Mandya,Karnataka,571438.0,Mandya
+10.0,2020-03-19,2020-04-02,Curalao,Bangalore,"LV 20, Ziari Garden City",Hulikere,Krs,Mandya,Karnataka,570606.0,Mandya
+11.0,2020-03-19,2020-04-02,Shj,Bangalore,3.0,Chikkali,-,Mandya,Karnataka,571423.0,Mandya
+12.0,2020-03-19,2020-04-02,London,Bangalore,101 sharath nilaya,Hosahalli Road,Gandhi Nagar,Mandya,Karnataka,571401.0,Mandya
+13.0,2020-03-19,2020-04-02,London,Bangalore,101 sharath nilaya,Gandhi Nagar,Hosahalli Road,Mandya,Karnataka,571401.0,Mandya
+14.0,2020-03-19,2020-04-02,London,Bangalore,101 sharath nilaya,Hosahalli Road,Gandhi Nagar,Mandya,Karnataka,571401.0,Mandya
+15.0,2020-03-19,2020-04-02,London,Bangalore,101 sharath nilaya,Hosahalli Road,Gandhi Nagar,Mandya,Karnataka,571401.0,Mandya
+16.0,2020-03-19,2020-04-02,London,Bangalore,srinivasa krupa,Kaveri Extension,Srirangapatha,Mamdya,Karnataka,571438.0,Mandya
+17.0,2020-03-18,2020-04-01,"Dusseldorf, Germany",Bangalore,281/4,"2Nd Cross,1St Main,",-,Mandya,Karnataka,571438.0,Mandya
+18.0,2020-03-18,2020-04-01,"Berlin,Germany",Bangalore,"#281/A,2nd Main,1st Cross",Shrirangapatnam,-,Mandya,Karnataka,571438.0,Mandya
+19.0,2020-03-18,2020-04-01,Germany-Hamburg,Bangalore,c/o madayya,Kasabara Marigudi Beedi,Srirangapatna,Mandya,Karnatka,-,Mandya
+20.0,2020-03-18,2020-04-01,Egypt,Bangalore,-,Goravale,-,Mandya,Karnataka,571405.0,Mandya
+21.0,2020-03-18,2020-04-01,Male/Maldives,Bangalore,-,Arakanakere,Pandavapura,Mandya,Karnataka,571431.0,Mandya
+22.0,2020-03-18,2020-04-01,Male/Maldives,Bangalore,#59,Lokanahalley,Krishnarajapet,Mandya,Karnataka,571436.0,Mandya
+23.0,2020-03-18,2020-04-01,Dubai,Bangalore,81.0,Anegola,-,-,Karnataka,571423.0,Mandya
+24.0,2020-03-18,2020-04-01,Hannover,Bangalore,111.0,Hosahalli,-,Mandya,Karnataka,571401.0,Mandya
+25.0,2020-03-18,2020-04-01,Germany,Bangalore,1408.0,Palahalli,Sr Patna,Mandya,Karnataka,571438.0,Mandya
+26.0,2020-03-18,2020-04-01,Germany,Bangalore,1408.0,Palahalli,Sr Patna,Mandya,Karnataka,571438.0,Mandya
+27.0,2020-03-18,2020-04-01,Germany,Bangalore,1408.0,Palahalli,Sr Patna,Mandya,Karnataka,571438.0,Mandya
+28.0,2020-03-18,2020-04-01,Berlin,Bangalore,KT 613,Marga Kaveri Nagar,-,Mandya,Karnataka,571401.0,Mandya
+29.0,2020-03-18,2020-04-01,"Berlin,Germany",Bangalore,"#281/A,2nd Main,1st Cross",Shrirangapatnam,-,Mandya,Karnataka,571438.0,Mandya
+30.0,2020-03-17,2020-03-31,California,Bangalore,"1748, 5th cross",Christian Colony,Mandya,-,Karnataka,571401.0,Mandya
+31.0,2020-03-17,2020-03-31,Uk,Bengalure,# 34,Siddayowdovodedd ,-,Mandya,Karanataka,571446.0,Mandya
+32.0,2020-03-17,2020-03-31,Dubai,Bangalore,548.0,Jayanthinagar,-,Mandy,Karnataka,571435.0,Mandya
+33.0,2020-03-17,2020-03-31,Malaysia,India,1401.0,Asole Neggi Moudya,-,Mandya,Karnataka,571401.0,Mandya
+34.0,2020-03-17,2020-03-31,Hidd Kingdom Of Bahrain,Mandya ,# 51 SHIVANGNDA NI LAYOUT,7Th Cross ,-,Mandya ,Karnataka ,571401.0,Mandya
+35.0,2020-03-17,2020-03-31,Colombo Srilanka,Bengalore,"# 171, 4TH CROSS",Guttalu Rd,-,Mandya,Karnataka,571403.0,Mandya
+36.0,2020-03-17,2020-03-31,Germany ,Banglore ,"166, GHANATHE ANGAR",Shakar Nagar,-,Mandya,Karanatka,-,Mandya
+37.0,2020-03-16,2020-03-30,Dubai,Bangalore,50.0,Chandahalli,Malvalli,Mandya,Karnataka,571430.0,Mandya
+38.0,2020-03-16,2020-03-30,Cambodia,Bangalore,Tripuramba Krupa,Opposite Pet Indore Stadium,Kallehalli New Extn,Mandya,Karnataka,571401.0,Mandya
+39.0,2020-03-15,2020-03-29,Sharjah,Bangalore,-,Dudukanahalli Kr ,-,Mandiya,Karnataka,-,Mandya
+40.0,2020-03-15,2020-03-29,Male,Bangalore,3rd cross,Devegowda Road,Guthal Colony,Mandya,Karnataka,571403.0,Mandya
+41.0,2020-03-15,2020-03-29,Bangalore,Bangalore,36,Amchahali,K R Pet,Mandya,Karnataka,571436.0,Mandya
+42.0,2020-03-14,2020-03-28,Dubai,Bengaluru,111.0,Anegola,-,Mandya,Karnataka,-,Mandya
+43.0,2020-03-14,2020-03-28,Dubai,Bengaluru,111.0,Anegola,-,Mandya,Karnataka,-,Mandya
+44.0,2020-03-14,2020-03-28,United Kingdom,Bengaluru,s/o shivalingaiah. S.l,Sathanooru,-,Mandya,Karnataka,571402.0,Mandya
+45.0,2020-03-14,2020-03-28,"Sanfrancisco, Usa","Bengaluru, India",828 site no - 05,Abhinava Bharath,-,Mandya,Karnataka,571401.0,Mandya
+46.0,2020-03-14,2020-03-28,Dubai,Bangalore,566.0,Hosa Budanru,Mandya,Mandya,Karnataka,571404.0,Mandya
+47.0,2020-03-13,2020-03-27,Maldives,Bengaluru,695.0,"Dr.Channegowda. Cauvery Nagar,1St Cross, Mandya",Cauvery Nagar,Mandya,Karnataka,571401.0,Mandya
+48.0,2020-03-13,2020-03-27,Mauritius,India-Banglore,-,Hulivana,Keragada,Mandya,Karnataka,571446.0,Mandya
+49.0,2020-03-13,2020-03-27,Osaka Na Kansai,Bengaluru,,Kanchahalli Dodbal (Post),Nagamangala Lt,Mandya,Karnataka,571802.0,Mandya
+50.0,2020-03-13,2020-03-27,Kuwait,Bengaluru,D.No-42,T-Bextension,Pandavapura,Mandya,Karnataka,571431.0,Mandya
+51.0,2020-03-13,2020-03-27,Bahrain,Bangalore,9.0,"2Nd Cross, Rajkumar Layout",Mandya,Mandya,Karnataka,571402.0,Mandya
+52.0,2020-03-13,2020-03-27,Ireland,Bangalore,-,Yeliur,-,Mandya,Karnataka,571402.0,Mandya
+53.0,2020-03-13,2020-03-27,Osaka Kansai,"Bengalore, India",-,Kanchahali Dodabalapura Post,Nagamangala,Mandya,Karnataka,571802.0,Mandya
+54.0,2020-03-13,2020-03-27,Singapore, Bengaluru,#786,Gowdaiah Street,Malavalli,Mandya,Karnataka,571430.0,Mandya
+55.0,2020-03-13,2020-03-27,Malaysia,Banglore,364.0,Katteri,Pandavapura,Mandya,Karnataka,571427.0,Mandya
+56.0,2020-03-12,2020-03-26,Munich,Bangalore,-,Hulwana,-,Mandya,Karnataka,-,Mandya
+57.0,2020-03-12,2020-03-26,Altantgeoia,Bangalore,W/O STR RAMALNGA,Sathanur,-,Mandya,Karnataka,-,Mandya
+58.0,2020-03-12,2020-03-26,Muscat,Bengaluru,KENGEGOADA YALADHALLE  KOPPALA SASLLA,-,Hobale Manadya,Manadya,Karanataka,-,Mandya
+59.0,2020-03-12,2020-03-26,Dubai,Bangalore,-,Sargangi,Krpet,Mandya,Karnataka,-,Mandya
+60.0,2020-03-12,2020-03-26,Dubai,Bangalore,-,Sargangi,Krpet,Mandya,Karnataka,-,Mandya
+61.0,2020-03-12,2020-03-26,Dubai,Bangalore,-,Sargangi,K R Pet,Mandya,Karnataka,-,Mandya
+62.0,2020-03-12,2020-03-26,Dubai,Bangalore,-,Sargangi,K R Pet,Mandya,Karnataka,-,Mandya
+63.0,2020-03-12,2020-03-26,Dubai,Bangalore,-,Mandya,Mandya,Mandya,Karnataka,571401.0,Mandya
+64.0,2020-03-12,2020-03-26,Dubai,Bangalore,48.0,Thubinakere,Devalapura Hobli,Mandya,Karnataka,571445.0,Mandya
+65.0,2020-03-12,2020-03-26,Dubai,Bangalore,48.0,Thubinakere,Devalapura Hobli,Mandya,Karnataka,571445.0,Mandya
+66.0,2020-03-12,2020-03-26,"Dubai,Uae",Bangalore,105/ HADENAHALLI,Lalanakre Post Bindiganavill=Ae,Nagamangala,Mandya,Karnataka,571802.0,Mandya
+67.0,2020-03-12,2020-03-26,Dubai Uae,Bangalore,105/ HADENAHALLI,Lalanakre Post Bindiganavill=Ae,Nagamangala,Mandya,Karnataka,571802.0,Mandya
+68.0,2020-03-12,2020-03-26,Dubai Uae,Bangalore,105/ HADENAHALLI,Lalanakre Post Bindiganavill=Ae,Nagamangala,Mandya,Karnataka,571802.0,Mandya
+69.0,2020-03-12,2020-03-26,Dubai Uae,Bangalore,105/ HADENAHALLI,Lalanakre Post Bindiganavill=Ae,Nagamangala,Mandya,Karnataka,571802.0,Mandya
+70.0,2020-03-11,2020-03-25,Dubai,Mangalore,Shimshapura,Malavalli,-,Mandya,Karnataka,571437.0,Mandya
+71.0,2020-03-11,2020-03-25,Doha-Qatar,Bangalore,-,Br Koppal,S.R Patna,Mandya,Karnataka,-,Mandya
+72.0,2020-03-11,2020-03-25,Bangkok,Bangalore,"881, Arkat Street",Ganjam,Srirangapatna,Mandya,Karnataka,571438.0,Mandya
+73.0,2020-03-11,2020-03-25,Kuala Pumpur,bangalore,L1G60,Houshigbad,-,Mandya,Karnataka ,571401.0,Mandya
+74.0,2020-03-10,2020-03-24,-,bangalore,"867, behind, ",masjid,maddur taluk,mandya,Karnataka,571419.0,Mandya
+75.0,2020-03-10,2020-03-24,-,bangalore,"867, behind, ",masjid,maddur taluk,mandya,Karnataka,-,Mandya
+76.0,2020-03-10,2020-03-24,-,BENGALURU,95 KELAGALAPETE,AREKERE,-,MANDYA,KARNATAKA,-,Mandya
+77.0,2020-03-10,2020-03-24,KL,BLR,LIG 60,-,-,Mandya,Karnataka,571401.0,Mandya
+78.0,2020-03-10,2020-03-24,Kaulala Lumpur,Bengaluru,28.0,Sakaleshwara Swamy Temple street,Old Town,Mandya,Karnataka,571401.0,Mandya
+79.0,2020-03-10,2020-03-24,Kaulala Lumpur,Bengaluru,28.0,Sakaleshwara Swamy Temple street,Old Town,Mandya,Karnataka,571401.0,Mandya

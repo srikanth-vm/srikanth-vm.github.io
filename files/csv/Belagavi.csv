@@ -1,0 +1,76 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,Dubai,Bangalore,96.0,Bailur,Khanapur,Belgaum,Karnataka,590014.0,Belagavi
+2.0,2020-03-21,2020-04-04,Ho-Chi-Minh Cty Vietnam,Bangalore,#606/13,Hirukumfi,Savadatti,Belgavi,Karnataka,591110.0,Belagavi
+3.0,2020-03-21,2020-04-04,Phnom Penh Cambodia,Bangalore,,Yaragatti,,Belgaum,Karnataka,591129.0,Belagavi
+4.0,2020-03-20,2020-04-03,South Korea,Banglore,289/3,Laxmi Badawane,Gokak,Belgam,Karnataka,591307.0,Belagavi
+5.0,2020-03-20,2020-04-03,Dubai,India Bangalore,1293,Basava Galli,-,Belgaum,Karnataka,590003.0,Belagavi
+6.0,2020-03-20,2020-04-03,South Africa,Bengaluru,721.0,2Nd Cross,Vijaynagar,Belagavi,Karnataka,591108.0,Belagavi
+7.0,2020-03-20,2020-04-03,South Africa,Bangalore,460.0,Teggin Galli,Vadgaon,Belagavi,Karnataka,590005.0,Belagavi
+8.0,2020-03-19,2020-04-02,Frankfurt,Bangalore,4415/25,"Maddigalli, Sadalaga",Chikkodi,Belagavi,Karnataka,591239.0,Belagavi
+9.0,2020-03-19,2020-04-02,France,Bangalore,-,Hanuman Nagar,-,Belagavi,Karnataka,590001.0,Belagavi
+10.0,2020-03-19,2020-04-02,Frankfurt ,Bangalore,"4415/25,Maddigalli, Sadalga, Chikkodi",Belgaum,Belgaum,Belgaum,Karnataka,591239.0,Belagavi
+11.0,2020-03-19,2020-04-02,Paris,Bangalore,"Krishna Sadan, Hanuman Nagar",Belagavi,Belagavi,Belagavi,Karnataka,590001.0,Belagavi
+12.0,2020-03-19,2020-04-02,Doha ,Bangalore,"No:1518, Sector 8",Anjenaya Nagar,Belagavi,Belagavi,Karnataka,590016.0,Belagavi
+13.0,2020-03-19,2020-04-02,Singapore,Bangalore,Plot no 9 and 10,Yashwant Vihar Colony,Nanawadi,Belagavi,Karnataka,590009.0,Belagavi
+14.0,2020-03-19,2020-04-02,"Newcastle, Uk",Bangalore,Hno. 340,Hosur,Hukkeri,Belagavi,Karnataka,591226.0,Belagavi
+15.0,2020-03-18,2020-04-01,Seattle,Bangalore,1324.0,Nipani,Chokodi,Belgaum,Karnakata,591237.0,Belagavi
+16.0,2020-03-18,2020-04-01,Sydney,Bangalore,1091.0,"4Th Cross, Shri Jeevanraoyalei Marg",Ramjhirth Nagar,Belgaum,Karnataka,590016.0,Belagavi
+17.0,2020-03-18,2020-04-01,Uk,Bangalore,-,Club Road ,-,Belgaum,Karnataka,59001.0,Belagavi
+18.0,2020-03-18,2020-04-01,Dubai,Bangalore,2630.0,Mali Galli,Belgaum,Belgaum,Karnataka,590001.0,Belagavi
+19.0,2020-03-18,2020-04-01,Dublin,Bangalore,2630.0,Mali Galli,Belgaum,Belgaum,Karnataka,590001.0,Belagavi
+20.0,2020-03-18,2020-04-01,"Seattle, Us","Banglore, India",1324.0,Nipani,Chikodi,Belgaum,Karnataka,591237.0,Belagavi
+21.0,2020-03-18,2020-04-01,"Paris,France",Bangalore,203.0,Hindwadi,-,Belgaum,Karnataka,590003.0,Belagavi
+22.0,2020-03-18,2020-04-01,Dubai,Mangalore,,,,Belgum,Karnataka,591119.0,Belagavi
+23.0,2020-03-17,2020-03-31,New York,Bangalore,2175 A,Kore Galli ,Belgervi,Belgervi,Karnataka,590003.0,Belagavi
+24.0,2020-03-17,2020-03-31,Newyork,Bangalore,759 Shrisainivas,Sayadhri Nagar,Hindalga,Belgaum,Karnataka,590019.0,Belagavi
+25.0,2020-03-17,2020-03-31,Manchester,Bangalore,T-02,-,-,Belgavi,Karnataka,590010.0,Belagavi
+26.0,2020-03-17,2020-03-31,London ,Bangalore,234.0,Doordarshan Nagar,T.V. Center ,Belagavi,Karnataka,590001.0,Belagavi
+27.0,2020-03-17,2020-03-31,London,Belgaum,"PLOT 565, SCHEM 13",Tv Centre,-,Belgaum,Karnataka,590001.0,Belagavi
+28.0,2020-03-17,2020-03-31,Dubai,Bangaluru,KS 335,Kk Nagar,Mysore,Mysore,Karnataka,540016.0,Belagavi
+29.0,2020-03-17,2020-03-31,Dubai,Bangalore,"MAHADEV RESIDENCY FLAT3, POLT 432",Shivbasav Nagar,Belgavi,Belgavi,Karnataka,5900016.0,Belagavi
+30.0,2020-03-17,2020-03-31,"Glasgow,Uk",Bangaloreindia,278/2A,"Dr.Sp, Road",Shahapur,Belgaum,Karnataka,590003.0,Belagavi
+31.0,2020-03-17,2020-03-31,Dubai – Uae,Bengaluru – India,5 (8),Nanawadi,-,Belgavi,Karnataka,550009.0,Belagavi
+32.0,2020-03-17,2020-03-31,Dubai – Uae,Bengaluru – India,5 (80,Nanawadi,-,Belgavi,Karnataka,590009.0,Belagavi
+33.0,2020-03-17,2020-03-31,London- Heathrow,Bangalore,172 /D,Vidya Nagar,Gokak,Belgaum,Karanatka,591307.0,Belagavi
+34.0,2020-03-16,2020-03-30,Auckland,Bangalore,Plot No 406,Scheme 13,-,Belagavi,Karnataka,590010.0,Belagavi
+35.0,2020-03-16,2020-03-30,Kulalampur,Bangalore,344.0,-,-,Belgaum,Karnataka,591123.0,Belagavi
+36.0,2020-03-16,2020-03-30,New York,Bangalore,4929.0,Dhorgalli,Gokak,-,Karnataka,591307.0,Belagavi
+37.0,2020-03-16,2020-03-30,New York,Bangalore,4929.0,Dhorgalli,Gokak,-,Karnataka,591307.0,Belagavi
+38.0,2020-03-16,2020-03-30,New York,Bangalore,4929.0,Dhorgalli,Gokak,Belgaum,Karnataka,591307.0,Belagavi
+39.0,2020-03-15,2020-03-29,Kuala Lumpr,"Bengaluru ,India",-,Sutagati,Savadatti,Belgaum ,Karnataka ,-,Belagavi
+40.0,2020-03-15,2020-03-29,Colombo,Bengaluru,Ystigo Enotes,-,-,Belgaum,Karnataka,-,Belagavi
+41.0,2020-03-15,2020-03-29,Berfort,Bengaluru,Plot no 259,Near Ganapati Tempole Road Buda Sc. 40,-,Bengaluru,Karnataka,591108.0,Belagavi
+42.0,2020-03-15,2020-03-29,Hamburg,Banglore,54B/55A,"Hosur Road, Electronic City",Phase 1,Bangalore,Karnataka,590010.0,Belagavi
+43.0,2020-03-15,2020-03-29,Dubia,Bangalore,746.0,Shri Nager,-,Bellgum,Karnataka,540016.0,Belagavi
+44.0,2020-03-15,2020-03-29,Birmingham Uk ,Bangalore,54103a ccn517,Sambhahji Nager Vadgaon,-,Belgum,Karnataka,590005.0,Belagavi
+45.0,2020-03-14,2020-03-28,Sharjah,Bangalore,Jain Galli,Mangsuli,Athani,Belgaum,Karnataka,591234.0,Belagavi
+46.0,2020-03-14,2020-03-28,Singapore,Hubbli,#3080,Raviwar Peth,Gokak,Belgavi,Karnataka,591307.0,Belagavi
+47.0,2020-03-14,2020-03-28,San Fransciso,Bangalore,613.0,Shreev Nagar Double Road,Belagavi,Balagavi,Karnataka,590016.0,Belagavi
+48.0,2020-03-14,2020-03-28,London,Bangalore,132.0,Lodgeraod Camp,Cantonment,Belgavi,Karnataka,590001.0,Belagavi
+49.0,2020-03-14,2020-03-28,Dubai,Bangalore,CTS 7282/A sector ,Anjaneya Nagar,-,Belagavi,Karnataka,590016.0,Belagavi
+50.0,2020-03-14,2020-03-28,Singapore,Bangalore,402 Flat No Vignanarta Enclave,Ganeshpur Main Road,-,Belagavi,Karnataka,591108.0,Belagavi
+51.0,2020-03-13,2020-03-27,Malasiya,Banglore,-,Shri Gajanan Medicals,-,Belgam,Karnataka ,591220.0,Belagavi
+52.0,2020-03-13,2020-03-27,Oman,India,1516/4,Bevinakattone,Saudatti,Belgaum,Karnataka,591126.0,Belagavi
+53.0,2020-03-13,2020-03-27,San Francisco Ca,Bangalore,"12,46/1",Sangameshwar Nagar,,Belgaum,Karnataka,590010.0,Belagavi
+54.0,2020-03-13,2020-03-27,Malaysia,Banglore,,Havageri,Raibag,Badagiri,Karnataka,591220.0,Belagavi
+55.0,2020-03-12,2020-03-26,Bangkok,Belgaum,FL.4.05.B,Sky Park,Dloarka Hagar,Belgaum,Karnataka,590006.0,Belagavi
+56.0,2020-03-12,2020-03-26,Muscat,Bangalore,GINIAPPA MANI,Gaddihalla,Somarapete,Kodagu,Karnataka,591237.0,Belagavi
+57.0,2020-03-12,2020-03-26,Phoenix,Bengaluru,701.0,Halbag Gali,Gokak,Belagavi,Karnataka,591307.0,Belagavi
+58.0,2020-03-12,2020-03-26,Washington Dc,Bangalore,99/1 SITERAN SADCAN,"7Th Cross, Bhasha",Nagar,Belgaum,Karnataka,540006.0,Belagavi
+59.0,2020-03-12,2020-03-26,Washington Dc,Bangalore,PLOT NO 99/1,Sikram Saden,"7Th Cross, Bhisya","Nagar, Belgaum",Karnataka,590006.0,Belagavi
+60.0,2020-03-12,2020-03-26,Washington Dc,Bangalore,99-1 SITARAM SADAN,"7Th Cross, Bhasha",Nagar,Belgaum,Karnataka,540006.0,Belagavi
+61.0,2020-03-11,2020-03-25,Dubai,Bangalore,Flat no.661,P.V. Centre,Belgaum,Belgaum,Karnataka,590001.0,Belagavi
+62.0,2020-03-11,2020-03-25,Dubai,Bangalore,Flat no.661,P.V. Centre,Belgaum,Belgaum,Karnataka,590001.0,Belagavi
+63.0,2020-03-11,2020-03-25,Dubai,Bangalore,Flat no.661,P.V. Centre,Belgaum,Belgaum,Karnataka,590001.0,Belagavi
+64.0,2020-03-11,2020-03-25,Dubai,Bangalore,Flat no.661,P.V. Centre,Belgaum,Belgaum,Karnataka,590001.0,Belagavi
+65.0,2020-03-11,2020-03-25,Ny/Paris/Usa,Bangalore,Plot No 28,Sector 50 Shahu Nagar,-,Belagavi,Karnataka,590010.0,Belagavi
+66.0,2020-03-11,2020-03-25,Ny/Paris/Usa,Bangalore,Plot No 28,Sector 50 Shahu Nagar,-,Belagavi,Karnataka,590010.0,Belagavi
+67.0,2020-03-11,2020-03-25,Australia,Bangalore,305.0,Ghataprabha Khb Heritage,-,Bangalore,Karnataka,590001.0,Belagavi
+68.0,2020-03-11,2020-03-25,Delhi,Bengaluru,House No 22,Kenchanakoppa,Savadatti,Belagaum,Karnataka,591126.0,Belagavi
+69.0,2020-03-11,2020-03-25,"Kulalumpur,",Blr,165.0,"Alvantgalli, Turman",Belagavi,Belagavi,Karnataka,591128.0,Belagavi
+70.0,2020-03-10,2020-03-24,Dallas Tx,Bengalluru,205.0,Subashnagar,-,Belgaum,Karnataka,590016.0,Belagavi
+71.0,2020-03-10,2020-03-24,Dallas Tx,Bengalluru,205.0,Subashnagar,-,Belgaum,Karnataka,590016.0,Belagavi
+72.0,2020-03-10,2020-03-24,Dallas Tx,Bengalluru,205.0,Subashnagar,-,Belgaum,Karnataka,590016.0,Belagavi
+73.0,2020-03-10,2020-03-24,Kpa Nepal to Belgaum,-,-,Karnataka,-,Belgaum,Karnataka ,-,Belagavi
+74.0,2020-03-10,2020-03-24,chicago-unitedstate,bangalore,378.0,shree bhavani,*,belgavi,karnataka,590016.0,Belagavi
+75.0,2020-03-10,2020-03-24,NEPAL,BANGALORE,-,-,-,Belagavi,Karnataka,-,Belagavi

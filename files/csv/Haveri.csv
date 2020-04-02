@@ -1,0 +1,31 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-23,2020-04-06,Dubai,Bangalore,,Sutar,Rannebennur ,Haveri,Karnataka,581115.0,Haveri
+2.0,2020-03-21,2020-04-04,Oman,"Bengaluru,India",No 99,"Dombaramattur,Savanur",-,Haveri,Karnataka,581118.0,Haveri
+3.0,2020-03-20,2020-04-03,"Muscat, Oman",Bangalore,#38,Manakeer,Renebenner,Haveri,Karnataka,581208.0,Haveri
+4.0,2020-03-20,2020-04-03,"Muscat, Oman",Bangalore,#38,Manakeer,Renebenner,Haveri,Karnataka,581208.0,Haveri
+5.0,2020-03-20,2020-04-03,"Muscat, Oman",Bangalore,#38,Manakeer,Renebenner,Haveri,Karnataka,581208.0,Haveri
+6.0,2020-03-19,2020-04-02,Abudhabi ,Bangalore ,360.0,Alluvilla ,-,Haveri ,Karnataka ,581115.0,Haveri
+7.0,2020-03-18,2020-04-01,Dubai,Bangalore,-,Huialihal,Haveri,-,Karnataka,581108.0,Haveri
+8.0,2020-03-18,2020-04-01,Dubai,Bengaluru,-,Huralihal,Havanur,Haveri,Karnataka,581108.0,Haveri
+9.0,2020-03-18,2020-04-01,Abu Dhabi,Banglore,#24/3/68,Ranibennur ,Ranibennur ,Haveri,Karnataka,581115.0,Haveri
+10.0,2020-03-18,2020-04-01,"Paris, France","Bangalore, India",ManuPriya Nilaya,"1Stmain, 2Nd Cross",Vikas Nagar Ranebemul,"Haveri ,Ravebemur",Karnataka,581115.0,Haveri
+11.0,2020-03-18,2020-04-01,Abu Dhabi,"Bengaluru, India",824/3/68,Kurebennere,Haveri,Ranebejnnar,Karnataka,518115.0,Haveri
+12.0,2020-03-18,2020-04-01,Abu Dhabi,"Bengaluru, India",#824/3/68,Kurebennere,Haveri,Ranebejnnar,Karnataka,518115.0,Haveri
+13.0,2020-03-18,2020-04-01,France,Bangalore,46.0,Maruthi Nagar 1St Main,-,Ranebennur,Karnataka,581115.0,Haveri
+14.0,2020-03-17,2020-03-31,Auh,Bangalore,#1355,Chawdeshvawi Nagar 4Th Cross,Ranibennur,Haveri,Karnataka,581115.0,Haveri
+15.0,2020-03-15,2020-03-29,Amsterdam,Bangalore,-,Umashankar Nagar 1St Main,Ranebennur,Haveri,Karnataka,581115.0,Haveri
+16.0,2020-03-15,2020-03-29,Amsterdam,Bangalore,-,Umastankar Nagar,Ranebennur,Haveri,Karnataka,581115.0,Haveri
+17.0,2020-03-15,2020-03-29,Netherlands,Bangalore,-,"Umashanbear Nagar, 1St Main",Ranebennur,Haveri,Karnataka,581115.0,Haveri
+18.0,2020-03-15,2020-03-29,Netherlands,Bangalore,"umashankar nagar, 1st main ",Ranebennur,-,Haveri,Karnataka,581115.0,Haveri
+19.0,2020-03-15,2020-03-29,Netherlands,Bangalore,-,"Umashankar Nagar, 1St Main ",Haveri,-,Karnataka,581115.0,Haveri
+20.0,2020-03-15,2020-03-29,Dubai,Bangalore,-,Geitta,-,Haveri,Karnataka,581108.0,Haveri
+21.0,2020-03-15,2020-03-29,Amterdam,Bangalore,-,Umashankar Nagar,Ranebennur,Haveri,Karnataka,581115.0,Haveri
+22.0,2020-03-15,2020-03-29,Melbourne/ Australia,Bengaluru,-,Eshwar Nagar,Ranebenuru,Harihara,Karnataka,581115.0,Haveri
+23.0,2020-03-14,2020-03-28,Singapore,Bangalore,-,"Haveri, ",-,Haveri,Karnataka,581110.0,Haveri
+24.0,2020-03-14,2020-03-28,Singapore,Bangalore,-,"Haveri, ",-,Haveri,Karnataka,581110.0,Haveri
+25.0,2020-03-12,2020-03-26,United States,"Bengalore, India",3/B,Sheegihalli Plot,"Adur Post, Hangal",Haveri,Karnataka,581101.0,Haveri
+26.0,2020-03-12,2020-03-26,"Michigan, Usa",Bengalore,3/B,Sheegihalli Plot,"Adur Post, Hangal",Haveri,Karnataka,581101.0,Haveri
+27.0,2020-03-12,2020-03-26,St.Maarten,Bangalore,#25,Naikerur,Savanur,Haveri,Karnataka,581118.0,Haveri
+28.0,2020-03-12,2020-03-26,Maniester,Bangalore,-,-,-,-,Karnataka,581115.0,Haveri
+29.0,2020-03-11,2020-03-25,Dubai,Bangalore,10857.0,Savanur,-,Haveri,Karnataka,581118.0,Haveri
+30.0,2020-03-11,2020-03-25,Dubai,Bangalore,08373-267096,Ranebennur Near Ashok  Circle,Ranebennur Near Ashok  Circle,Dharwar,Karnataka,581115.0,Haveri

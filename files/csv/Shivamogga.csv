@@ -1,0 +1,233 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,Oman,Bangalore,-,Donabaghatta,Bhadravathi,-,Karnataka,577229.0,Shivamogga
+2.0,2020-03-22,2020-04-05,Dubai,Bangalore,-,Hosuhalli,-,Shimoga,Karnataka,577202.0,Shivamogga
+3.0,2020-03-22,2020-04-05,Dubai,Bangalore,-,3Rd 5Th Cross Ashok Nagar,-,Shivamoga,Karnataka,577201.0,Shivamogga
+4.0,2020-03-22,2020-04-05,Dubai,Bangalore,201.0,Rml Nagar,Shimoga,Shimoga,Karnataka,577201.0,Shivamogga
+5.0,2020-03-22,2020-04-05,Dubai,Bengaluru,RNR House,Sagab Road,Thirthahailli,Shimoga,Karnataka,577432.0,Shivamogga
+6.0,2020-03-22,2020-04-05,Doha.qatar,Bangalore,,tadsa village,,shivmoga,,,Shivamogga
+7.0,2020-03-21,2020-04-04,Dubai,Bangalore,7A,Yaduri Posa,Hosanagar,Shimoga,Karnataka,577246.0,Shivamogga
+8.0,2020-03-21,2020-04-04,Australia ,Bangalore,#172,Bommana Kaitte,Ashraya Badavane,Shimoga,Karnataka,577204.0,Shivamogga
+9.0,2020-03-21,2020-04-04,Dubai,Bangalore,Madeena Manzil,Tank Mohalla,-,Shivamogga,Karnataka,577201.0,Shivamogga
+10.0,2020-03-21,2020-04-04,Dubai,Bangalore,,Thirthahalli,,Shivamoga,Karnataka,577432.0,Shivamogga
+11.0,2020-03-21,2020-04-04,Dubai,Bengaluru,25.0,Kittanagadde Thirthahalli,,Shimoga,Karnataka,577432.0,Shivamogga
+12.0,2020-03-21,2020-04-04,Dubai,Bengaluru,25.0,Thirthahalli,,Shimoga,Karnataka,577432.0,Shivamogga
+13.0,2020-03-20,2020-04-03,Dubai,Bangalore,1st Cross,Tunga Nagar,-,Shimoga,Karnataka,577205.0,Shivamogga
+14.0,2020-03-20,2020-04-03,Bahrain,Bangalore,305.0,Vinobanagar,Shimoga,Shimoga,Karnataka,577204.0,Shivamogga
+15.0,2020-03-20,2020-04-03,Dubai,Bangalore Int Airport,Samruddhi Nilaya,Jp Nagar,Sagar,Shimoga,Karnataka,577401.0,Shivamogga
+16.0,2020-03-20,2020-04-03,Dubai,Bangalore Int Airport,Samruddhi Nilaya,Jp Nagar,Sagar,Shimoga,Karnataka,577402.0,Shivamogga
+17.0,2020-03-20,2020-04-03,Usa,Bangalore,# E-1/225,"Officers Qtrs, Paper Town",Bhadravathi,Shivamoga,Karnataka,577302.0,Shivamogga
+18.0,2020-03-20,2020-04-03,Usa,Bangalore,# E-1/225,"Officers Qtrs, Paper Town",Bhadravathi,Shivamoga,Karnataka,577302.0,Shivamogga
+19.0,2020-03-20,2020-04-03,"Accra, Ghana",Bengaluru,-,Gowrapura,Bhadrauathi,Shimoga,Karnataka,577245.0,Shivamogga
+20.0,2020-03-20,2020-04-03,"Accra, Ghana",Bengaluru,-,Gowrapura,Bhadrauathi,Shimoga,Karnataka,577245.0,Shivamogga
+21.0,2020-03-20,2020-04-03,Dxb,Bangalore,450/1,"Masid Azamline,Bommanahalli",Bhadravathi,Shimoga,Karnataka,577302.0,Shivamogga
+22.0,2020-03-20,2020-04-03,Dubai,Bangalore,Pawar Nilaya,Kasipura,-,Shimoga,Karnataka,-,Shivamogga
+23.0,2020-03-20,2020-04-03,Usa ,Bangalore,67.0,Nisarga A Block 2Nd Cross Gandinagar,-,Shivmogga,Karnataka,577201.0,Shivamogga
+24.0,2020-03-19,2020-04-02,London,Bangalore,Rajsri Nivas,Sharavathi Nagar,-,Shimoga,Karnataka,577201.0,Shivamogga
+25.0,2020-03-19,2020-04-02,Muscat,Bangalore,26-181-1,Gandhinagar,Shiralahoppa,Shimoga,Karnataka,577428.0,Shivamogga
+26.0,2020-03-19,2020-04-02,Delhi,Banaglaore,#11 F block ,Shri Shailr Mallikarjuna Supari Traders,Apmc Yard,Shimoga,Karnataka,577205.0,Shivamogga
+27.0,2020-03-19,2020-04-02,Dublin,Bangalore,"373, Behind Laxmi Rice Mill,Alkola",Shivamoga,Shivamoga,Shivamoga,Karnataka,577204.0,Shivamogga
+28.0,2020-03-19,2020-04-02,Dubai,Mangalore,1st Cross,Vidya Nagar,Shivamoga,Shivamoga,Karnataka,577203.0,Shivamogga
+29.0,2020-03-19,2020-04-02,Dubai,Mangalore,,Hansavali,,Shimoga,Karnataka,577432.0,Shivamogga
+30.0,2020-03-19,2020-04-02,Dubai,Mangalore,41.0,Pinto Nivas,,Shimoga,Karnataka,577435.0,Shivamogga
+31.0,2020-03-19,2020-04-02,Dubai,Mangalore,278.0,1st Cross,SN Nagar,Shimoga,Karnataka,577401.0,Shivamogga
+32.0,2020-03-18,2020-04-01,Usa,Bangalore,70.0,Sowlanaga Road,Lbs ,Shivamoga,Karnataka,577204.0,Shivamogga
+33.0,2020-03-18,2020-04-01,Usa,Bangalore,70.0,Sowlanaga Road,Lbs ,Shivamoga,Karnataka,577204.0,Shivamogga
+34.0,2020-03-18,2020-04-01,Germany,Bangalore,Rashmi,60 Feet Rd,11Th Cross Vinoba Nagar,Shimoga,Karnataka,577201.0,Shivamogga
+35.0,2020-03-18,2020-04-01,Germany,Bangalore,41.0,Gopala 2Nd Stage,-,Shimoga,Karnataka,577201.0,Shivamogga
+36.0,2020-03-18,2020-04-01,Germany,Bangalore,F1,"Jh, Patal Ext , ",Near Somminakoppa,Shivamogga,Karnataka,577204.0,Shivamogga
+37.0,2020-03-18,2020-04-01,Germany,Bangalore,F1,"Jh Patel Ext, ",Neal Somenakoppa,Shivamogga,Karnataka,577204.0,Shivamogga
+38.0,2020-03-18,2020-04-01,Sydney Australia,Bangalore India,107.0,Sirmv Road,Baraveshawara Circle,Shimoga,Karnataka,577201.0,Shivamogga
+39.0,2020-03-18,2020-04-01,Sydney Australia,Bangalore India,107.0,Sirmv Road,Baraveshawara Circle,Shimoga,Karnataka,577201.0,Shivamogga
+40.0,2020-03-18,2020-04-01,"Munich, Germany",Bangalore,Rashmi,"60Ft Road, 11Th Cross",Vinobha Nagar,Shimogha,Karnataka,577201.0,Shivamogga
+41.0,2020-03-18,2020-04-01,"Frankfruit, Germany",Bangalore,41.0,Gopala 2Nd Stage,-,Shimoga,Karnataka,577201.0,Shivamogga
+42.0,2020-03-18,2020-04-01,"Frankfurt, Germany",Bangalore,F1,Jh Patel Ext,Shimoga,Shimoga,Karnataka,577204.0,Shivamogga
+43.0,2020-03-18,2020-04-01,"Frankfurt, Germany",Bangalore,F1,Jh Patel Ext,Shimoga,Shimoga,Karnataka,577204.0,Shivamogga
+44.0,2020-03-18,2020-04-01,Singapore,Bangalore,23.0,Kalasi Tenginamatha,B Manchale,"Sagar Taluk, Shimoga Dist",Karnataka,577431.0,Shivamogga
+45.0,2020-03-18,2020-04-01,Amsterdam,Bangalore,"44,gurujyothinagar","1St Main,2Nd Cross",Jayadra Extension,Shivmogga,-,577204.0,Shivamogga
+46.0,2020-03-18,2020-04-01,Abudhabi,Banglore ,-,Nonabur,Thirthahalli,Shimoga,Karnataka,577414.0,Shivamogga
+47.0,2020-03-18,2020-04-01,Seattle Usa,Bangalore,70.0,"Sowlanga Road, Lbs Nagar",Shimoga,Shimoga,Karnatka,577204.0,Shivamogga
+48.0,2020-03-18,2020-04-01,Seatile Usa ,Bangalore,70.0,"Sowlanga Road, Lbs Nagar",Shimoga,Shimoga,Karnatka,577204.0,Shivamogga
+49.0,2020-03-18,2020-04-01,Dubai,Bangalore,6th Cross,Left Side,Tippu Nagar,Shivamogga,Karnataka,577205.0,Shivamogga
+50.0,2020-03-18,2020-04-01,Abu Dhabi,"Banglore, India",,Janate Delux Road,,Tiptur,Karnataka,577201.0,Shivamogga
+51.0,2020-03-18,2020-04-01,Phoenix,Bangalore,22/11 Amachi,Padavagodu,Sorab Takluk,Shivamogga,Karnataka,577434.0,Shivamogga
+52.0,2020-03-18,2020-04-01,Sydney Australia,Bangalore India,107.0,Sirmv Road,Baraveshawara Circle,Shimoga,Karnataka,577201.0,Shivamogga
+53.0,2020-03-18,2020-04-01,Sydney Australia,Bangalore India,107.0,Sirmv Road,Baraveshawara Circle,Shimoga,Karnataka,577201.0,Shivamogga
+54.0,2020-03-18,2020-04-01,Muscat,Mangalore,Madina,sagara,,Shivamoga,Karnataka,577401.0,Shivamogga
+55.0,2020-03-18,2020-04-01,Abu dhabi,Mangalore,,ashoka nagar,shimoga,,Karnataka,557227.0,Shivamogga
+56.0,2020-03-18,2020-04-01,AUE,IXE,,UTI ROAD,,,Karnataka,577201.0,Shivamogga
+57.0,2020-03-17,2020-03-31,Dubai ,Mangalore,18.0,Sarale Sankahalli,Tirthahalli,Shimogga,Karnataka,-,Shivamogga
+58.0,2020-03-17,2020-03-31,Dxb,Mangalore,-,Thirthahalli,Shimoga,-,Karnataka,577432.0,Shivamogga
+59.0,2020-03-17,2020-03-31,Qatar,Bangalore,4.0,City Shivamoga,Rml Nagar,Shimoga,Karnataka,577205.0,Shivamogga
+60.0,2020-03-17,2020-03-31,Dubai,Bangalore,-,Sanjaoy Colon2,-,Shimogga,Karnataka,577301.0,Shivamogga
+61.0,2020-03-17,2020-03-31,Dubai-Dxb,Bangalore,2ND FLOOR,3Rd Cross Illayaz Nagar.Shimoga,-,Shivamogga,Karnataka,577201.0,Shivamogga
+62.0,2020-03-17,2020-03-31,Oman,Banglore,-,Shikaripura,-,Sihimoga,Karnataka,577427.0,Shivamogga
+63.0,2020-03-17,2020-03-31,Abu Dabhi,Bangalore,-,Ripponpet,-,Karnataka Shimoga,Karnataka,577426.0,Shivamogga
+64.0,2020-03-17,2020-03-31,Dubai,Mangalore,,THIRTHAHalli,THIRTHAHalli,Shivmoga,Karnataka,577432.0,Shivamogga
+65.0,2020-03-17,2020-03-31,Dubai,Mangalore,#18,scoraloa sankadhadhi,thirthahalli,shivamoga,Karnataka,,Shivamogga
+66.0,2020-03-16,2020-03-30,Dubai,Mangalore,No 31,Ragavendra Ext. Near Anuradha Nursing Home,,Shimoga Dist Thirthahalli,Karnataka,577432.0,Shivamogga
+67.0,2020-03-16,2020-03-30,Dubai,Mangalore,31.0,Ragavendra Exl Near Anuradha,Nurvy Home,Thirthahalli Shimoga Dist,Karnataka,577432.0,Shivamogga
+68.0,2020-03-16,2020-03-30,Dubai,Mangalore,14.0,Sgar,-,Simoga,Karnataka,-,Shivamogga
+69.0,2020-03-16,2020-03-30,"Dubai, Uae","Mangalore, India",5/87,Market Road,-,Shivmoga/Saga,Karnataka,577401.0,Shivamogga
+70.0,2020-03-16,2020-03-30,Dubai,Mangalore,258,Old Mandli,-,Shivmoga,Karnataka,-,Shivamogga
+71.0,2020-03-16,2020-03-30,Abu Dhabi,Bangalore,-,3Rd Cross,Tank Mohalla,Shivamogga ,Karnataka,577201.0,Shivamogga
+72.0,2020-03-16,2020-03-30,Chicago,Bangalore,shivasanga,A 3Lock 2Nd Main ,Sraravanthi Nagar,Shimonga,Karnataka,577201.0,Shivamogga
+73.0,2020-03-16,2020-03-30,Sharjah,Bangalore,59.0,Rml Nagar,Near Duba Majiid,Shimoga,Karnataka,577020.0,Shivamogga
+74.0,2020-03-16,2020-03-30,"Doha , Qatar ",Bangalore,,Basareanagudi,-,Shinoga ,Karnataka ,577201.0,Shivamogga
+75.0,2020-03-16,2020-03-30,Dubai,"Banaglore, India",-,Shimam,-,Shimam,Karnataka,577201.0,Shivamogga
+76.0,2020-03-15,2020-03-29,Dubai,Manglore ,thertha halli,-,,Shimogha,Karnataka,,Shivamogga
+77.0,2020-03-15,2020-03-29,Uae ,India ,Ashri Bhargan ,Shanth Napa ,Bhootrath Rd ,Shimoga ,Karnataka,-,Shivamogga
+78.0,2020-03-15,2020-03-29,Sharjah,Bangalore,#23 Fayaz Manzil,10Th Ward Neldi Nagar,Tank Mohalla,Shimoga,Karnataka,577201.0,Shivamogga
+79.0,2020-03-15,2020-03-29,Dubai,Bangalore,-,1St Cross ,Shimoga,Shimoga,Karnataka,577201.0,Shivamogga
+80.0,2020-03-15,2020-03-29,Muscat,Bangalore,CH#16,"1St Cross, Tippu Nagar",Shimogga,Shimogga,Karnataka,577205.0,Shivamogga
+81.0,2020-03-15,2020-03-29,Sharjah,Bangalore,3/4 A,S N Nagar,Kambali,Shimoga,Karnataka,577401.0,Shivamogga
+82.0,2020-03-15,2020-03-29,Doha - Qatar,Bangalore,-,Basavangudi,-,Shimoga,Karnataka,577201.0,Shivamogga
+83.0,2020-03-15,2020-03-29,Dubai,Bangalore,sharada farm,Othigatta Road Nidige,Shimoga,Shimoga,Karnataka,597222.0,Shivamogga
+84.0,2020-03-15,2020-03-29,Dubai,Bangalore,sharada farm,Othigatta Road Nidige,Shimoga,Shimoga,Karnataka,597222.0,Shivamogga
+85.0,2020-03-15,2020-03-29,Manila,Bangalore,23B,Ratnagiri Nagar ,Abbalagere,Shivamogga ,Karnataka ,577225.0,Shivamogga
+86.0,2020-03-15,2020-03-29,Portugal,"Bengaluru ,India",291 sri sai krishna krupa ,1St Floor 1St Stage ,2Nd Layout Vinayak Nagar ,Shivamogga ,Karnataka ,577204.0,Shivamogga
+87.0,2020-03-15,2020-03-29,Brisbane,Bangalore,"86, Rajath","P2T Colony, 3Rd Cross",Vinobanagar,Shimoga,Karnataka,577204.0,Shivamogga
+88.0,2020-03-15,2020-03-29,Brisbane,Bangalore,"86, Rajath","P2T Colony, 3Rd Cross",Vinobanagar,Shimoga,Karnataka,577204.0,Shivamogga
+89.0,2020-03-15,2020-03-29,Dubai,Bangalore,-,-,-,Shimoga,Karnataka,577201.0,Shivamogga
+90.0,2020-03-15,2020-03-29,Uae,India ,15.0,Durga Layout Gadikoppa,Shimoga ,Shimoga ,Karnataka,577201.0,Shivamogga
+91.0,2020-03-15,2020-03-29,Dubai,India ,545.0,Sagar ,Sagar ,Shivmoga ,Karnataka,577401.0,Shivamogga
+92.0,2020-03-15,2020-03-29,Dubai,Bangalore,545.0,Sagar ,Sagar ,Shivmoga ,Karnataka,577401.0,Shivamogga
+93.0,2020-03-15,2020-03-29,Dubai,Bangalore,Srivinu ,Srinagar ,Sagar ,Shivmoga ,Karnataka,577401.0,Shivamogga
+94.0,2020-03-15,2020-03-29,Uae ,India ,-,Shanti Nagar ,Bhadravati ,Shivmogga ,Karnataka,577451.0,Shivamogga
+95.0,2020-03-15,2020-03-29,Uae,Bangalore,Srivinu ,Srinagar ,Sagara,Shimoga ,Karnataka,577401.0,Shivamogga
+96.0,2020-03-15,2020-03-29,Dubai,India,-,-,Gandhinagara,Shivamogga,Karnataka,577201.0,Shivamogga
+97.0,2020-03-15,2020-03-29,Uae,India,15.0,Durga Layout,Gadikoppa,Shivamogga,Karnataka,577201.0,Shivamogga
+98.0,2020-03-15,2020-03-29,Paris,Bangalore,-,Shikaripura,-,Shivmoga,Karnataka,577427.0,Shivamogga
+99.0,2020-03-14,2020-03-28,Dammam,Mangalore,418.0,Church Road,Hosanagara,Shimoga,Karnataka,577418.0,Shivamogga
+100.0,2020-03-14,2020-03-28,Dammam,Mangalore,,Indira Nagar,Thirthalli,Thirthalli,Karnataka,577432.0,Shivamogga
+101.0,2020-03-14,2020-03-28,Dubai,Mangalore,38.0,Kandoka,Nonbur,Shimogga,Karnataka,571414.0,Shivamogga
+102.0,2020-03-14,2020-03-28,Dammam,Mangalore,418,Church Road,Hosanagara,Shimoga,Karnataka,577418,Shivamogga
+103.0,2020-03-14,2020-03-28,Dubai,Mangalore,No 281,"Rampura, Hunasur",Sagar,Shimoga,Karnataka,577401.0,Shivamogga
+104.0,2020-03-14,2020-03-28,Breman Frankfort,Bangalore,245.0,Anallkoppa,Sagar,Shimoga,Karnataka,577221.0,Shivamogga
+105.0,2020-03-14,2020-03-28,Berlini Germeny,Bangalore,Halappa Son's Compound,Durgigudi Main Road,-,Shimoga,Karnataka,577201.0,Shivamogga
+106.0,2020-03-14,2020-03-28,Oman,Bangalore,-,"1St Main, Near Bhartiya Sabha Bhavan",Rml Nagar,Shivamogga,Karnataka,577205.0,Shivamogga
+107.0,2020-03-14,2020-03-28,Losagenls California,Bengaluru,No 185,Ashoknagar - 1,-,Yedenhalli,Shivamogga,577227.0,Shivamogga
+108.0,2020-03-14,2020-03-28,Austin,Bangalore-India,35.0,Eregodu,Thirthahalli,Shimoga,Karnataka,577226.0,Shivamogga
+109.0,2020-03-14,2020-03-28,Najran,Bengaluru,-,Mehdu Nagar,-,Shivamogga,Karnataka,577201.0,Shivamogga
+110.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,5.0,T.K.Road,-,Shivamogga,Karnataka,577301.0,Shivamogga
+111.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,-,3Rd Cross Main Road,Anwar Colony (Bdvt),Shivamogga,Karnataka,577301.0,Shivamogga
+112.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,-,1St Stage Ali Mohammed School,-,Shivamogga,Karnataka,577201.0,Shivamogga
+113.0,2020-03-14,2020-03-28,Riyadh,Bengaluru,28/1,Tippu Nagar,-,Shivamogga,Karnataka,577205.0,Shivamogga
+114.0,2020-03-14,2020-03-28,Riyadh,Bengaluru,28/1,Tippu Nagar,-,Shivamogga,Karnataka,577205.0,Shivamogga
+115.0,2020-03-14,2020-03-28,Riyadh,Bengaluru,28/1,Tippu Nagar,-,Shivamogga,Karnataka,577205.0,Shivamogga
+116.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,Ansar Building,-,Tank Mohalla,Shimoga,Karnataka,577201.0,Shivamogga
+117.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,Ansar Building,-,Tank Mohalla,Shimoga,Karnataka,577201.0,Shivamogga
+118.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,Ansar Building,-,Tank Mohalla,Shimoga,Karnataka,577201.0,Shivamogga
+119.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,Ansar Building,-,Tank Mohalla,Shimoga,Karnataka,577201.0,Shivamogga
+120.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,-,Sirigire Main Road,-,Shimoga,Karnataka,577211.0,Shivamogga
+121.0,2020-03-14,2020-03-28,Dublin,Bangalore,"114, 7th Cross, Tank Mohalla",Shimoga,Shimoga,Shimoga,Karnataka,577201.0,Shivamogga
+122.0,2020-03-14,2020-03-28,Bangalore,Bangalore,-,Jodokata,"Kesalor, Kammr Post",Shimoga,Karnataka,577432.0,Shivamogga
+123.0,2020-03-14,2020-03-28,Muscat,Bangalore,"31,Beedi Qtrs","Analekoppa, Keladi Road",Sagar,Shivamogga,Karnataka,577401.0,Shivamogga
+124.0,2020-03-14,2020-03-28,Dubai,Bangalore,235 Channanne Nikys,Shivanagar,-,Shivamoga,Karnataka,577204.0,Shivamogga
+125.0,2020-03-14,2020-03-28,Dubai,Bangalore,235 Channanne Nikys,Pxt Colony,Shivanagar,Shivamoga,Karnataka,577204.0,Shivamogga
+126.0,2020-03-14,2020-03-28,Baharain,Bangalore,-,"Rml Nagar, 3Rd Cross 1St Stage",-,Shimoga,Karnataka,577205.0,Shivamogga
+127.0,2020-03-14,2020-03-28,Baharain,Bangalore,No. 5,Tk Road,-,Shimoga,Karnataka,577301.0,Shivamogga
+128.0,2020-03-14,2020-03-28,Baharain,Bangalore,Azad Street,Anvathi,Sorab,Shimoga,Karnataka,577413.0,Shivamogga
+129.0,2020-03-14,2020-03-28,Baharain,Bangalore,-,Bilvaderekoppa,Sirigere,Shimoga,Karnataka,577211.0,Shivamogga
+130.0,2020-03-14,2020-03-28,Baharain,Bangalore,Azad Street,Anvathi,Sorab,Shimoga,Karnataka,577413.0,Shivamogga
+131.0,2020-03-14,2020-03-28,Saudi Arabia,Bangalore,"2nd cross, left side",Jpn Nagar,-,Shimoga,Karnataka,577205.0,Shivamogga
+132.0,2020-03-14,2020-03-28,Saudi Arabia,Bangalore,"2nd cross, left side",Jpn Nagar,-,Shimoga,Karnataka,577205.0,Shivamogga
+133.0,2020-03-14,2020-03-28,Baharain,Bangalore,"3rd Cross, Main Road",Anwar Colony,Bhadravathi,Shimoga,Karnataka,577301.0,Shivamogga
+134.0,2020-03-14,2020-03-28,Baharain,Bangalore,1st Stage,Opp. All Monahhed School,Rml Nagar,Shimoga,Karnataka,577201.0,Shivamogga
+135.0,2020-03-14,2020-03-28,Riyadia,India,"No 38,",Visweswar Nagar,-,Shimoga,Karnataka,577201.0,Shivamogga
+136.0,2020-03-14,2020-03-28,Brenen Frankfket(Transit),Bangalore,"#46, 2nd Stage",Khb Colony,Gopala,Shimoga,Karnataka,577201.0,Shivamogga
+137.0,2020-03-14,2020-03-28,Dubai,Bangalore,923116.0,1St Main 1 Cross Ganapathi - Ex,-,Shimoga,Karnataka,577203.0,Shivamogga
+138.0,2020-03-14,2020-03-28,London Healthrow,Bengaluru,Door No. 97,Manjunathwa Nillaya,Kuvempu Road,Shivamoggo,Karnataka,577201.0,Shivamogga
+139.0,2020-03-14,2020-03-28,Delhi,"Bengaluru, India",No14,Anayatti,Sarva,Anavati,Karnataka,577413.0,Shivamogga
+140.0,2020-03-14,2020-03-28,Delhi,"Bengaluru, India",#14,Anavathi,Sorba,Shivamoga,Karnataka,577413.0,Shivamogga
+141.0,2020-03-14,2020-03-28,Doha,Bangalore,1.0,"Bapujinagar, 8Th Cross",Shimga,-,Karnataka,577201.0,Shivamogga
+142.0,2020-03-14,2020-03-28,Chicago,Bangalore,"1491A, E block gopala gowda extn",Shimoga,Shimoga,Shimoga,Karnataka,,Shivamogga
+143.0,2020-03-14,2020-03-28,Chicago,Bangalore,"1491A, E block gopala gowda extn",Shimoga,Shimoga,Shimoga,Karnataka,,Shivamogga
+144.0,2020-03-14,2020-03-28,Chicago,Bangalore,"1491A, E block gopala gowda extn",Shimoga,Shimoga,Shimoga,Karnataka,,Shivamogga
+145.0,2020-03-14,2020-03-28,Chicago,Bangalore,"1491A, E block gopala gowda extn",Shimoga,Shimoga,Shimoga,Karnataka,,Shivamogga
+146.0,2020-03-14,2020-03-28,Abudhabi,Bangalore,-,-,-,Shivamoga,Karnataka,577201.0,Shivamogga
+147.0,2020-03-14,2020-03-28,Baharain,Bangalore,-,-,-,Shivamoga,Karnataka,577229.0,Shivamogga
+148.0,2020-03-13,2020-03-27,Bahrain,Mangalore,Roshan Nilaya,"Pension Mohalla, 2Nd Cross",,Shivamoga,Karnataka,577201.0,Shivamogga
+149.0,2020-03-13,2020-03-27,Bahrain,Mangalore,61.0,Thyagaraja Road,Thirthahalli,Shivamoga,Karnataka,577432.0,Shivamogga
+150.0,2020-03-13,2020-03-27,Bahrain,Mangalore,"33, M. J. Nilaya",Kuvempu Road,Thirthahalli,Shimoga,Karnataka,577432.0,Shivamogga
+151.0,2020-03-13,2020-03-27,Bahrain,Mangalore,"33, M. J. Nilaya",Kuvempu Road,Thirthahalli,Shimoga,Karnataka,577432.0,Shivamogga
+152.0,2020-03-13,2020-03-27,Abu Dhabi,India-Mangalore,v198,,Malun,Shimoga,Karnataka,517323.0,Shivamogga
+153.0,2020-03-13,2020-03-27,Bahrain,Manglore,161.0,2Nd Cross Surgithop,Bhadravathi,Shimoga,Karnataka,577301.0,Shivamogga
+154.0,2020-03-13,2020-03-27,Dubai,Mangalore,47/47,-,Thirtha,Shimoga,Karantaka,577411.0,Shivamogga
+155.0,2020-03-13,2020-03-27,Dubai,Mangalore,10th Cross,Rml Nagar,Rml Nagar,Shimoga,Karnataka,577202.0,Shivamogga
+156.0,2020-03-13,2020-03-27,Dubai,Mangalore,47/47/(2),"Main Road, Agumbe",Therthali,Shimoga,Karnataka,577411.0,Shivamogga
+157.0,2020-03-13,2020-03-27,Dubai,Mangalore,47/47/(2),"Main Road, Agumbe",Therthali,Shimoga,Karnataka,577411.0,Shivamogga
+158.0,2020-03-13,2020-03-27,Abudhabi,Manglore,BV 917,Mulur P,,Shimoga,Karnataka,517232.0,Shivamogga
+159.0,2020-03-13,2020-03-27,San Francisco,Bangalore,#B -108,Swamy Vivekananda Badvane,Shivamogga,Shivamogga,Karnataka,577205.0,Shivamogga
+160.0,2020-03-13,2020-03-27,San Francisco,Bengaluru,# B-108,Swami Vivekananda Extention,Shivamogga,Shivamogga,Karnataka,577205.0,Shivamogga
+161.0,2020-03-13,2020-03-27,Dublin,Bangalore,# A 216,# A 216,1St Main 2Nd Cross,Shivamoga,Karnataka,577204.0,Shivamogga
+162.0,2020-03-13,2020-03-27,Dublin,Bangalore,# A 216,# A 216,1St Main 2Nd Cross,Shivamoga,Karnataka,577204.0,Shivamogga
+163.0,2020-03-13,2020-03-27,Dublin,Bangalore,# A 216,"1St Main,2Nd Cross",Globle Gowda Estate ,Shivamoga,Karnataka,577204.0,Shivamogga
+164.0,2020-03-13,2020-03-27,Usa,"Bengalore, India",Rajya shree,6Th Ft Rd 4Th Cross,Vinobanagar,Shrinagar,Karnataka,577204.0,Shivamogga
+165.0,2020-03-13,2020-03-27,Dubai,Bengaluru,Parul Khair,S.N Nagar 4 Th Cross,Sagar,Shimoga,Karnataka,577401.0,Shivamogga
+166.0,2020-03-13,2020-03-27,Dubai,Bengaluru,Darul Khair,S.N Nagar 4Th Cross,Sagar,Shimoga,Karnataka,577401.0,Shivamogga
+167.0,2020-03-13,2020-03-27,Dubai,Bengaluru,Darul Khair,S.N Nagar 4Th Cross,Sagar,Shimoga,Karnataka,577401.0,Shivamogga
+168.0,2020-03-13,2020-03-27,Uae Dubai,Bengaluru,77/11,Sorada Road A C Harkeri,-,Shimoga,Karnataka,577401.0,Shivamogga
+169.0,2020-03-13,2020-03-27,Bahrain,Bangalore,-,Kadekal,Shimoga,Shimoga,Karnataka,577203.0,Shivamogga
+170.0,2020-03-13,2020-03-27,Kuwait,Bangalore,-,Rml Nagar,-,Shimoga,Karnataka,577201.0,Shivamogga
+171.0,2020-03-13,2020-03-27,Usa,Banglore,117.0,M. Konugod,Sagara,Shivmoga,Karnataka,577401.0,Shivamogga
+172.0,2020-03-13,2020-03-27,Sfo Usa,Bangalore,117.0,M.Kanugad,Sagar,Shivamogga,Karnataka,577401.0,Shivamogga
+173.0,2020-03-13,2020-03-27,Bahrain,Bangalore,43924.0,"Kondlukoppa, Sankadahalp",-,"Thirthahall Tq, Shimogga Dist",Karnataka,577432.0,Shivamogga
+174.0,2020-03-13,2020-03-27,Bahrain,Bangalore,-,"Kondlukoppa, Sankadahalp",-,"Thirthahall Tq, Shimogga Dist",Karnataka,577432.0,Shivamogga
+175.0,2020-03-12,2020-03-26,Dubai,Bangalore,-,Venkatesha Nagara 4Th Cross Ank Road,-,Shimoga ,Karnataka,572201.0,Shivamogga
+176.0,2020-03-12,2020-03-26,Lad,Bangalore,-,-,-,Shivamogga,Karnataka,577205.0,Shivamogga
+177.0,2020-03-12,2020-03-26,Germany,Bangalore,"GANGA, B CROSS","Soft Road,Near  Back Gate",-,Shivamogga,Karnataka,577201.0,Shivamogga
+178.0,2020-03-12,2020-03-26,"Penang, Malaysia",Bangalore,62.0,Herebail,Kuduvalli(P)  Thirthalli (T),Shivamoga,Karnataka,577226.0,Shivamogga
+179.0,2020-03-12,2020-03-26,"Zurich,Switzerland",Bangalore,"Prerana,#20","14Th Cross,60 Feet Road, Uinobanagana",-,Shimoga ,Karnataka,577204.0,Shivamogga
+180.0,2020-03-12,2020-03-26,Dubai,Bangalore,SHASHANK,Ashok Nagar 1 Cross ,-,Shimoga,Karnataka,577201.0,Shivamogga
+181.0,2020-03-12,2020-03-26,Dubai,Bangalore,'SHASHANK’,Ashok Nagar 1 Cross ,-,Shimoga,Karnataka,577201.0,Shivamogga
+182.0,2020-03-12,2020-03-26,Dubai,Bangalore,-,Rajabudi Aralihalli,Basalikatte,Badravati  Smigo,Karnataka,577233.0,Shivamogga
+183.0,2020-03-12,2020-03-26,Sluagant,Bangalore,-,Venkatesh Nagar,-,Shi Miga,Karnataka,577201.0,Shivamogga
+184.0,2020-03-12,2020-03-26,"Penang, Malaysia",Bangalore,62.0,Herebail,Kuduvalli(P)  Thirthalli (T),Shivamoga,Karnataka,577226.0,Shivamogga
+185.0,2020-03-12,2020-03-26,"Zurich,Switzerland",Bangalore,"Prerana,#20","14Th Cross,60 Feet Road, Uinobanagana",-,Shimoga ,Karnataka,577204.0,Shivamogga
+186.0,2020-03-12,2020-03-26,Dubai,Mangalore,D.no-3,Hosanagara,Kawru,Shimoha,Karnataka,577418.0,Shivamogga
+187.0,2020-03-12,2020-03-26,Dubai,Mangalore,Venkateshwara Nilaya,Lowerhutta,"Bh Road, Bhudranath",Shimogga,Karnataka,560075.0,Shivamogga
+188.0,2020-03-12,2020-03-26,Dubai,Mangalore,,Kasagaru,Thirthalli,Shimogga,Karnataka,577232.0,Shivamogga
+189.0,2020-03-12,2020-03-26,Dubai,Mangalore,,Kasagaru,Shimogga,Thirthalli,Karnataka,577232.0,Shivamogga
+190.0,2020-03-12,2020-03-26,Dubai,Mangalore,,Kasagaru,Thirthalli,Shimogga,Karnataka,577232.0,Shivamogga
+191.0,2020-03-12,2020-03-26,Dubai,Mangalore,,Kasagaru,Thirthalli,Shimogga,Karnataka,577232.0,Shivamogga
+192.0,2020-03-12,2020-03-26,Dubai(Uae),Mangalore,71/F.M Manzil,Badriya Majjid 2Nd Cross,Sagar,Shimogga,Karnataka,577401.0,Shivamogga
+193.0,2020-03-12,2020-03-26,Saudi Arabia Dmman,Mangalore,008,Yadur Husanagara,,Shimogga,Karnataka,577246.0,Shivamogga
+194.0,2020-03-12,2020-03-26,Dammam,Mangalore,-,Shiralkoppa,-,Shimogga,Karnataka,577428.0,Shivamogga
+195.0,2020-03-12,2020-03-26,Dubai,Mangalore,D-150,Gopal Gowda Ext,,Shimogga,Karnataka,,Shivamogga
+196.0,2020-03-12,2020-03-26,Dubai,Mangalore,D-150,Gopal Gowda Ext,,Shimogga,Karnataka,,Shivamogga
+197.0,2020-03-12,2020-03-26,Dubai,Mangalore,D-150,Gopal Gowda Ext,,Shimogga,Karnataka,,Shivamogga
+198.0,2020-03-12,2020-03-26,Dubai,Mangalore,Thiratahalli ,,,Shimogga,Karnataka,577432.0,Shivamogga
+199.0,2020-03-12,2020-03-26,Dubai,Mangalore,9448531050.0,R M L Nagar Shimoga,-,Shimogga,Karnataka,577202.0,Shivamogga
+200.0,2020-03-12,2020-03-26,Dubai,Mangalore,  -,Lowethutta,Bhadravathi,Shimogga,Karnataka,577301.0,Shivamogga
+201.0,2020-03-12,2020-03-26,Dubai,Mangalore,199.0,Hutha,Bhadravathi,Shimogga,Karnataka,577301.0,Shivamogga
+202.0,2020-03-12,2020-03-26,Dubai,Mangalore,199.0,Siddeshwara Hutha,Badhravati,Shimogga,Karnataka,577301.0,Shivamogga
+203.0,2020-03-12,2020-03-26,Dubai,Mangalore,Bangarodka,House Hutha,Badhravati,,Karnataka,577301.0,Shivamogga
+204.0,2020-03-11,2020-03-25,Dubai,Mangalore,Minchu Nilaya,"Jyothinagar, 2Nd Cross, Savalanga Road",Navule,Shimoga,Karnataka,577204.0,Shivamogga
+205.0,2020-03-11,2020-03-25,Dubai,Mangalore,Minchu Nilaya,"Jyothinagar, 2Nd Cross, Savalanga Road",Navule,Shimoga,Karnataka,577204.0,Shivamogga
+206.0,2020-03-11,2020-03-25,Dubai,Mangalore,MINCHU NILAYA,"Jyothi Nagar, 2Nd Cross Savalanga Road",Navule,Shimoga,Karnataka,577204.0,Shivamogga
+207.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Nawait Colony Sagar,-,Shimoga,Karnataka,577401.0,Shivamogga
+208.0,2020-03-11,2020-03-25,Dxb,Bangalore,27 kalon,Church Road,Hosnagara,Shimoga,Karnataka,-,Shivamogga
+209.0,2020-03-11,2020-03-25,Dubai,Bangalore,Vadi E HUDA,-,-,Shimoga,Karnataka,-,Shivamogga
+210.0,2020-03-11,2020-03-25,Abu Dhabi,Bangalore,7.0,K.R.Puram Rd,-,Shimogga,Karnataka,570002.0,Shivamogga
+211.0,2020-03-11,2020-03-25,Sharjah,Bangalore,253/7,Paper Town,-,Bhadravathi,Karnataka,577302.0,Shivamogga
+212.0,2020-03-11,2020-03-25,Male Maldives,Bangalore,-,Harekoppa,Keladi,"Sagar,Shimoga",Karnataka,577401.0,Shivamogga
+213.0,2020-03-11,2020-03-25,France,India,Rajathagiri,"Vinobanagar, 60Ft Road",-,Shimoga,Karnataka,577204.0,Shivamogga
+214.0,2020-03-11,2020-03-25,Dubai,Bangalore,23/1,Savarkar Nagar 1St Cross,-,Shivamogga,Karnataka,577201.0,Shivamogga
+215.0,2020-03-11,2020-03-25,Singapore,Bangalore,Kashi Mane,Spm Road Saraf Manjappa Compund,Shivamogga,Shivamogga,Karnataka,577201.0,Shivamogga
+216.0,2020-03-11,2020-03-25,Dubai,Bangalore,Sri lakshmi nilaya,S N Nagar,Sagar,Shimoga,Karnataka ,577401.0,Shivamogga
+217.0,2020-03-11,2020-03-25,Dubai,Bangalore,9739380162.0,Tank Mohalla,4Th Cross,Shimoga,Karnataka,577201.0,Shivamogga
+218.0,2020-03-11,2020-03-25,Riyadh,Bangalore,-,Donabagutta,Bhadravathi,Shimoga,Karnataka,577229.0,Shivamogga
+219.0,2020-03-11,2020-03-25,Jeeda,Bangalore,#46,New Mohalla Donabagatta ,Bhadravati,Shimoga,Karnataka,577229.0,Shivamogga
+220.0,2020-03-11,2020-03-25,Jeeda,Bangalore,#46,New Mohalla Donabagatta ,Bhadravati,Shimoga,Karnataka,577229.0,Shivamogga
+221.0,2020-03-11,2020-03-25,Jeeda,Bangalore,#46,New Mohalla Donabagatta ,Bhadravati,Shimoga,Karnataka,577229.0,Shivamogga
+222.0,2020-03-11,2020-03-25,Jordan,Bangalore,Bhagyamar aslaye M road,New Mandli Area,-,Shimoga,Karnataka,577201.0,Shivamogga
+223.0,2020-03-10,2020-03-24,Dammam,Ixe,35-21st cross,Shiomga Post,-,Shimogga,Karnataka,577201.0,Shivamogga
+224.0,2020-03-10,2020-03-24,Dubai,Mangalore, -,A P Road Right Side,Thirthahalli,Shimogga,-,577432.0,Shivamogga
+225.0,2020-03-10,2020-03-24,mct,bangalore,"azadnagar, 1st cross",sahakara mohalla,-,shimogga,Karnataka,577202.0,Shivamogga
+226.0,2020-03-10,2020-03-24,jeddah,bangalore,"shadnagar, 2nd cross",-,-,shimogga,Karnataka,577202.0,Shivamogga
+227.0,2020-03-10,2020-03-24,Kuwait,Bengaluru,Over agriculture Office,Sorabha Falace,-,Shivamoga,Karnataka,-,Shivamogga
+228.0,2020-03-10,2020-03-24,DUBAI,BENGALURU,-,SAGAR,-,SHIMOGA,KARNATAKA,577401.0,Shivamogga
+229.0,2020-03-10,2020-03-24,DXB,BENGALURU,#154A syed colony,Bhadravathi,-,Shimoga,KARNATAKA,577301.0,Shivamogga
+230.0,2020-03-10,2020-03-24,Bangok,Bengaluru,Tadasa (v),Bhadravati,shivamoga,Shivamoga,Karnataka,577229.0,Shivamogga
+231.0,2020-03-10,2020-03-24,SFO,Bengaluru,-,ambdecarcoly,Hosagala,shimogga,Karnataka,577418.0,Shivamogga
+232.0,2020-03-10,2020-03-24,MAURITUS,BANGALORE,DODDANNA,A H LAYOUT,GOPALA,SHIMOGGA,KARNATAKA,577205.0,Shivamogga

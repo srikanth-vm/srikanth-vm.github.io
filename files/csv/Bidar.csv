@@ -1,0 +1,19 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,Dubai,Bangalore,1/49,Hunsgera Ta Hamnadad,-,Bidar,-,585353,Bidar
+2.0,2020-03-22,2020-04-05,Dubai,Bangalore,230.0,Basavakalyan,Maislagago,Bidar,Karnataka,585437.0,Bidar
+3.0,2020-03-22,2020-04-05,Dubai,Bangalore,1//10,Humnabad,-,Bidar,Karnataka,585353.0,Bidar
+4.0,2020-03-22,2020-04-05,Dubai,Bengaluru,8105402081.0,Hijmnabad,-,Bidar,Karnataka,585412.0,Bidar
+5.0,2020-03-22,2020-04-05,Dubai,Bangalore,T91,Bandyal,Ty Aarad,B. Bidar,Karnataka,585417.0,Bidar
+6.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,Hanuman Pura,Basava Kalyan,Bidar,Karnatka,585437.0,Bidar
+7.0,2020-03-18,2020-04-01,Bangkok,"Bangalore, India",98/1,"Gandhichowk, Ghat Boral",Humnabad,Bidar,Karnataka,585418.0,Bidar
+8.0,2020-03-18,2020-04-01,Phuket,Bangalore,"5/2/135, water tank",Bhalki,Bhalki,Bidar,-,-,Bidar
+9.0,2020-03-18,2020-04-01,Qatar,Bangalore,-,Mallikarjun Street,-,Bidar,Karnataka,585327.0,Bidar
+10.0,2020-03-18,2020-04-01,Bangkok,"Bangalore, India",98/1,"Gandhichowk, Ghat Boral",Humnabad,Bidar,Karnataka,585418.0,Bidar
+11.0,2020-03-14,2020-03-28,"Budapest, Doha",Bengaluru,13-3-214/1,Pratap Nagar Naveed Bidar,Bidar,Bidar,Karnataka,585402.0,Bidar
+12.0,2020-03-14,2020-03-28,Japan,Bangalore,4-6-48/58,"Khandre Galhi, Southwind Gurj Bhaski",Bhalki,Bidar,Karnataka,585328.0,Bidar
+13.0,2020-03-13,2020-03-27,Sharjah,Bangalore,2-5-45/1,Pansal Taleel,-,Bidar,Karnataka,585401.0,Bidar
+14.0,2020-03-13,2020-03-27,Mauritauis,Bangalore,-,Guttiwadi,Bhalki,Bidar,Karnataka,585328.0,Bidar
+15.0,2020-03-12,2020-03-26,Dubai,Bangalore,46144.0,Pansal Taleen ,Bidar,Bidar,Karnataka,585401.0,Bidar
+16.0,2020-03-12,2020-03-26,Blolk,Bangalore,-,Bhila,Blelk,Bidar,Karnataka,-,Bidar
+17.0,2020-03-12,2020-03-26,Beder,Bangalore,-,-,-,Bidar,Karnataka,-,Bidar
+18.0,2020-03-12,2020-03-26,-,Bangalore,21-198,Bidar,Bidar,Bidar,-,585401.0,Bidar

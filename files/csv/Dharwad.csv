@@ -1,0 +1,362 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,Dubai,Bangalore,95.0,Akshay Colony,Hubli,Dharwad,Karnataka,580033.0,Dharwad
+2.0,2020-03-22,2020-04-05,Dubai,Bangalore,95.0,Akshay Colony,Hubli,Dharwad,Karnataka,580033.0,Dharwad
+3.0,2020-03-21,2020-04-04,Bangkok,Banglore,#53,Navanagar,Hubli,Dharwad,Karnataka,580025.0,Dharwad
+4.0,2020-03-21,2020-04-04,Lagos/Addis,Banglore,"20, Devi Apt",Ty.S. Colony,-,Dharwad,Karnataka,580004.0,Dharwad
+5.0,2020-03-21,2020-04-04,Lagos/Addis,Banglore,"20, Devi Apt",Ty.S. Colony,-,Dharwad,Karnataka,580004.0,Dharwad
+6.0,2020-03-21,2020-04-04,Lagos/Addis,Banglore,"20, Devi Apt",Ty.S. Colony,-,Dharwad,Karnataka,580004.0,Dharwad
+7.0,2020-03-21,2020-04-04,Melbourne,Bangalore,C/Ogg Kulkarni Keshhav Nagar,Opp Sbi Colony Brakotri Road,Near Uday Hoste,Dhardwad,Karnataka,580007.0,Dharwad
+8.0,2020-03-21,2020-04-04,Melbourne,Bangalore,C/Ogg Kulkarni Keshhav Nagar,Opp Sbi Colony Brakotri Road,Near Uday Hoste,Dhardwad,Karnataka,580007.0,Dharwad
+9.0,2020-03-21,2020-04-04,Melbourne,Bangalore,C/Ogg Kulkarni Keshhav Nagar,Opp Sbi Colony Brakotri Road,Near Uday Hoste,Dhardwad,Karnataka,580007.0,Dharwad
+10.0,2020-03-21,2020-04-04,Yangon,Bangalore,64B/6H,Muolholkar colony,!st cross,Dharwad,Karnataka,580008.0,Dharwad
+11.0,2020-03-21,2020-04-04,"Batom, Indonesia",Bangalore,"73, Adinath Annex",Kusugal road,,Hubli,Karnataka,580032.0,Dharwad
+12.0,2020-03-21,2020-04-04,Chennai,Bangalore,,Kalkeri Sangeet Vidyalaya,Dharwad,Dharwad,Karnataka,,Dharwad
+13.0,2020-03-21,2020-04-04,Himachal Pradesh,Bangalore,,Kalkeri Sangeet Vidyalaya,Dharwad,Dharwad,Karnataka,,Dharwad
+14.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,Station Road,Kundagodi,Dharwad,Karnatka,581107.0,Dharwad
+15.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,Nekal Nagar,Hubli ,Dharwad,Karnataka,580024.0,Dharwad
+16.0,2020-03-20,2020-04-03,Dubai,Bangalore,Shirkol,Shirkol,Navalgund,Dharvad,Karnataka,-,Dharwad
+17.0,2020-03-20,2020-04-03,Delhi,Bangalore,"# 1642, A-B/2A",Lingaraj Nagar,Navalgund,Dharwad,Karnataka,582208.0,Dharwad
+18.0,2020-03-20,2020-04-03,"San Francisco,Usa",Bangalore,H.No.65 Kalidas Nagar,Vidyanagar,-,Hubli,Karnataka,580031.0,Dharwad
+19.0,2020-03-20,2020-04-03,"San Francisco,Usa",Bangalore,H.No.65 Kalidas Nagar,Vidyanagar,-,Hubli,Karnataka,580031.0,Dharwad
+20.0,2020-03-20,2020-04-03,Addis Ababa,Bangalore,1-71/20,Ganesh Nagar,Chinamushidivyada,-,Andra Pradesh,-,Dharwad
+21.0,2020-03-20,2020-04-03,Goa,Bangalore,Kashish Yoga,-,-,-,Goa,-,Dharwad
+22.0,2020-03-20,2020-04-03,Uae,Bangalore,39.0,Edayar Street ,-,-,Tamil Nadu,606207.0,Dharwad
+23.0,2020-03-20,2020-04-03,Heathrow,Bangalore,ITC Hotel,Windsor 59,-,-,-,-,Dharwad
+24.0,2020-03-20,2020-04-03,"Dubai, Uae",Kochi,-,Orabalakndgil,Kothamangalan,-,Ernakulam,Kerala,Dharwad
+25.0,2020-03-20,2020-04-03,"Dubai, Uae",Banaglore,-,-,Maravour,-,Malapparm,Kerala,Dharwad
+26.0,2020-03-20,2020-04-03,"Dubai, Uae",Banaglore,-,-,-,-,Bangalore,Karnatak,Dharwad
+27.0,2020-03-20,2020-04-03,"Dubai, Uae",Banaglore,-,#2-6-208/A,Shiviji Road,-,Kareem Nagar,Telangan,Dharwad
+28.0,2020-03-20,2020-04-03,Goa,"London, U K",-,-,-,-,-,-,Dharwad
+29.0,2020-03-20,2020-04-03,Goa,"London, U K",-,#26,The Zetland,-,Saltburn,North yorks,Dharwad
+30.0,2020-03-20,2020-04-03,Goa,"London, U K",-,Sofie House,-,-,-,Goa,Dharwad
+31.0,2020-03-20,2020-04-03,Goa,"London, U K",-,Agonda Cotage,Agonda,-,-,-,Dharwad
+32.0,2020-03-20,2020-04-03,Goa,Amsterdam,-,-,-,-,Colva,-,Dharwad
+33.0,2020-03-20,2020-04-03,Goa,"London, U K",-,#54 Chatsworth Road,Torqmay,-,Devon,-,Dharwad
+34.0,2020-03-20,2020-04-03,Goa,Copenhagen,-,-,-,-,-,Denmark,Dharwad
+35.0,2020-03-20,2020-04-03,Goa,"London, U K",-,-,-,-,Colva,Goa,Dharwad
+36.0,2020-03-20,2020-04-03,Goa,"London, U K",-,Prinvara Homes,Candolum,-,-,-,Dharwad
+37.0,2020-03-20,2020-04-03,Goa,"London, U K",-,Sofie Hostel,-,-,-,goa,Dharwad
+38.0,2020-03-20,2020-04-03,Goa,"London, U K",-,Prinvara Homes,-,-,-,Goa,Dharwad
+39.0,2020-03-20,2020-04-03,Goa,"London, U K",-,-,-,-,-,goa,Dharwad
+40.0,2020-03-20,2020-04-03,Goa,New York ,-,305,-,-,Jercy City,New york,Dharwad
+41.0,2020-03-20,2020-04-03,Goa,Christchruch N Z,-,Behind White Chruch,Arambol,-,Goa,-,Dharwad
+42.0,2020-03-20,2020-04-03,Bangalore,"London, U K",-,54 Charles Worth,Deven,-,-,-,Dharwad
+43.0,2020-03-20,2020-04-03,-,-,-,-,-,-,-,-,Dharwad
+44.0,2020-03-20,2020-04-03,Singapore,Bangalore,hotel shelton,-,-,-,-,-,Dharwad
+45.0,2020-03-20,2020-04-03,Singapore,Singapore,hotel shelton,-,-,-,-,-,Dharwad
+46.0,2020-03-20,2020-04-03,Singapore,Singapore,hotel shelton,-,-,-,-,-,Dharwad
+47.0,2020-03-20,2020-04-03,Singapore,Singapore,hotel shelton,-,-,-,-,-,Dharwad
+48.0,2020-03-20,2020-04-03,Singapore,Singapore,hotel shelton,-,-,-,-,-,Dharwad
+49.0,2020-03-20,2020-04-03,Singapore,Singapore,hotel shelton,-,-,-,-,-,Dharwad
+50.0,2020-03-20,2020-04-03,Singapore,Singapore,hotel shelton,-,-,-,-,-,Dharwad
+51.0,2020-03-20,2020-04-03,Singapore,Singapore,hotel shelton,-,-,-,-,-,Dharwad
+52.0,2020-03-20,2020-04-03,Singapore,Bangalore,hotel shelton,-,-,-,-,-,Dharwad
+53.0,2020-03-20,2020-04-03,Singapore,Singapore,hotel shelton,-,-,-,-,-,Dharwad
+54.0,2020-03-20,2020-04-03,Singapore,Singapore,hotel shelton,-,-,-,-,-,Dharwad
+55.0,2020-03-19,2020-04-02,Dallas,Bangalore,"H50, Ist Main",4Th Cross,Celerity,Hubli,Karnataka,-,Dharwad
+56.0,2020-03-19,2020-04-02,Dubai ,Bangalore ,220.0,Basal Mission Compound,-,Dharwad ,Karnataka ,580029.0,Dharwad
+57.0,2020-03-19,2020-04-02,Delhi,Bangalore,MIG 480,16Th Cross,Navannagar,Hubli,Karnataka,580025.0,Dharwad
+58.0,2020-03-19,2020-04-02,Delhi,Bangalore,118,"1St Main, 1St Cross",Ucb Nagar,Dharwad,Karnataka,580007.0,Dharwad
+59.0,2020-03-19,2020-04-02,Sydney,Bangalore,14/15 Panchami,1St Cross Sirsir Park,Vidyanagar ,Dharwad,Karnataka,580021.0,Dharwad
+60.0,2020-03-19,2020-04-02,Sydney,Bangalore,14/15 Panchami,1St Cross Sirsir Park,Vidyanagar ,Dharwad,Karnataka,580021.0,Dharwad
+61.0,2020-03-19,2020-04-02,Sydney,Bangalore,"F-5, Lotus","Aakruti Gardens, Bhavaninagar",Hubli,Dharwad,Karnataka,580023.0,Dharwad
+62.0,2020-03-19,2020-04-02,Sydney,Bangalore,"2, Ashnavya",Vijayanagar,-,Hubli,Karnataka,580032.0,Dharwad
+63.0,2020-03-19,2020-04-02,Sydney,Bangalore,"F-5, A","Aakruti Gardens, Bhavaninagar",Hubli,Dharwad,Karnataka,580023.0,Dharwad
+64.0,2020-03-19,2020-04-02,Sydney,Bangalore,Above Vithoba Memorial Hospital,Vikasnagar,Hubli,Dharwad,Karnataka,580021.0,Dharwad
+65.0,2020-03-19,2020-04-02,Sydney,Bangalore,Above Vithoba Memorial Hospital,Vikasnagar,Hubli,Dharwad,Karnataka,580021.0,Dharwad
+66.0,2020-03-19,2020-04-02,Sydney,Bangalore,Plot no 9 and 10,Javali Plots,Gokul Road,Hubli,Karnataka,580030.0,Dharwad
+67.0,2020-03-19,2020-04-02,Sydney,Bangalore,Plot no 9 and 10,Javali Plots,Gokul Road,Hubli,Karnataka,580030.0,Dharwad
+68.0,2020-03-19,2020-04-02,Sydney,Bangalore,-,Vijaynagar,-,Hubli,Karnataka,580032.0,Dharwad
+69.0,2020-03-19,2020-04-02,Maldives,Bengaluru,-,Jharsuda,-,-,Odisha,768201.0,Dharwad
+70.0,2020-03-19,2020-04-02,Maldives,Jharsuguda,-,Jharsuguda,-,-,Odisha,768201.0,Dharwad
+71.0,2020-03-19,2020-04-02,Delhi,Banaglaore,G1,Vehn Nagar,Hubli,Dharwad,Karnataka,580020.0,Dharwad
+72.0,2020-03-19,2020-04-02,London,Bangalore,2.0,Gaurit Lane,Marow,-,-,SL7 2PN,Dharwad
+73.0,2020-03-19,2020-04-02,"Dubai, Uae",Banaglore,-,-,Shikaripura,-,Mandya,Karnatak,Dharwad
+74.0,2020-03-19,2020-04-02,Goa,Amsterdam,-,-,Colva,-,Colva,Goa,Dharwad
+75.0,2020-03-19,2020-04-02,Goa,Amsterdam,-,Banker Street 3,Holland,-,-,-,Dharwad
+76.0,2020-03-19,2020-04-02,Dubai,Bangalore,-,-,-,-,Karnataka,-,Dharwad
+77.0,2020-03-19,2020-04-02,Dublin Irland,Bangalore,177 Kiloskar layout ,Near Tolaneere,Goul Road,Hubli,Karnataka,580030.0,Dharwad
+78.0,2020-03-19,2020-04-02,Amsterdam,Banglore,23.0,Sanmarg Nagar,-,Dharwad/Hubli,Karnataka,580030.0,Dharwad
+79.0,2020-03-19,2020-04-02,Lhr London,Bangalore,411 D block,Varanasi Road,T C Palli,Banglore,Karnataka,580036.0,Dharwad
+80.0,2020-03-19,2020-04-02,Heathron,Bengaluru,24.0,9Th Cross Kamerpeth,Hubbali,Dharwad,Karnataka,580028.0,Dharwad
+81.0,2020-03-19,2020-04-02,Brussels,Bangalore,"27, Namratha Park",Hubli,Hubli,Hubli,Karnataka,580025.0,Dharwad
+82.0,2020-03-18,2020-04-01,Singapore,Bengaluru/Hubli,#52,Radha Krishna Nagar,Gokul Road,Hubli,Karnataka,-,Dharwad
+83.0,2020-03-18,2020-04-01,London,Bangalore,"Plot No.22,24.25",Shirur Park,,Hubli,Karnataka,580021.0,Dharwad
+84.0,2020-03-18,2020-04-01,London,Bangalore,"Plot No.22,24.25",Shirur Park,,Hubli,Karnataka,580021.0,Dharwad
+85.0,2020-03-18,2020-04-01,Singapore,Bangalore,FLAT 405,Gold Nest Api Davan G Pet Rd,Vijayanagar Ext,Hubballi,Karnataka,580032.0,Dharwad
+86.0,2020-03-18,2020-04-01,Singapore,Bangalore,FLAT 405,Gold Nest Api Davan G Pet Rd,Vijayanagar Ext,Hubballi,Karnataka,580032.0,Dharwad
+87.0,2020-03-18,2020-04-01,Singapore,Bangalore,52.0,Radhakrishna Nagar,Gokul Road,Hubli,Karnataka,580030.0,Dharwad
+88.0,2020-03-18,2020-04-01,Manchester,"Bengaluru, India","36, kamal",Vikas Nagar,-,Dharwad,Karnataka,580008.0,Dharwad
+89.0,2020-03-18,2020-04-01,Amsterdam,Bangalore,10A,Saraswathi Pura,Raddi Colony,Dharwad,Karnataka,580001.0,Dharwad
+90.0,2020-03-18,2020-04-01,Manchester,Bangalore,no.27,"Shanti Colony,Vishweshar Nagar",-,Hubli,Karnataka,580032.0,Dharwad
+91.0,2020-03-17,2020-03-31,Dubai,Mangalore,Jyothi  Nivas,Majali Karwar ,-,-,Karnataka,-,Dharwad
+92.0,2020-03-17,2020-03-31,Cdg,Bangalore,-,-,-,-,-,-,Dharwad
+93.0,2020-03-17,2020-03-31,Cdg,Bangalore,Hotel ITC Windsor+P68J68:OJ68:N68,-,-,-,-,-,Dharwad
+94.0,2020-03-17,2020-03-31,New York,Bangalore,Shrichandra,P B Road Yadakki  Shettar ,Dharwad,Dharwad,Karnataka,588004.0,Dharwad
+95.0,2020-03-17,2020-03-31,New York,Bangalore,Shrichandra,P B Road Yadakki  Shettar ,Dharwad,Dharwad,Karnataka,588004.0,Dharwad
+96.0,2020-03-17,2020-03-31,New York,Bangalore,42.0,Shivaganga Layout ,Keshwapur ,Dharwad,Karnataka,580023.0,Dharwad
+97.0,2020-03-17,2020-03-31,New York,Bangalore,42.0,Shivaganga Layout ,Keshwapur ,Dharwad,Karnataka,580023.0,Dharwad
+98.0,2020-03-17,2020-03-31,New York,Bangalore,1914.0,Market Road ,Alnavar,Dharwad,Karnataka,581103.0,Dharwad
+99.0,2020-03-17,2020-03-31,New York,Bangalore,1914.0,Market Road ,Alnavar,Dharwad,Karnataka,581103.0,Dharwad
+100.0,2020-03-17,2020-03-31,Dubai,Bangalore,40.0,Golden Park,-,Hubli,Karnataka,580032.0,Dharwad
+101.0,2020-03-17,2020-03-31,Dubai,Bangalore,#2,Madina Colony Near Quba Masjid,Mehub Nagar,Dharwad,Karnataka,580008.0,Dharwad
+102.0,2020-03-17,2020-03-31,London,Bangalore,SYNCHANA,Y S Colony,Hubli Dharwad,Dharwad,Karnataka,580004.0,Dharwad
+103.0,2020-03-17,2020-03-31,Dubai,Bangalore,1-1901,Mudigubba,Ananthapur,-,Andhra Pradesh,-,Dharwad
+104.0,2020-03-17,2020-03-31,Changi Airport Singapore,Bengaluru,RENKA KRUPA BEHIND BG MOTORS,Marutha Colony,-,Dharwad,Karnataka,580001.0,Dharwad
+105.0,2020-03-17,2020-03-31,Lhr,Bangalore,ITC HOTEL,Windsor,Bangalore,-,Karnataka,-,Dharwad
+106.0,2020-03-17,2020-03-31,Abu Dhabi,Bangalore,777.0,Pudu,Bantwal,-,-,-,Dharwad
+107.0,2020-03-17,2020-03-31,Bangkok,Bengalure,9 LUUR KK COLONY,Valparai,-,-,Tamilnadu,-,Dharwad
+108.0,2020-03-17,2020-03-31,Delhi,Bengalure,POST-AIHAR,-,Raibagrli,-,Up,229121.0,Dharwad
+109.0,2020-03-17,2020-03-31,Houstiom,Bengalure,-,Dsri Colony,Valtyagani Urrar Dinaour,-,Vestbingal,733129.0,Dharwad
+110.0,2020-03-17,2020-03-31,-,Bengalure,B913 LAY BITM,-,-,-,-,-,Dharwad
+111.0,2020-03-17,2020-03-31,Sanfransisico,Bengalure,-,-,-,-,-,-,Dharwad
+112.0,2020-03-17,2020-03-31,Londan  ,Bangalore,1.0,Vidyanagar ,Hubli,Dharwad,Karanataka,580021.0,Dharwad
+113.0,2020-03-17,2020-03-31,Londan  ,Bangalore,1.0,Violyanagar,Hubli,Dharwad,Karanataka,580021.0,Dharwad
+114.0,2020-03-17,2020-03-31,Londan,Bangalur,PASHNPUIKGL THAZETHI,Nellonnkal,Aclour,-,Kerala,691551.0,Dharwad
+115.0,2020-03-17,2020-03-31,Blr,Blr,-,-,-,-,Bangalore Karnataka,-,Dharwad
+116.0,2020-03-17,2020-03-31,London,Bangalore,-,-,-,-,Kerala,-,Dharwad
+117.0,2020-03-17,2020-03-31,London,Bangalore,-,Itc,-,-,-,-,Dharwad
+118.0,2020-03-17,2020-03-31,London,Bangalore,ITC WINDSORE,Bangalore,-,-,-,-,Dharwad
+119.0,2020-03-17,2020-03-31,London,Bangalore,ITC WINDSORE,-,-,-,-,-,Dharwad
+120.0,2020-03-17,2020-03-31,London,Bangalore,ITC WINDSORE,-,-,-,-,-,Dharwad
+121.0,2020-03-17,2020-03-31,London,Bangalore,ITC WINDSORE,-,-,-,-,-,Dharwad
+122.0,2020-03-17,2020-03-31,London,Bangalore,-,-,-,-,-,-,Dharwad
+123.0,2020-03-17,2020-03-31,"Atlanta, Usa",Bangalore,HOUSE 30,Malleshpulaya,-,-,-,-,Dharwad
+124.0,2020-03-17,2020-03-31,Londan,Bangalore,431/B,Lai Bahaduk Colony,Hublt,Dharwad,Karnataka,580020.0,Dharwad
+125.0,2020-03-17,2020-03-31,Dhubai,Bangaluru,HODIDYAINN,Whitefield,-,-,-,-,Dharwad
+126.0,2020-03-17,2020-03-31,Dxb,Bangaluru,NO 54,Jayanagar 2Nd,-,Dharwad,Karnataka,580001.0,Dharwad
+127.0,2020-03-17,2020-03-31,Dxb,Bangaluru,54ANPREET,2Nd Cross Jayanagar,-,Dharwad,Karnataka,580001.0,Dharwad
+128.0,2020-03-17,2020-03-31,Paris (Cdg),Bengaluru,166.0,"Singayanpodhor,Sokkonor(Post)",-,-,Tamilnadu,642109.0,Dharwad
+129.0,2020-03-17,2020-03-31,-,-,-,-,-,-,-,-,Dharwad
+130.0,2020-03-17,2020-03-31,Dubai,Bangalore,67.0,-,-,Hubli,Karnataka,580031.0,Dharwad
+131.0,2020-03-17,2020-03-31,Dubai,Bangalore,-,Siddeshwar Nagar,-,Hubli,Karnataka,580031.0,Dharwad
+132.0,2020-03-17,2020-03-31,Hyderabd,-,-,Hyderabad,-,-,-,-,Dharwad
+133.0,2020-03-17,2020-03-31,Hyderabd,-,-,Hyderabad,-,-,-,-,Dharwad
+134.0,2020-03-17,2020-03-31,Kualalumpur,Chenai,27/6  ,-,-,-,Chennai-19,6000019.0,Dharwad
+135.0,2020-03-17,2020-03-31,-,Bangolre,-,-,-,-,-,-,Dharwad
+136.0,2020-03-17,2020-03-31,Malaysia,Ahemdabad,138.0,3-Blok-138,-,-,-,-,Dharwad
+137.0,2020-03-17,2020-03-31,-,Bangolre,1-31 MANASA,Chandrugonoa,Chandrugonda,-,Telangana,507166.0,Dharwad
+138.0,2020-03-17,2020-03-31,-,Bangolre,"004, 1 BLOCK",-,-,-,-,-,Dharwad
+139.0,2020-03-17,2020-03-31,-,-,9751034908.0,-,-,-,Tamilnadu,625503.0,Dharwad
+140.0,2020-03-17,2020-03-31,Dubai,Bangalore,4-17,Dharwad,-,Dharwad,Karnataka,-,Dharwad
+141.0,2020-03-17,2020-03-31,Dubai, Bengaluru,788.0,Dharwad,-,Dharwad,Karanataka,580001.0,Dharwad
+142.0,2020-03-17,2020-03-31,Auh,Blr,RENASSANE,-,-,-,-,-,Dharwad
+143.0,2020-03-17,2020-03-31,Anh,Blr,-,-,-,-,-,-,Dharwad
+144.0,2020-03-17,2020-03-31,Dubai,Bengaluru,780.0,Dharwad,-,Dharwad,Karanataka,580001.0,Dharwad
+145.0,2020-03-17,2020-03-31,Dubai,-,-,-,-,-,West Bengal,-,Dharwad
+146.0,2020-03-17,2020-03-31,Dubai,Bengaluru,5.0,-,-,Dhadwad,Karanataka,-,Dharwad
+147.0,2020-03-17,2020-03-31,Dubai,Bengaluru,780.0,-,-,-,Karanataka,580001.0,Dharwad
+148.0,2020-03-17,2020-03-31,Dubai,India,-,Angril,Uaudaga,-,India,243235.0,Dharwad
+149.0,2020-03-17,2020-03-31,-,Bengaluru,-,-,-,-,-,122107.0,Dharwad
+150.0,2020-03-17,2020-03-31,-,-,-,-,-,-,-,122107.0,Dharwad
+151.0,2020-03-17,2020-03-31,Malaysia,Chennai,A -S- 05,Begolria,6’ Blcok,-,Tn,600027.0,Dharwad
+152.0,2020-03-17,2020-03-31,Malaysia,Madurai,10A,Aosori Street,Mudukullathur,-,Tamilnadu,-,Dharwad
+153.0,2020-03-17,2020-03-31,"Kl,Malaysia",Trichirapalli,-,Mannarkudi,-,-,Tamilnadu,625503.0,Dharwad
+154.0,2020-03-17,2020-03-31,Kul,Blr,NAUL MUMBAI,-,-,-,-,41020.0,Dharwad
+155.0,2020-03-17,2020-03-31,Dubai,Bangalore,166.0,-,-,-,-,148105.0,Dharwad
+156.0,2020-03-17,2020-03-31,Kathmandu,Bangalore,-,-,-,-,Kerala,685565.0,Dharwad
+157.0,2020-03-17,2020-03-31,Qatan,Bangalore,NO.7/9 1ST FLOOR,Chennai,-,-,-,-,Dharwad
+158.0,2020-03-17,2020-03-31,Muscat,Bengalore,799.0,Knatakchin Chol,Bidar,-,Karnataka,-,Dharwad
+159.0,2020-03-17,2020-03-31,-,-,-,-,-,-,-,-,Dharwad
+160.0,2020-03-17,2020-03-31,Mct,Blr,21/A 42ND CROSS,-,-,-,-,-,Dharwad
+161.0,2020-03-17,2020-03-31,Doha,Bangalore,56.0,Kuttr St,-,-,Tamilnadu,631102.0,Dharwad
+162.0,2020-03-17,2020-03-31,Datar,Bangalore,56.0,Kutti 35,-,-,Tamilnadu,631102.0,Dharwad
+163.0,2020-03-17,2020-03-31,Gatar, Banglore,8-14-22,-,-,-,Tmail,609701.0,Dharwad
+164.0,2020-03-17,2020-03-31,Amsterdam,Madhubani,-,-,-,-,Bihar,847228.0,Dharwad
+165.0,2020-03-17,2020-03-31,London,Bangalore,-,-,-,-,-,-,Dharwad
+166.0,2020-03-17,2020-03-31,Abu Dhabi,Bangalore,M060,Narayana Road,Old Hubli,Dharwal,Karnataka,580024.0,Dharwad
+167.0,2020-03-17,2020-03-31,Dubai,Bangalore,206.0,Btm,-,-,Bangalore,-,Dharwad
+168.0,2020-03-17,2020-03-31,Dxb-Bangalore,Bangalore,-,Chairgolia,-,-,Nandigram,721656.0,Dharwad
+169.0,2020-03-17,2020-03-31,Kathmandu,Banglore,-,Narayani,Churiyamai,-,Nepal ,-,Dharwad
+170.0,2020-03-17,2020-03-31,Kathmandu,Banglore,"7,OLDCOMP NO 4",Bylakuppe,-,-,-,-,Dharwad
+171.0,2020-03-17,2020-03-31,"Muscat, Oman",Banglore,A 501,Magadi Road,Rajajinagar,-,Bangalore,-,Dharwad
+172.0,2020-03-17,2020-03-31,Dubai ,Chandigarh,8.0,Yairoke,Bagha Purana,-,Punjab,142049.0,Dharwad
+173.0,2020-03-17,2020-03-31,Dubai ,Kolkata,-,Madhabpur,Bongaon,-,West Bengal,743235.0,Dharwad
+174.0,2020-03-17,2020-03-31,Dubai ,Kolkata,-,Subhashpalli,-,-,West Bengal,743363.0,Dharwad
+175.0,2020-03-17,2020-03-31,Dubai ,Banglore,-,-,Farzer Town Mor. Road 3.Cross,-,Karnataka ,-,Dharwad
+176.0,2020-03-17,2020-03-31,Dubai ,Kolkata,-,Panchita,Bongaon,-,West Bengal,743235.0,Dharwad
+177.0,2020-03-17,2020-03-31,Bahrain,Bangaluru,S-2 2ND FLOOR ,Akshay Arcade Gopalpur,-,Dharwad,Karnataka ,580007.0,Dharwad
+178.0,2020-03-17,2020-03-31,Bahrain,Bangaluru,5-2  2 ND  FLOOR ,Akshay Arcade Gopalpur,-,Dharwad,Karnataka ,580007.0,Dharwad
+179.0,2020-03-17,2020-03-31,Meiorne Colomno Austrilia Srilanka,Benguluru I India,PLAT #43,1St Main 1St Cross,Ucb Nagar,Dharwad,Karnataka,580007.0,Dharwad
+180.0,2020-03-17,2020-03-31,-,India,56/2,-,-,-,Tamil Nadu,643217.0,Dharwad
+181.0,2020-03-17,2020-03-31,Denpuram,Banglore ,-,Pg Roy Road ,-,-,West Bengal,-,Dharwad
+182.0,2020-03-16,2020-03-30,Dubai,Mangalore,Nandaveer 887,Nadaveer,B.C Road,-,Karnataka,-,Dharwad
+183.0,2020-03-16,2020-03-30,Colombo,Bangalore,24 B,Arihant Nagar,Keshwapur,Hubali ,Karnataka,580020.0,Dharwad
+184.0,2020-03-16,2020-03-30,Colombo,Bangalore,33.0,2Nd Cross Sd Colony ,Rc Nagar,Dharwad,Karnataka,580001.0,Dharwad
+185.0,2020-03-16,2020-03-30,Malaysia,Bangalore India,-,-,-,-,-,-,Dharwad
+186.0,2020-03-16,2020-03-30,"Ghr, London, Uk",Bangalore,"302, Astae Block","Keerthi, Loraah",-,-,-,-,Dharwad
+187.0,2020-03-16,2020-03-30,Usa,Bangalore,Flat No 4,-,Ramnagar,-,Ap,-,Dharwad
+188.0,2020-03-16,2020-03-30,Dxb,Bangaluru,-,-,-,-,Karnataka,-,Dharwad
+189.0,2020-03-15,2020-03-29,Abu Dhabi,Maglore,32 Vijaynagar,Shakti Colony,,Dharward,Karnataka,580032.0,Dharwad
+190.0,2020-03-15,2020-03-29,Mangalore,Mangalore,7.0,Shukrawarpet,Dharwad,Dharwad,Karnataka,580001.0,Dharwad
+191.0,2020-03-15,2020-03-29,Mangalore,Mangalore,7.0,Shukrawarpet,Dharwad,Dharwad,Karnataka,580001.0,Dharwad
+192.0,2020-03-15,2020-03-29,Melbourne,Bengaluru,Shivaganga Nilaya,"4Th Cross, Behind Ganesh Temple",Gandhinagar,Dharwad,Karnataka,-,Dharwad
+193.0,2020-03-15,2020-03-29,Kuala Lumpur Malaysia,Bangalore ,"T3, Adinath Annex",Arihanth Nagar,-,Hubli,Karnataka,580028.0,Dharwad
+194.0,2020-03-15,2020-03-29,Kuala Lumpur Malaysia,Bangalore ,"T3, Adinath Annex",Arihanth Nagar,-,Hubli,Karnataka,580028.0,Dharwad
+195.0,2020-03-15,2020-03-29,Hkg,Cnb,-,-,-,-,Colombo,-,Dharwad
+196.0,2020-03-15,2020-03-29,Dublin,Bangalore,Suvarna,8Th Cross,Kalyan Nagar,Dharwad,Karnataka,580007.0,Dharwad
+197.0,2020-03-15,2020-03-29,Dublin,Bangalore,Suvarna,8Th Cross,Kalyan Nagar,Dharwad,Karnataka,580007.0,Dharwad
+198.0,2020-03-15,2020-03-29,Dubai,Bangalore,5.0,Shanti Niketan Nagar ,Kelegeri Rd,Dharwad ,Karnataka ,580008.0,Dharwad
+199.0,2020-03-15,2020-03-29,Kuala Lumpr,"Bengaluru ,India",124.0,Hirebudhihal ,Kundgol,Dharwad ,Karnataka ,581113.0,Dharwad
+200.0,2020-03-15,2020-03-29,Zurich,Bangalore,#82 siddharth nagar,Old Hubli,Hubli,Dharwad,Karnataka,580024.0,Dharwad
+201.0,2020-03-15,2020-03-29,Zurich,Bangalore,#82 siddharth nagar,Old Hubli,Hubli,Dharwad,Karnataka,580024.0,Dharwad
+202.0,2020-03-15,2020-03-29,Portugul,Bangalore,shri vatsa,Near Ambedkar Hostel,-,Dharwad,Karnataka,580001.0,Dharwad
+203.0,2020-03-15,2020-03-29,Vietnam,Bangalore,-,Pudusur,Kurubaroni,Dharwad,Karnataka,582208.0,Dharwad
+204.0,2020-03-15,2020-03-29,Birmingham Uk ,Bangalore,plot no 01,Sri Nagar,-,Dharwad,Karnataka,580003.0,Dharwad
+205.0,2020-03-15,2020-03-29,Birmingham Uk ,Bangalore,plot no 01,Sri Nagar,-,Dharwad,Karnataka,580003.0,Dharwad
+206.0,2020-03-15,2020-03-29,Dubai,Bangalore,#427 / F ,Aeun Colony ,Hubli ,0,Karnataka,580023.0,Dharwad
+207.0,2020-03-14,2020-03-28,London,"Bangalore,India","3-51/3,Mallimdi Varistreet",Ramavaratpadi,Vijayawada,-,Krishna,521108.0,Dharwad
+208.0,2020-03-14,2020-03-28,Lhr,Bengaluru,"Crew, ",Itc Windsor,-,-,-,-,Dharwad
+209.0,2020-03-14,2020-03-28,Lhr,Bengaluru,-,Itc Hotel,-,-,-,-,Dharwad
+210.0,2020-03-14,2020-03-28,-,Bengaluru,-,-,-,-,-,-,Dharwad
+211.0,2020-03-14,2020-03-28,"Dfoha, Qatar",Bengaluru,"118, 3rd A cross ",Munnekolala,-,-,Karnataka,-,Dharwad
+212.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,-,Pallavolu,Ysr Kadapa,-,Andhra Pradesh,-,Dharwad
+213.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,-,Itc Winsor Hotel,-,-,-,-,Dharwad
+214.0,2020-03-14,2020-03-28,Dubai,Bangalore,9933/E,Saidapur,Jail Road,Dharwad,Karnataka,580008.0,Dharwad
+215.0,2020-03-14,2020-03-28,Dubai,Bangalore,9933/E,Saidapur,Jail Road,Dharwad,Karnataka,580008.0,Dharwad
+216.0,2020-03-14,2020-03-28,Lkd,Bengaluru,77 E,Ae Cs,-,-,-,-,Dharwad
+217.0,2020-03-14,2020-03-28,Nigera,Bangalore,103.0,"Shreeya Sambruddlin Apts, Gokul Road",Hubli,Dharwad,Karnataka,580030.0,Dharwad
+218.0,2020-03-14,2020-03-28,"London Heathrow, Uk","Bengaluru, India",25 POOJA PRIYA BUILDING,Kalyannagar 2Nd Cross,Habhari Colony,Dharwad,Karnataka,580007.0,Dharwad
+219.0,2020-03-14,2020-03-28,Dubai,Bangalore,"H/n-47, Kalyana Nagar, Vidya nagar",-,-,Hubli,Karnataka,580031.0,Dharwad
+220.0,2020-03-14,2020-03-28,Hkt-Sin-Ind,Bengaluru,2958.0,Vanashree Road,Alnavar,Dharwad,Karnataka,581103.0,Dharwad
+221.0,2020-03-14,2020-03-28,Hkt-Sin-Ind,Bengaluru,2958.0,Vanashree Road,Alnavar,Dharwad,Karnataka,581103.0,Dharwad
+222.0,2020-03-14,2020-03-28,Australia,Bangalore,126 b ,Manjunath Housing Society,Shirasiri,Dharwad,Karnataka,580007.0,Dharwad
+223.0,2020-03-14,2020-03-28,Bahrain,Bangalore,#15,Dheenabandhu Colony,Karwar Road,Hubli,Karnataka,580029.0,Dharwad
+224.0,2020-03-14,2020-03-28,Kathmando,Bengaluru,117.0,Vivekanand Nagar,Dharwad,Dharwad,Karnataka,580004.0,Dharwad
+225.0,2020-03-14,2020-03-28,Kathmando,Bengaluru,117.0,Vivekanand Nagar,Dharwad,Dharwad,Karnataka,580004.0,Dharwad
+226.0,2020-03-13,2020-03-27,Amstrerdam,Bengaluru,26/28,Green Garden ,Gokul Road,Hubbli,Karnataka,580030.0,Dharwad
+227.0,2020-03-13,2020-03-27,Kuala Lumpur,Bengaluru,328/B,Arvind Nagar,-,Hubli,Karnataka,580024.0,Dharwad
+228.0,2020-03-13,2020-03-27,Sharjah,Bengaluru,12/3,Taivar Colony ,Dharwad,Huballi,Karnataka,580003.0,Dharwad
+229.0,2020-03-13,2020-03-27,Usa,Dharwad,51.0,-,-,Dharwad,Karnataka,580007.0,Dharwad
+230.0,2020-03-13,2020-03-27,Bahrain,Bengaluru,10.0,Laxmi Nagar,Gokul Road,Hubli,Karnataka,580030.0,Dharwad
+231.0,2020-03-13,2020-03-27,America,Bangalore,58.0,Banashankari Layout,,"Dharwad, Hubli",Karnataka,580031.0,Dharwad
+232.0,2020-03-13,2020-03-27,America And Bangok,Bangalore,58.0,Banashankari Layout,,"Dharwad, Hubli",Karnataka,580031.0,Dharwad
+233.0,2020-03-13,2020-03-27,Frank Fort,Bangalore,2308/B,Bhavani Nagar,-,Hubballi,Karnataka,580023.0,Dharwad
+234.0,2020-03-13,2020-03-27,Shanghai,Bangalore,11 to 18 naseem mansion ,Mayuri Garden Gokul Road,-,Hubli,Karnataka,580024.0,Dharwad
+235.0,2020-03-12,2020-03-26,-,-,-,-,-,Dharwad,Karnataka,580008.0,Dharwad
+236.0,2020-03-12,2020-03-26,Bangalure,Indian,37.0,37 Gloden Palant,-,-,Mp,452012.0,Dharwad
+237.0,2020-03-12,2020-03-26,Tulsa Ok Usa,Hubli Karanatak India,P-NO 4/6,Behind Capitano Convent School,Gadag Road,Hubli,Karnataka,580020.0,Dharwad
+238.0,2020-03-12,2020-03-26,Toranto,Bangalore,202.0,Silver Town,-,Hubli,Karnataka,580030.0,Dharwad
+239.0,2020-03-12,2020-03-26,Lhr,Bangalore,411DBLOCK,Varanasi,Hoodi,Bangalore,Karnataka,580036.0,Dharwad
+240.0,2020-03-12,2020-03-26,Colombo,Bangalore,A19/201,-,Pocharam,-,Telangana,500088.0,Dharwad
+241.0,2020-03-12,2020-03-26,Bangkok,Goa,305.0,Kusugal,Dwd, Hubli,Karanataka,580004.0,Dharwad
+242.0,2020-03-12,2020-03-26,Bangkok,Bangalore,101.0,Tollnaka P B Rood,D W D,Oharwad,Karanataka,580004.0,Dharwad
+243.0,2020-03-12,2020-03-26,"Dublin, Ireland",Bangalore,"82, 2ND FLOOR ",Meghashree Apartment Renuka Nagar ,-,Hubli,Karnataka,580030.0,Dharwad
+244.0,2020-03-12,2020-03-26,Bahrain,Bangalore,#10 PADMA NILIYA,Lakshmi Nagar Gokul Road,-,Hubli,Karnataka,580030.0,Dharwad
+245.0,2020-03-12,2020-03-26,San,Franciso,-,-,Dharwad,Dharwad,Karnataka,580008.0,Dharwad
+246.0,2020-03-12,2020-03-26,Bangkok,Bangalore,-,Homgayan,Playad,-,-,-,Dharwad
+247.0,2020-03-12,2020-03-26,Bangkok,Goa,305.0,Kusugal,Dwd, Hubli,Karanataka,580004.0,Dharwad
+248.0,2020-03-12,2020-03-26,"Kaula Lampur, Malaysia",Bangalore,32.0,Gooam,Gmarakr,-,Gudurol,-,Dharwad
+249.0,2020-03-12,2020-03-26,Doha,Bangalore,1-46/1,Hospital Road Bhatakal.Karwar,-,-,Karnataka,-,Dharwad
+250.0,2020-03-12,2020-03-26,Auh,Bangalore,"9,shree Gauibari",Jarenlulane,-,-,Maharashtra,-,Dharwad
+251.0,2020-03-12,2020-03-26,Maldives,Kualalampur,NIC Only,-,-,-,-,-,Dharwad
+252.0,2020-03-12,2020-03-26,Bangkok,Bangalore,101.0,Tollnaka P B Rood,D W D,Oharwad,Karanataka,580004.0,Dharwad
+253.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,1003.0,Muyrueta Techma Park,-,-,Karanataka,-,Dharwad
+254.0,2020-03-12,2020-03-26,Singapore,Bangalore,-,-,-,-,-,-,Dharwad
+255.0,2020-03-12,2020-03-26,Colombo,Bangalore,-,-,-,-,-,-,Dharwad
+256.0,2020-03-12,2020-03-26,"Kaula Lampur, Malaysia",Bangalore,"P402,4th floor",-,-,-,-,-,Dharwad
+257.0,2020-03-12,2020-03-26,"Melbourne, Australia",Bangalore,80A,-,-,-,-,-,Dharwad
+258.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,101 Indhra,-,-,Dakshina Kanada,Karnataka,Dharwad
+259.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,101 Indhra,-,-,Dakshina Kanada,Karnataka,Dharwad
+260.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,264794,-,-,Manglore,Karnataka,Dharwad
+261.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,641203,Ganesh Nagar,-,Kudapura ,Karnataka,Dharwad
+262.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,6 34 2,-,-,Dakshina Kanada,Karnataka,Dharwad
+263.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,-,-,-,Dakshina Kanada,Karnataka,Dharwad
+264.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,301,-,-,Manglore,Karnataka,Dharwad
+265.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,14,Maruthi Nagar,-,Trichy,Tamil Nadu,Dharwad
+266.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,3-9-A,Naringana,-,D V,Karnataka,Dharwad
+267.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Room 34,Kms Residence Quarts,-,Dakshina Kanada,Karnataka,Dharwad
+268.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Koya House,Thanniropanthaba,-,South Kanada,Karnataka,Dharwad
+269.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Bajanpadav,Ammunje Villas,-,Dakshina Kanada,Karnataka,Dharwad
+270.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,2 4 5 Thekkal,-,-,Dakshina Kanada,Karnataka,Dharwad
+271.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Essel Heights,Derebail Chruch,-,Manglore,Karnataka,Dharwad
+272.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,-,-,-,Manglore,Karnataka,Dharwad
+273.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,1 7,-,-,Batkal,Karnataka,Dharwad
+274.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,1107,-,-,Manglore,Karnataka,Dharwad
+275.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,1 7,-,-,Batkal,Karnataka,Dharwad
+276.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,1 7,-,-,Batkal,Karnataka,Dharwad
+277.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,1 7,-,-,Batkal,Karnataka,Dharwad
+278.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,203,-,-,Manglore,Karnataka,Dharwad
+279.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,4,-,-,Manglore,Karnataka,Dharwad
+280.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,B K House,-,-,Kunugu,Karnataka,Dharwad
+281.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,9741884734,Kandak,-,Manglore,Karnataka,Dharwad
+282.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,-,-,-,-,-,Dharwad
+283.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,1 204,-,-,Batkal,Karnataka,Dharwad
+284.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,-,Muliyar,-,Kasragod,Kerela,Dharwad
+285.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,77060238559,Koma,-,Dakshina Kanada,Karnataka,Dharwad
+286.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,301,Mulchithu,-,Mangalore,Karnataka,Dharwad
+287.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,-,Miliyar,-,Kasragod,Kerela,Dharwad
+288.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,10 46,Ullal,-,Thotadk,Karnataka,Dharwad
+289.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,4 C 49,Pamboor ,-,Udupi,Karnataka,Dharwad
+290.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,4 C 49,Pamboor ,-,Udupi,Karnataka,Dharwad
+291.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Laxmi Nilya,Ward No 1 Tm Road,-,Chickmanglore,Karnataka,Dharwad
+292.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,4 C 49,Pamboor ,-,Udupi,Karnataka,Dharwad
+293.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,4 C 49,Pamboor ,-,Udupi,Karnataka,Dharwad
+294.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Nagathamalla House,Adoor Urdur,-,Kasragod,Kerela,Dharwad
+295.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Laxmai Nilava,Ward No 1 Tm Road,-,Chickmanglore,Karnataka,Dharwad
+296.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,V/79,Netianine,-,Dakshina Kanada,Karnataka,Dharwad
+297.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,-,-,-,Kasragod,Kerela,Dharwad
+298.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,Falt B 101,-,-,Mangalore,Karnataka,Dharwad
+299.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,3 L3 1976 1,Kaor Temaple Road ,-,Mangalore,Karnataka,Dharwad
+300.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,575 86,-,-,Mangalore,Karnataka,Dharwad
+301.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,1 37,Pulu,-,Mangalore,Karnataka,Dharwad
+302.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,-,Periya,-,Kasragod,Kerela,Dharwad
+303.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,3 152,Thokotta,-,Dakshina Kanada,Karnataka,Dharwad
+304.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,17C,-,-,Kasragod,Kerela,Dharwad
+305.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,13 132 ,-,-,Udupi,Karnataka,Dharwad
+306.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,-,Po Bedaka ,-,Kasragod,Kerela,Dharwad
+307.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,3 42 ,Bantwala Mangalore,-,Bantwala Post,Karnataka,Dharwad
+308.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,2 86 A,Navour,-,Dakshina Kanada,Karnataka,Dharwad
+309.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,Shabit Manzil,-,-,Kasragod,Kerela,Dharwad
+310.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,1 28 (3),-,-,Mangalore,Karnataka,Dharwad
+311.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,-,Bekal ,-,Kasragod,Kerela,Dharwad
+312.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,310 Apw,-,-,Kasragod,Kerela,Dharwad
+313.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,508A,-,-,Kasragod,Kerela,Dharwad
+314.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,10 98 ,-,-,Udupi,Karnataka,Dharwad
+315.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,310 Apw,-,-,Kasragod,Kerela,Dharwad
+316.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,901 Sai Ameya,-,-,Mangalore,Karnataka,Dharwad
+317.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,104,Sundari Appt,-,Mangalore,Karnataka,Dharwad
+318.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,3 165,Neermarga,-,Dakshina Kanada,Karnataka,Dharwad
+319.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,3 165,Neermarga,-,Dakshina Kanada,Karnataka,Dharwad
+320.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,3 165,Neermarga,-,Dakshina Kanada,Karnataka,Dharwad
+321.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,411 B 16Th Ward,-,-,Kasragod,Kerela,Dharwad
+322.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,Am Manzil Premude,-,-,Kasragod,Kerela,Dharwad
+323.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,Am Manzil Premude,-,-,Kasragod,Kerela,Dharwad
+324.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,Kalandoor House,-,-,Dakshina Kanada,Karnataka,Dharwad
+325.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,25 27 1996 ,-,-,Mangalore,Karnataka,Dharwad
+326.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,Uddampara(A),-,-,Kasragod,Kerela,Dharwad
+327.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,688,Kudlu,-,Kasragod,Kerela,Dharwad
+328.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,688,Kudlu,-,Kasragod,Kerela,Dharwad
+329.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,-,-,-,Kasragod,Kerela,Dharwad
+330.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,2 91,Kandlur,-,Udupi,Karnataka,Dharwad
+331.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,1 20,-,-,Mangalore,Karnataka,Dharwad
+332.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,Samira Manzil,Hillayana,-,Udupi,Karnataka,Dharwad
+333.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,2 91,Kandlur,-,Udupi,Karnataka,Dharwad
+334.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,Ullal 1616,-,-,Mangalore,Karnataka,Dharwad
+335.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,-,Ullal,-,Mangalore,Karnataka,Dharwad
+336.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,3003,Bondal Church,-,Mangalore,Karnataka,Dharwad
+337.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,1009 Classic Pearl,Shakti Nagar,-,Mangalore,Karnataka,Dharwad
+338.0,2020-03-11,2020-03-25,Dubai,Mangalore,178.0,Bhatkal,-,-,Karnataka,-,Dharwad
+339.0,2020-03-11,2020-03-25,India ,India,3-127,Bhauturrala,Mandhikkakar,-,Karnataka,524323.0,Dharwad
+340.0,2020-03-11,2020-03-25,Dubai,Mangalore,permanki,Yuddemane,Yuddemane,-,Mangalore Dk,5750029.0,Dharwad
+341.0,2020-03-11,2020-03-25,Uae,India,1/89,Thekkar,-,-,Karnataka,574741.0,Dharwad
+342.0,2020-03-11,2020-03-25,Dubai Uae,Hubli,c/o BS marikallangar,Keshwapur Near Ramesh,Bhavan N Kappa,Hubli,Karnataka,580023.0,Dharwad
+343.0,2020-03-11,2020-03-25,Cardiff Uk,Bangalore,21.0,Vishweshwar Nagar,Hubli,Dhorwar,Karnataka,580032.0,Dharwad
+344.0,2020-03-11,2020-03-25,Sharjah,Bangalore,69/1,Dharwad,-,Dharwad,Karnataka,580001.0,Dharwad
+345.0,2020-03-11,2020-03-25,Mealbourne,Bangalore,950/F3,Shakambari Layout,Hubli,Dharwad,Karnataka,580023.0,Dharwad
+346.0,2020-03-11,2020-03-25,Mealbourne,Bangalore,950/F3,Shakambari Layout,Hubli,Dharwad,Karnataka,580023.0,Dharwad
+347.0,2020-03-11,2020-03-25,Uae,Hubli,312.0,Murarji Nagar,-,Dharwad,Karnataka,580030.0,Dharwad
+348.0,2020-03-11,2020-03-25,Riyadh Saudi Arabia,Bangalore,14.0,"Vkt Hill, Gudihal Road ",-,Hubli/ Dharwad,Karnataka,580024.0,Dharwad
+349.0,2020-03-11,2020-03-25,Riyadh,Bangalore,-,Subash Nagar,Dharwad,Hubli ,Karnataka,580024.0,Dharwad
+350.0,2020-03-11,2020-03-25,Riyadh,Bangalore,19.0,Hubli,-,Dharwad,Karnataka,580020.0,Dharwad
+351.0,2020-03-11,2020-03-25,Riyadh,Bangalore,19.0,Hubli,-,Dharwad,Karnataka,580020.0,Dharwad
+352.0,2020-03-11,2020-03-25,Riyadh,Bangalore,19.0,Hubli,-,Dharwad,Karnataka,580020.0,Dharwad
+353.0,2020-03-10,2020-03-24,Goa,"London, U K",-,-,Arambol,-,Goa,-,Dharwad
+354.0,2020-03-10,2020-03-24,Jeddah,Hubli,124B,Kumarshewar Nagar,-,Dharward,Karnataka,580008.0,Dharwad
+355.0,2020-03-10,2020-03-24,Dubai,Bangalore,Hasmi ,108/A/29,"3rd Cross, Siddharth colony",Dharwad,Karnataka,580008.0,Dharwad
+356.0,2020-03-10,2020-03-24,Dubai,Bangalore,Hasmi ,108/A/30,"4th Cross, Siddharth colony",Dharwad,Karnataka,580009.0,Dharwad
+357.0,2020-03-10,2020-03-24,Dubai,Bangalore,No 3 Gayathri,Kandhur Layout ,Krdhuadud ,Huballi,Karnataka,580020.0,Dharwad
+358.0,2020-03-10,2020-03-24,Dubai,Bangalore,"Hruse No3,4Ayatr1",Keshwapur ,-,Hubli,Karnataka,580020.0,Dharwad
+359.0,2020-03-10,2020-03-24,dallas tex,bangalore,10.0,survidha annexe,concent school,hubli,karnataka,580023.0,Dharwad
+360.0,2020-03-10,2020-03-24,DTW (USA),Bangalore,Plot No 26,Udaynagar,Hubli,Dharwad,Karnataka,580023.0,Dharwad
+361.0,2020-03-10,2020-03-24,-,Bengaluru,101.0,Hirehatti,-,Dharwad,Karnataka,581113.0,Dharwad

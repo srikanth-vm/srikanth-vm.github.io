@@ -1,0 +1,134 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,Dubai,Bangalore,-,Chembellore,Virajpet,Kodagu,Karnataka,571218.0,Kodagu
+2.0,2020-03-22,2020-04-05,UAE,Bangalore,280-A,Uluguli Sunticoppa,,Kodagu,Karnataka,571237.0,Kodagu
+3.0,2020-03-22,2020-04-05,UAE,Bangalore,280 - A,Uluguli Sunticoppa,,Kodagu,Karnataka,571237.0,Kodagu
+4.0,2020-03-21,2020-04-04,Seattle - Wa - Usa,Bangalore,-,Mahila Samaja Road,Virajpet,Kadagu,Karnataka,571218.0,Kodagu
+5.0,2020-03-21,2020-04-04,Seattle - Wa - Usa,Bangalore,-,Mahila Samaja Road,Virajpet,Kadagu,Karnataka,571218.0,Kodagu
+6.0,2020-03-21,2020-04-04,Newzeland,Bangalore,,Dhanugala,,Kodagu,Karnataka,571213.0,Kodagu
+7.0,2020-03-21,2020-04-04,Dubai ,Bangalore,-,-,-,Madikeri ,Karnataka,571201.0,Kodagu
+8.0,2020-03-21,2020-04-04,"Brisbane,Aus","Bengaluru,In",176/3,Bapuji Extension,Kushalnagar,Kodagu,Karnataka,571234.0,Kodagu
+9.0,2020-03-21,2020-04-04,"Katmandu,Np","Bengaluru,In",52.0,"Golden Temple, Bylakuppe",Kushalnagar,Kodagu,Karnataka,-,Kodagu
+10.0,2020-03-21,2020-04-04,Dubai,Bangalore,,Murnad,,Kodagu,Karnataka,571252.0,Kodagu
+11.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,Kulkarni Village,-,Kadaon,Karnatka,571218.0,Kodagu
+12.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,-,Virajpet,Kudagu,Karnataka,571218.0,Kodagu
+13.0,2020-03-20,2020-04-03,Dxb,Bengaluru,213.0,-,Somvarpet,Kodagu,Karnataka,571236.0,Kodagu
+14.0,2020-03-20,2020-04-03,Australia,Banglore,Sri Nivas,Virajpet Town,Virajpet,Kodagu,Karnataka,571218.0,Kodagu
+15.0,2020-03-20,2020-04-03,Dubai,Bangalore,Caalavalappil,Meur Boskeri,-,Coorg,Karnataka,571215.0,Kodagu
+16.0,2020-03-20,2020-04-03,Sydney,Bangalore,163A,Kutta,Virajpeth,Kodugu,Karnataka,571250.0,Kodagu
+17.0,2020-03-20,2020-04-03,Auckland,Bangalore,Tamkside,Chenayankote,Virajeet,Kodagg,Karnataka,571215.0,Kodagu
+18.0,2020-03-20,2020-04-03,Auckland,Bangalore,Tank side,Pollibetta,Virajeet,Kodagg,Karnataka,571215.0,Kodagu
+19.0,2020-03-20,2020-04-03,Dubai,Bangalore,3-4970,Rasul Residential Enclave,Somwarpet,Kodagu,Karnataka,571234.0,Kodagu
+20.0,2020-03-20,2020-04-03,Dubai,Bangalore,Teralu,Kodagu,Coorg,Coorg,Karnataka,571249.0,Kodagu
+21.0,2020-03-20,2020-04-03,Abudhabi,Bangalore ,-,3Rd Block B M Road,-,Kushalnagar ,Karnataka ,571234.0,Kodagu
+22.0,2020-03-19,2020-04-02,Dubai,Bangalore,160.0,Billugunda,-,Kodagu,Karnataka,571211.0,Kodagu
+23.0,2020-03-19,2020-04-02,Dubai,Bangalore,160.0,Billugunda,-,Kodagu,Karnataka,571211.0,Kodagu
+24.0,2020-03-19,2020-04-02,Dxb,Bangalore,#160,Billugurda,-,Kodagu,Karanataka,571211.0,Kodagu
+25.0,2020-03-19,2020-04-02,Dxb,Bangalore,#160,Billugurda,-,Kodagu,Karanataka,571211.0,Kodagu
+26.0,2020-03-19,2020-04-02,Abudhabi ,Bangalore ,-,Somauarapete ,-,Kodgu,Karnataka ,571251.0,Kodagu
+27.0,2020-03-19,2020-04-02,Sydney ,Bangalore,No:20,-,Kanna Balamuri Hoddur Madikeri ,Kodagu,Karnataka,571201.0,Kodagu
+28.0,2020-03-19,2020-04-02,Jakarta,Bangalore,-,Gonimaror( Village Post) ,Somwarpet,Kodagu,Karnataka,571236.0,Kodagu
+29.0,2020-03-19,2020-04-02,"Dubai, Uae",Banaglore,-,#196,Somwar Pet,Hosabila,Kodagu,Karnatak,Kodagu
+30.0,2020-03-19,2020-04-02,Dubai,Shj To Bengaluru,0.0,Icondangeri,Virajpet,Kodagu,Karnataka,571252.0,Kodagu
+31.0,2020-03-19,2020-04-02,Dubai,Shj To Bengaluru,109.0,Eliyangad,Virajpet,Kodagu,Karnataka,571252.0,Kodagu
+32.0,2020-03-19,2020-04-02,Doha,Bangalore,-,Bellumandu,-,Kodagu,Karnataka,572128.0,Kodagu
+33.0,2020-03-19,2020-04-02,London,Bangalore,"Thaikatte Estate, Polllibetta PO",Kodugu,Kodugu,Kodugu,Karnataka,571215.0,Kodagu
+34.0,2020-03-18,2020-04-01,Phuket,Bangalore,#230,Cauvery Extension 1St Block,Kushalnagar,Kodagu,-,-,Kodagu
+35.0,2020-03-18,2020-04-01,Singapore,Bangalore,-,Kodambur Village,Munnad Post,N.Coorg,Karnataka,571.0,Kodagu
+36.0,2020-03-18,2020-04-01,Australia,Bangalore,-,Kodambur Village,Murnad Post,N.Coorg,Karnataka,571252.0,Kodagu
+37.0,2020-03-18,2020-04-01,Dubai,Bangalore,297.0,Koudargeri,Viraj Pet,Kodagu,Karnataka,-,Kodagu
+38.0,2020-03-18,2020-04-01,Dubai,Bangalore,H/K131,Hakathur V/P,-,Medikari,Karnataka,571252.0,Kodagu
+39.0,2020-03-18,2020-04-01,Dubai,Bengaluru,152 H/K,Hakathuv V/P,-,Madikeri,Karnataka,571201.0,Kodagu
+40.0,2020-03-18,2020-04-01,Dubhai,Mangalore,217.0,Shakthi bodovony,Kushalnagar,Kodagu,Karnataka,571234.0,Kodagu
+41.0,2020-03-18,2020-04-01,Dubhai,Mangalore,SRo8,Napoklu,Madikeri,Kodagu,Karnataka,571214.0,Kodagu
+42.0,2020-03-18,2020-04-01,Dubai,Manglore,324.0,areakadu,madikeri,kodagu,karnataka,571253.0,Kodagu
+43.0,2020-03-18,2020-04-01,Dubai,Mangaluru,32.0,Karnangeri,,Kodagu Madikeri ,Karnataka,571201.0,Kodagu
+44.0,2020-03-17,2020-03-31,Dubai,Managlore,37.0,Aiyangiri,Medkeri,Kedgiri,Karnataka,571247.0,Kodagu
+45.0,2020-03-17,2020-03-31,Dubai,Mangalore,11.0,Kokkeru,Madikeri,Kodagu,Karnataka,571212.0,Kodagu
+46.0,2020-03-17,2020-03-31,Dubai,Mangalore,11.0,Kokkeru,Madikeri,Kodagu,Karnataka,571212.0,Kodagu
+47.0,2020-03-17,2020-03-31,Dubai,Mangalore,11.0,Kokkeru,Madikeri,Kodagu,Karnataka,571212.0,Kodagu
+48.0,2020-03-17,2020-03-31,Houston,Bangalore,58.0,Malabar Road,Virajpet,Kodagu,Karnataka,571218.0,Kodagu
+49.0,2020-03-17,2020-03-31,Dubai,Bangalore,-,-,Bagamandir,Medikari,Karnataka,571247.0,Kodagu
+50.0,2020-03-17,2020-03-31,Doha Qatar,Bangalore,-,Arameri Village And Post ,Virajpet ,Kodagu,Karnataka,571218.0,Kodagu
+51.0,2020-03-17,2020-03-31,Bangkok,Bengalure,37.0,Gatavale Village Post,-,Kodagu Madikeri,Karanataka,571251.0,Kodagu
+52.0,2020-03-17,2020-03-31,Lhr,Bangalur,1-97,Nram Layout,-,"Kodgo,Koshalnagar",Karnataka,571234.0,Kodagu
+53.0,2020-03-17,2020-03-31,Dxb-Bnglr,Bangaluru,-,Mogra Street,-,Kodagu,Karnataka,571218.0,Kodagu
+54.0,2020-03-17,2020-03-31,Dhubai,Bangaluru,-,-,-,Kodagu,Karnataka,-,Kodagu
+55.0,2020-03-17,2020-03-31,Dxb-Bnglr,Bangaluru,9-159,Mogra Street,-,Kodagu,Karnataka,571218.0,Kodagu
+56.0,2020-03-17,2020-03-31,U.A.E,Bangaluru,-,Kottoli,-,Kodagu,Karnataka,571218.0,Kodagu
+57.0,2020-03-17,2020-03-31,Dhubai,Bangaluru,-,Hodavada,-,Kodagu,Karnataka,571214.0,Kodagu
+58.0,2020-03-17,2020-03-31,Dhubai,Bangaluru,-,Halugunda,-,Kodagu,Karnataka,-,Kodagu
+59.0,2020-03-17,2020-03-31,Dubai,Bangalore,-,Mekur- Hosker,-,Kodagu,Karnataka,571215.0,Kodagu
+60.0,2020-03-17,2020-03-31,Dubai,Managalore,#11,Kokeri,Madikeri,Kodagu,Karnantaka,571212.0,Kodagu
+61.0,2020-03-17,2020-03-31,Dubai,Managalore,#11,Kokeri,Madikeri,Kodagu,Karnantaka,571212.0,Kodagu
+62.0,2020-03-17,2020-03-31,Dubai,Managalore,#11,Kokeri,Madikeri,Kodagu,Karnantaka,571212.0,Kodagu
+63.0,2020-03-16,2020-03-30,Dubai,Mangalore,2-41,Aigoor Post And Village ,Somwarpet Taluk,Kodagu,Karnataka,571251.0,Kodagu
+64.0,2020-03-16,2020-03-30,Dubai,Mangalore,67-1,Khanagal Post,Somawarpet,Coorg,Karnataka,-,Kodagu
+65.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Bettageri,-,Kodak,Karnataka,571201.0,Kodagu
+66.0,2020-03-16,2020-03-30,Quatar,Bengaluru,-,Kikkare,-,Kodagu,Karnataka,571201.0,Kodagu
+67.0,2020-03-16,2020-03-30,Doha,Bengaluru,-,Kikkare,-,Kodagu,Karnataka,571218.0,Kodagu
+68.0,2020-03-16,2020-03-30,Abu Dhabi,Bengaluru,-,Coorg,-,Madikeri,Karnataka,571214.0,Kodagu
+69.0,2020-03-16,2020-03-30,Abu Dhabi,Bengaluru,-,Coorg,-,Madikeri,Karnataka,571214.0,Kodagu
+70.0,2020-03-16,2020-03-30,Qatar,Bengaluru,24/156,Azad Nagar,-,Madikeri,Karnataka,571201.0,Kodagu
+71.0,2020-03-16,2020-03-30,Birmingham,Bangalore,#137/1 SLN house,Goddehousr,-,"Kushalnagar, Coorg",Karnataka,571234.0,Kodagu
+72.0,2020-03-16,2020-03-30,Bali,Bangalore,-,Aimangala Village & Post,Virajpet,Mysore,Karnataka,571218.0,Kodagu
+73.0,2020-03-16,2020-03-30,Bali,Bangalore,-,Aimangala Village & Post,Virajpet,Mysore,Karnataka,571218.0,Kodagu
+74.0,2020-03-16,2020-03-30,Addis Ababa,Bangalore,Mallur Estate ,Virajpet,Kodagu,Kodagu,Karnataka,571219.0,Kodagu
+75.0,2020-03-16,2020-03-30,Denmark,Bangalore,Mabulevi Kunjuta Street,Kodugu,-,Kodugu,Karnataka,571212.0,Kodagu
+76.0,2020-03-16,2020-03-30,Usa,Bangalore,#198,"18Th Street, Jayanagar",Madikeri,Kodagu,Karnataka,571201.0,Kodagu
+77.0,2020-03-15,2020-03-29,Dubai,Mangalore,9.0,Vidyanagar,Virajpet,Kodagu,Karnataka,571218.0,Kodagu
+78.0,2020-03-15,2020-03-29, Dubai,Benglaore ,-,Kondngari,Vpt,Kodagu,Karnataka,571252.0,Kodagu
+79.0,2020-03-15,2020-03-29,Malaysia,Bangalore,#32,Biligere Village,Kaggudlu Post,Kodagu Madikeni,Karnataka,571201.0,Kodagu
+80.0,2020-03-15,2020-03-29,Dubia,Bangalore,127.0,-,-,Mysuru,Karnataka,571252.0,Kodagu
+81.0,2020-03-15,2020-03-29,Warsaw(Poland),Bangalore,#64,Kundacheri,Chettimani,Kodagu,Karnataka,571247.0,Kodagu
+82.0,2020-03-15,2020-03-29,Dubai,Bangalore,-,Iralle Valmudi Chettali Post,Somvarpet,Kodagu,Karnataka,571248.0,Kodagu
+83.0,2020-03-15,2020-03-29,Dubai,Bangalore,-,Iralle Valmudi Chettali Post,Somvarpet,Kodagu,Karnataka,571248.0,Kodagu
+84.0,2020-03-14,2020-03-28,Dubai,Mangalore,137/24 Gaddige Azad,Madekeri,Kodugu,Kodakmadikeri,Karnataka,571201.0,Kodagu
+85.0,2020-03-14,2020-03-28,Sharjah,Bangalore,-,Aigoor,Somarpet,Kodagu,Karnataka,571236.0,Kodagu
+86.0,2020-03-14,2020-03-28,Sharjah,Bangalore,-,Aigoor,Somwarpet,Kodagu,Karnataka,571236.0,Kodagu
+87.0,2020-03-14,2020-03-28,Sharjah,Bangalore,-,Aigoor,Somwarpet,Kodagu,Karnataka,571236.0,Kodagu
+88.0,2020-03-14,2020-03-28,Doha,Bengaluru,CM Sound,Mg Road,-,Siddapur,Karnataka,571253.0,Kodagu
+89.0,2020-03-14,2020-03-28,Doha,Bengaluru,CM Sound,Mg Road,-,Siddapur,Karnataka,571253.0,Kodagu
+90.0,2020-03-14,2020-03-28,Muscat,Bangalore,-,Sampage,-,Kodagu,Karnataka,574234.0,Kodagu
+91.0,2020-03-14,2020-03-28,Muscat,Bangalore,-,Sampaje,-,Kodagu,Karnataka,574234.0,Kodagu
+92.0,2020-03-14,2020-03-28,Muscat,Bangalore,-,Sampaje,-,Kodagu,Karnataka,574234.0,Kodagu
+93.0,2020-03-14,2020-03-28,-,-,103.0,Betoli,Virajpet,Kodagu,Karnataka,571218.0,Kodagu
+94.0,2020-03-14,2020-03-28,"Uae, Dubai",-,No. 336,Galibeedu,-,Kodagu,Karnataka,571210.0,Kodagu
+95.0,2020-03-13,2020-03-27,Dubai,Mangalore,354.0,Madikeri Road Siddapura,Virajpet,Coorg,Karnataka,571234.0,Kodagu
+96.0,2020-03-13,2020-03-27,Dubai,Mangalore,13/69,Gowli Street,Madikeri,Kodagu,Karnataka,571201.0,Kodagu
+97.0,2020-03-13,2020-03-27,Dubai,Mangalore,44002.0,Kunjalageri,Virajpet,Kodagu,Karnataka,571218.0,Kodagu
+98.0,2020-03-13,2020-03-27,Dubai,Mangaluru,13/69,Gowli Street,Madikeri,Coorg,Karnataka,571201.0,Kodagu
+99.0,2020-03-13,2020-03-27,Dubai,Bangalore,27.0,Kodagu Village Somwarpet,-,Kodagu ,Karnataka,-,Kodagu
+100.0,2020-03-13,2020-03-27,Abudhabi,Bangalore,-,Kanthur Murnad Post,-,Kodagu,Karanataka,-,Kodagu
+101.0,2020-03-13,2020-03-27,Dubai,Bengaluru,Madikeri Kodagu ,-,-,Kodagu,Karnataka,571201.0,Kodagu
+102.0,2020-03-13,2020-03-27,Muscat,Bangalore,251.0,14Th Block New Extension,Madikeri,Kodagu,Karnataka,571201.0,Kodagu
+103.0,2020-03-12,2020-03-26,Dubai,Bangalore,23/149,Madikeri,-,Kodagu,Karnataka,571201.0,Kodagu
+104.0,2020-03-12,2020-03-26,Abodhabi,Bangalore,TAMARA RESORT,-,-,Coorg,-,-,Kodagu
+105.0,2020-03-12,2020-03-26,Abudubhai U.A.E,Bangalore,TAMARA RESORT,-,-,Coorg,-,-,Kodagu
+106.0,2020-03-12,2020-03-26,Newjersey  Ewr,Bangalore,14-64,Stuarts Hill Road,-,Madikeri,Karnataka,571201.0,Kodagu
+107.0,2020-03-12,2020-03-26,Bahrain,Bangalore,CHEMBARANDA,Yemmemadu,Madakeri,Kodagu,Karnataka,571214.0,Kodagu
+108.0,2020-03-12,2020-03-26,Srilanka,Bengaluru,#16,Madikeri .Seorg,Ranipet,Kodagu,Karnataka,571201.0,Kodagu
+109.0,2020-03-12,2020-03-26,Bangkok,Bangalore,_,B.Settigeri,Virajpet,Kodagu,Karnataka,-,Kodagu
+110.0,2020-03-12,2020-03-26,Sharjaha,Bangalore,35.0,Mukkodly,Kodagu,Kodagu,Karnataka,571201.0,Kodagu
+111.0,2020-03-12,2020-03-26,Muscat,Bangalore,GIRIAPPA ESTATE,Gaddehalla,Somavarpdi,Kodagu,Karnataka,571237.0,Kodagu
+112.0,2020-03-12,2020-03-26,U.S.A. Sfo,Bangalore,SIRANGALA,Sirangala,Soniwarpet,Kodagu,Karnataka,571232.0,Kodagu
+113.0,2020-03-12,2020-03-26,Usa Sfo,Bangalore,SIRANGALA,Sirangala,Soniwarpet,Kodagu,Karnataka,571232.0,Kodagu
+114.0,2020-03-12,2020-03-26,Dubai,Bangalore,1/34,Chouldlu Villaige,-,Kodagu,Karnataka,571336.0,Kodagu
+115.0,2020-03-12,2020-03-26,Bahrain,Bangalore,CHEMBARANDA,Yemmemadu,Madakeri,Kodagu,Karnataka,571214.0,Kodagu
+116.0,2020-03-12,2020-03-26,Srilanka,Bengaluru,#16,Madikeri .Seorg,Ranipet,Kodagu,Karnataka,571201.0,Kodagu
+117.0,2020-03-12,2020-03-26,Bangkok,Bangalore,_,B.Settigeri,Virajpet,Kodagu,Karnataka,-,Kodagu
+118.0,2020-03-12,2020-03-26,Dubai(Uae),Mangalore,4-126,Near Jnannu Vikaga School,Somwarper,Kodagu,Karnataka,571236.0,Kodagu
+119.0,2020-03-11,2020-03-25,Kayseri Turkey,Bangalore,-,Sulimatthe Village,Hancode Post,Kodagu,Karnataka,571236.0,Kodagu
+120.0,2020-03-11,2020-03-25,Kayseri Turkey,Bengaluru,-,Sulimalth Village,Hancode Post,Kodugu,Karnataka,571236.0,Kodagu
+121.0,2020-03-11,2020-03-25,-,Bangalore,121.0,Kunjila,Kodagu,Madikeri,Karnataka,-,Kodagu
+122.0,2020-03-11,2020-03-25,Dubai,Bangalore,-,Uluguli,-,Coorg,Karnataka,571230.0,Kodagu
+123.0,2020-03-11,2020-03-25,"Riyadh,Ksa","Bangalore, India",121.0,Kunjila,Madikeri,Kodagu,Karnataka,571212.0,Kodagu
+124.0,2020-03-11,2020-03-25,"Riyadh,Ksa","Bangalore, India",121.0,Kunjiva,Madikeri,Kodagu,Karnataka,571212.0,Kodagu
+125.0,2020-03-11,2020-03-25,Uae,Kochi,16.0,"Halugunda, Kondageri",Virajpet,Kodagu,Karnataka,571218.0,Kodagu
+126.0,2020-03-10,2020-03-24,Dubai,Mangalore ,No-36/A,Ganapathy Estate Kandanakolli Village ,-,Kodagu,Karnataka,571237.0,Kodagu
+127.0,2020-03-10,2020-03-24,Dubai,"Mangalore, India",34.0,Hale Taluk,-,Kodagu,Karnataka,571214.0,Kodagu
+128.0,2020-03-10,2020-03-24,Dubai,Mangalore,,Guyya Village,,Kodagu,Karnataka,571253.0,Kodagu
+129.0,2020-03-10,2020-03-24,Dubai,Mangalore,8.0,Peraje,Madikeri,Kodagu,Karnataka,574314.0,Kodagu
+130.0,2020-03-10,2020-03-24,jeddah,bangalore,near connvent,opp janatha bazar,madikere,kodagu,Karnataka,571201.0,Kodagu
+131.0,2020-03-10,2020-03-24,soudi,-,-,boli ,virajpet,-,Karnataka,-,Kodagu
+132.0,2020-03-10,2020-03-24,bangalore,bangalore,-,kodapu,madikere,madikere,Karnataka,-,Kodagu
+133.0,2020-03-10,2020-03-24,-,-,147.0,7th Hoskote,Hoskote ,Kodagu,karnataka,-,Kodagu

@@ -1,0 +1,1143 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-23,2020-04-06,Oman,Mangalore,-,Moodabidri,-,Udupi,Karnataka,-,Udupi
+2.0,2020-03-22,2020-04-05,Dubai,Bangalore,306.0,"Gsj Royal, Building B Bolk, Santhekatte",-,Udupi,Karnataka,576105.0,Udupi
+3.0,2020-03-22,2020-04-05,Dubai,Bangalore,-,Kundapur,-,Udupi,Karnataka,576201.0,Udupi
+4.0,2020-03-22,2020-04-05,Dubai,Bangalore,8/64,Gousiamoholla,Shiroor,Udupi,Karnataka,576228.0,Udupi
+5.0,2020-03-22,2020-04-05,Dubai,Bangalore,8/64,Gousiamoholla,Shiroor,Udupi,Karnataka,576228.0,Udupi
+6.0,2020-03-22,2020-04-05,Dubai,Bangalore,-,Borgalgudele,Karkala,Udupi,Karnataka,-,Udupi
+7.0,2020-03-22,2020-04-05,Dubai,Bangalore,4-157A,Karkala,,Udupi,Karnataka,574103.0,Udupi
+8.0,2020-03-22,2020-04-05,Dubai,Bangalore,125.0,JMRB Post Office,,Kundapura,Karnataka,576240.0,Udupi
+9.0,2020-03-22,2020-04-05,Dubai,Bangalore,,Herooru,,Udupi,Karnataka,576224.0,Udupi
+10.0,2020-03-21,2020-04-04,Dallas,Bangalore,1-49A,Herikudru Dodmane,Herikudru,Udupi,Karnataka,576236.0,Udupi
+11.0,2020-03-21,2020-04-04,Dubai,Bangalore,119.0,Brohmovas,Udupi,Udupi,Karnataka,576213.0,Udupi
+12.0,2020-03-21,2020-04-04,"Osaka, Japan",Bengaluru,1-339,Vishnumuthy Temple Road.,-,Udupi,Karnataka,574118.0,Udupi
+13.0,2020-03-21,2020-04-04,Dubai,Bangalore,83.0,Kalavar,-,Udupi,Karnataka,576222.0,Udupi
+14.0,2020-03-21,2020-04-04,Dubai,Bangalore,-,Kundapoor,Udupi,Kundapoor,Karnataka,-,Udupi
+15.0,2020-03-21,2020-04-04,Dxb,Bangalore,206.0,Vidya Rathna Road,-,Udupi/Manipal,Karnataka,576104.0,Udupi
+16.0,2020-03-21,2020-04-04,Dubai-Uae,Bangalore,3-109/C,Srinivasnagar Main Road,Chitpady,Udupi,Karnataka,-,Udupi
+17.0,2020-03-21,2020-04-04,Mct,Blr,-,Laxminagara Kodavoor,-,Udupi,Karnataka,576106.0,Udupi
+18.0,2020-03-21,2020-04-04,Dubai,Bangalore,-,Udupi,-,Lakshminagar 1 Cross,Karnataka Udupi,574116.0,Udupi
+19.0,2020-03-21,2020-04-04,Dubai,Bangalore,9 - 280,Nandibetta Bhim Road Kundapur,Kundapur,Udupi,Karnataka,576201.0,Udupi
+20.0,2020-03-21,2020-04-04,Dubai,Bangalore,3 - 102,Bommar Badttu,Hiriadka,Udupi,Karnataka,576113.0,Udupi
+21.0,2020-03-21,2020-04-04,Bahrain,Bangalore,31656.0,Kenjoor,Kenjoor Village,Udupi,Karnataka,576236.0,Udupi
+22.0,2020-03-21,2020-04-04,Singapore,"Bengaluru,India",No 11/3/84A,"Sara Amin Raod,Bannanje",-,Udupi,Karnataka,576101.0,Udupi
+23.0,2020-03-21,2020-04-04,Hong Kong,"Bengaluru,India",Husharu,Husharu,-,Kundapura,Karnataka,576233.0,Udupi
+24.0,2020-03-21,2020-04-04,Hong Kong,"Bengaluru,India",Husharu,Husharu,-,Kundapura,Karnataka,576233.0,Udupi
+25.0,2020-03-21,2020-04-04,Dubai ,Bangalore,-,Attur ,Karkala ,Udupi,Karnataka,574110.0,Udupi
+26.0,2020-03-21,2020-04-04,Dubai,Bengaluru,2-172,Udupi/Salmara,K G Road,Udupi,Karnataka,-,Udupi
+27.0,2020-03-21,2020-04-04,Dubai,Bengaluru,Fery House,Kundapur,Nada Post,-,Karnataka,-,Udupi
+28.0,2020-03-21,2020-04-04,Dubai,Bangalore,Vailta Nivas,Keruuashe,Karkald,Udupi,Karnataka,-,Udupi
+29.0,2020-03-21,2020-04-04,Hong Kong,Bangalore,,Hosuru,Kundapura,Udupi,Karnataka,576233.0,Udupi
+30.0,2020-03-21,2020-04-04,Dubai,mangalore,three r start,galikatee,nandalike,udupi,Karnataka,576111.0,Udupi
+31.0,2020-03-21,2020-04-04,Muscat,Bangalore,4-4-58B,Sarvodaya RD,kinnimulki,udupi,KA,576101.0,Udupi
+32.0,2020-03-21,2020-04-04,Dubai,Bangalore,2-102 A,Raginakalu,Herooru,Udupi,Karnataka,576224.0,Udupi
+33.0,2020-03-21,2020-04-04,Bahrain,Bengaluru,,Ajekar Karkala,,Udupi,Karnataka,574101.0,Udupi
+34.0,2020-03-21,2020-04-04,Bahran,Bangalore,,Mel Hosur Melhara,Kundapura,Udupi,Karnataka,576233.0,Udupi
+35.0,2020-03-20,2020-04-03,Dxb,Bangalore,279d/9,Bhr Road,Kundapur,Udupi,Karnatka,576201.0,Udupi
+36.0,2020-03-20,2020-04-03,Dxb,Bangalore,-,Kotathattu Porehicm,Udupi,Udupi,Karnatka,576201.0,Udupi
+37.0,2020-03-20,2020-04-03,Muscot,Bangalore,12/179/2,Kharvikeri,Kundapur,Gongolli,Karnatka,576216.0,Udupi
+38.0,2020-03-20,2020-04-03,Behrain,Bangalore,-,"I-51, Hegunje",Mandarithi,Udipi,Karnataka,576223.0,Udupi
+39.0,2020-03-20,2020-04-03,Behrain,Bangalore,-,8-155/1,"Gullibetta Podu,Kemmannur",Udipi,Karnataka,576115.0,Udupi
+40.0,2020-03-20,2020-04-03,"Muscat, Oman",Bangalore,"! 112,Mundavana",Kundapur,-,Udipi,Karnataka,576219.0,Udupi
+41.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,Byndoor,Byndoor,Udupi,Karnataka,-,Udupi
+42.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,Shiroro,Kundapura,Udupi,Karnataka,576228.0,Udupi
+43.0,2020-03-20,2020-04-03,Kansai Airport Japan,Bangalore,11-2-96D,"Vinobha Nagar, 3Rd Cross",Kadabettu,Udupi,Karnataka,576101.0,Udupi
+44.0,2020-03-20,2020-04-03,Dubai,Bangalore,-,"Kelamane, Nagaramutta, Village Hosala, Barkur",Barkur,Udupi,Karnataka,576210.0,Udupi
+45.0,2020-03-20,2020-04-03,Dubai,Bangalore,"10, 70A",Schinern,-,Udupi,Karnataka,576228.0,Udupi
+46.0,2020-03-20,2020-04-03,Dubai,Bangalore,188,Bantakal,Saankarpura,Udupi,Karnataka,574115.0,Udupi
+47.0,2020-03-20,2020-04-03,Dubai,Bangalore,10-118,Sampiga Nagar Udyavara,Udyavara,Udupi,Karnataka,574118.0,Udupi
+48.0,2020-03-19,2020-04-02,London,Bangalore,-,Abbanadka House Kedinje Post,Karkala,Udupi,Karnataka,574110.0,Udupi
+49.0,2020-03-19,2020-04-02,Belfast Uk,Bangalore,Srilakshmi,Jodurasthe,Karkala,Udupi,Karnataka,576117.0,Udupi
+50.0,2020-03-19,2020-04-02,Abudhabi ,Bangalore ,-,Belleknntaka ,Moodgblell,Udupi ,Karnataka ,576120.0,Udupi
+51.0,2020-03-19,2020-04-02,Sydney,Bangalore,7-9-D Elviton,Nh66 Kadekar,-,Udupi,Karnataka,576103.0,Udupi
+52.0,2020-03-19,2020-04-02,Sydney,Bangalore,7-9-D Elviton,Nh66 Kadekar,-,Udupi,Karnataka,576103.0,Udupi
+53.0,2020-03-19,2020-04-02,Dubai,Bangalore,1-268,Westblock Road,-,Udupi,Karnataka,576201.0,Udupi
+54.0,2020-03-19,2020-04-02,Delhi,Bangalore,Flat No.206 ,"Koppolongodi, Koud",Udupi,Udupi,Karnataka,574106.0,Udupi
+55.0,2020-03-19,2020-04-02,Dubai,Bangalore,-,Hiriyangadi,Karakala,Udupi,Karnataka,574104.0,Udupi
+56.0,2020-03-19,2020-04-02,-,Bailur,145.0,Bailur,Bailur,Udupi,Karnataka,574102.0,Udupi
+57.0,2020-03-19,2020-04-02,Dubai,Mangalore,,V R Temple Yedthre,,Udupi,Karnataka,576228.0,Udupi
+58.0,2020-03-19,2020-04-02,Dubai,Mangalore,Sandeep Nilaya,Iruathur Post,,Udupi,Karnataka,,Udupi
+59.0,2020-03-19,2020-04-02,Dubai,Mangalore,80.0,Gulvady,Kudapura,Udupi,Karnataka,576283.0,Udupi
+60.0,2020-03-19,2020-04-02,Dubai,Mangalore,1-75 B,Kahajaru,Karkala,Udupi,Karnataka,576113.0,Udupi
+61.0,2020-03-19,2020-04-02,Dubai,Mangalore,3-128,Naikody,Jadkal,Udupi,Karnataka,576233.0,Udupi
+62.0,2020-03-19,2020-04-02,Dubai,Mangalore,3-106,,Kote,Udupi,Karnataka,574105.0,Udupi
+63.0,2020-03-19,2020-04-02,Dubai,Mangalore,4-53-1,Surabhi,,Udupi,Karnataka,567215.0,Udupi
+64.0,2020-03-19,2020-04-02,Dubai,Mangalore,23774.0,Vandse,Kundapura,Udupi,Karnataka,567233.0,Udupi
+65.0,2020-03-19,2020-04-02,Dubai,Mangalore,,,,Chikkmanglur,Karnataka,574102.0,Udupi
+66.0,2020-03-19,2020-04-02,Dubai,Mangalore,13058.0,Shiroor,Byndoor,Udupi,Karnataka,576228.0,Udupi
+67.0,2020-03-19,2020-04-02,Dubai,Mangalore,Parpale House,Doopadakatte,Nitte,Udupi,Karnataka,5741104.0,Udupi
+68.0,2020-03-19,2020-04-02,Dubai,Mangalore,3-56-B,Doopadakatte,Nitte,Udupi,Karnataka,574110.0,Udupi
+69.0,2020-03-19,2020-04-02,Dubai,Mangalore,,,,Udupi,Karnataka,576117.0,Udupi
+70.0,2020-03-19,2020-04-02,Dubai,Mangalore,17.0,,,Udupi,Karnataka,576101.0,Udupi
+71.0,2020-03-19,2020-04-02,Dubai,Mangalore,,,Kundapura,Udupi,Karnataka,576228.0,Udupi
+72.0,2020-03-19,2020-04-02,Dubai,Mangalore,,,Kundapura,Udupi,Karnataka,567216.0,Udupi
+73.0,2020-03-19,2020-04-02,Dubai,Mangalore,30956.0,,,Udupi,Karnataka,576115.0,Udupi
+74.0,2020-03-19,2020-04-02,Dubai,Mangalore,30956.0,Hoode,Udupi,Udupi,Karnataka,676115.0,Udupi
+75.0,2020-03-19,2020-04-02,Dubai,Mangalore,Little Flower,76BB Bailoor,Udupi,Udupi,Karnataka,576101.0,Udupi
+76.0,2020-03-19,2020-04-02,Dubai,Mangalore,16103.0,Kaithree Japthi,,Udupi,Karnataka,576211.0,Udupi
+77.0,2020-03-19,2020-04-02,Dubai,Mangalore,SR 416,Kunchapura,,Udupi,Karnataka,576228.0,Udupi
+78.0,2020-03-19,2020-04-02,Dubai,Mangalore,,,,Udupi,Karnataka,576257.0,Udupi
+79.0,2020-03-19,2020-04-02,Dubai,Mangalore,475.0,Moodu Botlu,Monipura,Udupi,Karnataka,576120.0,Udupi
+80.0,2020-03-19,2020-04-02,Dubai,Mangalore,3-194,Kokikas Palli,Karkala,Udupi,Karnataka,674244.0,Udupi
+81.0,2020-03-19,2020-04-02,Dubai,Mangalore,43928.0,Podu Village,,Udupi,Karnataka,574106.0,Udupi
+82.0,2020-03-19,2020-04-02,Dubai,Mangalore,S-166,Ram Nagar,,Udupi,Karnataka,574106.0,Udupi
+83.0,2020-03-19,2020-04-02,Dubai,Mangalore,#6,Venkatesh Pura,,Hassan,Karnataka,574102.0,Udupi
+84.0,2020-03-19,2020-04-02,Dubai,Mangalore,,,,Udupi,Karnataka,576210.0,Udupi
+85.0,2020-03-19,2020-04-02,Dubai,Mangalore,,,,Udupi,Karnataka,574118.0,Udupi
+86.0,2020-03-19,2020-04-02,Dubai,Mangalore,8-a,Shiruru,Shiruru,Udupi,Karnataka,576228.0,Udupi
+87.0,2020-03-19,2020-04-02,Dubai,Mangalore,,udupi chitpady,,Udupi,Karnataka,576101.0,Udupi
+88.0,2020-03-19,2020-04-02,Dubai,Mangalore,,,,Udupi,Karnataka,,Udupi
+89.0,2020-03-18,2020-04-01,"Kix, Osaka","Bangalore, India",15222.0,Tenkapetgudupi,Udupi,Udupi,Karnataka,576101.0,Udupi
+90.0,2020-03-18,2020-04-01,Uae,Bangalore India,294f,Kundapunur,-,Udupi,Karnataka,576201.0,Udupi
+91.0,2020-03-18,2020-04-01,Kansai,Bangalore,44019.0,Yermal Tenka,Udupi,Udupi,Karnataka,574119.0,Udupi
+92.0,2020-03-18,2020-04-01,Kanasai,Bangalore,11-109 AB,Shirva,Udupi,Udupi,Karnataka,574116.0,Udupi
+93.0,2020-03-18,2020-04-01,Dubai-Uae,Bangalore,"4-86,Kodi",Near Church Hanglur Post,Kundapur,Udupi,Karnataka,576217.0,Udupi
+94.0,2020-03-18,2020-04-01,Sharjah (Uae),Bangalore,Santhegudde,Kachur,Udupi,Udupi,Karnataka,576210.0,Udupi
+95.0,2020-03-18,2020-04-01,Kansai,Bangalore,717.0,Yermal Thenka,Udupi,Bangalore,-,-,Udupi
+96.0,2020-03-18,2020-04-01,Manchester,Bangalore,-,Padubidi,-,Udupi,Karnataka,-,Udupi
+97.0,2020-03-18,2020-04-01,London,Bengaluru,FLAT 105 SAI RADHA STREET,-,-,Udupi,Karnataka,576108.0,Udupi
+98.0,2020-03-18,2020-04-01,Budapest,Bangalore,121/1,Old Keb Road,-,Padubidri,Karnataka,574111.0,Udupi
+99.0,2020-03-18,2020-04-01,Budapest,Bangalore,12L/1 ,Old Keb Rd,,Padubidri,Karnataka,574111.0,Udupi
+100.0,2020-03-18,2020-04-01,Dxb,Bangalore,29161.0,Pragathi Nagar ,Moodanidamboor,Udupi,Karnataka,576101.0,Udupi
+101.0,2020-03-18,2020-04-01,Frank Furt,"Bangalore, India",Nandanam,Ananthranu 2Nd Stage 1St Cross,Manipul,Udupi,Karnataka,576104.0,Udupi
+102.0,2020-03-18,2020-04-01,"Amsetrdam, Netherlands","Mangalore, India","2-165, Uthpala",Korangrapady,-,Udupi,Karnataka,574118.0,Udupi
+103.0,2020-03-18,2020-04-01,Phoenix,Mangalore,1/426,Salian'S Garagerd,Moodugopadi,Udupi,Karnataka,576222.0,Udupi
+104.0,2020-03-18,2020-04-01,Phoenix,Mangalore,1/426,Salian'S Garagerd,Moodugopadi,Udupi,Karnataka,576222.0,Udupi
+105.0,2020-03-18,2020-04-01,Doha,Bangalore,1601- A,"Royal Embassy Tower, End Point Road",Manipal,Udupi,Karnataka,576104.0,Udupi
+106.0,2020-03-18,2020-04-01,"Kix, Osaka","Bangalore, India",15222.0,Tenkapetgudupi,Udupi,Udupi,Karnataka,576101.0,Udupi
+107.0,2020-03-18,2020-04-01,Uae,Bangalore India,294f,Kundapunur,-,Udupi,Karnataka,576201.0,Udupi
+108.0,2020-03-18,2020-04-01,Dubai,Mangalore,31107.0,,,Udupi,Karnataka,574102.0,Udupi
+109.0,2020-03-18,2020-04-01,Dubai,Mangalore,28581.0,Manipura,,Udupi,Karnataka,576120.0,Udupi
+110.0,2020-03-18,2020-04-01,Dubai,Mangalore,28581.0,Manipura Village,,Udupi,Karnataka,576120.0,Udupi
+111.0,2020-03-18,2020-04-01,Dubai,Mangalore,,,,Udupi,Karnataka,576117.0,Udupi
+112.0,2020-03-18,2020-04-01,Dubhai,Mangalore,572/A/6,Kundapura Town,,Udupi,Karnataka,576201.0,Udupi
+113.0,2020-03-18,2020-04-01,Dubhai,Mangalore,1-159,hathyoagads,Koadopur,Udupi,Karnataka,576283.0,Udupi
+114.0,2020-03-18,2020-04-01,Dubai,Mangalore,,Yedthara,Baindur,Udupi,Karnataka,576214.0,Udupi
+115.0,2020-03-18,2020-04-01,Dubai,Mangalore,,Herranji,Brahmavara,Udupi,Karnataka,,Udupi
+116.0,2020-03-18,2020-04-01,Dubai,Mangalore,13-34,,Kundapura,Udupi,Karnataka,576216.0,Udupi
+117.0,2020-03-18,2020-04-01,Dubai,Mangalore,5/122/3,jyotinagara,kukkundoor,Udupi,Karnataka,576117.0,Udupi
+118.0,2020-03-18,2020-04-01,Dubai,Mangalore,5/35A,uppunda,Kundapura,Udupi,Karnataka,576232.0,Udupi
+119.0,2020-03-18,2020-04-01,Dubai,Mangalore,Alwin house,,Udupi,Mangalore,Karnataka,576120.0,Udupi
+120.0,2020-03-18,2020-04-01,Dubai,Mangalore,#2-13,Kanajar,Karkala,Udupi,Karnataka,574102.0,Udupi
+121.0,2020-03-18,2020-04-01,Dubai,Mangalore,,,Kundapura,,Karnataka,576235.0,Udupi
+122.0,2020-03-18,2020-04-01,Dubai,Mangalore,4-123,Saswath,Pudu,Udupi,Karnataka,574106.0,Udupi
+123.0,2020-03-18,2020-04-01,Dubai,Mangalore,,,kelarkalbetta,Udupi,Karnataka,576105.0,Udupi
+124.0,2020-03-18,2020-04-01,Dubai,Manglore,Meena anma apara flat 201,,shamin nagar,udupi,karnataka,576213.0,Udupi
+125.0,2020-03-18,2020-04-01,Dubai,Manglore,3/127,,,udupi,karnataka,576233.0,Udupi
+126.0,2020-03-18,2020-04-01,Dubai,Manglore,213/1,,hotmage,udupi,karnataka,576235.0,Udupi
+127.0,2020-03-18,2020-04-01,Dubai,Manglore,38445.0,kottreshwara,dwaraka kannur road,udupi,karnataka,576222.0,Udupi
+128.0,2020-03-18,2020-04-01,Dubai,Manglore,2//54,haklady,kundapiria,udupi,karnataka,576235.0,Udupi
+129.0,2020-03-18,2020-04-01,Dubai,Manglore,3/130,,padubidri,udupi,karnataka,5741111.0,Udupi
+130.0,2020-03-18,2020-04-01,Dubai,Manglore,,,,udupi,karnataka,576214.0,Udupi
+131.0,2020-03-18,2020-04-01,UAE,Manglore,7-51H,udyauara,saneeva nagara,udupi,karnataka,574118.0,Udupi
+132.0,2020-03-18,2020-04-01,Dubai,Manglore,4//49,karkala,,udupi,karnataka,574102.0,Udupi
+133.0,2020-03-18,2020-04-01,Dubai,Manglore,1//34,innonje,,udupi,karnataka,576122.0,Udupi
+134.0,2020-03-18,2020-04-01,Dubai,Mangalore,,Temple Road Shrirur Udupi,,Udupi,Karnataka,576228.0,Udupi
+135.0,2020-03-18,2020-04-01,Dubai,Mangalore,5-48,Guru Rathna Nivas,Nadsal Village,Padubiri,Karnataka,574111.0,Udupi
+136.0,2020-03-18,2020-04-01,Dubai,Mangalore,5-48,Guru Rathna Nivas,Nadsal Village,Padubiri,Karnataka,574111.0,Udupi
+137.0,2020-03-18,2020-04-01,Dubai,Mangalore,2/32 H,Hembeman ,Kundapura,Udupi ,Karnataka,576219.0,Udupi
+138.0,2020-03-18,2020-04-01,Dubai,Mangalore,"2-142(A), 142 2 A 1",Salimakka Bijoor,Byndoor,Udupi Kundapur,Karnataka,576232.0,Udupi
+139.0,2020-03-18,2020-04-01,Dubai,Mangalore,33B,Nandanadana,byndoor,Udupi ,Karnataka,576219.0,Udupi
+140.0,2020-03-18,2020-04-01,Dubai,Mangalore,4-32 D,Nadsal,Nanunilaya,Udupi ,Karnataka,574103.0,Udupi
+141.0,2020-03-18,2020-04-01,Dubai,Mangalore,1-62-A,Ukhila,,Udupi,Karnataka,574117.0,Udupi
+142.0,2020-03-18,2020-04-01,Dubai,Mangalore,Konkanbetu house,Mulladka Grama,Karkal Taluk,Udupi,Karnataka,574121.0,Udupi
+143.0,2020-03-18,2020-04-01,Dubai,Mangalore,1-114,Parampalli,Saligrama Post,Udupi,Karnataka,576225.0,Udupi
+144.0,2020-03-18,2020-04-01,Dubai,Mangalore,19-225,Manipadi House,,Udupi,Karnataka,574115.0,Udupi
+145.0,2020-03-18,2020-04-01,Muscat,Mangalore,,Kinni/Mulki,UDUPI,UDUPI,Karnataka,576170.0,Udupi
+146.0,2020-03-18,2020-04-01,Oman,Mangalore,,Haradi,,UDUPI,Brahmawar,,Udupi
+147.0,2020-03-18,2020-04-01,Oman,Mangalore,,Haradi,,UDUPI,Brahmawar,,Udupi
+148.0,2020-03-18,2020-04-01,Oman,Mangalore,,Brahmawar,,UDUPI,Brahmawar,,Udupi
+149.0,2020-03-18,2020-04-01,Oman,Mangalore,,Haradi,,UDUPI,Brahmawar,,Udupi
+150.0,2020-03-18,2020-04-01,Abu Dhabi,Mangalore,2-221,Kaup,,UDUPI,Karnataka,574106.0,Udupi
+151.0,2020-03-18,2020-04-01,Abu Dhabi,Mangalore,8-1-11A,R.T.Road,,UDUPI,Karnataka,576102.0,Udupi
+152.0,2020-03-18,2020-04-01,Abu Dhabi,Mangalore,8-1-11A,R.T.Road,,UDUPI,Karnataka,576102.0,Udupi
+153.0,2020-03-18,2020-04-01,Abu Dhabi,Mangalore,8-1-11A,R.T.Road,,UDUPI,Karnataka,576102.0,Udupi
+154.0,2020-03-18,2020-04-01,Abu Dhabi,Mangalore,C-46,Padubelle,Belle,UDUPI,Karnataka,574116.0,Udupi
+155.0,2020-03-18,2020-04-01,Abu Dhabi,Mangalore,Gundibaran,Hejmari,,Udupi,Karnataka,574103.0,Udupi
+156.0,2020-03-18,2020-04-01,Abu dhabi,Mangalore,,,,UDUPI,Karnataka,576121.0,Udupi
+157.0,2020-03-18,2020-04-01,Muscat,Mangalore,,,,UDUPI,Karnataka,574110.0,Udupi
+158.0,2020-03-18,2020-04-01,Muscat,Mangalore,11-16-A,,,UDUPI,Karnataka,574118.0,Udupi
+159.0,2020-03-18,2020-04-01,Abu dhabi,Mangalore,,,,UDUPI,Karnataka,576101.0,Udupi
+160.0,2020-03-18,2020-04-01,Muscat,Mangalore,1-175,UDYAVARA,MELPETE,UDUPI,Karnataka,574118.0,Udupi
+161.0,2020-03-18,2020-04-01,Abu dhabi,Mangalore,,,,UDUPI,Karnataka,576121.0,Udupi
+162.0,2020-03-18,2020-04-01,Abu dhabi,Mangalore,,,,UDUPI,Karnataka,576217.0,Udupi
+163.0,2020-03-18,2020-04-01,Muscat,Mangalore,1-72C,76 Badagabettu,Udapi,Udapi,Karnataka,576102.0,Udupi
+164.0,2020-03-18,2020-04-01,Muscat,Mangalore,5-106,Koralagudde,Udapi,Udapi,Karnataka,574103.0,Udupi
+165.0,2020-03-18,2020-04-01,Muscat,Mangalore,5-106,Koralagudde,Udapi,Udapi,Karnataka,574103.0,Udupi
+166.0,2020-03-18,2020-04-01,Muscat,Mangalore,6-129AL,Manipal,,Udapi,Karnataka,576102.0,Udupi
+167.0,2020-03-18,2020-04-01,Muscat,Mangalore,,Belapu,Uchila,Udapi,Karnataka,574117.0,Udupi
+168.0,2020-03-18,2020-04-01,Muscat,Mangalore,129.0,,,Manpal,Karnataka,,Udupi
+169.0,2020-03-18,2020-04-01,Abu Dhabi,Mangalore,,Herade,,udapi,Karnataka,576210.0,Udupi
+170.0,2020-03-18,2020-04-01,Abu Dhabi,Mangalore,2-190,Mundharthi,,Udapi,Karnataka,576223.0,Udupi
+171.0,2020-03-18,2020-04-01,Abu Dhabi,Mangalore,3.119.2,Advmar,,udapi,karnataka,574131.0,Udupi
+172.0,2020-03-18,2020-04-01,Muscat,Mangalore,90/1,J.M Road,Kundapor,Udapi,Karnataka,576211.0,Udupi
+173.0,2020-03-18,2020-04-01,Oman,Mangalore,205.0,kabeteu house,Karkala,Udupi,karnataka,574104.0,Udupi
+174.0,2020-03-18,2020-04-01,Abudabhi ,IXE,Alfuda manzil,hejamodikodi,,Udupi,karnataka,574103.0,Udupi
+175.0,2020-03-18,2020-04-01,Muacat,Mangalore,1-72 C mariyambecompound,76badagabettu,,Udupi,karnataka,576102.0,Udupi
+176.0,2020-03-18,2020-04-01,Abudabhi ,Mangalore,10-32f,narayan nagar shivalli,,Udupi,karnataka,576105.0,Udupi
+177.0,2020-03-18,2020-04-01,Abudabhi ,Mangalore,204.0,Eshwar Nagar,,Udupi,karnataka,576104.0,Udupi
+178.0,2020-03-18,2020-04-01,Abudabhi ,Mangalore,3.310.cA3(T),Vaddares,,Udupi,karnataka,576231.0,Udupi
+179.0,2020-03-18,2020-04-01,Dubai,Mangaluru,Hassain Mane,Karkala,,Udupi,Karnataka,574104.0,Udupi
+180.0,2020-03-18,2020-04-01,Dubai,Mangaluru,Umer Manzil,Mohella Shiroor,,Udupi,Karnataka,576228.0,Udupi
+181.0,2020-03-18,2020-04-01,Dubai,Mangaluru,Jeddah,Shiruru,Kundapura ,Udupi,Karnataka,576228.0,Udupi
+182.0,2020-03-18,2020-04-01,Dubai,Mangaluru,Cris Dwell House ,Mudarangadi,Pillarpost,Udupi,Karnataka,574113.0,Udupi
+183.0,2020-03-18,2020-04-01,Dubai,Mangaluru,"903,A Wing Shambahvi, soverign ",Vidyaratna Nagar,Manipal,Udupi,Karnataka,576104.0,Udupi
+184.0,2020-03-18,2020-04-01,Dubai,Mangaluru,602.0,Taluk Office ,Udupi ,Udupi,Karnataka,576101.0,Udupi
+185.0,2020-03-18,2020-04-01,Dubai,Mangaluru,Kemangundi ,Karkala ,,Udupi,Karnataka,574104.0,Udupi
+186.0,2020-03-18,2020-04-01,Dubai,Mangaluru,21033.0,Hejmadi,Hejmadi,Udupi,Karnataka,574103.0,Udupi
+187.0,2020-03-18,2020-04-01,Dubai,Mangaluru,Sithalaxmi,Ganeshbagh,Manipal,Udupi,Karnataka,576104.0,Udupi
+188.0,2020-03-18,2020-04-01,Dubai,Mangaluru,Palumakki,Hosuru,Kela Hosuru,Udupi,Karnataka,576220.0,Udupi
+189.0,2020-03-18,2020-04-01,Dubai,Mangaluru,12/109,Sulthan Moholla,"Gangolli, Kundapura ",Udupi,Karnataka,576216.0,Udupi
+190.0,2020-03-18,2020-04-01,Dubai,Mangaluru,13210.0,Ajamer,Udupi ,Udupi,Karnataka,574119.0,Udupi
+191.0,2020-03-18,2020-04-01,Dubai,Mangaluru,349/14 Vishwambara,"14th Cross, Jellar Road",,Udupi,Karnataka,574104.0,Udupi
+192.0,2020-03-18,2020-04-01,Dubai,Mangalore,# 2-349/14,Vishwa Ambiga House,14th cross Tellar Road,karkala Udupi,Karnataka,574104.0,Udupi
+193.0,2020-03-18,2020-04-01,Dubai,Mangalore,1.0,Belappa,Uchila,Udupi,Karnataka,574117.0,Udupi
+194.0,2020-03-18,2020-04-01,Dubai,Mangalore,5-48,Gururnathna Nivas,Nadsal Village,Udupi,Karnataka,574111.0,Udupi
+195.0,2020-03-18,2020-04-01,Dubai,Mangalore,4-135,Amin Villas,Eshwar Nagar,Thenkanidiyoor Udupi,Karnataka,576106.0,Udupi
+196.0,2020-03-18,2020-04-01,Dubai,Mangalore,Hemmadi Manne,Naikanakatte,Byndoor,Udupi,Karnataka,576219.0,Udupi
+197.0,2020-03-18,2020-04-01,Dubai,Mangalore,Saranya Nivas,Bleman,Karkula,Udupi,Karnataka,,Udupi
+198.0,2020-03-18,2020-04-01,Dubai,Mangalore,Brundavana house,kukundar,Karkula,Udupi,Karnataka,574114.0,Udupi
+199.0,2020-03-18,2020-04-01,Dubai,Mangalore,1-338,"West coast Chemical behind Road, hethoor",bramavar,udupi,Karnataka,576213.0,Udupi
+200.0,2020-03-18,2020-04-01,Dubai,Mangalore,1-338,"West coast Chemical behind Road, hethoor",bramavar,udupi,Karnataka,576213.0,Udupi
+201.0,2020-03-18,2020-04-01,Dubai,Mangalore,1-264,Heroor Village,,udupi,Karnataka,576213.0,Udupi
+202.0,2020-03-18,2020-04-01,Dubai,Mangalore,H No -1-6-130,Kanchinadka,Padubidri,Udupi,Karnataka,57411.0,Udupi
+203.0,2020-03-18,2020-04-01,Dubai,Mangalore,H No -1-6-130,Kanchinadka,Padubidri,Udupi,Karnataka,57411.0,Udupi
+204.0,2020-03-17,2020-03-31,"Schipol, Amsterdam,Netherlands","Bangalore,India",139/11,K.K Road,Kundapura,Udupi,Karnataka,576201.0,Udupi
+205.0,2020-03-17,2020-03-31,Dubai ,Mangalore,3/25,Santosh Nagar,-,Udupi,Karnataka,576230.0,Udupi
+206.0,2020-03-17,2020-03-31,Dubai ,Mangalore,3/25,Santosh Nagar,-,Udupi,Karnataka,576230.0,Udupi
+207.0,2020-03-17,2020-03-31,Dubai ,Mangalore,5/101,Nakre Post,Karkala,Udupi,Karnataka,576117.0,Udupi
+208.0,2020-03-17,2020-03-31,Dubai ,Mangalore,10/138,Gangolli,-,Udupi,Karnataka,576216.0,Udupi
+209.0,2020-03-17,2020-03-31,Dubai ,Mangalore,10/138,Gangolli,-,Udupi,Karnataka,576216.0,Udupi
+210.0,2020-03-17,2020-03-31,Dubai ,Mangalore,Noronha Villa,Nitte ,-,Udupi,Karnataka,576117.0,Udupi
+211.0,2020-03-17,2020-03-31,Dubai ,Mangalore,6/11b,Hiriyadka,Udupi,Udupi,Karnataka,576113.0,Udupi
+212.0,2020-03-17,2020-03-31,Dubai ,Mangalore,6/1f,Yellur,Kemundel,Kaup,Karnataka,574119.0,Udupi
+213.0,2020-03-17,2020-03-31,Dubai ,Mangalore,2/35,Katpady,-,Udupi,Karnataka,574104.0,Udupi
+214.0,2020-03-17,2020-03-31,Dubai ,Mangalore,3/36,Katpadi,Katpadi,Udupi,Karnataka,574104.0,Udupi
+215.0,2020-03-17,2020-03-31,Dubai ,Mangalore,5/96B,Mathu Patna,Hejamady,Udupi,Karnataka,574013.0,Udupi
+216.0,2020-03-17,2020-03-31,Dubai ,Mangalore,1/64,Pragathi Nagar,Alvoor Road,Udupi,Karnataka,576107.0,Udupi
+217.0,2020-03-17,2020-03-31,Dubai,Managlore,Neley koppagalreddy,-,-,Udipi,Karnataka,574106.0,Udupi
+218.0,2020-03-17,2020-03-31,Dubai,Managlore,Saad Compound,"Bandimati,Karakala",-,Udipi,Karnataka,574104.0,Udupi
+219.0,2020-03-17,2020-03-31,Dubai,Managlore,HassanManzil,Shiroor,Kundapure,Udipi,Karnataka,576228.0,Udupi
+220.0,2020-03-17,2020-03-31,Dubai,Managlore,"4-55,Shanti nagar",Bailoor,"76,Badegubettu",Udipi,Karnataka,576101.0,Udupi
+221.0,2020-03-17,2020-03-31,Dubai,Mangalore,289.0,-,-,Udupi,Karnataka,574110.0,Udupi
+222.0,2020-03-17,2020-03-31,Dubai,Mangalore,289.0,-,-,Udupi,Karnataka,574110.0,Udupi
+223.0,2020-03-17,2020-03-31,Dxb,Mangalore,-,Shiruru,Kundapur,Udupi,Karnataka,257668.0,Udupi
+224.0,2020-03-17,2020-03-31,Dubai,Mangalore,-,-,-,Udupi,Karnataka,576101.0,Udupi
+225.0,2020-03-17,2020-03-31,Dxb,Mangalore,2.11,Gemgolli,Kundapur,Udupi,Karnataka,576216.0,Udupi
+226.0,2020-03-17,2020-03-31,Dubai,Mangalore,-,Pajai Ambadepadi House,-,-,Karnataka,574105.0,Udupi
+227.0,2020-03-17,2020-03-31,Dxb,Mangalore,-,-,-,Udupi,Karnataka,-,Udupi
+228.0,2020-03-17,2020-03-31,Dubai,Mangalore,2  66,Gangolli,-,Udupi,Karnataka,576216.0,Udupi
+229.0,2020-03-17,2020-03-31,-,Mangalore,677A,Nadikuduru,-,Udupi,Karnataka,574103.0,Udupi
+230.0,2020-03-17,2020-03-31,Dxb,Mangalore,522/1,-,-,Udupi,Karnataka,574119.0,Udupi
+231.0,2020-03-17,2020-03-31,Dubai,Mangalore,h.no 2-26B,Bokari Colony Shirur,Byndoor,Udupi,Karnataka,576228.0,Udupi
+232.0,2020-03-17,2020-03-31,Dubai,Mangalore,h.no 2-26B,Bokari Colony Shirur,Byndoor,Udupi,Karnataka,576228.0,Udupi
+233.0,2020-03-17,2020-03-31,Dubai,Mangalore,h.no 2-26B,Bokari Colony Shirur,Byndoor,Udupi,Karnataka,576228.0,Udupi
+234.0,2020-03-17,2020-03-31,Dubai,Mangalore,h.no 2-26B,Bokari Colony Shirur,Byndoor,Udupi,Karnataka,576228.0,Udupi
+235.0,2020-03-17,2020-03-31,Dubai,Mangalore,36251.0,Dentidoor Katte,Dentidoor Katte,Udupi,Karnataka,576120.0,Udupi
+236.0,2020-03-17,2020-03-31,Dubai,Mangalore,-,Ayisah Manzil,Karakala,Udupi,Karnataka,574114.0,Udupi
+237.0,2020-03-17,2020-03-31,Dubai,Mangalore,37280.0,Ayisah Manzil,Karakala,Udupi,Karnataka,574114.0,Udupi
+238.0,2020-03-17,2020-03-31,Doha,Bangalore,DEANAVILLA,Almas Villa,Brahmagiri,Udupi,Karnataka,576101.0,Udupi
+239.0,2020-03-17,2020-03-31,Iraq,Manglore,SANTHEKALTE FLAT NO.202,Gopalpura 1St Cross,-,Udupi,Karnataka,576105.0,Udupi
+240.0,2020-03-17,2020-03-31,Doha,Bangalore,-,-,-,Udupi,Karnataka,574104.0,Udupi
+241.0,2020-03-17,2020-03-31,Doha,Bangalore,-,-,-,Udupi,Karnataka,574104.0,Udupi
+242.0,2020-03-17,2020-03-31,Doha,Bangalore,AMARDEEP ,Ambraroad ,Ambalady ,Udupi,Karnataka,576103.0,Udupi
+243.0,2020-03-17,2020-03-31,Qatar ,Bangalore,192.0,Kodi Beeh,-,Udupi,Karnataka,576222.0,Udupi
+244.0,2020-03-17,2020-03-31,Bog,Bengalure,3-76(A),4 Epga Moodu House,-,Udups,Karanataka,576107.0,Udupi
+245.0,2020-03-17,2020-03-31,Bog,Bengalure,3-76(A),4 Epga Moodu House,-,Udups,Karanataka,576107.0,Udupi
+246.0,2020-03-17,2020-03-31,London ,Bangalore,#2-82(J)1,Chitpadi,Kasturiwad,Udupi,Karnataka,576101.0,Udupi
+247.0,2020-03-17,2020-03-31,London ,Bangalore,#2-82(J)1,Chitpadi,Kasturiwad,Udupi,Karnataka,576101.0,Udupi
+248.0,2020-03-17,2020-03-31,Boston,Bangalore,8-1-11B,R.T. Marg,Kunji Belta,Udupi,Karnataka,576102.0,Udupi
+249.0,2020-03-17,2020-03-31,Bahrain,Bangalore,1-146E,Kadoor,Brahmavar,Udupi,Karnataka,576234.0,Udupi
+250.0,2020-03-17,2020-03-31,-,Bangalore,"ROOM NO 208,#FLORE",Main Road Kundapur,-,Udupi,Karnataka,-,Udupi
+251.0,2020-03-17,2020-03-31,Dxb,Bangalore,1-250,Varamballi,-,Udupi,-,576213.0,Udupi
+252.0,2020-03-17,2020-03-31,Dubai,Bangalore,3-1114,Mallar Laup,-,Udupi,Karnataka,574106.0,Udupi
+253.0,2020-03-17,2020-03-31,Abu Dhabi,Bangalore,PANCHA SANKETWAI,Kelarkalabetto,Udupi,Udupi,Karnataka,576105.0,Udupi
+254.0,2020-03-17,2020-03-31,Amsterdam,Bengaluru,GURURAKSHA,"Joduraste, Kukkundoor",-,"Karkala, Udupi District",Karnataka ,576117.0,Udupi
+255.0,2020-03-17,2020-03-31,Aberdeen ,Banglore ,3-32A-1B,Ananda Rao Road 2Nd Cross Ambalpadi,-,Udupi,Karanatka,576103.0,Udupi
+256.0,2020-03-17,2020-03-31,Aberdeen ,Mangalore,4-159 D ANARGHYA,8Th Cross 3Rd Main Road,Indrali,Udupi,Karanatka,576102.0,Udupi
+257.0,2020-03-17,2020-03-31,Dubhai,Mangalore,,Kaup,Koup,Udupi,Karnataka,574106.0,Udupi
+258.0,2020-03-17,2020-03-31,Dubhai,Mangalore,,"Budimoti, Karkala",,Udupi,Karnataka,574104.0,Udupi
+259.0,2020-03-17,2020-03-31,Dubhai,Mangalore,Hassan Manzil,Shiroor,Kundapure,Udupi,Karnataka,576228.0,Udupi
+260.0,2020-03-17,2020-03-31,Dubhai,Mangalore,"4-55,Shanti Nagar",Batlook,"76, Badegubettu",Udupi,Karnataka,576101.0,Udupi
+261.0,2020-03-17,2020-03-31, YB TOIYE,Mangalore,2.11,Gengolu,Kundapur,Udupi,Karnataka,576216.0,Udupi
+262.0,2020-03-17,2020-03-31,Dubai,Mangalore,Gerdi menr,Ahashina kotla village,udupi taluk,udupi S.K,Karnataka,,Udupi
+263.0,2020-03-17,2020-03-31,Dubai,Mangalore,2/6b,Gangolli,,Udupi,Karnataka,576216.0,Udupi
+264.0,2020-03-17,2020-03-31,Dubai,Mangalore,3-25(49),Santhoshnagara,,udupi,Karnataka,576230.0,Udupi
+265.0,2020-03-17,2020-03-31,Dubai,Mangalore,3-25(49),Santhoshnagara,,udpui,Karnataka,576230.0,Udupi
+266.0,2020-03-17,2020-03-31,Dubai,Mangalore,5/101,nurare post kukkundoor,udupi taluk,karntaka,Karnataka,576117.0,Udupi
+267.0,2020-03-17,2020-03-31,Dubai,Mangalore,nororiha village,notta village,,udupi,Karnataka,576117.0,Udupi
+268.0,2020-03-17,2020-03-31,Dubai,Mangalore,6-116 (b),Bommarbetty Hiriyadlsa posr,Udupi,Udupi,karnataka,576113.0,Udupi
+269.0,2020-03-17,2020-03-31,Dubai,Mangalore,6-1F,Yellar,Kemvendel,Kaup,karnataka,574119.0,Udupi
+270.0,2020-03-17,2020-03-31,Dubai,Mangalore,2- 35,,,Udupi,karnataka,574104.0,Udupi
+271.0,2020-03-17,2020-03-31,Dubai,Mangalore,5-96b,,,Udupi,karnataka,574013.0,Udupi
+272.0,2020-03-17,2020-03-31,Dubai,Mangalore,115.0,,,Udupi,karnataka,576219.0,Udupi
+273.0,2020-03-17,2020-03-31,Dubai,Managalore,2-26B,"Bukhari Colony, Shirur",Byndoor,Udupi,Karnantaka,576228.0,Udupi
+274.0,2020-03-17,2020-03-31,Dubai,Managalore,2-26B,"Bukhari Colony, Shirur",Byndoor,Udupi,Karnantaka,576228.0,Udupi
+275.0,2020-03-17,2020-03-31,Dubai,Managalore,2-26B,"Bukhari Colony, Shirur",Byndoor,Udupi,Karnantaka,576228.0,Udupi
+276.0,2020-03-17,2020-03-31,Dubai,Managalore,2-26B,"Bukhari Colony, Shirur",Byndoor,Udupi,Karnantaka,576228.0,Udupi
+277.0,2020-03-17,2020-03-31,Dubai,Managalore,#4-99,Dentidoor Katti,Maripura,Udupi,Karnantaka,576120.0,Udupi
+278.0,2020-03-17,2020-03-31,Dubai,Managalore,1/124/2,Karkala,,Udupi,Karnantaka,574114.0,Udupi
+279.0,2020-03-17,2020-03-31,Dubai,Managalore,1/124/2,Karkala,,Udupi,Karnantaka,574114.0,Udupi
+280.0,2020-03-17,2020-03-31,Dubai,Mangaluru,22/1,Trenka Yarmel,,Udupi,Karnataka,574119.0,Udupi
+281.0,2020-03-17,2020-03-31,Dubai,Mangaluru,6-77A guru kripa ,Nadi kuduru,Hejamadi,Udupi,Karnataka,574103.0,Udupi
+282.0,2020-03-17,2020-03-31,Dubai,Mangaluru,147/11,Sri Kuttira Gangolli,,Udupi,Karnataka,576216.0,Udupi
+283.0,2020-03-17,2020-03-31,Dubai,Mangaluru,Rozy Hithlu,Shirva,Shirva,Udupi,Karnataka,574116.0,Udupi
+284.0,2020-03-17,2020-03-31,Dubai,Mangaluru,2B 31 A2,2nd cross,Indira Nagar,Udupi,Karnataka,576101.0,Udupi
+285.0,2020-03-17,2020-03-31,Dubai,Mangaluru,129.0,Jnana,Innu,Udupi,Karnataka,576121.0,Udupi
+286.0,2020-03-17,2020-03-31,UAE,Mangaluru,2B-217A4,Indira Nagar,Kukkikatte,Udupi,Karnataka,576101.0,Udupi
+287.0,2020-03-17,2020-03-31,Dubai ,Mangaluru,kaveri,,Kundapura ,Udupi,Karnataka,576201.0,Udupi
+288.0,2020-03-17,2020-03-31,Dubai,Mangaluru,2-208,"Ardi Post, Albadi",Kudapura,Udupi,Karnataka,576212.0,Udupi
+289.0,2020-03-17,2020-03-31,Dubai,Mangalore,,RR 78323,,Udupi,Karnataka,574122.0,Udupi
+290.0,2020-03-16,2020-03-30,Uae Dubai,Mangalore,102.0,Santhekatte,,Udupi,Karnataka,576105.0,Udupi
+291.0,2020-03-16,2020-03-30,Mangalore,Dubai,Near Jettika Temple,Gangolli,Kundapura,Udupi District,Karnataka,576216.0,Udupi
+292.0,2020-03-16,2020-03-30,Dubai,Mangalore,1303 Royal,Kumbassy,Manipal,Udupi,Karnataka,,Udupi
+293.0,2020-03-16,2020-03-30,Dubai,Mangalore,,Kambaddakare,Kumbraourre,Udupi,Karnataka,576219.0,Udupi
+294.0,2020-03-16,2020-03-30,15-03-2020,Dubai Uae,,Biyoor Karnataka,Biyoor,Udupi,Karnataka,576244.0,Udupi
+295.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Uppoor,-,Udupi,Karnataka,576142.0,Udupi
+296.0,2020-03-16,2020-03-30,"Dubai, Uae",Mangalore,Kasturba Medical College,Manipal,Udupi,Udupi,Karnataka,576104.0,Udupi
+297.0,2020-03-16,2020-03-30,Dxb,Ixe,# D-2-202,Devalkunda,Kundapur,Udupi,Karnataka,576230.0,Udupi
+298.0,2020-03-16,2020-03-30,Dubai,Mangalore,217/4,"Duggabettu, Pupkeri, Bypass, Karnataka",-,"Udupi,Karnataka",Karnataka,574104.0,Udupi
+299.0,2020-03-16,2020-03-30,Dxb,Ixe,119E,Tallur,-,Kundapura,Karnataka,576230.0,Udupi
+300.0,2020-03-16,2020-03-30,Dubai,Mangalore,1303 Royal,Furbassy,Manipal,Udupi,Karnataka,-,Udupi
+301.0,2020-03-16,2020-03-30,Dubai,Mangalore,3-9Kokila Garden,Ajekar Karkala,Karkala,Udupi,Karnataka,574101.0,Udupi
+302.0,2020-03-16,2020-03-30,Dubai,Mangalore,3-9Kokila Garden,-,Ajekar Karkala,Udupi,Karnataka,574101.0,Udupi
+303.0,2020-03-16,2020-03-30,Dubai,Mangalore,Opp Irmizi,Shirva Main Road,Udupi,Udupi,Karnataka,574116.0,Udupi
+304.0,2020-03-16,2020-03-30,Dubai,Mangalore,Opp Irmizi,Shirva Main Road,-,Udupi,Karnataka,574116.0,Udupi
+305.0,2020-03-16,2020-03-30,Dubai,Mangalore,Bergoli House,Belman Post,Karnataka,Udupi,Karnataka,576111.0,Udupi
+306.0,2020-03-16,2020-03-30,Dubai,Mangalore,12-16-D,Hoode,-,Udupi,Karnataka,576115.0,Udupi
+307.0,2020-03-16,2020-03-30,Dubai,Mangalore,26146.0,Udyavara,-,Udupi,Karnataka,574118.0,Udupi
+308.0,2020-03-16,2020-03-30,Dubai,Mangalore,4-124,Shirva Main Road,-,Udupi,Karnataka,574116.0,Udupi
+309.0,2020-03-16,2020-03-30,Dubai,Mangalore,12/16/D,Hoode,-,Udupi,Karnataka,576115.0,Udupi
+310.0,2020-03-16,2020-03-30,Dubai,Mangalore,Ankudru,-,-,Udyavara ,Karnataka,574118.0,Udupi
+311.0,2020-03-16,2020-03-30,Dubai,Mangalore,Nithyananda nilaya,Hosmar,Karkala,Udupi,Karnataka,574107.0,Udupi
+312.0,2020-03-16,2020-03-30,Dubai,Mangalore,12/16/D,Hoode,-,Udupi,Karnataka,576115.0,Udupi
+313.0,2020-03-16,2020-03-30,Abhudhabi,Mangalore,6/32 A,"Nadsal, Padubidri",Near Brahmavar,Udupi,Karnataka,574111.0,Udupi
+314.0,2020-03-16,2020-03-30,Dubai,Mangalore,Sriganesh ,Polipupadu,Udupi,Udupi,Karnataka,574106.0,Udupi
+315.0,2020-03-16,2020-03-30,Dubai,Mangalore,10-1-4-3306,Udupi,-,Udupi,Karnataka,576101.0,Udupi
+316.0,2020-03-16,2020-03-30,Dubai,Mangalore,5-44-6,M M Temple Colony ,-,Bailoor Udupi,Karnataka,576101.0,Udupi
+317.0,2020-03-16,2020-03-30,Dubai,Mangalore,5-44-6,M M Temple Colony ,-,Bailoor Udupi,Karnataka,576101.0,Udupi
+318.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,5-44-6,M M Temple Colony ,Bailoor Udupi,Karnataka,576101.0,Udupi
+319.0,2020-03-16,2020-03-30,Dubai,Mangalore,55-44-6,Bailor Udupi,-,Udupi Bailor,Karnataka,576101.0,Udupi
+320.0,2020-03-16,2020-03-30,Dubai,Mangalore,1-171,Belve,-,Udupi/Kundapura,Karnataka,576212.0,Udupi
+321.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Shirva,-,Udupi,Karnataka,514116.0,Udupi
+322.0,2020-03-16,2020-03-30,Dubai,Mangalore,2-73 Amdade Bakyar,H1 Shiroor,-,Udupi,Karnataka,576124.0,Udupi
+323.0,2020-03-16,2020-03-30,Dubai,Mangalore,5-44-6,M M Temple Colony ,-,Bailoor Udupi,Karnataka,576101.0,Udupi
+324.0,2020-03-16,2020-03-30,Dubai,Mangalore,3-119,Mallar,Kapu,Udupi,Karnataka,574106.0,Udupi
+325.0,2020-03-16,2020-03-30,Dubai,Mangalore,12-3-456,Flat No.2 Shoaz Appi,Moodanid Amboor,Udupi,Karnataka,576101.0,Udupi
+326.0,2020-03-16,2020-03-30,Dubai,Manglore,522A1,Hbjamadi,Bengre Bunder,Udupi,Karnataka,574103.0,Udupi
+327.0,2020-03-16,2020-03-30,Muscat,Manglore,-,Varambally Village,-,Udupi,Karnataka,576213.0,Udupi
+328.0,2020-03-16,2020-03-30,-,-,-,Narvi Karnataka,-,Udupi,Karnataka,576213.0,Udupi
+329.0,2020-03-16,2020-03-30,Manglore,Udupi,3-78A,Kidiyoor,Udupi,Udupi,Karnataka,576101.0,Udupi
+330.0,2020-03-16,2020-03-30,Muscat,Manglore,202.0,Brahmavar,Prathvi Residency,Udupi,Karnataka,576218.0,Udupi
+331.0,2020-03-16,2020-03-30,Muscat,Manglore,202.0,Brahmavar,Prathvi Residency,Udupi,Karnataka,576218.0,Udupi
+332.0,2020-03-16,2020-03-30,Abudhabi,Manglore,3-118,Palimar,Palimar,Udupi,Karnataka,574112.0,Udupi
+333.0,2020-03-16,2020-03-30,Muscat,Manglore,macledo villa,Marakad/Kanajov,Via.Baileeve,Udupi,Karnataka,-,Udupi
+334.0,2020-03-16,2020-03-30,Muscat,Manglore,7-136 b3-1,Kodankoor Puttur,-,Udupi/Santekatte,Karnataka,576105.0,Udupi
+335.0,2020-03-16,2020-03-30,Oman,Manglore,215(2),Hiriyangadi,Karkala,Udupi,Karnataka,574104.0,Udupi
+336.0,2020-03-16,2020-03-30,Abudhabi,Manglore,681F3,Herga,Udupi,Udupi,Karnataka,576123.0,Udupi
+337.0,2020-03-16,2020-03-30,Muscat,Manglore,9964000063.0,Kaup,Udupi,Udupi,Karnataka,574106.0,Udupi
+338.0,2020-03-16,2020-03-30,Abudhabi,Mangalore,4-511,Laxminagar,Kavoor,Udupi,Karnataka,576106.0,Udupi
+339.0,2020-03-16,2020-03-30,Abudhabi,Mangalore,5 83D,76 B Bailoor,Bmm School,Udupi,Karnataka,576101.0,Udupi
+340.0,2020-03-16,2020-03-30,Mct,Mangalore,-,Koteshwar,Koteshwar,Udupi,Karnataka,-,Udupi
+341.0,2020-03-16,2020-03-30,Muscat,Mangalore,-,Kurkalu Village,Kapu,Udupi,Karnataka,-,Udupi
+342.0,2020-03-16,2020-03-30,Oman,India,-,Katapadi,-,Udupi,Karnataka,574105.0,Udupi
+343.0,2020-03-16,2020-03-30,Muscat,Mangalore,9-95(4),Niwjoor Road,Shirva,Udupi,Karnataka,574116.0,Udupi
+344.0,2020-03-16,2020-03-30,Mct,Ixe,-,Mooduthonse,-,Udupi,Karnataka,5762013.0,Udupi
+345.0,2020-03-16,2020-03-30,Muscat,Mangalore,3-53,Keremane,Padubidri,Udupi,Karnataka,574111.0,Udupi
+346.0,2020-03-16,2020-03-30,Muscat,Mangalore,5-4-30A,Mission Cmpound,Udupi,Udupi,Karnataka,576101.0,Udupi
+347.0,2020-03-16,2020-03-30,Mct,Ixe,3- 114,Mountview,Kuttar Post,Udupi,Karnataka,574116.0,Udupi
+348.0,2020-03-16,2020-03-30,Abudhabi,Mangalore,97 Cica,Peroduro Padigara,-,Udupi Peroduro,Karnataka,576124.0,Udupi
+349.0,2020-03-16,2020-03-30,Muscat,Mangalore,1-37/13,Herga,-,Udupi,Karnataka,576107.0,Udupi
+350.0,2020-03-16,2020-03-30,Mct,Ixe,13- 55,Udyavara,-,Udupi,Karnataka,574118.0,Udupi
+351.0,2020-03-16,2020-03-30,Oman,Mangalore,1-110 A,Udyavara,-,Udupi,Karnataka,574118.0,Udupi
+352.0,2020-03-16,2020-03-30,Abudhabi,Mangalore,5.83D,76B Baindoor,Bmm School Rd,Udupi,Karnataka,576101.0,Udupi
+353.0,2020-03-16,2020-03-30,Abudhabi,Mangalore,3-136/8,Fisheris Office Road,Karkala,Udupi,Karnataka,574104.0,Udupi
+354.0,2020-03-16,2020-03-30,Oman,Mangalore,3-147 B,Santhekatte,Udupi,Udupi,Karnataka,576105.0,Udupi
+355.0,2020-03-16,2020-03-30,Muscat,Ixe,2-56/1,Hole Badi,Kavadi,Udupi,Karnataka,576210.0,Udupi
+356.0,2020-03-16,2020-03-30,Oman,Mangalore,236,Shiruru,Byndoor,"Shiruru, Udupi",Karnataka,576228.0,Udupi
+357.0,2020-03-16,2020-03-30,Muscat,Mangalore,VII-379,Kodi-Kundapura,Kundapura,Udupi,Karnataka,576254.0,Udupi
+358.0,2020-03-16,2020-03-30,Muscat,Mangalore,1-81,Karkala,,Udupi,Karnataka,574104.0,Udupi
+359.0,2020-03-16,2020-03-30,Muscat,Mangalore,Hieiyana,,,Udupi,Karnataka,576212.0,Udupi
+360.0,2020-03-16,2020-03-30,Muscat,Mangalore,10-4A,Hadavihakone Shiroor,Byndoor,Udupi,Karnataka,576228.0,Udupi
+361.0,2020-03-16,2020-03-30,Muscat,Mangalore,1-62,Kolambe/Puttur,,Udupi/Udupi,Karnataka,576105.0,Udupi
+362.0,2020-03-16,2020-03-30,Abudhabi,Mangalore,2-98,Kirimanjeshwar,,Udupi,Karnataka,576253.0,Udupi
+363.0,2020-03-16,2020-03-30,Muscat,Mangalore,1X816,Udupi,,Udupi,Karnataka,574111.0,Udupi
+364.0,2020-03-16,2020-03-30,Muscat,Mangalore,1-112,Parampahalli,Saligrama,Udupi,Karnataka,576225.0,Udupi
+365.0,2020-03-16,2020-03-30,Muscat,Mangalore,"3-65, Kalpandu House",Kannangar,Padubidri,Udupi,Karnataka,574111.0,Udupi
+366.0,2020-03-16,2020-03-30,Muscat,Mangalore,Bright House,North Southern Road,Hejamadi Udupi,Udupi,Karnataka,574103.0,Udupi
+367.0,2020-03-16,2020-03-30,Muscat,Mangalore,Bright House,North Southern Road,Udupi-Padubidre,Udupi,Karnataka,574103.0,Udupi
+368.0,2020-03-16,2020-03-30,Muscat,Mangalore,Bright House,North Southern Road,Hejamadi Udupi,Udupi,Karnataka,574111.0,Udupi
+369.0,2020-03-16,2020-03-30,Oman,Mangalore,Kottam Form near,Gandhi Talkies,Padubidri,South Kanere,Karnataka,574111.0,Udupi
+370.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,13-A,Mattar Shirva,Udupi/Kaup,Udupi,Karnataka,574116,Udupi
+371.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,2-203,Koyajur Road Gulwady,,Udupi/Kundapur,Karnataka,576283,Udupi
+372.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,1-136--2,Moodugopady,Kundapura,Udupi,Karnataka,576222,Udupi
+373.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,Solitaire Apt,B Wing 10Th Floor Near Old Dc Offc 1003,Bannanje,Udupi,Karnataka,,Udupi
+374.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,3-123,Renjoor,,Udupi,Karnataka,576234,Udupi
+375.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,Janatha Colony,Moodu Gopadi,,"Koteshwar,Udupi,Kundapura",Karnataka,576222,Udupi
+376.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,4-116A,Hangloore,Kundapura,Udupi,Karnataka,576217,Udupi
+377.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,Kangarkatt.P.O,Udupi,Udupi,Udupi-Padubidri,Karnataka,574111,Udupi
+378.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,1-172,Yedthady,Vasanth Nilaya,Udupi,Karnataka,576210,Udupi
+379.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,3-121/26,Dendur Katte,Moodubelle,Udupi,Karnataka,576120,Udupi
+380.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,,Sashihitlu,Navaunda,Kundapura,Karnataka,576224,Udupi
+381.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,807 G.S J Royalik,Santhekatte,Udupi,Udupi,Karnataka,,Udupi
+382.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,8-90A,Kadekar Village,,Udupi,Karnataka,576104,Udupi
+383.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,2/17A,Handadi Padurane,Brahrravar,Udupi,Karnataka,576213,Udupi
+384.0,2020-03-16,2020-03-30,Bahrain ,Mangalore,8-117A,Kadekar,,Udupi,Karnataka,576103,Udupi
+385.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Gangolli,-,Udupi,Karnataka,576216.0,Udupi
+386.0,2020-03-16,2020-03-30,Dubai,Mangalore,5/3-2,Karkala,Hhirgana,Udupi,Karnataka,576117.0,Udupi
+387.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Sumsi Kudrigi,Honavar,Udupi,Karnataka,581395.0,Udupi
+388.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Merdi,Basrur,Udupi,Karnataka,576211.0,Udupi
+389.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Trasi Post,Kundapura,Udupi,Karnataka,576230.0,Udupi
+390.0,2020-03-16,2020-03-30,Dubai,Mangalore,Manjunatha Nilaya,Hebri,Kananyanr,Hebri,Karnataka,576112.0,Udupi
+391.0,2020-03-16,2020-03-30,Dubai,Mangalore,100 B,Guard  Compound Chikkansal Road,Kundapura,Udupi,Karnataka,576201.0,Udupi
+392.0,2020-03-16,2020-03-30,Dubai/T-1,Mangalore,879/2,Yedthare,Byndoor,Udupi,Karnataka,8254.0,Udupi
+393.0,2020-03-16,2020-03-30,Dubai,India Mangalore,4-43,Kowdoor,Karkala,Udupi,Karnataka,574102.0,Udupi
+394.0,2020-03-16,2020-03-30,Dubai,Mangalore,4-45/1 ,Kapu,Polipu Gudde,Udupi,Karnataka,574106.0,Udupi
+395.0,2020-03-16,2020-03-30,Dubai,Mangalore,305 Kirthi Sagar,End Point Road,-,Udupi,Karnataka,576104.0,Udupi
+396.0,2020-03-16,2020-03-30,Dubai,Mangalore,304,Padur,Udupi,Udupi,Karnataka,574118.0,Udupi
+397.0,2020-03-16,2020-03-30,Dxb,Mangalore,2-104AB,Malpe Creoss Road,Puttur,Udupi,Karnataka,576105.0,Udupi
+398.0,2020-03-16,2020-03-30,Dubai,Mangalore,4-16C,"Kolambe,Bailoor",-,Udupi,Karnataka,576101.0,Udupi
+399.0,2020-03-16,2020-03-30,Dubai,Mangalore,21582.0,Ulthoor,Kundapura,Udupi,Karnataka,576231.0,Udupi
+400.0,2020-03-16,2020-03-30,Dubai,Mangalore,6-138,Khan House Near Kabettu School,Karkala Udupi,Karkala,Karnataka,574104.0,Udupi
+401.0,2020-03-16,2020-03-30,Dubai,Managlore,2-176,"Udidpi,Kundapur",Harikady,Kundapur,Karnataka,576212.0,Udupi
+402.0,2020-03-16,2020-03-30,Dubai,Managlore,-,714.Dendoor,Manipura,Udipi,Karnataka,576120.0,Udupi
+403.0,2020-03-16,2020-03-30,Dubai,Managlore,4-681,Dendoor,Manipura,Udipi,Karnataka,576120.0,Udupi
+404.0,2020-03-16,2020-03-30,Dubai,Mangalore,2-9Z-A1,Pudubidri,-,Udupi,Karnataka,574111.0,Udupi
+405.0,2020-03-16,2020-03-30,Dubai,Mangalore,berugadi house,Honnala Haradi,Udupi,Udupi,Karnataka,-,Udupi
+406.0,2020-03-16,2020-03-30,Dxb,Dxe,Angel villa,Hb4A,,Udupi,Karnataka,576105.0,Udupi
+407.0,2020-03-16,2020-03-30,Dxb,Ixe,Angel villa,Hb 48,,Udupi,Karnataka,576105.0,Udupi
+408.0,2020-03-16,2020-03-30,Bahrain,Mangalore,5-55,Kurkal,Udupi,Udupi,Karnataka,574137.0,Udupi
+409.0,2020-03-16,2020-03-30,Bahrain,Mangalore,Aradha,Nadoor Puttugudde,Udupi,Udupi,Karnataka,576223.0,Udupi
+410.0,2020-03-16,2020-03-30,Bahrain,Mangalore,802/Ewim,Mandovi,Acdopolia,Udupi,Karnataka,576101.0,Udupi
+411.0,2020-03-16,2020-03-30,Bahrain,Mangalore,4-142-1,Indaru Darkasi,Belman,Udupi,Karnataka,576111.0,Udupi
+412.0,2020-03-16,2020-03-30,Bahrain,Mangalore,5-55 ,Kurkal,Udupi,Udupi,Karnataka,574105.0,Udupi
+413.0,2020-03-16,2020-03-30,Bahrain,Mangalore,4.329,Post Krodashram,Udupi,Udupi,Karnataka,576106.0,Udupi
+414.0,2020-03-16,2020-03-30,Bahrain,Mangalore,L.I.G 56,Hudco Colony,,Udupi,Karnataka,576104.0,Udupi
+415.0,2020-03-16,2020-03-30,Bahrain,Mangalore,Gudiyar bettu,Koithyar,Perdoor,Udupi,Karnataka,576124.0,Udupi
+416.0,2020-03-16,2020-03-30,Bahrain,Mangalore,"4-474, Sai Krupa, Kathardi House","Avaral, Mattu Palimate",-,Udupi,Karnataka,574103.0,Udupi
+417.0,2020-03-16,2020-03-30,Bahrain,Mangalore,1-31,Gujjodi,Kundapura,Udupi,Karnataka,576247.0,Udupi
+418.0,2020-03-16,2020-03-30,Bahrain,Mangalore,"3-64(1), Sri Devi Krupa","Mattu,Katapadi",Udupi,Udupi,Karnataka,574105.0,Udupi
+419.0,2020-03-16,2020-03-30,Bahrain,Mangalore,2-118,Belve Surgohi,Kundapura,Udupi,Karnataka,576212.0,Udupi
+420.0,2020-03-16,2020-03-30,Bahrain,Mangalore,4-116-2,Herga,Udupi,Udupi,Karnataka,576107,Udupi
+421.0,2020-03-16,2020-03-30,Bahrain,Mangalore,BM. Ibrahim Compond,Church Road,,Kundapapur,Karnataka,576222.0,Udupi
+422.0,2020-03-16,2020-03-30,Bahrain,Mangalore,1 - 249 D,Yelajith Malithlu,Baynoor,Udupi,Karnataka,576214.0,Udupi
+423.0,2020-03-16,2020-03-30,Bahrain,Mangalore,Chiknadi House,Jadkar Chikandi,,Udupi,Karnataka,576233.0,Udupi
+424.0,2020-03-16,2020-03-30,Bahrain,Mangalore,1-160,Janata Colony/Moodupadi,,Udupi,Karnataka,576222.0,Udupi
+425.0,2020-03-16,2020-03-30,Dubai,Mangalore,Constan Cottage,Byepass/Pulkeri,-,Udupi,Karnataka,576124.0,Udupi
+426.0,2020-03-16,2020-03-30,Dubai,Mangalore,5/3-2,Karkalia,Hirgana,Udupi,Karnataka,576117.0,Udupi
+427.0,2020-03-16,2020-03-30,Dubai,Mangalore,1-148,2Nd Cross Road,Nejar Santhakatte,Udupi,Karnataka,576105.0,Udupi
+428.0,2020-03-16,2020-03-30,Doh,Bengaluru,88/2,Hemmady,-,Udupi,Karnataka,576230.0,Udupi
+429.0,2020-03-16,2020-03-30,Doh,Bengaluru,88/2,Hemmady,-,Udupi,Karnataka,576230.0,Udupi
+430.0,2020-03-16,2020-03-30,Udupi,Bengaluru,Deviprasad house,Muloor,Kaup,Udupi,Karnataka,574117.0,Udupi
+431.0,2020-03-16,2020-03-30,Los Angeles,Bangalore,gowrishankar,Salmar,-,Karkala/ Udupi,Karnataka,574104.0,Udupi
+432.0,2020-03-16,2020-03-30,Singapur,Manglore,#482,Balagilayar,-,Udupi,Karnataka,576103.0,Udupi
+433.0,2020-03-16,2020-03-30,San Fransisco,Bangalore,MIG-113,Hudco Colony,-,Manipal,Karnataka,576104.0,Udupi
+434.0,2020-03-16,2020-03-30,Dubhai,Mangalore,2-176,,,Kundapur,Karnataka,576212.0,Udupi
+435.0,2020-03-16,2020-03-30,Dubai,Mangalore,10  138,Gangolli,,udupi,Karnataka,570216.0,Udupi
+436.0,2020-03-16,2020-03-30,Dubai,Mangalore,10-138,gangolli,,udupi,Karnataka,576216.0,Udupi
+437.0,2020-03-16,2020-03-30,Dubai,Mangalore,,,,Udupi,karnataka,576107.0,Udupi
+438.0,2020-03-15,2020-03-29,Dubai,Mangalore,Alsadi,Kundapura Villa,Udupi,Udupi,Karnataka,,Udupi
+439.0,2020-03-15,2020-03-29,Dubai,Mangalore,40993.0,Hemmadi,Kundapur,Udupi,Karnataka,576230.0,Udupi
+440.0,2020-03-15,2020-03-29,Dubai,Mangalore,2-101,Kergal Post,-,Kundapura,Karnataka,576219.0,Udupi
+441.0,2020-03-15,2020-03-29,Dubai,Mangalore,-,Kumbudukoni,Byndoor,Udupi,Karnataka,576219.0,Udupi
+442.0,2020-03-15,2020-03-29,Bahrain ,Mangalore,,Vandar,Udupi,Udupi,Karnataka,576223,Udupi
+443.0,2020-03-15,2020-03-29,Dubai Uae,"Mangalore,India",#111-43,"Kanajar,Heratta",Karkala,Udupi,Karnataka,574102.0,Udupi
+444.0,2020-03-15,2020-03-29,Dubai Uae,"Mangalore,India",Krishna Sadana,"Kodavoor , Krodashram",Udupi,Udupi,Karnataka,576106.0,Udupi
+445.0,2020-03-15,2020-03-29,Dubai Uae,"Mangalore,India",Krishna Sadana,"Kodavoor , Krodashram",Udupi,Udupi,Karnataka,576106.0,Udupi
+446.0,2020-03-15,2020-03-29,"Dubai,Dxb","Mangalore,India",111-43,"Karranje, Heratta",Karkala,Udupi,Karnataka,574102.0,Udupi
+447.0,2020-03-15,2020-03-29,Dubai,"Mangalore,India",1-153 Ashiana,Athradi,,Udupi,Karnataka,576107.0,Udupi
+448.0,2020-03-15,2020-03-29,Dubai,Mangalore,2//48,Majur,Majur,Udupi,Karnataka,574106.0,Udupi
+449.0,2020-03-15,2020-03-29,Dubai,India,4-100 B,Mattu,,Udupi,Karnataka,574105.0,Udupi
+450.0,2020-03-15,2020-03-29,Dubai,India,4-100 B,Mattu,,Udupi,Karnataka,574105.0,Udupi
+451.0,2020-03-15,2020-03-29,Dubai,Mangalore,4-50 Badagram,At Possuchila,Bada,Udupi,Karnataka,574117.0,Udupi
+452.0,2020-03-15,2020-03-29,Dubai,Mangalore,,Uchila,,Udupi,Karnataka,574117.0,Udupi
+453.0,2020-03-15,2020-03-29,Dubai,Mangalore,2-179/1,Near St. Joseph School,Karkala,Udupi ,Karnataka,574114.0,Udupi
+454.0,2020-03-15,2020-03-29,Dubai,India,16438.0,Kedoor,Kundapur,Udupi ,Karnataka,576231.0,Udupi
+455.0,2020-03-15,2020-03-29,Dubai,India,noorbag,Miyur,,Udupi ,Karnataka,576213.0,Udupi
+456.0,2020-03-15,2020-03-29,Dubai,Mangalore,04-89,Uchila,,Udupi ,Karnataka,574114.0,Udupi
+457.0,2020-03-15,2020-03-29,Dubai,Mangalore,1#20,Sasthana Irvr,Bramavara,Udupi,Karnataka,576226.0,Udupi
+458.0,2020-03-15,2020-03-29,Dubai,Mangalore,,Uchila,,Udupi,Karnataka,574117.0,Udupi
+459.0,2020-03-15,2020-03-29,Dubai,Mangalore,"403,sai radha apt",Shiridbeedu,Udupi,Udupi,Karnataka,576101.0,Udupi
+460.0,2020-03-15,2020-03-29,Dubai,Manglore ,"04,89",Uchila ,,Udupi ,Karnataka,574117.0,Udupi
+461.0,2020-03-15,2020-03-29,Dubai,Manglore ,"04,89",Uchila ,,Udupi ,Karnataka,574117.0,Udupi
+462.0,2020-03-15,2020-03-29,Dubai,India-Mangalore,111-43,Kanajar Hevatta,Karkala,Udupi,Karnataka,574102.0,Udupi
+463.0,2020-03-15,2020-03-29,Uae,India-Mangalore,6-29.,Uppoor,Udupi,Udupi,Karnataka,576105.0,Udupi
+464.0,2020-03-15,2020-03-29,Dubai,India-Mangalore,801 A block,A Wing,Janardhana Heig#13,Udupi,Karnataka,576103.0,Udupi
+465.0,2020-03-15,2020-03-29,Dubai,India-Mangalore,1010.0,Blue Berry Woods Manipal,Udupi,Udupi,Karnataka,576104.0,Udupi
+466.0,2020-03-15,2020-03-29,Dubai,India-Mangalore,1010.0,Blue Berry Woods Manipal,Udupi,Udupi,Karnataka,576104.0,Udupi
+467.0,2020-03-15,2020-03-29,Dubai,India-Mangalore,"403, Sai Radha Apt",Shiridbeedu,Udupi,Udupi,Karnataka,576101.0,Udupi
+468.0,2020-03-15,2020-03-29,Dubai,India-Mangalore,111-43,Kanajar Hevatta,Karkala,Udupi,Karnataka,574102.0,Udupi
+469.0,2020-03-15,2020-03-29,Dubai,Manglore,1-117(B),Baikady,Brahmaual,Udupi,Karnataka,576213.0,Udupi
+470.0,2020-03-15,2020-03-29,Dubai,Mangalore,||| -247,Movadi - Trasi,Kundapur,Udupi,Karnataka,576235.0,Udupi
+471.0,2020-03-15,2020-03-29,Dubai,Mangalore,47.0,Near Uchila Masid,Uchila,Udupi,Karnataka,574117.0,Udupi
+472.0,2020-03-15,2020-03-29,Dubai,Mangalore,304 Niki Aparts,-,Udupi,Udupi,Karnataka,576101.0,Udupi
+473.0,2020-03-15,2020-03-29,Dubai,Mangalore,6-126-21,Nejar,,Udupi,Karnataka,576114.0,Udupi
+474.0,2020-03-15,2020-03-29,Dubai,Mangalore,4-117/2,Bhaskar Nagar,Uchila,Udupi,Karnataka,574117.0,Udupi
+475.0,2020-03-15,2020-03-29,Dubai,Mangalore,Hosamane,Kirlady,Kundapura,Udupi,Karnataka,,Udupi
+476.0,2020-03-15,2020-03-29,Dubai,Mangalore,69/68,Tt Road,Kundapur,Udupi,Karnataka,576201.0,Udupi
+477.0,2020-03-15,2020-03-29,Dubai,Mangalore,1-6-202/A,Padabidri,Padabidri,Udupi,Karnataka,574111.0,Udupi
+478.0,2020-03-15,2020-03-29,Dubai,Mangalore,28.0,Udyawara,Udupi,Udupi,Karnataka,574118.0,Udupi
+479.0,2020-03-15,2020-03-29,Dxb,Ixe,J compound,Palli,,Karkala,Karnataka,574244.0,Udupi
+480.0,2020-03-15,2020-03-29,Dxb,Ixb,4-99,Karkulla Teller,,Udupi,Karnataka,576117.0,Udupi
+481.0,2020-03-15,2020-03-29,Uae/Dxb,Mangalore,N/7,Santhkattka,Santhekatte,Udupi,Karnataka,576105.0,Udupi
+482.0,2020-03-15,2020-03-29,Uae,Manglore,,Santhekatte,Santhekatte,Udupi,Karnataka,573105.0,Udupi
+483.0,2020-03-15,2020-03-29,Uae,Manglore,,Santhekatte,Santhekatte,Udupi,Karnataka,576106.0,Udupi
+484.0,2020-03-15,2020-03-29,Uae,Manglore,,Santhekatte,Santhekatte,Udupi,Karnataka,570105.0,Udupi
+485.0,2020-03-15,2020-03-29,Dubai,Manglore,12/490,Bydoor,Udupi,Udupi,Karnataka,576214.0,Udupi
+486.0,2020-03-15,2020-03-29,Dubai,Mangalore,Nagatu House,Near Sank Fella Road,,Udupi,Karnataka,,Udupi
+487.0,2020-03-15,2020-03-29,Dubai,India,4-100 B,Mattu,,Udupi,Karnataka,574105.0,Udupi
+488.0,2020-03-15,2020-03-29,Dubai,Mangalore,1-607,52 Heroor,Brahmavar,Udupi,Karnataka,576213.0,Udupi
+489.0,2020-03-15,2020-03-29,Dubai,Mangalore,flat 105,Vidyarathna Nagar ,Green Wood Apartment ,Manipal,Karnataka,576104.0,Udupi
+490.0,2020-03-15,2020-03-29,Dubai,Managalore,260-1,Gangolli,,Udupi,Karnataka,576216.0,Udupi
+491.0,2020-03-15,2020-03-29,Dubai,India-Mangalore,2-262,Gangolli,Kundapur,Udupi,Karnataka,576216.0,Udupi
+492.0,2020-03-15,2020-03-29,Managlore,Dubai,4-117/2,Bhaskara Nagar,Uchila,Udupi,Karnataka,574117.0,Udupi
+493.0,2020-03-15,2020-03-29,Dubai,Mangalore,,Chanthar,Nandigudda,Udupi,Karnataka,576213.0,Udupi
+494.0,2020-03-15,2020-03-29,Dubai,Mangalore,126.0,Giliyaru,Udupi,Udupi,Karnataka,576221.0,Udupi
+495.0,2020-03-15,2020-03-29,Dubai Uae,Mangalore,301 E wing,Sri Radha Pridebramagiri,Udupi,Udupi,Karnataka,,Udupi
+496.0,2020-03-15,2020-03-29,Dubai,Managlore,1-117,Baikandu,Brahmavrah,Udupi,Karnataka,576213.0,Udupi
+497.0,2020-03-15,2020-03-29,Dubai,Managlore,1-117,Baikandu,Brahmavrah,Udupi,Karnataka,576213.0,Udupi
+498.0,2020-03-15,2020-03-29,Dubai,Mangalore,1-153 Ashiana,Athradal,,Udupi,Karnataka,576107.0,Udupi
+499.0,2020-03-15,2020-03-29,Dubai,Mangalore,1-153 Ashiana,Athradal,,Udupi,Karnataka,576107.0,Udupi
+500.0,2020-03-15,2020-03-29,Dubai,Mangalore,1-153 Ashiana,Athradal,,Udupi,Karnataka,576107.0,Udupi
+501.0,2020-03-15,2020-03-29,Dubai,Mangalore,1-153 Ashiana,Athradal,,Udupi,Karnataka,576107.0,Udupi
+502.0,2020-03-15,2020-03-29,Dubai,Mangalore,Room-A14 India housing umc,Maniapl,Manipal,Udupi,Karnataka,576104.0,Udupi
+503.0,2020-03-15,2020-03-29,Dubai,Mangalore,,"Bolje, Udyavara",Udupi,Udupi,Karnataka,574118.0,Udupi
+504.0,2020-03-15,2020-03-29,Dubai,Mangalore,1-117(B),Baikady,Bhramavar,Udupi,Karnataka,576213.0,Udupi
+505.0,2020-03-15,2020-03-29,Auh,Lxe,2-172,Varambally,Bramhvar,Udupi,Karnataka,576213.0,Udupi
+506.0,2020-03-15,2020-03-29,Abu Dhabi,Maglore,N-8 mail,Post Belapu,,Udupi,Karnataka,574117.0,Udupi
+507.0,2020-03-15,2020-03-29,Abu Dhabi,Mangalore,412.0,"New Chandrashekar Hostel, Madhav Nagar",,Manipal,Karnataka,576104.0,Udupi
+508.0,2020-03-15,2020-03-29,Dubai,Manglore,Z-105,Bailur,Kanjur,Udupi,Karnataka,574012.0,Udupi
+509.0,2020-03-15,2020-03-29,Dubai,Mangaluru,i-153 Ashiana,Athradi,,Udupi,Karnataka,576107.0,Udupi
+510.0,2020-03-15,2020-03-29,Dubai,Mangaluru,i-153 Ashiana,Athradi,,Udupi,Karnataka,576107.0,Udupi
+511.0,2020-03-15,2020-03-29,Dubai,Mangaluru,i-153 Ashiana,Athradi,,Udupi,Karnataka,576107.0,Udupi
+512.0,2020-03-15,2020-03-29,Dubai,Mangaluru,i-153 Ashiana,Athradi,,Udupi,Karnataka,576107.0,Udupi
+513.0,2020-03-15,2020-03-29,Dubai,Mangaluru,"Room A14, India, KMC Manipal University",Manipal,Manipal,Udupi,Karnataka,576104.0,Udupi
+514.0,2020-03-15,2020-03-29,Dubai,Mangaluru,--,"Bolje,Udyavara",Udupi,Udupi,Karnataka,574118.0,Udupi
+515.0,2020-03-15,2020-03-29,Dubai,Mangalore,3 71,Olamadi,Kokkoholi,Udupi,Karnataka,572164.0,Udupi
+516.0,2020-03-15,2020-03-29,Dubai,Mangalore,906.0,Mission Compound,Udupi,Udupi,Karnataka,,Udupi
+517.0,2020-03-15,2020-03-29,Dubai,Mangalore,69/68,T.T Road,Kundapur,Udupi,Karnataka,576201.0,Udupi
+518.0,2020-03-15,2020-03-29,Dubai,Managalore ,1-6-2021A,Padabidri,Udupi,Udupi,Karnataka,574111.0,Udupi
+519.0,2020-03-15,2020-03-29,Dubai,Managalore ,"403,Sairadha apt",Shridbeedu,Udupi,Udupi,Karnataka,576101.0,Udupi
+520.0,2020-03-15,2020-03-29,Dubai,Managalore ,"403,Sairadha apt",Shridbeedu,Udupi,Udupi,Karnataka,576101.0,Udupi
+521.0,2020-03-15,2020-03-29,Dubai,Managalore ,6 29,Uppor,Udupi,Udupi,Karnataka,576105.0,Udupi
+522.0,2020-03-15,2020-03-29,Dubai,Managalore ,801a block ,A Wing ,Janaardahan Height ,Udupi,Karnataka,576103.0,Udupi
+523.0,2020-03-15,2020-03-29,Dubai,Managalore ,1010.0,Blueberry Woods  Manipal,Udupi,Udupi,Karnataka,576104.0,Udupi
+524.0,2020-03-15,2020-03-29,Dubai,Managalore ,1010.0,Blueberry Woods  Manipal,Udupi,Udupi,Karnataka,576104.0,Udupi
+525.0,2020-03-15,2020-03-29,Dubai,Managalore ,111-43,Karnojav Heratta,Karkala,Udupi,Karnataka,574102.0,Udupi
+526.0,2020-03-15,2020-03-29,Dubai,Managalore ,111-43,Karnojav Heratta,Karkala,Udupi,Karnataka,574102.0,Udupi
+527.0,2020-03-15,2020-03-29,Dubai,Managalore ,111-43,Karnojav Heratta,Karkala,Udupi,Karnataka,574102.0,Udupi
+528.0,2020-03-15,2020-03-29,Dubai,Managalore ,111-43,Karnojav Heratta,Karkala,Udupi,Karnataka,574102.0,Udupi
+529.0,2020-03-15,2020-03-29,Dubai,Managalore ,Krishan sadana,"Kodavoor, Krodashram",Udupi,Udupi,Karnataka,576106.0,Udupi
+530.0,2020-03-15,2020-03-29,Dubai,Managalore ,Krishan sadana,"Kodavoor, Krodashram",Udupi,Udupi,Karnataka,576106.0,Udupi
+531.0,2020-03-15,2020-03-29,Abu Dhabi,Mangaluru,2-149,Varambally Brahawara,,Udupi,Karnataka,576213.0,Udupi
+532.0,2020-03-15,2020-03-29,Abu Dhabi,Mangaluru,,Puthrottu,,Udupi,Karnataka,576120.0,Udupi
+533.0,2020-03-15,2020-03-29,Abu Dabi,Mangalore,2-149,Brahmavar,,Udupi,Karnataka,576213.0,Udupi
+534.0,2020-03-15,2020-03-29,Abu Dabi,Mangalore,,Puthrottu,,Udupi,Karnataka,576120.0,Udupi
+535.0,2020-03-15,2020-03-29,Dubai Dxb,Managalore Ixe,3-109,Valambala,Karkala,Udupi,Karnataka,574244.0,Udupi
+536.0,2020-03-15,2020-03-29,Abu Dhabi,Mangaluru,,Puthrottu,,Udupi,Karnataka,576120.0,Udupi
+537.0,2020-03-15,2020-03-29,Abu Dhabi,Mangaluru,2-149,Varambally Brahawara,,Udupi,Karnataka,576213.0,Udupi
+538.0,2020-03-15,2020-03-29,Dubai,Mangalore,No-2-28,Chara,Melamad,Udupi,Karnataka,576112.0,Udupi
+539.0,2020-03-15,2020-03-29,Bangalore ,Bangalore,103.0,Katpady ,-,Udupi ,Karnataka,-,Udupi
+540.0,2020-03-15,2020-03-29,Dxb,Bangalore,8 97,Shiroru,-,Udupi ,Karnataka,576228.0,Udupi
+541.0,2020-03-15,2020-03-29,Amsterdam(Netherland),Bangalore (Udupi),06 73,Kamblathota,Kemmanuu Po,Udupi ,Karnataka ,576115.0,Udupi 
+542.0,2020-03-15,2020-03-29,Amsterdam(Netherland),Bangalore ,06 73,Kamblathota,Kemmanuu Po,Udupi ,Karnataka ,576115.0,Udupi 
+543.0,2020-03-15,2020-03-29,Amsterdam,Benglaore ,103.0,Vp Nagar,-,Udupi,Karnataka,576102.0,Udupi
+544.0,2020-03-15,2020-03-29,Bahrain,Banglore,1-3-69e,Gundibail,Udupi,Udupi,Karnataka,576102.0,Udupi
+545.0,2020-03-15,2020-03-29,"Dublin,Ireland",Bengalore,"4/63A, chandrapadma nilaya",Doddoni Road,"Koteshwara, Kundapura",Udupi,Karnataka,576222.0,Udupi
+546.0,2020-03-15,2020-03-29,Dubai,Bangalore,-,Puravik Road,Koleshwara,Udupi,Karnataka,576222.0,Udupi
+547.0,2020-03-15,2020-03-29,Qatar,Bangalore,#3364,Handady,Bvr,Udupi,Karnataka,576213.0,Udupi
+548.0,2020-03-15,2020-03-29,Sanfransisco,Bangalore,305.0,Casa Priana Apartment,-,Udupi,Karnataka,576101.0,Udupi
+549.0,2020-03-15,2020-03-29,Sanfransisco,Bangalore,305.0,Casa Priana Apartment,-,Udupi,Karnataka,576101.0,Udupi
+550.0,2020-03-14,2020-03-28,Dubai,Mangalore,4  27,Uliyagoli,Kaup,Udupi/Kaup,Karnataka,574106.0,Udupi
+551.0,2020-03-14,2020-03-28,Dubai,Mangalore,B/105,Udupi,Kemmanara,Udupi,Karnataka,,Udupi
+552.0,2020-03-14,2020-03-28,Dubai,Mangalore,9-37-A-1,Suharsh,Ambagilu,Udupi,Karnataka,576105.0,Udupi
+553.0,2020-03-14,2020-03-28,Dubai,Mangalore,3153.0,Avara Koppla,-,Udupi,Karnataka,574103.0,Udupi
+554.0,2020-03-14,2020-03-28,Dubai,Mangalore,602.0,Udupi,-,Udupi,Karnataka,-,Udupi
+555.0,2020-03-14,2020-03-28,Dubai,Mangalore,3-885,Bommarabettu,Udupi,Udupi,Karnataka,576113.0,Udupi
+556.0,2020-03-14,2020-03-28,Dubai,Mangalore,2_11_3,Barkur,-,Udupi,Karnataka,576210.0,Udupi
+557.0,2020-03-14,2020-03-28,Dubai,Mangalore,18-21,Shirva,-,Udupi,Karnataka,574116.0,Udupi
+558.0,2020-03-14,2020-03-28,Dammam,Mangalore ,KA Manzil,Padukere,Kotathattu,Udupi,Karnataka,576221.0,Udupi
+559.0,2020-03-14,2020-03-28,Dammam,Mangalore ,002,Indrali,-,Udupi,Karnataka,-,Udupi
+560.0,2020-03-14,2020-03-28,Dammam,Mangalore ,18-70,Paduthonse,-,Udupi,Karnataka,-,Udupi
+561.0,2020-03-14,2020-03-28,Dammam,Mangalore ,"8-64, Near urdu School","Kadipasna Road, Padubidri",-,Udupi,Karnataka,574111.0,Udupi
+562.0,2020-03-14,2020-03-28,Dammam,Mangalore ,3-2-40D7,Brahmagiri,-,Udupi,Karnataka,576103.0,Udupi
+563.0,2020-03-14,2020-03-28,Dammam,Mangalore ,-,Koteshwara,Kundapur,Udupi,Karnataka,-,Udupi
+564.0,2020-03-14,2020-03-28,Dammam,Mangalore ,-,Koteshwara,Kundapur,Udupi,Karnataka,-,Udupi
+565.0,2020-03-14,2020-03-28,Dubai,Mangalore,504.0,Sankuya Hrights,Udipi,Udipi,Karnataka,,Udupi
+566.0,2020-03-14,2020-03-28,Dubai,Mangalore,504.0,Sankuya Hrights,Udipi,Udipi,Karnataka,,Udupi
+567.0,2020-03-14,2020-03-28,Dubai,Mangalore,504.0,Sankuya Hrights,Udipi,Udipi,Karnataka,,Udupi
+568.0,2020-03-14,2020-03-28,Dubai,Mangalore,1-4-80A,Doddnagudde,Udipi,Udipi,Karnataka,576102.0,Udupi
+569.0,2020-03-14,2020-03-28,Dammam,Mangalore,497 B20,Near Vaikunta Baliga Law College,Kunibettu,Udipi ,Karnataka,576102.0,Udupi
+570.0,2020-03-14,2020-03-28,Dammam,Mangalore,7-51/b,Perlakadipadu,Thonge Hoode,Udipi ,Karnataka,,Udupi
+571.0,2020-03-14,2020-03-28,Dammam,Mangalore,,Smhs School,Udupi,Udupi,Karnataka,574117.0,Udupi
+572.0,2020-03-14,2020-03-28,Dammam,Mangalore,165.0,Bather,Udupi,Udupi,Karnataka,574102.0,Udupi
+573.0,2020-03-14,2020-03-28,Saudi,Mangalore,Karkala,Udupi,Udupi,Udupi,Karnataka,,Udupi
+574.0,2020-03-14,2020-03-28,Dammam,Mangalore,27.0,Kandalore,Udupi,Udupi,Karnataka,576230.0,Udupi
+575.0,2020-03-14,2020-03-28,Dubai,Mangalore ,KA Manzil,Padukere,Kotathattu,Udupi,Karnataka,576221.0,Udupi
+576.0,2020-03-14,2020-03-28,Dubai,Mangalore ,002,Indrali,-,Udupi,Karnataka,-,Udupi
+577.0,2020-03-14,2020-03-28,Dubai,Mangalore ,18-70,Paduthonse,-,Udupi,Karnataka,-,Udupi
+578.0,2020-03-14,2020-03-28,Dubai,Mangalore ,"8-64, Near urdu School","Kadipasna Road, Padubidri",-,Udupi,Karnataka,574111.0,Udupi
+579.0,2020-03-14,2020-03-28,Dubai,Mangalore ,3-2-40D7,Brahmagiri,-,Udupi,Karnataka,576103.0,Udupi
+580.0,2020-03-14,2020-03-28,Dubai,Mangalore ,-,Koteshwara,Kundapur,Udupi,Karnataka,-,Udupi
+581.0,2020-03-14,2020-03-28,Dubai,Mangalore ,-,Koteshwara,Kundapur,Udupi,Karnataka,-,Udupi
+582.0,2020-03-14,2020-03-28,Dubai,Mangalore,4 -- 25,Nagoor, - ,Udupi,Karnataka,576253.0,Udupi
+583.0,2020-03-14,2020-03-28,Dubai,Mangalore,4 -- 25,Nagoor, - ,Udupi,Karnataka,576253.0,Udupi
+584.0,2020-03-14,2020-03-28,Dubai,Mangalore,3 -75 /2,Chauthar Village,-,Udupi,Karnataka,576213.0,Udupi
+585.0,2020-03-14,2020-03-28,Dubai,Mangalore,3 -75 /2,Chauthar Village,-,Udupi,Karnataka,576213.0,Udupi
+586.0,2020-03-14,2020-03-28,Dammam,Mangalore,3-34,Palimar,-,Udupi,Karnataka,574112,Udupi
+587.0,2020-03-14,2020-03-28,Dammam,Mangalore,3-34,Palimar,-,Udupi,Karnataka,574112,Udupi
+588.0,2020-03-14,2020-03-28,Dammam,Mangalore,1-6-89,Nadsal,Dadubidri,Udupi,Karnataka,574111,Udupi
+589.0,2020-03-14,2020-03-28,Dammam,Mangalore,Kabeer Manzil,N.S Road,Post Hejamady,Udupi,Karnataka,574103.0,Udupi
+590.0,2020-03-14,2020-03-28,Dammam,Mangalore,Kabeer Manzil,N.S Road,Post Hejamady,Udupi,Karnataka,574103.0,Udupi
+591.0,2020-03-14,2020-03-28,Dammam,Mangalore,1-6(33),Padubidri,-,Udupi,Karnataka,574111.0,Udupi
+592.0,2020-03-14,2020-03-28,Dammam,Mangalore,-,Bailakare,-,Udupi,Karnataka,576108.0,Udupi
+593.0,2020-03-14,2020-03-28,Dammam,Mangalore,D-No. 5-112/4,Hejanyerdi,-,Udupi,Karnataka,574103.0,Udupi
+594.0,2020-03-14,2020-03-28,Dammam,Mangalore,Ebrahim Manzil,Ss Road,Hejamady,Udupi,Karnataka,-,Udupi
+595.0,2020-03-14,2020-03-28,Dubai,Mangalore,Amartya sen hostel,"Kmc, Manipal",Udupi,Manipal,Karnataka,576104.0,Udupi
+596.0,2020-03-14,2020-03-28,Dubai,Mangalore,-,Mothreschase,Kundapur,Udupi,Karnataka,-,Udupi
+597.0,2020-03-14,2020-03-28,Dubai,Mangalore,3 - 77,Bantakal,Udupi,Udupi,Karnataka,574115.0,Udupi
+598.0,2020-03-14,2020-03-28,Dubai,Mangalore,9-2-49A,Tenkapete,Sln Road,Udupi,Karnataka,-,Udupi
+599.0,2020-03-14,2020-03-28,Dubai,Mangalore,Padmanabha,Kapu,Mani Road Kapu,Udupi,Karnataka,574106.0,Udupi
+600.0,2020-03-14,2020-03-28,Dubai,Mangalore,1 - 209,Parmpali,-,Udupi,Karnataka,576225.0,Udupi
+601.0,2020-03-14,2020-03-28,Dubai,Mangalore,2 / 149,Gawgolf,Kundapur,Udupi,Karnataka,576216.0,Udupi
+602.0,2020-03-14,2020-03-28,Dubai,Mangalore,7 - 108,Suhas Nilya,Kapu Taluk,Udupi,Karnataka,574116.0,Udupi
+603.0,2020-03-14,2020-03-28,Dubai,Mangalore,5-78 A 15 B,11Th Cross `,-,Udupi,Karnataka,576101.0,Udupi
+604.0,2020-03-14,2020-03-28,Dubai,Mangalore,22-1-133,Veigas Township,Kinnimutty,Udupi,Karnataka,576101.0,Udupi
+605.0,2020-03-14,2020-03-28,Dubai,Mangalore,1-83/A,Albady,-,Udupi,Karnataka,576212.0,Udupi
+606.0,2020-03-14,2020-03-28,Dubai,Mangalore,Paniyadi,Kunjibettu,Udupi,Udupi,Karnataka,576102.0,Udupi
+607.0,2020-03-14,2020-03-28,Dubai,Mangalore,Srishiddi,Ujopadi,-,Udupi,Karnataka,-,Udupi
+608.0,2020-03-14,2020-03-28,Dubai,Mangalore,B-2,Uppinakote,-,Udupi,Karnataka,576213.0,Udupi
+609.0,2020-03-14,2020-03-28,Dubai,Mangalore,15-238,Shirsa,Kaup,Udupi,Karnataka,571416.0,Udupi
+610.0,2020-03-14,2020-03-28,Dubai,Mangalore,15-238,Shira,Kaup,Udupi,Karnataka,574116.0,Udupi
+611.0,2020-03-14,2020-03-28,Dubai,Mangalore,1-110-2,Uchila Bada,Udupi,Udupi,Karnataka,574117.0,Udupi
+612.0,2020-03-14,2020-03-28,Dubai,Mangalore,Anugraha Nilaya,Kashihole Road,Kundapura,Udupi,Karnataka,567220.0,Udupi
+613.0,2020-03-14,2020-03-28,Dubai,Mangalore,10/39A baba shah,Gangolli Mohalla,Kundapura,Udupi,Karnataka,576216.0,Udupi
+614.0,2020-03-14,2020-03-28,Dubai,Mangalore,1-4-3 rama rao sadana,Gundibail,Kungi Bettu Post,Udupi,Karnataka,576102.0,Udupi
+615.0,2020-03-14,2020-03-28,Dubai,Mangalore,Flat No - 105,Vyalankar Park,-,Udupi,Karnataka,5761010.0,Udupi
+616.0,2020-03-14,2020-03-28,Dubai,Mangalore,-,"Saligrama, Parampalli Village",Udupi,Udupi,Karnataka,576226.0,Udupi
+617.0,2020-03-14,2020-03-28,Dubai,Mangalore,-,"Saligrama, Parampalli Village",Udupi,Udupi,Karnataka,576226.0,Udupi
+618.0,2020-03-14,2020-03-28,Dubai,Mangalore,"1-4-3, Ramana Rao Sadana",Gundibail,Kunjibettau,Udupi,Karnataka,576102.0,Udupi
+619.0,2020-03-14,2020-03-28,Dubai,Mangalore,IV-41 Plus Nagar,"Kodi Road Henglur, Kundapura",-,Updupi,Karnataka,576217.0,Udupi
+620.0,2020-03-14,2020-03-28,United Arab Emirates,Mangalore,37.0,Bola Kodi,Karkala,Udupi,Karnataka,574110.0,Udupi
+621.0,2020-03-14,2020-03-28,Dubai,Mangalore,11-133,Kukkunje House,Santhekatte Post,Updupi,Karnataka,576105.0,Udupi
+622.0,2020-03-14,2020-03-28,Dubai,Mangalore,Krishna Nivas,Tandottu,"Ninjoor Post, Karkala",Udupi,Karnataka,574244.0,Udupi
+623.0,2020-03-14,2020-03-28,Dubai,Mangalore,Krishna Nivas,Tandottu,"Ninjoor Post, Karkala",Udupi,Karnataka,574244.0,Udupi
+624.0,2020-03-14,2020-03-28,Dubai,Mangalore,Krishna Nivas,Tandottu,"Ninjoor Post, Karkala",Udupi,Karnataka,574244.0,Udupi
+625.0,2020-03-14,2020-03-28,Dubai,Mangalore,"House No : 4-60, New Garadi House",Paniyoor Post,Belapu Grama,Udupi,Karnataka,574117.0,Udupi
+626.0,2020-03-14,2020-03-28,Dubai,Mangalore,"House No : 4-60, New Garadi House",Paniyoor Post,Belapu Grama,Udupi,Karnataka,574117.0,Udupi
+627.0,2020-03-14,2020-03-28,Dubai,Mangalore,Ayat B-2,Uppinakote,-,Udupi,Karnataka,576213.0,Udupi
+628.0,2020-03-14,2020-03-28,Dubai,Mangalore,15-238,Shira,Kaup,Udupi,Karnataka,574116.0,Udupi
+629.0,2020-03-14,2020-03-28,Dubai,Mangalore,15-238,Shira,Kaup,Udupi,Karnataka,574116.0,Udupi
+630.0,2020-03-14,2020-03-28,Kuwait,Bengaluru,1-123,Moodubelle,-,Udupi,Karnataka,576120.0,Udupi
+631.0,2020-03-14,2020-03-28,Chicago,Bengaluru,Sri Chinmay,"Vinayaka Layout, Kochi Road, Hanglur",Kundapur,Udupi,Karnataka,576217.0,Udupi
+632.0,2020-03-14,2020-03-28,Muscat,Bangalore,Bellamapalli,Kukkikatte,-,Upupi,Karnataka,576124.0,Udupi
+633.0,2020-03-14,2020-03-28,Muscat,Bangalore,1-123,Bellamapalli,-,Upupi,Karnataka,576124.0,Udupi
+634.0,2020-03-14,2020-03-28,Muscat,Bangalore,2-98/1,Nr. Masjid Rd,Manipura West,Udupi,Karnataka,840553.0,Udupi
+635.0,2020-03-14,2020-03-28,Singapore,Mangalore,11/3/5a,Padigar ,Kunjibetteu,Udupi,Karnataka,576102.0,Udupi
+636.0,2020-03-14,2020-03-28,Singapore,Manglore,l-3-5A,Padigar,Kunjibetiu,Udupi,Karnataka,576102.0,Udupi
+637.0,2020-03-14,2020-03-28,Doha,Bangalore,566B,Putut,-,Udupi,Karnataka,576101.0,Udupi
+638.0,2020-03-14,2020-03-28, London,Mangalore,"3-121,Puspadan THA",Kukkehalli,-,Udupi,Karnataka,576124.0,Udupi
+639.0,2020-03-14,2020-03-28,Singapore,Bangalore,NIA 27,Main Road,Doddanagudde,Udupi,Karnataka,576102.0,Udupi
+640.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,107.0,Havanje,Udupi,Udupi,Karnataka,576124.0,Udupi
+641.0,2020-03-14,2020-03-28,Jakarta,Bangalore,2-86/2,"Mooluru, Uchila",-,Udupi,Karnataka,574117.0,Udupi
+642.0,2020-03-14,2020-03-28,Australia,Mangalore,2-109,Hosala Villagemnagar Mh,Barkur Post,Udipi,Karnataka,576210.0,Udupi
+643.0,2020-03-14,2020-03-28,Malaysia,Bangalore,no 4-25/1 abhijna niwasa,"Nadsal Village, Padubhidri",-,-,Karnataka,574111.0,Udupi
+644.0,2020-03-14,2020-03-28,Malaysia,Bangalore,no 4-25/1 abhijna niwasa,"Nadsal Village, Padubhidri",-,-,Karnataka,574111.0,Udupi
+645.0,2020-03-14,2020-03-28,Sydney,Bangalore,12086.0,Innanji,Kafren,Udupi,Karnataka,574115.0,Udupi
+646.0,2020-03-14,2020-03-28,Sydney,Bangalore,12086.0,Innanji,Kafren,Udupi,Karnataka,574115.0,Udupi
+647.0,2020-03-14,2020-03-28,Kuwait,Bangalore,A 21,Yellour,-,Udupi,Karnataka,574113.0,Udupi
+648.0,2020-03-13,2020-03-27,Maldives ,India (Karnataka),-,Veigas Township,Kinnimulki,Udupi,Karnataka,576101.0,Udupi
+649.0,2020-03-13,2020-03-27,"Dubai, Uae",Banglore  ,"30, MIT BLOCK 17",Manipet Institute Of Tecnology,-,Manipal,Karnataka,576104.0,Udupi
+650.0,2020-03-13,2020-03-27,Sharjah,Bangalore,1-6-202/a,Padabidri,,Padabidri-Udupi,Karnataka,574111.0,Udupi
+651.0,2020-03-13,2020-03-27,Bahrain,Mangaluru,1-141,Rattady,Kundapura,Udupi,Karnataka,576227.0,Udupi
+652.0,2020-03-13,2020-03-27,Bahrain,Mangaluru,1-58-A,Ullor-74,Kundapura,Udupi,Karnataka,576227.0,Udupi
+653.0,2020-03-13,2020-03-27,Bahrain,Mangaluru,-,Pkondadi Padumane Bammerbettu,Udupi,Udupi,Karnataka,576113.0,Udupi
+654.0,2020-03-13,2020-03-27,Bahrain,Mangaluru,70D,Kambadakone,Byndoor,Udupi,Karnataka,576219.0,Udupi
+655.0,2020-03-13,2020-03-27,Bahrain,Mangaluru,2.5,Malahalli,Kundapura,Udupi,Karnataka,576222.0,Udupi
+656.0,2020-03-13,2020-03-27,Bahrain,Mangalore,3-172,Hanglur,Hanglur,Kundapur,Karnataka,576217.0,Udupi
+657.0,2020-03-13,2020-03-27,Manama Bahrain,Mangalore,Mookambika nilaya,Bandimatt,Post Hanehalli,Udupi,Karnataka,576278.0,Udupi
+658.0,2020-03-13,2020-03-27,Bahrain,Mangalore,1-58,Ampar,Ampar,Udupi,Karnataka,576211.0,Udupi
+659.0,2020-03-13,2020-03-27,Bahrain,Mangalore,,Maruante Post,Maruante Post,Kundapur,Karnataka,576261.0,Udupi
+660.0,2020-03-13,2020-03-27,Bahrain,Mangalore,3-265,"1St Cross, Chanthar",Brahmauar,Udupi,Karnataka,576213.0,Udupi
+661.0,2020-03-13,2020-03-27,Bahrain,Mangalore,2-243,Uchila,,Udupi,Karnataka,574117.0,Udupi
+662.0,2020-03-13,2020-03-27,Bahrain,Mangalore,"Sea View house near bridge,",-,Podabidri,Udapi,Karnatala,574111.0,Udupi
+663.0,2020-03-13,2020-03-27,Bahrain,Mangalore,43888.0,Gudugarbetty,Koithyar  Perdoor,Udapi,Karnatala,576124.0,Udupi
+664.0,2020-03-13,2020-03-27,Bahrain,Mangalore,43888.0,Gudugarbetty,Koithyar  Perdoor,Udapi,Karnatala,576124.0,Udupi
+665.0,2020-03-13,2020-03-27,Bahrain,Mangalore,1-103,Nadpalu Seethanar,Udupi,Udapi(Habr),Karnatala,576112.0,Udupi
+666.0,2020-03-13,2020-03-27,Bahrain,Mangalore,3-127,"Bollebailu, Kenjool",Udupi,Udupi,Karnatala,576234.0,Udupi
+667.0,2020-03-13,2020-03-27,Bahrain,Mangalore,2-171,Bijoor,Byndoor,Udupi,Karnataka,576232.0,Udupi
+668.0,2020-03-13,2020-03-27,Dxb,Ixe,Near BCK college,Kundapur,Herikudru,Udupi,Karnataka,576230.0,Udupi
+669.0,2020-03-13,2020-03-27,Dubai,Mangalore,Sanjeevini,Moodumane,Manipura,Udupi,Karnataka,5750.0,Udupi
+670.0,2020-03-13,2020-03-27,Dubai,Mangalore,571/2,Sbc Road,Karkola,Udupi,Karnataka,574104.0,Udupi
+671.0,2020-03-13,2020-03-27,Dubai,Mangalore,571/2,Sbc Road,Karkola,Udupi,Karnataka,574104.0,Udupi
+672.0,2020-03-13,2020-03-27,Dubai,Mangalore,571/2,Sbc Road,Karkola,Udupi,Karnataka,574104.0,Udupi
+673.0,2020-03-13,2020-03-27,Dubai,Mangalore,Gudde Gulabi,Shirva,Udupi (Kaup),Udupi,Karnataka,574116.0,Udupi
+674.0,2020-03-13,2020-03-27,Dubai,Mangalore,1-152B,Vm Nagar Doddangudde,Karambally,Udupi,Karnataka,576102.0,Udupi
+675.0,2020-03-13,2020-03-27,Dubai,Mangalore,1-152B,Vm Nagar Doddangudde,Karambally,Udupi,Karnataka,576102.0,Udupi
+676.0,2020-03-13,2020-03-27,Dubai,Mangalore,3-(121),Kaap Mallar,Kaap,Udupi,Karnataka,574106.0,Udupi
+677.0,2020-03-13,2020-03-27,Uae,Mangalore,Block No 202-C,Indrali,,Udupi,Karnataka,576103.0,Udupi
+678.0,2020-03-13,2020-03-27,Dubai,Mangalore,6-79-19,Badagubettu-Bailor,,Udupi,Karnataka,576101.0,Udupi
+679.0,2020-03-13,2020-03-27,Dubai ,Mangalore,2-138,Kambadahone,Kundapura,Udupi,Karnataka,576219.0,Udupi
+680.0,2020-03-13,2020-03-27,Dubai (Dxb),Mangalore (Ixe),2/67C,Kojjal House,Pallivill,Udupi,Karnataka,574244.0,Udupi
+681.0,2020-03-13,2020-03-27,Dxb,Ixe,H No 105,Bukhori Cooling,Shiroor,Kundapura,Karnataka,576228.0,Udupi
+682.0,2020-03-13,2020-03-27,Abu Dhabi,India-Manglore,648-aram manzil,Kabbetu Karkala,,Udupi,Karnataka,574104.0,Udupi
+683.0,2020-03-13,2020-03-27,Abu Dhabi,India-Manglore,1-327/2,Kundapur,,Udupi,Karnataka,576201.0,Udupi
+684.0,2020-03-13,2020-03-27,Abu Dhabi,India-Manglore,1-327/2,Kundapur,,Udupi,Karnataka,576201.0,Udupi
+685.0,2020-03-13,2020-03-27,Abu Dhabi,India-Manglore,1-327/2,Kundapur,,Udupi,Karnataka,576201.0,Udupi
+686.0,2020-03-13,2020-03-27,Abu Dhabi,India-Manglore,menez mansion,Chantar,,Brahmavar,Karnataka,576213.0,Udupi
+687.0,2020-03-13,2020-03-27,Abu Dhabi,India-Manglore,648-aram manzil,Kabbetu Karkala,,Udupi,Karnataka,574104.0,Udupi
+688.0,2020-03-13,2020-03-27,Abh Dhabi,Mangalore,216 Ithac house,Anagalli Post,Kundapur,Udupi,Karnataka,576211.0,Udupi
+689.0,2020-03-13,2020-03-27,"Abu Dhabi, Uae",Mangalore,,Handady Village,Post Bhramahavar,Udupi,Karnataka,576213.0,Udupi
+690.0,2020-03-13,2020-03-27,Abudhabi- Uae,Mangalore,# III -8,Moodube,Udupi,Udupi,Karnataka,576120.0,Udupi
+691.0,2020-03-13,2020-03-27,Bahrain,Mangalore,No.2-9. Ashritha House,Seethanadi Post,Nadpal Village,Udupi,Karnataka,,Udupi
+692.0,2020-03-13,2020-03-27,Bahrain,Manglore,D.NO.9-73(3),Paduthouse,Kemmanu,Udupi,Karnataka,576115.0,Udupi
+693.0,2020-03-13,2020-03-27,Bahrain,India-Manglore,No  2-33,Anugraha Charmakke,Kundapura,Udupi,Karnataka,576227.0,Udupi
+694.0,2020-03-13,2020-03-27,Bahrain,India-Manglore,No  2-33,Anugraha Charmakke,Charmakki Kundapura,Udupi,Karnataka,576227.0,Udupi
+695.0,2020-03-13,2020-03-27,Bahrain,India-Manglore,No  2-33,Anugraha Charmakke,Kundapura,Udupi,Karnataka,576227.0,Udupi
+696.0,2020-03-13,2020-03-27,Bahrain,India-Manglore,No  2-33,Anugraha Charmakke,Kundapura,Udupi,Karnataka,576227.0,Udupi
+697.0,2020-03-13,2020-03-27,Bahrain,India-Mangalore,,Mallar Village ,,Udupi ,Karnataka,574016.0,Udupi
+698.0,2020-03-13,2020-03-27,Bahrain,India-Mangalore,I-77,Anagalli,Herikudru Post,Kundapura-Udupi,Karnataka,576230.0,Udupi
+699.0,2020-03-13,2020-03-27,Dubai,Mangalore,16-193,Shira,Udupi,Udupi,Karnataka,574116.0,Udupi
+700.0,2020-03-13,2020-03-27,Dubai,Mangalore,CH01/Mandavri,End Point Road,Manipal,Udupi,Karnataka,576104.0,Udupi
+701.0,2020-03-13,2020-03-27,Dubai,Mangalore,1-89(2),Muthalina Mane Pademat Kenjoor,,Udupi,Karnataka,576234.0,Udupi
+702.0,2020-03-13,2020-03-27,Dubai,Mangalore,1-89(2),Muthalina Mane Pademat Kenjoor,,Udupi,Karnataka,576234.0,Udupi
+703.0,2020-03-13,2020-03-27,Dubai,Mangalore,441.0,Juppepede,Shirva ,Udupi,Karnataka,574116.0,Udupi
+704.0,2020-03-13,2020-03-27,Dubai,Mangalore,3-123,Bailoor,Chitpadi,Udupi,Karnataka,576101.0,Udupi
+705.0,2020-03-13,2020-03-27,Dubai,Mangalore,Maniuru Darkas,Yelluru,Kapu,Udupi,Karnataka,574113.0,Udupi
+706.0,2020-03-13,2020-03-27,Dubai,Mangalore,312.0,Subasnagar,Kalpadi,Udupi,Karnataka,574115.0,Udupi
+707.0,2020-03-13,2020-03-27,Dubai,Mangalore,3-3-26C,Ambalpady,,Udupi,Karnataka,576103.0,Udupi
+708.0,2020-03-13,2020-03-27,Dubai,Mangalore,3-3-26C,Ambalpady,,Udupi,Karnataka,576103.0,Udupi
+709.0,2020-03-13,2020-03-27,Dubai,Mangalore,H-3-2,-,Udupi,Udupi,Karnataka,576120.0,Udupi
+710.0,2020-03-13,2020-03-27,Dubai,Mangalore,DMO-1-123-1,Karambetta,Karakala,Udupi,Karnataka,576126.0,Udupi
+711.0,2020-03-13,2020-03-27,Dubai,Mangalore,26-49,Kodav,Kalma,Udupi,Karnataka,57610.0,Udupi
+712.0,2020-03-13,2020-03-27,Dubai,Mangalore,26-49A,Kodavoor Kamm,Kalmad,Udupi,Karnataka,576108.0,Udupi
+713.0,2020-03-13,2020-03-27,Dubai,Mangalore,962083790.0,Dodanagud,Udupi,Udupi,Karnataka,,Udupi
+714.0,2020-03-13,2020-03-27,Uae- Dubai,Mangalore,1-165,Marathalli,,Udpi Kunda,,576222.0,Udupi
+715.0,2020-03-13,2020-03-27,Uae,Mangalore,15/49,Norvdevamuc,Mangalore,D.K Neerud,Karnataka,574114.0,Udupi
+716.0,2020-03-13,2020-03-27,United Arab Emirates,India (Mangalore),1 2413,Gfhs Street ,Udupi,Udupi,Karnataka,574117.0,Udupi
+717.0,2020-03-13,2020-03-27,Dubai,Mangalore,2-191-2,Palima,Kapu,Udupi,Karnataka,574112.0,Udupi
+718.0,2020-03-13,2020-03-27,Dubai,Mangalore,3 136,76 Badag 4 Bailo ,Korangra,Udupi,Karnataka,576118.0,Udupi
+719.0,2020-03-13,2020-03-27,Dubai,Mangalore,Baidebeteu Post,Kokkarne,,Udupi,Karnataka,576234.0,Udupi
+720.0,2020-03-13,2020-03-27,Dubai,Dubai,-,Kaop,Kaop,Udupi,Karnataka,574106.0,Udupi
+721.0,2020-03-13,2020-03-27,Dubai,Mangalore,9.168,Udiyavar,Pithrodi Post,Udupi,Karnataka,574118.0,Udupi
+722.0,2020-03-13,2020-03-27,Dubai,Mangalore,nisarga,Adarsha Nagar-Brahmavara,Bhramauara,Udupi,Karnataka,576213.0,Udupi
+723.0,2020-03-13,2020-03-27,Dubai,Mangalore,2_15/1,Shanerpura,,Udupi,Karnataka,574115.0,Udupi
+724.0,2020-03-13,2020-03-27,Dxb,Bangalore,-,Kattinger,,Udupi,Karnataka,576180.0,Udupi
+725.0,2020-03-13,2020-03-27,Dubai,Ixe,-,Kattinger,,Udupi,Karnataka,576120.0,Udupi
+726.0,2020-03-13,2020-03-27,Dxb,Ixe,-,Kudrebet,,Udupi,Karnataka,574116.0,Udupi
+727.0,2020-03-13,2020-03-27,Dubai,Ixe,12/210,Shiroor,,Udupi,Karnataka,,Udupi
+728.0,2020-03-13,2020-03-27,Dubai,Mangalore,33/1,Maruthi Nagar Ninjoor Village,Karkala,Udupi,Karnataka,574244.0,Udupi
+729.0,2020-03-13,2020-03-27,Dubai,Mangalore,33/1,Maruthi Nagar Ninjoor Village,Karkala,Udupi,Karnataka,574244.0,Udupi
+730.0,2020-03-13,2020-03-27,Dubai Intl Airport (D*B),Mangalore Intl Airport (I*E),571-2,"Sb (Road, Karnataka)",Karkala,Udupi,Karnataka,574104.0,Udupi
+731.0,2020-03-13,2020-03-27,Uae,Mangalore ,12-77,Lighting Bright Thondubettu,,Udupi,Karnataka,576108.0,Udupi
+732.0,2020-03-13,2020-03-27,Uae,Mangalore ,12-77,Lighting Bright Thondubettu,,Udupi,Karnataka,576108.0,Udupi
+733.0,2020-03-13,2020-03-27,Dubai,Mangalore ,7/48 Z - 22,Kadekar,Udupi,Udupi,Karnataka,576103.0,Udupi
+734.0,2020-03-13,2020-03-27,Dxb,Ixe,Sarakar moo,Katpadi,,Udupi,Karnataka,574115.0,Udupi
+735.0,2020-03-13,2020-03-27,"Dubai, Uae",Mangalore,71 A,Nittur Va,,Udupi,Karnataka,576103.0,Udupi
+736.0,2020-03-13,2020-03-27,Abudhabi,Manglore,Dei Gratia,Kodayoor,Udoina Hit,Udupi,Karnataka,576106.0,Udupi
+737.0,2020-03-13,2020-03-27,Uae,Dubai Terminal - 2,4_90,Palima,,Udupi,Karnataka,574111.0,Udupi
+738.0,2020-03-13,2020-03-27,Dubai,Mangalore India,160 C Thab,Moodube,,Udupi,Karnataka,576120.0,Udupi
+739.0,2020-03-13,2020-03-27,Dubai,Mangalore,4_19,Karkala,,Udupi,Karnataka,574114.0,Udupi
+740.0,2020-03-13,2020-03-27,Dxb,Lxe,117.0,Gango,,Kundar,Karnataka,576210.0,Udupi
+741.0,2020-03-13,2020-03-27,Dubai,Mangalore,4/197,Honglune,Kundapura,Udupi,Karnataka,576217.0,Udupi
+742.0,2020-03-13,2020-03-27,Dubai,Mangalore,3-122,Bijoor,Kundapura,Udupi,Karnataka,576232.0,Udupi
+743.0,2020-03-13,2020-03-27,Avh,Mangalore,-,Sharur,,Udupi,Karnataka,576228.0,Udupi
+744.0,2020-03-13,2020-03-27,Dubai,Mangalore,Nithyanam,Kukknndoo,,Karkala,Karnataka,576117.0,Udupi
+745.0,2020-03-13,2020-03-27,Dubai,Mangalore,-,Kukknndoo,,Udupi Ka,Karnataka,576117.0,Udupi
+746.0,2020-03-13,2020-03-27,Dubai,Mangaluru,2_27,Amasebba,Kunolopur,Udupi,Karnataka,9008624.0,Udupi
+747.0,2020-03-13,2020-03-27,Dubai,Mangaluru,2_27,Amasebba,Kunolopur,Udupi,Karnataka,576228.0,Udupi
+748.0,2020-03-13,2020-03-27,Dubai,Mangaluru,2_27,Amasebba,Kunolopur,Udupi,Karnataka,576227.0,Udupi
+749.0,2020-03-13,2020-03-27,Dammam,Mangalore,Ayesha Manzil,Adi Udupi,Udupi,Udupi,Karnataka,576101.0,Udupi
+750.0,2020-03-13,2020-03-27,Doha,Bangalore,1/119(A),Near Masjid,Kundapura,Udupi,Karnataka,576228.0,Udupi
+751.0,2020-03-13,2020-03-27,Paris/Dubai,"Mangalore,India",Janaki niwas,Pittirody,Udyavana,Udupi,Karnataka,-,Udupi
+752.0,2020-03-13,2020-03-27,Dxb,Blr,8#40,Gousia Mohalla,-,Udupi,Karnataka,-,Udupi
+753.0,2020-03-13,2020-03-27,Dubai,Bangalore,kamala,Balkur,Badaham,Kundapur,Karnataka,-,Udupi
+754.0,2020-03-13,2020-03-27,Dubai,Bangalore,kamala,Balkur,Kundapur,Udupi,Karnataka,-,Udupi
+755.0,2020-03-13,2020-03-27,Dubai,Bangalore,kamala,Balkur,Kundapur,Udupi,Karnataka,-,Udupi
+756.0,2020-03-13,2020-03-27,Dubai,Bangalore,kamala,Badahadi,Balkur,Kundapur,Karnataka,-,Udupi
+757.0,2020-03-13,2020-03-27,Doha,Bangalore,Athrady ,-,-,Udaupi,Karnataka,576107.0,Udupi
+758.0,2020-03-13,2020-03-27,Doha,Bangalore,#3 - 26,Kukkikatte,Udupi,Bangalore,Karnataka,576101.0,Udupi
+759.0,2020-03-13,2020-03-27,Kuwait,India-Banglore,264.0,Baisampalli,,Udupi,Karnataka,576124.0,Udupi
+760.0,2020-03-13,2020-03-27,Doha,-,-,Gangoli,,Udupi,Karnataka,576216.0,Udupi
+761.0,2020-03-13,2020-03-27,Muscat,-,1-7.,Naa Forest Gate,,Udupi,Karnataka,574105.0,Udupi
+762.0,2020-03-13,2020-03-27,Bruneidarussalam,Mangalore,"2-22, shravana nivasa",Edmermelmane,"Udupi, Moodubelle",Udupi,Karnataka,576120.0,Udupi
+763.0,2020-03-13,2020-03-27,Bruneidarussalam,Mangalore,"2-22, shravana nivasa",Edmermelmane,"Udupi, Moodubelle",Udupi,Karnataka,576120.0,Udupi
+764.0,2020-03-13,2020-03-27,Bruneidarussalam,Mangalore,"2-22, shravana nivasa",Edmermelmane,"Udupi, Moodubelle",Udupi,Karnataka,576120.0,Udupi
+765.0,2020-03-13,2020-03-27,Usa,Bangalore,"1005, Regal Woods",Manipal,,Udupi,Karnataka,576104.0,Udupi
+766.0,2020-03-13,2020-03-27,Malabo(Ssg) Equatorial Guinea,Mangalore,#4-8A,Tenkanidiyoor,Udupi,Udupi,Karnataka,576106.0,Udupi
+767.0,2020-03-13,2020-03-27,Kuwait-Baharain,Bangalore,1-102,Anugraha Nilaya Shivapura Post,Karkal,Udupi,Karnataka,576112.0,Udupi
+768.0,2020-03-13,2020-03-27,Sf0,Bangalore,1203.0,Manipal,,Udupi,Karnataka,576104.0,Udupi
+769.0,2020-03-13,2020-03-27,Doha,Bangalore,H No 3-25 (76),Santhosh Nagar Hemmady,Kundapur,Udupi,Karnataka,576230.0,Udupi
+770.0,2020-03-13,2020-03-27,Zurich,Bangalore,D-111,"Ananthnagar, 2Nd Stage","Udupi, Manipal",Manipal,Karnataka,576104.0,Udupi
+771.0,2020-03-13,2020-03-27,Uk,Banglore,-,Simhapuri,-,Kadapa,Andra Pradesh,574001.0,Udupi
+772.0,2020-03-13,2020-03-27,Italy,Banglore,Ambari,Tellar Road,Karkala,Udupi,Karnataka,574104.0,Udupi
+773.0,2020-03-13,2020-03-27,Penang,Banglore Airport,3-121,Herur Village,Uleysi,Brahmavara,Karnataka,576213.0,Udupi
+774.0,2020-03-13,2020-03-27,Dubai,Mangalore,B-block 702,Mission Hspital Road,,Udupi,Karnataka,576101.0,Udupi
+775.0,2020-03-12,2020-03-26,-,-,-,-,-,Udipi,Karnataka,576201.0,Udupi
+776.0,2020-03-12,2020-03-26,-,-,-,-,-,Udipi,Karnataka,576201.0,Udupi
+777.0,2020-03-12,2020-03-26,Stuttgart,Mangalore,4-367E,2Nd Stage Dasharath Nagar,-,Manipal Udupi,Karnataka,576104.0,Udupi
+778.0,2020-03-12,2020-03-26,"Kaula Lampur, Malaysia",Bangalore,80 A,4340Thiniliya 2Nd Main,Doddanagudde,Udvpz,Karanataka,576102.0,Udupi
+779.0,2020-03-12,2020-03-26,"Melbourne, Australia",Bangalore,80A,Jyothi Malaya Kharamasali 2Nd Main,Dodananagudde,Udupi,Karnataka,576102.0,Udupi
+780.0,2020-03-12,2020-03-26,Singapore,Bangalore,3-26 A,Neelakantai Ampair,-,Udupi,Karnataka,576211.0,Udupi
+781.0,2020-03-12,2020-03-26,Jeddah,Bengaluru,360/pa,Nadsal,No,Udupi,Karnataka,574111.0,Udupi
+782.0,2020-03-12,2020-03-26,Dubi,Bangalore,1.71,Bellamapalli,Udupi,Udupi,Karnataka,576124.0,Udupi
+783.0,2020-03-12,2020-03-26,London,Manglaore,3-57/1,Kanennddl,Barkur,Udupi,Karnataka,576210.0,Udupi
+784.0,2020-03-12,2020-03-26,Dubi,Bangalore,I-71,Bellampalli ,Udupi,Udupi,Karnataka,576124.0,Udupi
+785.0,2020-03-12,2020-03-26,Sydney,Bangalore,Anjar house manu smruthi,Padubidri,-,Udupi,Karnataka,574111.0,Udupi
+786.0,2020-03-12,2020-03-26,Dubi,Bangalore,I-71”Amma”,Bannady Village Post,                 -,Udupi,Karnataka,576225.0,Udupi
+787.0,2020-03-12,2020-03-26,Colobo,Mangalore,ROOM 421,S.Chandrashekhar Hotel,Manpal,Udupi,Karnakata,576104.0,Udupi
+788.0,2020-03-12,2020-03-26,K.L,Bangalore,"FLOT NO, 12",Manipal,-,-,Karnataka,576104.0,Udupi
+789.0,2020-03-12,2020-03-26,-,Bangalore,-,"12,Main ",-,Udupi,Karnataka,756104.0,Udupi
+790.0,2020-03-12,2020-03-26,"Kuala Lumpur,Malaysia",Bangalore,COUNTIRY INN,Rajathaor.Road,-,Manipal,Karnataka,576104.0,Udupi
+791.0,2020-03-12,2020-03-26,"Kuala Lumpur,Malaysia",Mangalore,COUNTRYINN,Rajathaor.Road,-,Manipal,Karnataka,576104.0,Udupi
+792.0,2020-03-12,2020-03-26,Colombo,Bangalore,WK SILMA,-,-,-,Karnataka,576213.0,Udupi
+793.0,2020-03-12,2020-03-26,Kathmandu,Bangalore,8-GYE 5)1)A,-,Mahipal,Udupi,Karnakata,576104.0,Udupi
+794.0,2020-03-12,2020-03-26,Dubai U.A.E,Mangalore,3_29,Katapady,Udupi,Udupi,Karnataka,574105.0,Udupi
+795.0,2020-03-12,2020-03-26,Dubai,Manglore,Yedmer Niji,Kattingeri,,Udupi,Karnataka,576120.0,Udupi
+796.0,2020-03-12,2020-03-26,Dubai,Manglore,Flat # 606,Regal Woods Manipal,,Udupi,Karnataka,576104.0,Udupi
+797.0,2020-03-12,2020-03-26,Dubai,Manglore,Famous Vella,City Bus Stand Road,,Udupi,Karnataka,576101.0,Udupi
+798.0,2020-03-12,2020-03-26,Dubai,Mangalore,80-w-,Karkale,Kalohe,Karkala,Karnataka,574104.0,Udupi
+799.0,2020-03-12,2020-03-26,"Kaula Lampur, Malaysia",Bangalore,80 A,4340Thiniliya 2Nd Main,Doddanagudde,Udvpz,Karanataka,576102.0,Udupi
+800.0,2020-03-12,2020-03-26,"Melbourne, Australia",Bangalore,80A,Jyothi Malaya Kharamasali 2Nd Main,Dodananagudde,Udupi,Karnataka,576102.0,Udupi
+801.0,2020-03-12,2020-03-26,Singapore,Bangalore,3-26 A,Neelakantai Ampair,-,Udupi,Karnataka,576211.0,Udupi
+802.0,2020-03-12,2020-03-26,Jeddah,Bengaluru,360/pa,Nadsal,No,Udupi,Karnataka,574111.0,Udupi
+803.0,2020-03-12,2020-03-26,Dubi,Bangalore,1.71,Bellamapalli,Udupi,Udupi,Karnataka,576124.0,Udupi
+804.0,2020-03-12,2020-03-26,London,Manglaore,3-57/1,Kanennddl,Barkur,Udupi,Karnataka,576210.0,Udupi
+805.0,2020-03-12,2020-03-26,Dubi,Bangalore,I-71,Bellampalli ,Udupi,Udupi,Karnataka,576124.0,Udupi
+806.0,2020-03-12,2020-03-26,Sydney,Bangalore,Anjar house manu smruthi,Padubidri,-,Udupi,Karnataka,574111.0,Udupi
+807.0,2020-03-12,2020-03-26,Dubi,Bangalore,I-71”Amma”,Bannady Village Post,                 -,Udupi,Karnataka,576225.0,Udupi
+808.0,2020-03-12,2020-03-26,Dubai,Mangalore,131/2,Moodubelle,-,Udupi,Karnataka,576120.0,Udupi
+809.0,2020-03-12,2020-03-26,Dubai,Mangalore,106 A,Thenkanidiyoor,-,Udupi,Karnataka,576105.0,Udupi
+810.0,2020-03-12,2020-03-26,Dubai(Uae),Mangalore,3-174,Garadimajal,Tenkandiyoor,Udupi,Karnataka,576106.0,Udupi
+811.0,2020-03-12,2020-03-26,Dubai(Uae),Mangalore,1-35,Palimar,Kaup,Udupi,Karnataka,574112.0,Udupi
+812.0,2020-03-12,2020-03-26,Dubai,Mangalore,301/306 Flat No,Car Street,Car Street,Udupi,Karnataka,-,Udupi
+813.0,2020-03-12,2020-03-26,Dubai,Mangalore,4-35,Hariadka,-,Udupi,Karnataka,576113.0,Udupi
+814.0,2020-03-12,2020-03-26,Dubai,Mangalore,B501,"Chanthar Road, Brahmavar",Udupi,Udupi,Karnataka,576213.0,Udupi
+815.0,2020-03-12,2020-03-26,Dubai,Mangalore,11-67D,3Rd Cross Anantha Krishna Nagar,"Kuthpady, Udupi",Udupi,Karnataka,574118.0,Udupi
+816.0,2020-03-12,2020-03-26,Dubai,Mangalore,3-120(E)I Nalanda,Vonthibettu,Hiriadka,Udupi,Karnataka,576113.0,Udupi
+817.0,2020-03-12,2020-03-26,Dubai,Mangalore,D62,Moodubelle,Udupi,Udupi,Karnataka,576120.0,Udupi
+818.0,2020-03-12,2020-03-26,Saudi Arabia Dmman,Mangalore,1-4-148,Masjid Compound,Doddanagudde,Udupi,Karnataka,576102.0,Udupi
+819.0,2020-03-12,2020-03-26,Dammam,Mangalore,"D.no.10-62,1",Kanangi Kodavoor,,Udupi,Karnataka,576136.0,Udupi
+820.0,2020-03-12,2020-03-26,Dammam ,Ixe,2-215(1A4),Majoor,,Udupi,Karnataka,574106.0,Udupi
+821.0,2020-03-12,2020-03-26,Dammam,Mangalore,,Hejmadi,,Udupi,Karnataka,576103.0,Udupi
+822.0,2020-03-12,2020-03-26,Dammam,Mangalore,11/3/74/b,Bannanje,-,Udupi,Karnataka,576101.0,Udupi
+823.0,2020-03-12,2020-03-26,Dammam,Mangalore,136/15,Kaup Uliyar,-,Udupi,Karnataka,574106.0,Udupi
+824.0,2020-03-12,2020-03-26,"Dammam,Ksa","Mangalore, India",1-143,Rajeey Nasar,-,"Brahmavar,Udupi",Karnataka,576213.0,Udupi
+825.0,2020-03-12,2020-03-26,Dammam,Mangalore,-,Shiroor,-,Udupi,Karnataka,576228.0,Udupi
+826.0,2020-03-12,2020-03-26,Dammam,Mangalore,-,Shiroor,-,Udupi,Karnataka,576228.0,Udupi
+827.0,2020-03-12,2020-03-26,Dammam,Mangalore,1-130(2),Manipal,-,Udupi,Karnataka,576107.0,Udupi
+828.0,2020-03-12,2020-03-26,Dmm,Ixe,1-130-2,Masjid Road Athrady,-,Udupi,Karnataka,576123.0,Udupi
+829.0,2020-03-12,2020-03-26,Dammam,Mangalore,C1005,Manipal,District Office Road,Udupi,Karnataka,574139.0,Udupi
+830.0,2020-03-12,2020-03-26,Dammam,Mangalore,6-164,Nejar,-,Udupi,Karnataka,576114.0,Udupi
+831.0,2020-03-12,2020-03-26,Dxb,Ixe,Near milk dairy,Colombe,Bharmahawara,Udupi,Karnataka,576123.0,Udupi
+832.0,2020-03-12,2020-03-26,Dubai-Uae,Mangalore,-,V Harsha T Karad,-,Udupi,Karnataka,576224.0,Udupi
+833.0,2020-03-12,2020-03-26,Dxd,Ixe,Near milk dairy,Colombe,Bharmahawara,Udupi,Karnataka,576123.0,Udupi
+834.0,2020-03-12,2020-03-26,Dxd,Ixe,Near milk dairy,Colombe,Bharmahawara,Udupi,Karnataka,576123.0,Udupi
+835.0,2020-03-12,2020-03-26,Dxd,Ixe,Near milk dairy,Colombe,Bharmahawara,Udupi,Karnataka,576123.0,Udupi
+836.0,2020-03-12,2020-03-26,Dxd,Ixe,Near milk dairy,Colombe,Bharmahawara,Udupi,Karnataka,576123.0,Udupi
+837.0,2020-03-12,2020-03-26,Dubai,Mangalore,5-45,Katapady,Udupi,Udupi,Karnataka,574105.0,Udupi
+838.0,2020-03-12,2020-03-26,Dubai,Mangalore,5-45,Katapady,Udupi,Udupi,Karnataka,574105.0,Udupi
+839.0,2020-03-12,2020-03-26,Dubai-Uae,Mangalore,3-34-moodabettu,Katapadi,Udupi,Udupi,Karnataka,574105.0,Udupi
+840.0,2020-03-12,2020-03-26,Dubai,Mangalore,11-219,Manchakal,Shirva,Udupi,Karnataka,-,Udupi
+841.0,2020-03-12,2020-03-26,Dubai-Uae,Mangalore,2-135 Zulekha maskow,Yanagudde,Udupi,Udupi,Karnataka,574105.0,Udupi
+842.0,2020-03-12,2020-03-26,Dubai,Mangalore,,Janaki Nivas,Udyavar,Udupi,Karnataka,576101.0,Udupi
+843.0,2020-03-12,2020-03-26,Dubai,Mangalore,3-B,Shubhanidhi Colony,Hanglore,Kundapura,Karnataka,576217.0,Udupi
+844.0,2020-03-12,2020-03-26,Dubai,Mangalore,3-B,Shubhanidhi Colony,Hanglore,Kundapura,Karnataka,576217.0,Udupi
+845.0,2020-03-12,2020-03-26,Dubai,Mangalore,3-B,Shubhanidhi Colony,Hanglore,Kundapura,Karnataka,576217.0,Udupi
+846.0,2020-03-12,2020-03-26,Dubai,Mangalore,3-B,Shubhanidhi Colony,Hanglore,Kundapura,Karnataka,576217.0,Udupi
+847.0,2020-03-12,2020-03-26,Dubai,Mangalore,SU-3,Soolkudru,Pandeswara/Sasthan,Udupi,Karnataka,576226.0,Udupi
+848.0,2020-03-12,2020-03-26,Dubai,Mangalore,7/89,Peroloor,-,Udupi,Karnataka,576124.0,Udupi
+849.0,2020-03-12,2020-03-26,Dubai,Mangalore,2-302,Nitte,Karkala,Udupi,Karnataka,574111.0,Udupi
+850.0,2020-03-12,2020-03-26,Dubai,Mangalore,108.0,Chandranagara,Udupi,Kaup,Karnataka,-,Udupi
+851.0,2020-03-12,2020-03-26,Dubai,Mangalore,-,Karkala,-,Udupi,Karnataka,576121.0,Udupi
+852.0,2020-03-12,2020-03-26,Dubai,Mangalore,-,Barkur,-,Udupi,Karnataka,-,Udupi
+853.0,2020-03-12,2020-03-26,Dubai,India,2-127,Muloor,-,Udupi,Karnataka,574117.0,Udupi
+854.0,2020-03-12,2020-03-26,Dubai,India,2-127,Muloor,-,Udupi,Karnataka,574117.0,Udupi
+855.0,2020-03-12,2020-03-26,Dubai,Mangalore,SU-3,Soolkudru,Pandeshwara,Udupi,Karnataka,576226.0,Udupi
+856.0,2020-03-12,2020-03-26,Dubai,Mangalore,16-164-5,Shirva,-,Udupi,Karnataka,574116.0,Udupi
+857.0,2020-03-12,2020-03-26,Dubai,Mangalore,Samanvay Hotel,Near Govinda Kalyana Manipal,Kinni Mulki,Udupi,Karnataka,576101.0,Udupi
+858.0,2020-03-12,2020-03-26,Dubai,Xie,3-122©,Muloor,-,Udupi,Karnataka,574117.0,Udupi
+859.0,2020-03-12,2020-03-26,Dubai,Mangalore,"A-17,bedu badi,pada",Kaup,-,Udupi,Karnataka,574106.0,Udupi
+860.0,2020-03-12,2020-03-26,Dubai,Mangalore,Mathias villa,Gundry House,Mattar Post,Shirva,Karnataka,574116.0,Udupi
+861.0,2020-03-12,2020-03-26,Dubai,Mangalore,9-173-c,Kalunkaya,Pithrodi,Udupi,Karnataka,574118.0,Udupi
+862.0,2020-03-12,2020-03-26,Dubai,Mangalore,9-173-c,Kalunkaya,Pithrodi,Udupi,Karnataka,574118.0,Udupi
+863.0,2020-03-12,2020-03-26,Dubai,Mangalore,9-173-c,Kalunkaya,Pithrodi,Udupi,Karnataka,574118.0,Udupi
+864.0,2020-03-12,2020-03-26,Dubai,Mangalore,ashok nivas,Nandikoor,-,Udupi,Karnataka,-,Udupi
+865.0,2020-03-12,2020-03-26,Dubai,Mangalore,ashok nivas,Nandikoor,-,Udupi,Karnataka,-,Udupi
+866.0,2020-03-12,2020-03-26,Muscat-Oman,Mangalore,3-11-1 palli,Karkala,Palli,Udupi,Karnataka,574244.0,Udupi
+867.0,2020-03-12,2020-03-26,Muscat,Mangalore,3_8,Belli Moodubelle,Udupi,Udupi,Karnataka,57620.0,Udupi
+868.0,2020-03-12,2020-03-26,Muscat,Mangalore,-,Moodubelle,-,Udupi,Karnataka,-,Udupi
+869.0,2020-03-12,2020-03-26,Muscat,Mangalore,PL 351,Palli/Nirpalla,Karkala,Udupi,Karnataka,574244.0,Udupi
+870.0,2020-03-12,2020-03-26,Muscat,Mangalore,-,Palli/Nirpalla,Karkala,Udupi,Karnataka,874244.0,Udupi
+871.0,2020-03-12,2020-03-26,Muscat,Mangalore,321.0,Kukkundur,Karkala,Udupi,Karnataka,576117.0,Udupi
+872.0,2020-03-12,2020-03-26,"Muscat,Oman",Mangalore,-,Bukhry Colony Shiroor,-,Udupi,Karnataka,576228.0,Udupi
+873.0,2020-03-12,2020-03-26,Muscat,Mangalore,1-43(8),Padubidre Nadsal,-,Udupi,Karnataka,574111.0,Udupi
+874.0,2020-03-12,2020-03-26,Muscat,Mangalore,B-303,Ideal Appartment,Eshwar Nagar North,Manipal,Karnataka,576104.0,Udupi
+875.0,2020-03-12,2020-03-26,Mct,Ixe,4-74(08),Kabyadi House,Udupi,Udupi,Karnataka,574116.0,Udupi
+876.0,2020-03-12,2020-03-26,Mct,Ixe,4-74(08),Kabyadi House,Udupi,Udupi,Karnataka,574116.0,Udupi
+877.0,2020-03-12,2020-03-26,Muscat,Mangalore,#5-108,Sedipattla House,Bantakal Post,Udupi,Karnataka,574115.0,Udupi
+878.0,2020-03-12,2020-03-26,Mct,Ixe,4-37,Kattingeri,Udupi,Udupi,Karnataka,576120.0,Udupi
+879.0,2020-03-12,2020-03-26,Mct,Ixe,2-84,Manchettu House,Udupi,Udupi,Karnataka,576120.0,Udupi
+880.0,2020-03-12,2020-03-26,Mct,Ixe,4-74(08),Kabyadi House,Udupi,Udupi,Karnataka,574116.0,Udupi
+881.0,2020-03-12,2020-03-26,Muscat,Mangalore,3-118/1,Dendoorkatte,Udupi,Udupi,Karnataka,576120.0,Udupi
+882.0,2020-03-12,2020-03-26,Muscat,Mangalore,1-126,Pilar,-,Udupi,Karnataka,574114.0,Udupi
+883.0,2020-03-12,2020-03-26,Muscat,Mangalore,-,"Mudubettu,Udupi",Malpe,Udupi,Karnataka,576116.0,Udupi
+884.0,2020-03-12,2020-03-26,Muscat,Mangalore,13-2-29,Covri Bak Road,Udupi,Udupi,Karnataka,576101.0,Udupi
+885.0,2020-03-12,2020-03-26,Muscat ,Mangalore,43953.0,Kavrady Kundapura,-,Udupi,Karnataka,576211.0,Udupi
+886.0,2020-03-12,2020-03-26,Muscat ,Mangalore,5- 2,Kaurady Kundapura,-,Udupi,Karnataka,576273.0,Udupi
+887.0,2020-03-12,2020-03-26,Muscat ,Mangalore,Flat #204,Ferry Road,Kundapura,Udupi,Karnataka,576201.0,Udupi
+888.0,2020-03-12,2020-03-26,Muscat ,Mangalore,H-NO-2-173 A2,Kalyan Nagar,-,Udupi,Karnataka,576101.0,Udupi
+889.0,2020-03-12,2020-03-26,Muscat ,Mangalore,H-NO-2B 52,Indira Nagar,-,Udupi,Karnataka,576101.0,Udupi
+890.0,2020-03-12,2020-03-26,Oman,Mangalore,battussaalam house,Kandiur J.M Street,Kundapura,Udupi,Karnataka,576211.0,Udupi
+891.0,2020-03-12,2020-03-26,Muscat,Mangalore,-,Kavrady Kundapura,-,Udupi,Karnataka,576273.0,Udupi
+892.0,2020-03-12,2020-03-26,Muscat,Mangalore,-,Kavrady Kundapura,-,Udupi,Karnataka,576211.0,Udupi
+893.0,2020-03-12,2020-03-26,Muscat,Mangalore,d no 5-228,Marne/Ajekar,Karkaza,Udupi,Karnataka,574101.0,Udupi
+894.0,2020-03-12,2020-03-26,Dubai,Mangalore(Ixe),-,Keerthi Nivas,(Shirva)Kalathur,Udupi,Karnataka,574135.0,Udupi
+895.0,2020-03-12,2020-03-26,Dubai,"Mangalore, India",25-50A1,"Moodbettu, Kadavar",Udupi,Udupi,Karnataka,576106.0,Udupi
+896.0,2020-03-12,2020-03-26,Dubai,"Mangalore, India",-,Harady,-,Udupi,Karnataka,576213.0,Udupi
+897.0,2020-03-12,2020-03-26,Dubai,"Mangalore, India",3-58,"Ambadi Village, Post-Katapad",-,Udupi,Karnataka,574105.0,Udupi
+898.0,2020-03-12,2020-03-26,Uae,"Mangalore, India",6-72/2,Padubidri,Nadsal,Udupi,Karnataka,574111.0,Udupi
+899.0,2020-03-12,2020-03-26,Dubai,Mangalore,4-157,Mallar,    -,Udupi,Karnataka,574106.0,Udupi
+900.0,2020-03-12,2020-03-26,24-06-2019,Dubai, -,  -,    -,Udupi,Karnataka, -,Udupi
+901.0,2020-03-12,2020-03-26,Dubai,Mangalore,805.0,Mandavi,Achropolis,Udupi,Karnataka, -,Udupi
+902.0,2020-03-12,2020-03-26,Rasal Khaiwah,Mangalore,1-72,Beloor,Konabage,Kundapura,Karnataka,576221.0,Udupi
+903.0,2020-03-12,2020-03-26,Dubai,Mangalore,7-21A,South Sulthan Road Hejamady,,Udupi,Karnataka,574103.0,Udupi
+904.0,2020-03-12,2020-03-26,Dubai,Mangalore,Sanjaya,Kallya Village ,,Udupi,Karnataka,574110.0,Udupi
+905.0,2020-03-12,2020-03-26,Dubai,Mangalore,Hno 5-81,Shankarpura,Udupi,Udupi,Karnataka,574115.0,Udupi
+906.0,2020-03-12,2020-03-26,Dubai,Mangalore,4 24,Basrur,Kundapur,Udupi,Karnataka,576211.0,Udupi
+907.0,2020-03-12,2020-03-26,Dubai,Mangalore,NEWCOLONY108,Shiruru,-,Udupi,Karnataka,5762248.0,Udupi
+908.0,2020-03-12,2020-03-26,Dubai,Mangalore,2- 108,Badakere,Kundapur,Udupi,Karnataka,576224.0,Udupi
+909.0,2020-03-12,2020-03-26,Dubai,Mangalore,2- 108,Badakere,Kundapur,Udupi,Karnataka,576224.0,Udupi
+910.0,2020-03-12,2020-03-26,Dubai,Mangalore,2- 108,Badakere,Kundapur,Udupi,Karnataka,576224.0,Udupi
+911.0,2020-03-12,2020-03-26,Dubai,Mangalore,2- 108,Badakere,Kundapur,Udupi,Karnataka,576224.0,Udupi
+912.0,2020-03-12,2020-03-26,Dubai,Mangalore,D 47,Avaral,Palimar,Udupi,Karnataka,574103.0,Udupi
+913.0,2020-03-12,2020-03-26,Dubai,Mangalore,4- 15,Basrur,Kundapura,Udupi,Karnataka,576211.0,Udupi
+914.0,2020-03-12,2020-03-26,Dubai,Mangalore,4- 15,Basrur,Kundapura,Udupi,Karnataka,576211.0,Udupi
+915.0,2020-03-12,2020-03-26,Dubai,Mangalore,4- 15,Basrur,Kundapura,Udupi,Karnataka,576211.0,Udupi
+916.0,2020-03-12,2020-03-26,Dubai,Mangalore,no -4-76 aribailu,"Kirimanjeshwar, Byndoor",-,Udupi,Karnataka,576253.0,Udupi
+917.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,3-108,Thenkar Guttu,Padoor,Udupai,Karnataka,Udupi
+918.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Manipal Insrtittue Tech,-,Manipal,Udupai,Karnataka,Udupi
+919.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,1 67  1,Revala,Kakkala,Udupai,Karnataka,Udupi
+920.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Shri Laitha Nivas,Kannan Road,Kakkala,Udupai,Karnataka,Udupi
+921.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Shri Laitha Nivas,Kannan Road,Kakkala,Udupai,Karnataka,Udupi
+922.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Shri Laitha Nivas,Kannan Road,Kakkala,Udupai,Karnataka,Udupi
+923.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,"3 13, Sunil ",Dream House Streeth,Brahmapur,Udupai,Karnataka,Udupi
+924.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Samanvay Hotel,Near Govinda Kalayana Mantapa,Kinnimulki,Udupi,Karnataka,Udupi
+925.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Samanvay Hotel,Near Govinda Kalayana Mantapa,Kinnimulki,Udupi,Karnataka,Udupi
+926.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,Samanvay Hotel,Near Govinda Kalayana Mantapa,Kinnimulki,Udupi,Karnataka,Udupi
+927.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,3 226,Gujjadi,Kundapur,Udupi,Karnataka,Udupi
+928.0,2020-03-11,2020-03-25,"Abu Dhabi, Uae",Mangalore,-,3 146,Halmeer House ,Kundapur,Udupi,Karnataka,Udupi
+929.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,2 19 2,Amma Nilaya,Marne,Udupi,Karnataka,Udupi
+930.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,2 19 2,Amma Nilaya,Marne,Udupi,Karnataka,Udupi
+931.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,10 188,Padu Thomas,Hoode,Udupi,Karnataka,Udupi
+932.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,10 188,Padu Thomas,Hoode,Udupi,Karnataka,Udupi
+933.0,2020-03-11,2020-03-25,"Dubai, Uae",Mangalore,-,10 188,Podu Thonse,Hoode,Udupi,Karnataka,Udupi
+934.0,2020-03-11,2020-03-25,Dubai,Mangalore,"66, Ananthanagar",Near Madhava Kripa School,Manipal ,Udupi,Karnataka,576104.0,Udupi
+935.0,2020-03-11,2020-03-25,Dubai,Mangalore,"66, Ananthanagar",Near Madhava Kripa School,Manipal ,Udupi,Karnataka,576104.0,Udupi
+936.0,2020-03-11,2020-03-25,Dubai,Mangalore,10\86,Shironi,-,Udupi,Karnataka,576228.0,Udupi
+937.0,2020-03-11,2020-03-25,Dubai,Mangalore,2_11,Sastan,Brahmavar,Udupi,Karnataka,576226.0,Udupi
+938.0,2020-03-11,2020-03-25,Dubai,Mangalore,Sri Laxmi Kripa,Indrali Temple Road,Kunjibettu,Udupi,Karnataka,576102.0,Udupi
+939.0,2020-03-11,2020-03-25,Dubai,Mangalore,Ashirvad,Alevoor,-,Udupi,Karnataka,574133.0,Udupi
+940.0,2020-03-11,2020-03-25,Dubai,Mangalore,Ashirvad,Alevoor,-,Udupi,Karnataka,574133.0,Udupi
+941.0,2020-03-11,2020-03-25,Dubai,Mangalore,Saldanha Villa,Kuntibail Miyar,Karkala,Udupi,Karnataka,574107.0,Udupi
+942.0,2020-03-11,2020-03-25,Dubai,Mangalore,"601, Pragathi Pride",Alevoor Road,-,Manipal ,Karnataka,576104.0,Udupi
+943.0,2020-03-11,2020-03-25,Mangalore,Dubai,Kunjibettu post 1-24,Shivalli Grama,-,Udupi,Karnataka,576102.0,Udupi
+944.0,2020-03-11,2020-03-25,Dubai,Mangalore,I-64,Uchila,-,Udupi,Karnataka,574117.0,Udupi
+945.0,2020-03-11,2020-03-25,Dubai,Mangalore,Dno-5-116,Moodabettu Shankeradura,-,Udupi,Karnataka,574115.0,Udupi
+946.0,2020-03-11,2020-03-25,Sharjah,Mangalore,207.0,Varamballi,Brahmavar,Udupi,Karnataka,576213.0,Udupi
+947.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Mundkur,-,Udupi,Karnataka,576121.0,Udupi
+948.0,2020-03-11,2020-03-25,Dubai,Mangalore,2-420(4),Garadimajol,Kelarkalabetty,Udupi,Karnataka,576105.0,Udupi
+949.0,2020-03-11,2020-03-25,Dubai,Mangalore,2-420(4),Garadimajol,Kelarkalabetty,Udupi,Karnataka,576105.0,Udupi
+950.0,2020-03-11,2020-03-25,Abu Dhabi,Mangalore,SAM LAYOUT NIYASA ,Kanangi Rd. Hiragana Post,Karala,Udupi,Karnataka,576117.0,Udupi
+951.0,2020-03-11,2020-03-25,Abu Dhabi,Mangalore,11-62,Kodayoor,Udupi,Udupi,Karnataka,576106.0,Udupi
+952.0,2020-03-11,2020-03-25,Bahrain,Mangalore,190.0,Neramballi,Kundapura,Udupi,Karnataka,576222.0,Udupi
+953.0,2020-03-11,2020-03-25,Bahrain,Mangalore,1-130,Baikady,,Udupi,Karnataka,576213.0,Udupi
+954.0,2020-03-11,2020-03-25,Bahrain,Mangalore,,Neramballi,Kundapura,Udupi,Karnataka,576222.0,Udupi
+955.0,2020-03-11,2020-03-25,Bahrain,Mangalore,3-135,Bajageli,Udupi,Udupi,Karnataka,574122.0,Udupi
+956.0,2020-03-11,2020-03-25,Bahrain,Mangalore,8.0,Uppuar,Jathabettu,Udupi,Karnataka,577170.0,Udupi
+957.0,2020-03-11,2020-03-25,Bahrain,Mangalore,9740122575.0,Miyar Karkala,Udupi,Udupi,Karnataka,574104.0,Udupi
+958.0,2020-03-11,2020-03-25,Bahrain,Mangalore,8861479799.0,Udupi,Kundapura,Udupi,Karnataka,576212.0,Udupi
+959.0,2020-03-11,2020-03-25,Bahrain,Mangalore,9611544801.0,Bagaghbettu,Udupi,Udupi,Karnataka,2758116.0,Udupi
+960.0,2020-03-11,2020-03-25,Bahrain,Mangalore,2808.0,Aithal Bettu Road,Kundapura,Udupi,Karnataka,576222.0,Udupi
+961.0,2020-03-11,2020-03-25,Bahrain,Mangalore,"4-25, 8th cross",Hemmdai,Kundapura,Udupi,Karnataka,576210.0,Udupi
+962.0,2020-03-11,2020-03-25,Bahrain,Mangalore,,Karkala Mitar,Udupi,Udupi,Karnataka,,Udupi
+963.0,2020-03-11,2020-03-25,Bahrain,Mangalore,1/58,Mogebettu,Nooji,Udupi,Karnataka,576211.0,Udupi
+964.0,2020-03-11,2020-03-25,Bahrain,Mangalore,1/58,Mogebettu,Nooji,Udupi,Karnataka,576211.0,Udupi
+965.0,2020-03-11,2020-03-25,Bahrain,Mangalore,1-120,Uppinkote,Yarambally,Bramavar,Karnataka,576213.0,Udupi
+966.0,2020-03-11,2020-03-25,Bahrain,Mangalore,2-2-64,6Th Cross Layout,Kolambay,Udupi,Karnataka,576101.0,Udupi
+967.0,2020-03-11,2020-03-25,Bahrain,Mangalore,2-2-64,6Th Cross Layout,Kolambay,Udupi,Karnataka,576101.0,Udupi
+968.0,2020-03-11,2020-03-25,Bahrain,Mangalore,2-2-64,6Th Cross Layout,Kolambay,Udupi,Karnataka,576101.0,Udupi
+969.0,2020-03-11,2020-03-25,Bahrain,Mangalore,1/58,Mogebettu Beloor,Nooji,Udupi,Karnataka,576211.0,Udupi
+970.0,2020-03-11,2020-03-25,Bahrain,Mangalore,SHANTHIKERE,Belman,,Udupi,Karnataka,676111.0,Udupi
+971.0,2020-03-11,2020-03-25,Bahrain,Mangalore,FAVOURITE HOUSE,N.S Road,Hejamady,Udupi,Karnataka,574103.0,Udupi
+972.0,2020-03-11,2020-03-25,Bahrain,Mangalore,FAVOURITE HOUSE,N.S Road,Hejamady,Udupi,Karnataka,574103.0,Udupi
+973.0,2020-03-11,2020-03-25,Bahrain,Mangalore,16-158,"Sena Manzil, Noor Masjid Rd.",Shirva,Udupi,Karnataka,574116.0,Udupi
+974.0,2020-03-11,2020-03-25,Bahrain,Mangalore,16-158,"Sena Manzil, Noor Masjid Rd.",Shirva,Udupi,Karnataka,574116.0,Udupi
+975.0,2020-03-11,2020-03-25,Bahrain,Mangalore,FAVOURITE HOUSE,N.S Road,Hejamady,Udupi,Karnataka,574103.0,Udupi
+976.0,2020-03-11,2020-03-25,Bahrain,Mangalore,MELMANE HOUSE,Kombettu N.S Road,Hejamady,Udupi,Karnataka,574103.0,Udupi
+977.0,2020-03-11,2020-03-25,Bahrain,Mangalore,,Possalla House,Karkala South Kanara,Udupi,Karnataka,574114.0,Udupi
+978.0,2020-03-11,2020-03-25,Bahrain,Mangalore,9945324857.0,Karnataka,Udupi,Udupi,Karnataka,576224.0,Udupi
+979.0,2020-03-11,2020-03-25,Bahrain,Mangalore,#24-34A,Moodabetta,Kodavoor Post,Udupi,Karnataka,576106.0,Udupi
+980.0,2020-03-11,2020-03-25,Bahrain,Mangalore,1-35,Manolosethi,Kundapura,Udupi,Karnataka,576223.0,Udupi
+981.0,2020-03-11,2020-03-25,Bahrain,Mangalore,238-1,Varamballi,Brahmavara,Udupi,Karnataka,576213.0,Udupi
+982.0,2020-03-11,2020-03-25,Bahrain,Mangalore,3-105A,Hijana-House,"Chithury Post, Kundapura",Udupi,Karnataka,576299.0,Udupi
+983.0,2020-03-11,2020-03-25,Bahrain,Mangalore,25,Kundapura,Kundapura,Udupi,Karnataka,576233.0,Udupi
+984.0,2020-03-11,2020-03-25,Bahrain,Mangalore,1-125,Japtht,Kundapura,Udupi,Karnataka,576221.0,Udupi
+985.0,2020-03-11,2020-03-25,Bahrain,Mangalore,KEDIGEMANE,Kambadakone Post,Kundapura,Udupi,Karnataka,576219.0,Udupi
+986.0,2020-03-11,2020-03-25,Bahrain,Mangalore,7338105539,Basrur,Kundapura,Udupi,Karnataka,576211.0,Udupi
+987.0,2020-03-11,2020-03-25,Bahrain,Mangalore,MAATHRA SHREE,Subhas Nagar Kurkal Village,,Udupi,Karnataka,574105.0,Udupi
+988.0,2020-03-11,2020-03-25,Bahrain,Mangalore,11-172-B,Shazheenanzil Kannukere,Kundapura,Udupi,Karnataka,576231.0,Udupi
+989.0,2020-03-11,2020-03-25,Dubai,Mangalore,,Pilar,Talamec,Udupi,Karnataka,574116.0,Udupi
+990.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Kavrady,Kandlur,Kundapur,Karnataka,576211.0,Udupi
+991.0,2020-03-11,2020-03-25,Dubai,Mangalore,10-56B,Kommanna,Udupi,Udupi,Karnataka,576115.0,Udupi
+992.0,2020-03-11,2020-03-25,Dubai,Mangalore,5-68,Nh66,Katapadi,Udupi,-,574105.0,Udupi
+993.0,2020-03-11,2020-03-25,Dubai,Mangalore,hotel summer park,Vidyasamndra,-,Udupi,Karnataka,576101.0,Udupi
+994.0,2020-03-11,2020-03-25,Dubai,Mangalore,hotel summer park,Vidyasamndra,-,Udupi,Karnataka,576101.0,Udupi
+995.0,2020-03-11,2020-03-25,Dubai,Mangalore,hotel summer park,Vidyasamndra,-,Udupi,Karnataka,576101.0,Udupi
+996.0,2020-03-11,2020-03-25,Dubai,Mangalore,hotel summer park,Vidyakmukta,-,Udupi,Karnataka,676101.0,Udupi
+997.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Karangrapady,Karangrapady,Udupi,Karnataka,574118.0,Udupi
+998.0,2020-03-11,2020-03-25,Dubai,India,2/1,-,Kundapur,Udupi,Karnataka,576212.0,Udupi
+999.0,2020-03-11,2020-03-25,Dubai,Mangalore,11-27,Church Road Gangdli,Kundapur,Udupi,Karnataka,576216.0,Udupi
+1000.0,2020-03-11,2020-03-25,Dubai,Mangalore,258/3,Mauinuatte,Kundapura,Udupi,Karnataka,576833.0,Udupi
+1001.0,2020-03-11,2020-03-25,Dubai,Mangalore,208 1A,Mavinakatte,Kundapura,Udupi,Karnataka,576283.0,Udupi
+1002.0,2020-03-11,2020-03-25,India ,India,18-6,Garda House,Udupi,Udupi,Karnataka,576106.0,Udupi
+1003.0,2020-03-11,2020-03-25,Dubai,Mangalore,flat#302,Blamagiri,-,Udupi,Karnataka,576101.0,Udupi
+1004.0,2020-03-11,2020-03-25,Dubai,Mangalore,78.0,Kandur,Kandoor,Udupi,Karnataka,576240.0,Udupi
+1005.0,2020-03-11,2020-03-25,Dubai,India,KUDI 82,Karntka Udupi,Udupi,Udupi,Karnataka,576113.0,Udupi
+1006.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,-,Kandapura,Udupi,Karnataka,-,Udupi
+1007.0,2020-03-11,2020-03-25,Dubai,Mangalore,12-132,Paduthouse,Udupi,Udupi,Karnataka,576115.0,Udupi
+1008.0,2020-03-11,2020-03-25,Dubai,Mangalore,4-1,"Opp Vireshwara Temple, Gangoli",-,Udupi,Karnataka,576216.0,Udupi
+1009.0,2020-03-11,2020-03-25,Dubai,Mangalore,5-127A,Indran Crossing,Kunjibuttu Post,Udupi,Karnataka,576102.0,Udupi
+1010.0,2020-03-11,2020-03-25,Dubai,Mangalore,kanya maria,"Marine Post, ",-,Udupi,Karnataka,576120.0,Udupi
+1011.0,2020-03-11,2020-03-25,Dubai,Mangalore,IN222,St Anthony Chapel Road,-,Udupi,Karnataka,576222.0,Udupi
+1012.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Shiruru,-,Kanthapurm,Karnataka,576228.0,Udupi
+1013.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Herur,Brahmavar,Udupi,Karnataka,576213.0,Udupi
+1014.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Herur,Brahman,Udupi,Karnataka,576213.0,Udupi
+1015.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Herur,Brahman,Udupi,Karnataka,576213.0,Udupi
+1016.0,2020-03-11,2020-03-25,Dubai,Mangalore,-,Herur,Brahman,Udupi,Karnataka,576213.0,Udupi
+1017.0,2020-03-11,2020-03-25,Dubai,India,-,Kaup,Kaup,Udupi,Karnataka,574106.0,Udupi
+1018.0,2020-03-11,2020-03-25,Dubai,Mangalore,"""kala shri""",Parampalli,-,Udupi,Karnataka,576225.0,Udupi
+1019.0,2020-03-11,2020-03-25,Dubai,Mangalore,9-3-126,Koladpet,Udupi,Udupi,Karnataka,576101.0,Udupi
+1020.0,2020-03-11,2020-03-25,Dubai,Mangalore,9-3-126,Koladpet,Udupi,Udupi,Karnataka,576101.0,Udupi
+1021.0,2020-03-11,2020-03-25,Dubai,Mangalore,9-3-126,Koladpet,Koladapet,Udupi,Karnataka,576101.0,Udupi
+1022.0,2020-03-11,2020-03-25,Dubai,Mangalore,2-140,Billadi,Udupi,Udupi,Karnataka,576223.0,Udupi
+1023.0,2020-03-11,2020-03-25,Dubai,Mangalore,Siri Nilaya,Bellangale,Post Kattingeri,"Via Moodubelle , Udupi",Karnataka,576120.0,Udupi
+1024.0,2020-03-11,2020-03-25,Dubai,Mangalore,Siri Nilaya,Bellangale,Post Kattingeri,"Via Moodubelle , Udupi",Karnataka,576120.0,Udupi
+1025.0,2020-03-11,2020-03-25,Dubai,Mangalore,Siri Nilaya,Bellangale,Post Kattingeri,"Via Moodubelle , Udupi",Karnataka,576120.0,Udupi
+1026.0,2020-03-11,2020-03-25,Dubai,Mangalore,Siri Nilaya,Bellangale,Post Kattingeri,"Via Moodubelle , Udupi",Karnataka,576120.0,Udupi
+1027.0,2020-03-11,2020-03-25,Dubai,Mangalore,Deepraj Nivas,"Mallar, Kaup Udupi","Kaup, Koppalanyadi",Udupi,Karnataka,574106.0,Udupi
+1028.0,2020-03-11,2020-03-25,Dubai,Mangalore,Deepraj Nivas,"Mallar, Kaup Udupi","Kaup, Koppalanyadi",Udupi,Karnataka,574106.0,Udupi
+1029.0,2020-03-11,2020-03-25,"Denver,Usa",Bengalore,389/VI,Chikkansah Road,Kundapura,Udupi,Karnataka,576201.0,Udupi
+1030.0,2020-03-11,2020-03-25,Afghanistan,Bangalore,5-4-87A,Mission Compound,Udupi,Udupi,Karnataka,576101.0,Udupi
+1031.0,2020-03-11,2020-03-25,Kuwait,Mangalore,Tamanah house,Eshwar Nagar ,Manipal ,Udupi,Karnataka,576104.0,Udupi
+1032.0,2020-03-11,2020-03-25,"Oman,Sll",Mangalore,"105,vishwas",Land Mark,Udupi,Udupi,Karnataka,576101.0,Udupi
+1033.0,2020-03-11,2020-03-25,Abu Dhabi Uae,Bangalore,darus salam,Parampalli Village ,Saligrama ,Udupi,Karnataka,576225.0,Udupi
+1034.0,2020-03-11,2020-03-25,Melbourne,Bangalore,Anand Soudha,Main Road,Karkala,Udupi District,Karnataka ,574104.0,Udupi
+1035.0,2020-03-11,2020-03-25,Doha,Bangalore,1 - / 41,Mudoor,Jadkal,Kundapur,Karnataka,576253.0,Udupi
+1036.0,2020-03-11,2020-03-25,Qatar,India,34-kodi,Kalyoli,Pasti Baidebeethu,Udupa,Karanataka,576234.0,Udupi
+1037.0,2020-03-11,2020-03-25,Colombo,Bengaluru,1/175C3,8Th Main B M Nagar,Udupi,Udupi,Karnataka,576102.0,Udupi
+1038.0,2020-03-11,2020-03-25,Colombo,Bengaluru,1/175C3,8Th Main B M Nagar,Udupi,Udupi,Karnataka,576102.0,Udupi
+1039.0,2020-03-11,2020-03-25,Qatar-Doha,Bangalore,"S03, LAPT tower",Kalsanka,-,Udupi,Karnataka,540101.0,Udupi
+1040.0,2020-03-11,2020-03-25,Oman,Bangalore,Fathima Manzil Karadral,Kamp,-,Udupi,Karnataka,574106.0,Udupi
+1041.0,2020-03-11,2020-03-25,Doha,Bangalore,I-223,Parampalli,-,Udupi,Karnataka,576225.0,Udupi
+1042.0,2020-03-11,2020-03-25,Singapore,Bangalore,"B 520, NIH - B - Block",Manipal Drive,Manipal,Udupi,Karnataka,576104.0,Udupi
+1043.0,2020-03-11,2020-03-25,Sydney,Bangalore,-,Handadi Thaenkumar,"Handadi Village, Brahamavar",Udupi,Karnataka,576213.0,Udupi
+1044.0,2020-03-11,2020-03-25,Sydney,Bangalore,-,Handadi Thaenkumar,"Handadi Village, Brahamavar",Udupi,Karnataka,576213.0,Udupi
+1045.0,2020-03-11,2020-03-25,London,Bangalore,A-902,Royal Embassy Apartment,-,Manipal,Karnataka,576104.0,Udupi
+1046.0,2020-03-11,2020-03-25,London,Bangalore,A-902,Royal Embassy Apartment,Manipal,-,Karnataka,576104.0,Udupi
+1047.0,2020-03-11,2020-03-25,London,Bangalore,A-902,Royal Embassy Apartment,-,Manipal,Karnataka,576104.0,Udupi
+1048.0,2020-03-11,2020-03-25,Kuwait,Bangalore,4-107 A5,Goliratte ,Herga,Udupi,Karnataka,576107.0,Udupi
+1049.0,2020-03-11,2020-03-25,Dammam,Mangalore,8-101 (A),Rajaji Road,-,Udupi,Karnataka,576113.0,Udupi
+1050.0,2020-03-10,2020-03-24,Oman,Mangalore,Gudde House,Padubidri,-,Udupi,Karnataka,574111.0,Udupi
+1051.0,2020-03-10,2020-03-24,Muscat,Mangalore,3-169,Alevoor,Udupi,Udupi,Karnataka,574118.0,Udupi
+1052.0,2020-03-10,2020-03-24,Muscat,Mangalore,5.0,Yashawi Pride Korankrapady,Bailor,Udupi,Karnataka,576101.0,Udupi
+1053.0,2020-03-10,2020-03-24,Oman,Mangalore,12-1-124,K.M.Marg,-,Udupi,Karnataka,576101.0,Udupi
+1054.0,2020-03-10,2020-03-24,Oman,Mangalore,5-178,Indrali,-,Udupi,Karnataka,576102.0,Udupi
+1055.0,2020-03-10,2020-03-24,Muscat-Oman,Mangalore,265.0,Diog Ferry Road,Kundapur,Udupi,Karnataka,576201.0,Udupi
+1056.0,2020-03-10,2020-03-24,Oman,Mangalore,311 Flat No,Kaup,-,Udupi,Karnataka,-,Udupi
+1057.0,2020-03-10,2020-03-24,Muscat,Mangalore,-,Hirgana ,Karkala,Udupi,Karnataka,-,Udupi
+1058.0,2020-03-10,2020-03-24,Muscat,Mangalore,Karkala,Karkala,Kabettu,Udupi,Karnataka,574104.0,Udupi
+1059.0,2020-03-10,2020-03-24,Muscat,Manglore,12-158 Sundra Nivas,Pithroy,Udyavara,Udupi,Karnataka,574118,Udupi
+1060.0,2020-03-10,2020-03-24,Dammam,Manglore,1/5,Belve,Kunapoora,Udupi,Karnataka,576212,Udupi
+1061.0,2020-03-10,2020-03-24,Dammam,Mangalore,7-53 MI,Vishnumurthy Nagar,Nittur ,Udupi,Karnataka,576103.0,Udupi
+1062.0,2020-03-10,2020-03-24,Dammam,Mangalore,1-4-114335,Doddane Colony Road,,Kunjibettu,Karnataka,576102.0,Udupi
+1063.0,2020-03-10,2020-03-24,Dammam,Mangalore,Somil Manzil,Opocoronat,Udupi,Udupi,Karnataka,,Udupi
+1064.0,2020-03-10,2020-03-24,Dammam,Mangalore,Bismilla Manzil Chandra Nagar,Nitte,,Nitte,Karnataka,574106.0,Udupi
+1065.0,2020-03-10,2020-03-24,Dammam,Mangalore,D.NO 4-12/1A,Uchila,,Udupi,Karnataka,574117.0,Udupi
+1066.0,2020-03-10,2020-03-24,Dammam,Mangalore,02-25,Post Katapadi,,Udupi,Karnataka,,Udupi
+1067.0,2020-03-10,2020-03-24,Dammam,Managlore,Flate#204,Second Floor,Anasuya,Udupi,Karnataka,574106.0,Udupi
+1068.0,2020-03-10,2020-03-24,Dammam,Managlore,-,Navvnda,-,Udupi,Karnataka,-,Udupi
+1069.0,2020-03-10,2020-03-24,Saudi Arabia,Managlore,-,Nitte(Kemmanu),Karkala ,Udupi,Karnataka,574110.0,Udupi
+1070.0,2020-03-10,2020-03-24,Saudi Arabia,Managlore,-,Nitte(Kemmanu),Karkala ,Udupi,Karnataka,-,Udupi
+1071.0,2020-03-10,2020-03-24,Dammam,Mangalore,5-115,Halasina Katte,Koteshwar,Udupi,Karnataka,576222,Udupi
+1072.0,2020-03-10,2020-03-24,Dammam,Mangalore,1315-C,Kidiyoor,,Udupi,Karnataka,576103,Udupi
+1073.0,2020-03-10,2020-03-24,Dammam,Mangalore,18,Koppalthta Malpe,,Udupi,Karnataka,574144,Udupi
+1074.0,2020-03-10,2020-03-24,Dammam,Mangalore,Kabial House,Nitte,Karkala,Udupi,Karnataka,574110,Udupi
+1075.0,2020-03-10,2020-03-24,Saudi Arabia,Mangalore,7-109,Hajama Dx.K021,,Udupi,Karnataka,574103,Udupi
+1076.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-520,"Vinayaka Nagar,Kumbhashi",Kundapur,Udupi,Karnataka,576257.0,Udupi
+1077.0,2020-03-10,2020-03-24,Sulimaniya Kundistan,Mangalore,43901.0,Nitte,,Udupi,Karnataka,576117.0,Udupi
+1078.0,2020-03-10,2020-03-24,Dubai ,Mangalore,1/32,Padebettu Padubidri,,Udupi,Karnataka,574111.0,Udupi
+1079.0,2020-03-10,2020-03-24,Dubai ,Mangalore,3-115,Mala.Chowki,Karkala,Udupi,Karnataka,574122.0,Udupi
+1080.0,2020-03-10,2020-03-24,Dubai ,Mangalore,Muslim Mohalle,Shiruru,"Mangalore,South Karnataka",Udupi,Karnataka,,Udupi
+1081.0,2020-03-10,2020-03-24,Dubai ,Mangalore,2-49,Nalluru,Karkala Taluk,Udupi,Karnataka,574122.0,Udupi
+1082.0,2020-03-10,2020-03-24,Dubai ,Mangalore,17930.0,Nalluru Village,Karkala Taluk,Udupi,Karnataka,574122.0,Udupi
+1083.0,2020-03-10,2020-03-24,Dubai ,Mangalore,19572.0,Shirva,,Udupi,Karnataka,574116.0,Udupi
+1084.0,2020-03-10,2020-03-24,Afghan To Dubai,Mangalore ,3-253,Doopada Katte,-,Udupi,Karnataka,574110.0,Udupi
+1085.0,2020-03-10,2020-03-24,Dubai,Mangalore ,-,Khbbnale,-,Udupi,Karnataka,576112.0,Udupi
+1086.0,2020-03-10,2020-03-24,Dubai,Mangalore ,-,Koodlu Kanyana,Kundapura,Udupi,Karnataka,576230.0,Udupi
+1087.0,2020-03-10,2020-03-24,Dubai,Mangalore ,-,Koudlu Kanyana,Kundapura,Udupi,Karnataka,576230.0,Udupi
+1088.0,2020-03-10,2020-03-24,Dubai,India,-,Padumane Hanchally Barkoor,Brhmavara,Udupi,Karnataka,576210.0,Udupi
+1089.0,2020-03-10,2020-03-24,Dubai,India,-,Koodlu Kanyana,Kundapura,Udupi,Karnataka,576230.0,Udupi
+1090.0,2020-03-10,2020-03-24,Dubai,Mangalore ,9483803688.0,Mudnadi,Karkala,Udupi,Karnataka,576112.0,Udupi
+1091.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-80(1),Keerthinagar Aroor,,Udupi,Karnataka,576213.0,Udupi
+1092.0,2020-03-10,2020-03-24,Dubai,Mangalore,Krishna,Lion 2Nd Cross,Nairkere,"Brahmagiri ,Udupi",Karnataka,576101.0,Udupi
+1093.0,2020-03-10,2020-03-24,Dubai,Mangalore,Flat No-5,Mangesh ,Lala Lajpath Rai Raod,Udupi,Karnataka,576102.0,Udupi
+1094.0,2020-03-10,2020-03-24,Dubai,Mangalore ,29/22,Malpe,-,Udupi,Karnataka,576118.0,Udupi
+1095.0,2020-03-10,2020-03-24,Dubai,Mangalore ,9901731370.0,Parkala,-,Manipal,Karnataka,576107.0,Udupi
+1096.0,2020-03-10,2020-03-24,Dxb,Ixe,2-63,Majoor,Kapu,Udupi,Karnataka,574106.0,Udupi
+1097.0,2020-03-10,2020-03-24,Dubai,Mangalore,4-5,Tenkapete,,Udupi,Kerala,576104.0,Udupi
+1098.0,2020-03-10,2020-03-24,Dubai,Mangalore,Batti House ,Kuntadi,,Karkala,Karnataka,,Udupi
+1099.0,2020-03-10,2020-03-24,Dubai,Mangalore,Achhdi Mane,Mallar ,Kapu ,Udupi,,574106.0,Udupi
+1100.0,2020-03-10,2020-03-24,Dubai,Mangalore,Sri Bhagawathi,Bilakere,Malpe,Udupi,Karnataka,576108.0,Udupi
+1101.0,2020-03-10,2020-03-24,Dubai,Mangalore,102-DN,"Katte Acharya Marg, Kunjibettu",Kadiyali,Udupi,Karnataka,576102.0,Udupi
+1102.0,2020-03-10,2020-03-24,Dubai,Mangalore,93/7,Kodi,Kundapura,Udupi,Karnataka,576217.0,Udupi
+1103.0,2020-03-10,2020-03-24,Dubai,Mangalore,9-122B,Bailakere,Malpe,Udupi,Karnataka,576108.0,Udupi
+1104.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-83A,Balkatta House,Hirebettu,Udupi,Karnataka,576107.0,Udupi
+1105.0,2020-03-10,2020-03-24,Dubai,Mangalore,9-2-28,Tenkapete,,Udupi,Karnataka,576101.0,Udupi
+1106.0,2020-03-10,2020-03-24,Dubai,Mangalore,#93/7,Kodi,Kundapura,Udupi,Karnataka,576217.0,Udupi
+1107.0,2020-03-10,2020-03-24,Dubai,Mangalore,DN 3-168,Uliyaragoli,Kaup,Udupi,Karnataka,574106.0,Udupi
+1108.0,2020-03-10,2020-03-24,Dubai,Mangalore,-,"Vasine Street,Falmir Mangalore",-,Udupi,Karnataka,575002.0,Udupi
+1109.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-175,Parampalli,Saligrama,Udupi,Karnataka,576225.0,Udupi
+1110.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-175,Parampalli,Saligrama,Udupi,Karnataka,576225.0,Udupi
+1111.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-37,Kervashe,Keriiashe Villahe,Karkala/Udio,Karnataka,574122.0,Udupi
+1112.0,2020-03-10,2020-03-24,Dubai,Mangalore,2-238,Uchilla,-,Udupi,Karnataka,574117.0,Udupi
+1113.0,2020-03-10,2020-03-24,Dubai,Mangalore,8971734259,Karkala,-,Banglagudda,Karnataka,576117.0,Udupi
+1114.0,2020-03-10,2020-03-24,Dubai,Mangalore,-,V.T Road,-,Udupi,Karnataka,576101.0,Udupi
+1115.0,2020-03-10,2020-03-24,Dubai,Mangalore,-,118C Pande House,Udyayara,Udupi,Karnataka,574118.0,Udupi
+1116.0,2020-03-10,2020-03-24,Dubai,Mangalore,Emmanuel,52 Heroor St,Brahmavar,Udupi,Karnataka,576213.0,Udupi
+1117.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-175,Saugrama,Parampalli,Udupi,Karnataka,576225.0,Udupi
+1118.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-37,Kervashe-Karakala,-,Udupi,Karnataka,574122.0,Udupi
+1119.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-175,Parampalli,Saligrama,Udupi,Karnataka,576225.0,Udupi
+1120.0,2020-03-10,2020-03-24,Dubai,Mangalore,5-120,Kervashe Karkala,-,Udupi,Karnataka,574122.0,Udupi
+1121.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-175,Parampalli,Saligrama,Udupi,Karnataka,576225.0,Udupi
+1122.0,2020-03-10,2020-03-24,Dubai,Mangalore,43926.0,Manipal,-,Udupi,Karnataka,576104.0,Udupi
+1123.0,2020-03-10,2020-03-24,Dubai,Mangalore,Room No 1417,New International Hostel,A Block Kmc,Manipal ,Karnataka,-,Udupi
+1124.0,2020-03-10,2020-03-24,Dubai,Mangalore,,Country Inn,Manipal,Udupi,Karnataka,,Udupi
+1125.0,2020-03-10,2020-03-24,Dubai,Mangalore,2-2B Kasturba,Kasturba Nagar,Chitappadi,Udupi,Karnataka,576101.0,Udupi
+1126.0,2020-03-10,2020-03-24,Dubai,Mangalore,1-61b,Udyavara,,Udupi,Karnataka,574118.0,Udupi
+1127.0,2020-03-10,2020-03-24,Dubai,Mangalore India,22-68,Kambala Katta,Kodavoor,Udupi,Karnataka,576106.0,Udupi
+1128.0,2020-03-10,2020-03-24,Dubai,Mangalore India,2-169 A,Kannukere,Thekkate,Udupi,Karnataka,576231.0,Udupi
+1129.0,2020-03-10,2020-03-24,Dubai,Mangalore India,5-37- B,Taje,Pilar,Udupi,Karnataka,574113.0,Udupi
+1130.0,2020-03-10,2020-03-24,"Dubai, Uae",Mangalore India,3-2E Ram Nivas,Near Diana Theatre,Badagabettu,Kukkikatte Udupi,Karnataka,576101.0,Udupi
+1131.0,2020-03-10,2020-03-24,Dubai,Mangalore, -, -, -,Udupi,Karnataka,576235.0,Udupi
+1132.0,2020-03-10,2020-03-24,Dxb,Ixe, -, -,Padubidri,Udupi,Karnataka,575006.0,Udupi
+1133.0,2020-03-10,2020-03-24,Dxb,Mangalore,1-72,Hiriadka,-,Udupi,Karnataka,5762006.0,Udupi
+1134.0,2020-03-10,2020-03-24,Dxb,Ixe, -,Hemmady,Kundapura,Udupi,Karnataka,5762006.0,Udupi
+1135.0,2020-03-10,2020-03-24,Dxb- 2,Ixe- Mangalore,12-268,Shirur,Byndoor,Udupi,Karnataka,576228.0,Udupi
+1136.0,2020-03-10,2020-03-24,Dubai,Mangalore, -,Padu Inna, -,Karkala,Karnataka,576121.0,Udupi
+1137.0,2020-03-10,2020-03-24,jeddah,soudi,-,-,udupi,-,Karnataka,574106.0,Udupi
+1138.0,2020-03-10,2020-03-24,JAPAN,Bangalore  ,Shanthi Vihar,"Sorpu House, Shirva",Kapu,Udupi,Karnataka ,574116.0,Udupi
+1139.0,2020-03-10,2020-03-24,USA,Bangalore  ,"3402, Ardsley ct",Leathyanjini,Near Vishnumoothu,Udupi,Karnataka ,20866.0,Udupi
+1140.0,2020-03-10,2020-03-24,USA,Bangalore,501.0,Brahmagiri,-,Udupi,Karnataka,576101.0,Udupi
+1141.0,2020-03-10,2020-03-24,"Penang, Malaysia",Bengaluru,Manish livein Comfort Apt,Vidhyaratna Nagar,Behind Manipal University,Manipal,Karnataka,-,Udupi
+1142.0,2020-03-10,2020-03-24,"Penang, Malaysia",Bengaluru,Manish livein Comfort Apt,Vidhyaratna Nagar,Behind Manipal University,Manipal,Karnataka,-,Udupi

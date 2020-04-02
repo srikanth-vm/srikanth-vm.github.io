@@ -1,0 +1,100 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,Qatar,Bangalore,Ward no 18,"Rupangudi Road, B Gonhalu",Ballari,Ballari,Karnataka,583101.0,Ballari
+2.0,2020-03-21,2020-04-04,Vietnam,Bangalore,421.0,Haripriya M J Nagar,Hospet,Bellary,Karnataka,583201.0,Ballari
+3.0,2020-03-21,2020-04-04,Dubai,Bengaluru ,91.0,2nd ward sirigeri,siruguppa,bellary,Karnataka,583120.0,Ballari
+4.0,2020-03-20,2020-04-03,Delhi,Bangalore,J4/5,Hill Side Township,Toranagallu,Bellari,Karnataka,583275.0,Ballari
+5.0,2020-03-20,2020-04-03,Dubai,Bangalore,W\N_24,Ballari/Cowlbazzar,Ballari,Ballari,Karnataka,583102.0,Ballari
+6.0,2020-03-20,2020-04-03,Dubai,Bangalore,#8/A,"Sreenivas Bldg, Near Zp Office, Fort",Ballari,Ballari,Karnataka,583101.0,Ballari
+7.0,2020-03-20,2020-04-03,Dubai,Bangalore,#691,Chaparapaha ,Ballari,Ballari,Karnataka,583201.0,Ballari
+8.0,2020-03-20,2020-04-03,Delhi,Bangalore,J4/5,Hill Side Township,Toranagallu,Bellari,Karnataka,583275.0,Ballari
+9.0,2020-03-20,2020-04-03,Singapore,Bangalore,"3C/1, W-24",Garang Street,C.B. Bellary,C.B. Bellary,Karnataka,583102.0,Ballari
+10.0,2020-03-19,2020-04-02,Sydney,Bangalore,Chiranjeevi Hospital beside vince hospital,-,Hospete,Bellary,Karnataka,583201.0,Ballari
+11.0,2020-03-19,2020-04-02,Zurich,Bangalore,#92B Anajegere,Hardanahalli,Ballari,Ballari,Karnataka,583125.0,Ballari
+12.0,2020-03-19,2020-04-02,Muscat,Bangalore,135.0,Pruthvinagar,-,Ballary,Karnataka,583101.0,Ballari
+13.0,2020-03-19,2020-04-02,Amsterdam (Schipol) Nl,Bengaluru (Bng) India,#191 Parna Kujeera,Mp Prakash Nagar,Hospet -583201,Bellary,Karnataka,583201.0,Ballari
+14.0,2020-03-19,2020-04-02,Delhi,Bangalore,"H no. 1054, Puttanilaya",Near Air Station 35Th Road,Hospet,Bellary,Karnataka,583201.0,Ballari
+15.0,2020-03-19,2020-04-02,Jakarta,Bangalore,#24,Yaraballithanda,Harapanahalli,Davangere,Karnataka,583125.0,Ballari
+16.0,2020-03-18,2020-04-01,Egypt,Bengaluru,"84/4, Ward No.15",Court Rohalla Mosque,Millerpet,Bellari,Karnataka,583101.0,Ballari
+17.0,2020-03-18,2020-04-01,Berlin,Bangalore,505/1b,Basweshwara Layout,-,Hospet,Karnataka,583201.0,Ballari
+18.0,2020-03-18,2020-04-01,Paris ,Bangalore,11.0,Havanabhavi,-,Bellary,Karnataka,563103.0,Ballari
+19.0,2020-03-18,2020-04-01,"Male, Maldives","Banglore, India",34.0,Sidharth Nagar,Behind Gokul Golden Sudha Cross,Bellari,Karnataka,583104.0,Ballari
+20.0,2020-03-18,2020-04-01,"London,Uk",Bengaluru,"787,Sri Hari Niwas",Amaravathi,-,Hospet,Karnataka,583201.0,Ballari
+21.0,2020-03-18,2020-04-01,London ,"Banglore, India",94/A,Bdcc Bank Colony ,Sri Krishna ,Mj Nagar Hospote ,"Ballari ,Karnataka",583201.0,Ballari
+22.0,2020-03-18,2020-04-01,"Male, Maldives","Banglore, India",34.0,Sidharth Nagar,Behind Gokul Golden Sudha Cross,Ballari,Karnataka,583104.0,Ballari
+23.0,2020-03-18,2020-04-01,Abu Dhabi,"Bengaluru, India",-,Bank Colony,Bellary,-,Karnataka,583101.0,Ballari
+24.0,2020-03-18,2020-04-01,Dublin,Bengaluru,142/14,Hospet,-,Bellary,Karnataka,583201.0,Ballari
+25.0,2020-03-17,2020-03-31,London ,Bangalore,#2199,Khb Colony,Sandur,Bellary,Karnataka,583119.0,Ballari
+26.0,2020-03-17,2020-03-31,U S,Bangaluru,PLOT 17/A,25Th Ward,Bellary,Bellary,Karnataka,583104.0,Ballari
+27.0,2020-03-17,2020-03-31,Usa,Bangaluru,PLOT 17/A,D.No 25,Bellary,Bellary,Karnataka,583104.0,Ballari
+28.0,2020-03-17,2020-03-31,New York,Bangalore,131.0,Mg Road,Hb Halli,Ballari,Karnataka,583212.0,Ballari
+29.0,2020-03-17,2020-03-31,Heathrow,Bangalur,SURYODAYANILAYA,"29Th Ward , Mj Nagar",Hospete,Ballari ,Karnataka,583201.0,Ballari
+30.0,2020-03-17,2020-03-31,Mauritis,Banglore ,# 10,1St Cross Patel Nager,-,Bangalore,Karanatka,583101.0,Ballari
+31.0,2020-03-17,2020-03-31,Dhubai,Bangaluru,NO 8,I Cross,-,Bangalore,Karnataka,583101.0,Ballari
+32.0,2020-03-17,2020-03-31,Dubai,Bangalore,-,Hagaribommanahalli,-,Ballari,Karnataka,583212.0,Ballari
+33.0,2020-03-17,2020-03-31,New York,Bangalore,534/4,Kotta Road Kampli,Kampli,Ballary,Karnataka,583132.0,Ballari
+34.0,2020-03-17,2020-03-31,London,Bangalore,MARUTHI NIALAYA,C.B.Ballari,Ballari,Ballari,Karnataka,583102.0,Ballari
+35.0,2020-03-17,2020-03-31,London,Bangalore,MARUTHI NIALAYA,"C.B,Ballari",Ballari,Ballari,Karnataka,583102.0,Ballari
+36.0,2020-03-17,2020-03-31,Dhubai,Bangaluru,NO 8,I Cross,-,Bangalore,Karnataka,583101.0,Ballari
+37.0,2020-03-17,2020-03-31,New York,Bangalore,534/4,Kotta Road Kampli,Kampli,Ballary,Karnataka,583132.0,Ballari
+38.0,2020-03-17,2020-03-31,Lhr,Bangalore,301 B,4Th Cross,-,Bangalore,Karnataka,583104.0,Ballari
+39.0,2020-03-17,2020-03-31,Mauritis,Banglore ,#10,1Stcross Patell Nagar,-,Bangalore,Karanatka,583101.0,Ballari
+40.0,2020-03-17,2020-03-31,Singapore,Bangalore,"105, WARD NO- 1",Talur Road /6Th,Cross,Bellary,Karnataka,583101.0,Ballari
+41.0,2020-03-17,2020-03-31,New York,Bangalore,131.0,Mg Road,Hb Halli,Ballari,Karnataka,583212.0,Ballari
+42.0,2020-03-17,2020-03-31,New York,Bangalore,131.0,Mg Road,Hb Halli,Ballari,Karnataka,583212.0,Ballari
+43.0,2020-03-16,2020-03-30,Bahrain,Bengaluru,-,Bhujanganagar,Sandur,Bellary,Karnataka,583119.0,Ballari
+44.0,2020-03-16,2020-03-30,Bahrain,Bengaluru,-,Bhujanganagar,Sandur,Bellary,Karnataka,583119.0,Ballari
+45.0,2020-03-16,2020-03-30,Bahrain,Bengaluru,-,Bhujanganagar,Sandur,Bellary,Karnataka,583119.0,Ballari
+46.0,2020-03-15,2020-03-29,Melbourne,Bangalore,247/10,Bangalore Road,-,Bellary,Karnataka,583101.0,Ballari
+47.0,2020-03-15,2020-03-29,Melbourne,Bangalore,247/10,Bangalore Road,-,Bellary,Karnataka,583101.0,Ballari
+48.0,2020-03-15,2020-03-29,Dubai,Bangalore,-,Devinagar,Bellary ,Bellary ,Karanataka,55311.0,Ballari
+49.0,2020-03-14,2020-03-28,Dubai,Mangalore,-,Bellur Sullia,Nettur,Bellari,Karnataka,574212.0,Ballari
+50.0,2020-03-14,2020-03-28,Algeria,Bangalore,#365,10Th Ward,Siruguppa,Bellary,Karnataka,583121.0,Ballari
+51.0,2020-03-14,2020-03-28,Bangalore,Bangalore,singarah gardens ,11 Ward Sm Road,Hosapete,Bellary,Karnataka,583021.0,Ballari
+52.0,2020-03-14,2020-03-28,"Adelelaide, Australia",Bangalore,4/300,Patel Nagar,Hosapete,Bellary,Karnataka,583201.0,Ballari
+53.0,2020-03-14,2020-03-28,Dubai,Bangalore,-,Godehal,P D Halli,Bellary,Karnataka,583111.0,Ballari
+54.0,2020-03-14,2020-03-28,London,Bangalore,-,Siraguppa Road,-,Bellary,Karnataka,583101.0,Ballari
+55.0,2020-03-14,2020-03-28,Uae,"Bangalore,India",116/24th ward,Beer Butcher Street,-,Bellari,Karnataka,583102.0,Ballari
+56.0,2020-03-14,2020-03-28,"Adelelaide, Australia",Bangalore,4/300,Patel Nagar,Hosapete,Bellary,Karnataka,583201.0,Ballari
+57.0,2020-03-14,2020-03-28,Sharjah,Bengaluru,59/36,Mehaboob Khan Building,-,Ballari,Karnataka,583101.0,Ballari
+58.0,2020-03-14,2020-03-28,Benguluru,Bangalore,"1653,kukke Nilaya",3Rd Cross Jp Nagar,Hosapete,Ballari,Karnataka,583201.0,Ballari
+59.0,2020-03-14,2020-03-28,Bangalore,Bangalore,"h no 1653, kukke nilaya","3Rd Cross, J P Nagar",Hospet,Bellari,Karnataka,583201.0,Ballari
+60.0,2020-03-14,2020-03-28,Bangalore,Bangalore,SINGARAM HARDEMS,3Rd Ward Sm Road,Hosapete,Bellary,Karnataka,583201.0,Ballari
+61.0,2020-03-14,2020-03-28,Lisbon ,Bangalore,"621,11th Ward ",Hospete,Ballari,Ballari,Karnataka,583201.0,Ballari
+62.0,2020-03-14,2020-03-28,India,Dubai,Plot No 40,Sri Raksha 17 Ward,Ramaiah Colony,Bellary ,Karnataka,-,Ballari
+63.0,2020-03-14,2020-03-28,Bahrain,Bengaluru,18B Wno. 22,"Vhavani Nilaya Opp Ssv School, Talur Road",-,Bellari,Karnataka,583101.0,Ballari
+64.0,2020-03-14,2020-03-28,Baharain,Bangalore,"18B, BW No. 22, Bhavani Nilaya","Opp. Ssv School, Talur Road",Ballari,Ballari,Karnataka,583101.0,Ballari
+65.0,2020-03-14,2020-03-28,Germany,"Bangalore, India",2 SRI Bhavani,Dattasainagar,Anantpur Road,Bellary,Karnataka,583103.0,Ballari
+66.0,2020-03-13,2020-03-27,Male (Maldives),"Bangalore,India",#6.412,Kudligi Road,Hagaribommana Halli,Bellary,Karnataka,583212.0,Ballari
+67.0,2020-03-13,2020-03-27,Singapore,Bangalore,1\48,"P.R.T Camp, H.P C Road, Kamalapur",Hosepete,Bellary,Karnataka,583221.0,Ballari
+68.0,2020-03-13,2020-03-27,Bangalore India,Bangalore India,-,Inspire ,Vidyanagar,Bellary,Karnataka,-,Ballari
+69.0,2020-03-13,2020-03-27,Maldives,Bengaluru,4th ,"Ward Kudligi Road Mariyammanahalli, Ballari",Mariyammanahalli,Ballari,Karnataka,583222.0,Ballari
+70.0,2020-03-12,2020-03-26,Delhi,Bangalore,4/269,"Datel Nagar, Asha House",-,Hospet,Karnataka,583201.0,Ballari
+71.0,2020-03-12,2020-03-26,Riyadh,Bengaluru,498.0,22Nd Wars,-,Bellaei Hospet,Karanataka,583201.0,Ballari
+72.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,ANNAPURNA 1523,Hosapete,Hosapete,Ballari,Karnataka,583203.0,Ballari
+73.0,2020-03-12,2020-03-26,Manchester,Bangalore,"407,3RD",College Road,No,Hospet,Karnataka,583201.0,Ballari
+74.0,2020-03-12,2020-03-26,Riyadh,Bengaluru,498.0,2Nd  Ward,No,Bellari Hospete,Karnataka,583201.0,Ballari
+75.0,2020-03-12,2020-03-26,Kathamandu,Bangalore,1523.0,Hospet,Hospet,Ballari,Karnataka,583203.0,Ballari
+76.0,2020-03-12,2020-03-26,Riyadh,Bengaluru,498.0,Ward-22,-,Bellari Hospet,Karnataka,583201.0,Ballari
+77.0,2020-03-12,2020-03-26,Colombo,Bengaluru,"1003/-,Dattakrupa",11Th Word,Shantinagar,"Hospet, Bellari Dist",Karnataka,583201.0,Ballari
+78.0,2020-03-12,2020-03-26,Colombo,Bangalore,992.0,6Th Word,Hampi Road,Hpspet  Bellari Disti,Karnataka,583201.0,Ballari
+79.0,2020-03-12,2020-03-26,Colombo,Bangalore,1003 DATTA KRUPA,11Th Word,Bhanti Nagra,Hospet Balraj,Karnataka,583201.0,Ballari
+80.0,2020-03-12,2020-03-26,Colombo,Bangalore,1003/11th word,Shanthi Nagar,"Opp,Honda Office",Hospet,Karnataka,583201.0,Ballari
+81.0,2020-03-12,2020-03-26,Colombo,Bangalore,"1003, DATTA KAUKA",11Th Word,-,Bellary,Karnataka,583201.0,Ballari
+82.0,2020-03-12,2020-03-26,Riyadh,Bengaluru,498.0,22Nd Ward,                 -,Bellari-Hospet,Karnataka,583201.0,Ballari
+83.0,2020-03-12,2020-03-26,"Seathe,Wa,U S A","Bellary,India",51/20,Basaveshwar Nagar,-,Bellary,Karnataka,583103.0,Ballari
+84.0,2020-03-11,2020-03-25,Muscut/Oman,Bangalore,85/A/174-14-Ward,R.N Street,Millerpet,Bellary,Karnataka,583101.0,Ballari
+85.0,2020-03-11,2020-03-25,Dubai,Bangalore,-,"5, Murtahjay",Hayar 1St Cross,Bellary,Karnataka,583101.0,Ballari
+86.0,2020-03-11,2020-03-25,Sofia/Bulgria,Bangalore,Door Nr: 04 W8V022,Old Market Street Ballari,-,Ballari,Karnataka,583102.0,Ballari
+87.0,2020-03-11,2020-03-25,Bangalore,Kochi,25.0,Jagaruti Nagar,Jagaruti Nagar,Ballari,Karnataka,583102.0,Ballari
+88.0,2020-03-11,2020-03-25,Jeddah,Bangalore,W. No. 17,"3Rd Main , Hussain Nagar",-,Bellari,Karnataka,583101.0,Ballari
+89.0,2020-03-11,2020-03-25,Jeddah,Bangalore,W. No. 17,"3Rd Main , Hussain Nagar",-,Bellari,Karnataka,583101.0,Ballari
+90.0,2020-03-11,2020-03-25,Muscut/Oman,Bangalore,85/A/174-14-Ward,R.N Street,Millerpet,Bellary,Karnataka,583101.0,Ballari
+91.0,2020-03-11,2020-03-25,Muscut/Oman,Bangalore,85/A/174-14-Ward,R.N Street,Millerpet,Bellary,Karnataka,583101.0,Ballari
+92.0,2020-03-10,2020-03-24,DXP,-,15/25 9th ward,"Near Sunkalamma,
+Near Muniswamy Temple",Bellary -1,Bellary -1,Karnataka ,583101.0,Ballari
+93.0,2020-03-10,2020-03-24,K.T.M,Begalore,-,hospet,-,balaari,Karnataka,-,Ballari
+94.0,2020-03-10,2020-03-24,DXB,Bangalore  ,H.No. 15/25,9th ward,-,Ballari,Karnataka ,583101.0,Ballari
+95.0,2020-03-10,2020-03-24,DUBAI,BANGALORE,73.0,Kanchikere,Harappanhalli,Bellari,karnataka,583125.0,Ballari
+96.0,2020-03-10,2020-03-24,torontu,bangalore,146.0,college road,hosapete,ballari ,karnataka,5832101.0,Ballari
+97.0,2020-03-10,2020-03-24,CedaR Raptds IA USA,Bengalluru,Door No 85Ward No 15 ,Singhi compound ,-,Bellary,Karnataka,583101.0,Ballari
+98.0,2020-03-10,2020-03-24,Muscat,Bengaluru,LIG-204,KHB Colony,-,Bellary,Karnataka,583101.0,Ballari

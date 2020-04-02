@@ -1,0 +1,131 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-21,2020-04-04,Qatar,Bangalore,-,-,N R Pokra,Chikkamangalur,Karnataka,577134.0,Chikkamagaluru
+2.0,2020-03-21,2020-04-04,Dxb,Blr,K. R Nagar,Kalara,-,Chickmanglor,Karnataka,577124.0,Chikkamagaluru
+3.0,2020-03-21,2020-04-04,Dubai,Bangalore,Lakshmi Nilaya,Koppu,Chikkamangaluru,-,Karnataka,577126.0,Chikkamagaluru
+4.0,2020-03-21,2020-04-04,dubai,bengalore,suvarna nilaya,_,koppatq,chikmanglur,Karnataka,577123.0,Chikkamagaluru
+5.0,2020-03-21,2020-04-04,Yangon,Bangalore,6346.0,Basaveswara street,Basaveswara street,Chikmangalore,Karnataka,577228.0,Chikkamagaluru
+6.0,2020-03-21,2020-04-04,Dubai,Bangalore,,Golf club road,,Chikamangalore,Karnataka,577131.0,Chikkamagaluru
+7.0,2020-03-20,2020-04-03,"Muscat, Oman",Bangalore,"#4D,382",1St Street,-,Chickamagalore,Karnataka,577101.0,Chikkamagaluru
+8.0,2020-03-20,2020-04-03,Dubai,Bangalore,Baskal House,"Baskal, 6 Sheik Road",Mudigere,Chikmaglore,Karnataka,577132.0,Chikkamagaluru
+9.0,2020-03-20,2020-04-03,Singapore,Bengaluru,Veerannaradhya,Shettihalli K Bidare Post,Kadur Taluk,Chickmagalur,Karnataka,577138.0,Chikkamagaluru
+10.0,2020-03-20,2020-04-03,Indonesia (Surabaya),India - Tutocorin,8.0,Mudugundi (V) Hunasagatta (P),Tarikere (T),Chikkamagaluru,Karnataka,577228.0,Chikkamagaluru
+11.0,2020-03-20,2020-04-03,Abudhabi,Bangalore,547.0,S M Malli,Chikka Nagar,Hyroaduapali,Karnataka,577101.0,Chikkamagaluru
+12.0,2020-03-19,2020-04-02,Maldives,Bengaluru,-,Chikka Nayakanalli,Yellahbalsase,"Kadur, Chikmaglur",Karnataka,577548.0,Chikkamagaluru
+13.0,2020-03-19,2020-04-02,Stockholm,Bangalore,138.0,Banur,Kadur,Chikmangaluru,Karnataka,577135.0,Chikkamagaluru
+14.0,2020-03-19,2020-04-02,Dublin,Bangalore,"Kudlur, Tarikere Taluk",Chikmangalur,Chikmangalur,Chikmangalur,Karnataka,577116.0,Chikkamagaluru
+15.0,2020-03-18,2020-04-01,Hamburg Germany,Bangalore,-,Kottureswara Nilaya ,-,Tarikere,Karnataka,577728.0,Chikkamagaluru
+16.0,2020-03-18,2020-04-01,Germany,Bangalore,Kothureswara Nilaya,Vinayaka Nagar,-,Tarikere,Karnataka,577728.0,Chikkamagaluru
+17.0,2020-03-18,2020-04-01,Jakarta,"Bangalore, India",276.0,Zanabiya ,Bidanur,Chikmanguluru,Karnataka,561243.0,Chikkamagaluru
+18.0,2020-03-18,2020-04-01,Dubai,Bangalore,DEVIPRASHANTHA,Vijyapura,-,Chikkamangalore,Karnataka,577101.0,Chikkamagaluru
+19.0,2020-03-18,2020-04-01,Abudhabi,Banglore ,-,Upphali,Indavara,Chickmaglore,Karnataka,577101.0,Chikkamagaluru
+20.0,2020-03-18,2020-04-01,Abudhabi,Banglore ,-,Upphali,Indavara,Chickmaglore,Karnataka,577101.0,Chikkamagaluru
+21.0,2020-03-18,2020-04-01,"Dublin, Ireland",Bangalore,4323.0,Krishnadevara Street,Tarikere,Chikkanagaluru,Karnataka,577228.0,Chikkamagaluru
+22.0,2020-03-18,2020-04-01,Abu Dhabi,"Bengaluru, India",-,Uppahalli,Indavar,Chickmaglur,Karnataka,577101.0,Chikkamagaluru
+23.0,2020-03-18,2020-04-01,Abu Dhabi,"Bengaluru, India",-,Upphalli ,Indavar,Chickmaglur,Karnataka,577101.0,Chikkamagaluru
+24.0,2020-03-18,2020-04-01,Auh,"Bengaluru, India",4d 355,Barlane Road,-,Chickmaglur,Karnataka,577101.0,Chikkamagaluru
+25.0,2020-03-18,2020-04-01,Auh,"Bengaluru, India",4d 355,Barlane Road,Chickmaglur,Chickmaglur,Karnataka,577101.0,Chikkamagaluru
+26.0,2020-03-18,2020-04-01,Doha,Bangalore,-,Aldur,-,Chikamangalore,Karnataka,577111.0,Chikkamagaluru
+27.0,2020-03-18,2020-04-01,Manchester,"Bangalore, India",Ambigai Residency,2Nd Cross, Rais Compound,Chikmanguluru,Karnataka,577101.0,Chikkamagaluru
+28.0,2020-03-18,2020-04-01,Germany,Bangalore,Kothureswara Nilaya,Vinayaka Nagar,-,Tarikere,Karnataka,577728.0,Chikkamagaluru
+29.0,2020-03-18,2020-04-01,Jakarta,"Bangalore, India",276.0,Zanabiya ,Bidanur,Chikmanguluru,Karnataka,561243.0,Chikkamagaluru
+30.0,2020-03-17,2020-03-31,San Franscico ,Bangalore,Sreekaneka nivas,Sjm College Near ,Tarikere,Chickmanaglore,Karnataka,577228.0,Chikkamagaluru
+31.0,2020-03-17,2020-03-31,Sfo,Bangalore,sree kaneka nivas,Giri Nagar,Tarikere,Chickmanaglore,Karnataka,577228.0,Chikkamagaluru
+32.0,2020-03-17,2020-03-31,-,Bangalore,672.0,-,-,Chikkamagaluru,Karnataka,577101.0,Chikkamagaluru
+33.0,2020-03-17,2020-03-31,Doha Qatar,Bangalore,-,1St Cross,Pampanagar,Chikkamagaluru,Karnataka,577101.0,Chikkamagaluru
+34.0,2020-03-17,2020-03-31,Los Angeles Usa,Bangalore,D 1001,Varthur Main Road,-,Bangalore,Karnataka,56006.0,Chikkamagaluru
+35.0,2020-03-17,2020-03-31,France,Bangalore,-,-,Chiclimalur,Bangalore,Karnataka,577101.0,Chikkamagaluru
+36.0,2020-03-17,2020-03-31,Dubai,Bangalore,59.0,Buskal,-,Mudigere,Indaia,577132.0,Chikkamagaluru
+37.0,2020-03-17,2020-03-31,Hyderabd,Bangalore,AMRUTHA NILAYA,Hale Bandi Nutt Road,Chikkamangaluru,Chikkamangaluru,Karnataka,577101.0,Chikkamagaluru
+38.0,2020-03-17,2020-03-31,Abu Dhabi,Bangalore,SHIVAPPA KODLIPER,Basetappa,Deevathi Kodlipet,Chick Magalore,Karnataka,577111.0,Chikkamagaluru
+39.0,2020-03-17,2020-03-31,Dubai ,Banglore,35.0,Dodda Kundur,Chikkamangalore,Tarikere,Karnataka ,577144.0,Chikkamagaluru
+40.0,2020-03-17,2020-03-31,Dubai ,Banglore,-,-,-,Chikkamangalur,Karnataka ,-,Chikkamagaluru
+41.0,2020-03-17,2020-03-31,Mct (Muscat),Bengaluru,"# 2036, SUMUKHA ",Near St Mary’S School Kuvempu Nagar.Kote,Chikkamangalore,Chikkamangalur,Karnataka ,577101.0,Chikkamagaluru
+42.0,2020-03-16,2020-03-30,Dubai,Mangalore,-,Samply Kelaguru,Kelaguru,Chikkamagalore,Karnataka,-,Chikkamagaluru
+43.0,2020-03-16,2020-03-30,Muscat,Manglore,-,Muta Route,N.R Pura,Chickmanglore,Karnataka,577112.0,Chikkamagaluru
+44.0,2020-03-16,2020-03-30,Muscat,Mangalore,-,H Sapetf,-,Chikkamanglore,Karnataka,-,Chikkamagaluru
+45.0,2020-03-16,2020-03-30,"Muscat, Oman",Mangalore,265.0,B Hanabees,N R Pura,Unikenawaler,Karnataka,577112.0,Chikkamagaluru
+46.0,2020-03-16,2020-03-30,Bali,Bangalore,Ajjampura,Ajjapura,-,Chikkamagalur,Karnataka,577547.0,Chikkamagaluru
+47.0,2020-03-16,2020-03-30,-,Bangalore,-,Ajjampura,Ajjampura,Chikmpal,Karnataka,577547.0,Chikkamagaluru
+48.0,2020-03-16,2020-03-30,Kuala Lumpur,Bangalore,263-a,Bilagula,Mudigere,Chikkamagalur,Karnataka,577132.0,Chikkamagaluru
+49.0,2020-03-16,2020-03-30,Malaysia,Bangalore,Sree Devi,"R G Road,",-,Chikkamagalur,Karnataka,577101.0,Chikkamagaluru
+50.0,2020-03-16,2020-03-30,Bali,Bangalore,106.0,Chickamagalur,-,Chickamagalur,Karnataka,577101.0,Chikkamagaluru
+51.0,2020-03-16,2020-03-30,Bali,Bangalore,106.0,Chickamagalur,-,Chickamagalur,Karnataka,577101.0,Chikkamagaluru
+52.0,2020-03-16,2020-03-30,Sydney,Bangalore,Rashmi Nailaya,Mathikatte Road Banakal,Mudinere,Chickmagluru,Karnataka,577113.0,Chikkamagaluru
+53.0,2020-03-16,2020-03-30,Sydney,Bangalore,Rashmi Nailaya,Mathikatte Road Banakal,Mudinere,Chickmagluru,Karnataka,577113.0,Chikkamagaluru
+54.0,2020-03-16,2020-03-30,"Munich, Germany","Banaglore, India",4439.0,Mg Road,Tarikere,Chikkamangalore,Karnataka,577228.0,Chikkamagaluru
+55.0,2020-03-16,2020-03-30,Dubai,Bangalore,8154.0,St Nehra Nagar,-,Chikhmanglur,Karnataka,577101.0,Chikkamagaluru
+56.0,2020-03-16,2020-03-30,Dubai,Bangalore,854.0,Nehrunagar Mzir Road ,-,Chikhmanglur,Karnataka,577101.0,Chikkamagaluru
+57.0,2020-03-16,2020-03-30,Dubai,Bangalore,8154.0,Nehrunagar Mzir Road ,-,Chikhmanglur,Karnataka,577101.0,Chikkamagaluru
+58.0,2020-03-16,2020-03-30,Munich,Bangalore,282.0,Stivakrupa ,-,Chikhmanglur,Karnataka,5620101.0,Chikkamagaluru
+59.0,2020-03-16,2020-03-30,Glasgow (Scotland),Bangalore,-,Minchery Annor,Chikmangluru,Chikmangluru,Karnataka,577171.0,Chikkamagaluru
+60.0,2020-03-16,2020-03-30,Glasgow (Scotland),Bangalore,-,Minchery Annor,Chikmangluru,Chikmangluru,Karnataka,577171.0,Chikkamagaluru
+61.0,2020-03-16,2020-03-30,Glasgow (Scotland),Bangalore,-,Minchery Annor,Chikmangluru,Chikmangluru,Karnataka,577171.0,Chikkamagaluru
+62.0,2020-03-15,2020-03-29,Dubai,Manglore,2.0,N.R Pura,,Chikmagalur,Karnataka,577134.0,Chikkamagaluru
+63.0,2020-03-15,2020-03-29,"India,Bangalore",Bangalore,-,Mugali Village,-,Chickmangalore,Karnataka,-,Chikkamagaluru
+64.0,2020-03-15,2020-03-29,Uae,Bangalore,102.0,-,Ckm,Chikmangalore,Karnataka,577601.0,Chikkamagaluru
+65.0,2020-03-15,2020-03-29,Sharjah,Bangalore,102.0,Gourikame,-,Chikmangalore,Karnataka,577101.0,Chikkamagaluru
+66.0,2020-03-15,2020-03-29,"Male,Maldives",Bangalore,-,Kalidasa Nagara,Hurulihatti,Tarikere,Karnataka,-,Chikkamagaluru
+67.0,2020-03-15,2020-03-29,Dxb,Benglaore ,-,"Uppali, Cbm",-,Chikmangalur,Karnataka,577101.0,Chikkamagaluru
+68.0,2020-03-15,2020-03-29,Wae,Bangalore,102.0,Garialu,-,Chikmangalur,Karnataka,577101.0,Chikkamagaluru
+69.0,2020-03-14,2020-03-28,Dubai,Mangalore,,Maavinakere,Chikkamagaluru,Chikkamagaluru,Karnataka,577124.0,Chikkamagaluru
+70.0,2020-03-14,2020-03-28,Dubai,Mangalore,-,Devadana,-,Chikamagaliur,Karnataka,577136.0,Chikkamagaluru
+71.0,2020-03-14,2020-03-28,Dubai,Mangalore,501.0, - , - ,Not Clear,Karnataka, - ,Chikkamagaluru
+72.0,2020-03-14,2020-03-28,Dammam,Mangalore,-,"Kachakal, Koppa",-,Chikkamanguluru,Karnataka,577126,Chikkamagaluru
+73.0,2020-03-14,2020-03-28,Dammam,Mangalore,-,"Kachakal, Koppa",-,Chikkamanguluru,Karnataka,577126,Chikkamagaluru
+74.0,2020-03-14,2020-03-28,Dubai,Mangalore,558.0,Mattikatte,Banakal,"Madigere, Chikkamagaluru",Karnataka,577113.0,Chikkamagaluru
+75.0,2020-03-14,2020-03-28,Dubai,Mangalore,28/2,Sunkasale,Mudigere,Chikamangalore,Karnataka,577177.0,Chikkamagaluru
+76.0,2020-03-14,2020-03-28,"Thilisi, Georgia",Bangalore,-,Anjuman Street,-,Chikkamangaluru,Karnataka,577101.0,Chikkamagaluru
+77.0,2020-03-14,2020-03-28,Bangalore,Bangalore,-,"Uppalli, Near Urdu School",Chikamangalur,-,Karnataka,577101.0,Chikkamagaluru
+78.0,2020-03-14,2020-03-28,Ghana,Bangalore,kbheq-27,Howda,-,Chikkamagaluru,Karnataka,577102.0,Chikkamagaluru
+79.0,2020-03-14,2020-03-28,Damman S.Arabia,"Bengaluru, India",GIRINAGAR,Kodi Camp,Tarikere,Chikmangalore,Karnataka,57722.0,Chikkamagaluru
+80.0,2020-03-14,2020-03-28,Auh,Bangalore,201.0,Vijayapura,-,Chikmagalur,Karnataka,577101.0,Chikkamagaluru
+81.0,2020-03-14,2020-03-28,Sharjah,Bengaluru,-,Madhulkar Layout,-,Chikkamangloor,Karnataka,577101.0,Chikkamagaluru
+82.0,2020-03-14,2020-03-28,"Kuwai, Dubai",Bangalore,"Vijayanagar, 3rd Corss",Chikmangalur,Chikmangalur,Chikmangalur,Karnataka,577101.0,Chikkamagaluru
+83.0,2020-03-14,2020-03-28,Dubai,Bangalore,Vishwajyothi,S Bidare,Kadur Tk,Chikamagalur,Karnataka,577146.0,Chikkamagaluru
+84.0,2020-03-14,2020-03-28,Dubai,Bangalore,350.0,Koukalamane,Chikkamagaluru,Chikamagalur,Karnataka,577136.0,Chikkamagaluru
+85.0,2020-03-14,2020-03-28,New York City,Bangalore,617.0,Belur Road,Fort,Chikmuauur,Karnataka,577101.0,Chikkamagaluru
+86.0,2020-03-13,2020-03-27,Bahrain,Mangaluru,-,B.H. Road,Aldur,Chickmagalore,Karnataka,577111.0,Chikkamagaluru
+87.0,2020-03-13,2020-03-27,Bahrain,Mangalore,-,Nr Pura,Bale Honnur,Chikkamagaluru,Karnataka,577112.0,Chikkamagaluru
+88.0,2020-03-13,2020-03-27,Abu Dhabi,India-Manglore,,Adibhutappa Street,,Chikamangalore,Karnataka,577101.0,Chikkamagaluru
+89.0,2020-03-13,2020-03-27,Abu Dhabi,India-Manglore,,Adibhutappa Street,,Chikamangalore,Karnataka,577101.0,Chikkamagaluru
+90.0,2020-03-13,2020-03-27,Dubai,Mangaluru,66 Hosuru,Binigar,Malleyya,Chikkamagaluru,Karnataka,577131.0,Chikkamagaluru
+91.0,2020-03-13,2020-03-27,Dubai,Mangaluru,19.0,Gabgul ,Mudibedre,Chikkamagaluru,Karnataka,577160.0,Chikkamagaluru
+92.0,2020-03-13,2020-03-27,Dubai,Mangalore,18A,Maligenades,Koove,Mudigere,Karnataka,577160.0,Chikkamagaluru
+93.0,2020-03-13,2020-03-27,"Sringeri,Karnataka",Bengaluru,231.0,Mense,Sringeri,Chikmagluru,Karnataka,577139.0,Chikkamagaluru
+94.0,2020-03-13,2020-03-27,Colombo,India-Banglore,,Vittalapura,,Chickmangaluru,Karnataka,577228.0,Chikkamagaluru
+95.0,2020-03-13,2020-03-27,Colombo,India-Banglore,,Domat,Tarikere,Chickmangaluru,Karnataka,577228.0,Chikkamagaluru
+96.0,2020-03-13,2020-03-27,Oman,Bangalore,#236,Santhaveri,,Chikkamangaluru,Karnataka,577137.0,Chikkamagaluru
+97.0,2020-03-13,2020-03-27,Addis Ababa,Bangalore,#104,Sheghvani,N.R.Pura,Chikmangalore,Karnataka,577134.0,Chikkamagaluru
+98.0,2020-03-13,2020-03-27,Bahrain,Bangalore,99.0,Majid Mohalla,Narasimharajapura,Chikmagalur,Karnataka,577134.0,Chikkamagaluru
+99.0,2020-03-13,2020-03-27,Bahrain,Bangalore,99.0,Majid Mohalla,Narasimharajapura,Chikmagalur,Karnataka,577134.0,Chikkamagaluru
+100.0,2020-03-13,2020-03-27,Bahrain,Bangalore,99.0,Majid Mohalla,Narasimharajapura,Chikmagalur,Karnataka,577134.0,Chikkamagaluru
+101.0,2020-03-13,2020-03-27,Sharjah,Bangalore,-,Bilagula,-,Madigore,Karnataka,577132.0,Chikkamagaluru
+102.0,2020-03-13,2020-03-27,Dubai,Bangalore,Sankalp,Km Road,-,Chikmaglure,Karnataka,577102.0,Chikkamagaluru
+103.0,2020-03-13,2020-03-27,Dubai,Bangalore,-,Jm Road,-,Chikmagaluru,Karnataka,5771323.0,Chikkamagaluru
+104.0,2020-03-12,2020-03-26,Malaysia,Bangalure,-,Ak Colony,Market Road,Chikkamangalru,Karnataka,577101.0,Chikkamagaluru
+105.0,2020-03-12,2020-03-26,Melbowne,Bangalore,-,"Maruthinagar,Nellurgete",-,-,Karnataka,577101.0,Chikkamagaluru
+106.0,2020-03-12,2020-03-26,Abu Dhabi,Bengaluru,Badriya compind,Dubai Nagar,1St Cross,Bangalore,Karanataka,577101.0,Chikkamagaluru
+107.0,2020-03-12,2020-03-26,Dubai,Mangalore,76.0,Kedigere,,"Kadupu,Chikkamangalore",Karnataka,,Chikkamagaluru
+108.0,2020-03-11,2020-03-25,Bahrain,Mangalore,KG ROAD,Balchonnur,,Chikmagalur,Karnataka,577112.0,Chikkamagaluru
+109.0,2020-03-11,2020-03-25,Bahrain,Mangalore,KG ROAD,Balchonnur,,Chikmagalur,Karnataka,577112.0,Chikkamagaluru
+110.0,2020-03-11,2020-03-25,Dubai,Bengaluru,-,Km Road,-,Chikkamaglur,Karnataka,577102.0,Chikkamagaluru
+111.0,2020-03-11,2020-03-25,Dubai,Bangalore,sankalp,K.M. Road,-,Chikamagalur,Karnataka,577102.0,Chikkamagaluru
+112.0,2020-03-11,2020-03-25,Dubai,Bangalore,#109,Ward 1 Choultry Street,Kadur,Chickamagalur,Karnataka,577548.0,Chikkamagaluru
+113.0,2020-03-11,2020-03-25,Kuwait,Bangalore,#109,Ward 1 Choultry Street,Kadur,Chickamagalur,Karnataka,577548.0,Chikkamagaluru
+114.0,2020-03-11,2020-03-25,Dubai,Bangalore,-,"Both Road, Aldur",-,Chickamagalur,Karnataka,577111.0,Chikkamagaluru
+115.0,2020-03-11,2020-03-25,Kaula Lumpur,Bangalore,Anajur- village,Jannapura,Mudigere,Chikkamagaluru,Karnataka,577132.0,Chikkamagaluru
+116.0,2020-03-11,2020-03-25,Riyadh,Bangalore,3246.0,Shareef,-,Chikamagaluru,Karnataka,577101.0,Chikkamagaluru
+117.0,2020-03-11,2020-03-25,Saudi,Bangalore,Nearvallabaneharunagar,-,-,Chikmagaluru,Karnataka,577101.0,Chikkamagaluru
+118.0,2020-03-11,2020-03-25,Riyadh,Bangalore,Banakal Post,Mudigaon,-,Chickmangalore,Karnataka,577113.0,Chikkamagaluru
+119.0,2020-03-11,2020-03-25,Riyadh,Bangalore,3rd cross ,Nazarabad,-,Tumkur,Karnataka,577101.0,Chikkamagaluru
+120.0,2020-03-11,2020-03-25,Manila,Bengaluru,#13,Kelagoor Village,-,Chikmagalur,Karnataka,577111.0,Chikkamagaluru
+121.0,2020-03-11,2020-03-25,Bangalore,Chickmangalur,No. 26,Last Cross Vijapura Extension ,-,Chickmaglur ,Karnataka ,577101.0,Chikkamagaluru
+122.0,2020-03-11,2020-03-25,Dubai,Mangalore,,Thilak Road Koppa Rural,Koppa Taluk,Chickmagalur,Karnataka,577126.0,Chikkamagaluru
+123.0,2020-03-10,2020-03-24,Muscat,Mangalore,Rajarajeswar Nilaya,A.S Road,Sringeri,Chickmagalur,Karnataka,577139.0,Chikkamagaluru
+124.0,2020-03-10,2020-03-24,Muscat,Mangalore,Rajarajeswari Nilaya,A S Streat,Sringeri,Chickmagalur,Karnataka,577139.0,Chikkamagaluru
+125.0,2020-03-10,2020-03-24,Damman,Ixe,-,Mudigere Kottigere,Mugiyere-Attigere,Malenadu,Karnataka,577113.0,Chikkamagaluru
+126.0,2020-03-10,2020-03-24,Dubai,Mangalore India,Opp Vijaya Bank IG Road,Chickmagalur,Chickmagalur,Chickmagalur,Karnataka,577101.0,Chikkamagaluru
+127.0,2020-03-10,2020-03-24,Dxb,Ixe, -,Koppa, -,Chickmagalur,Karnataka,577126.0,Chikkamagaluru
+128.0,2020-03-10,2020-03-24,Dubai,Mangalore,27 M K Nagar,Kammardi,Koppa,Chickmagalur,Karnataka,577125.0,Chikkamagaluru
+129.0,2020-03-10,2020-03-24,jeddah,BANGALORE,-,Kadur ,chikkmangalore,chikkamagalore,Karnataka,577135.0,Chikkamagaluru
+130.0,2020-03-10,2020-03-24,DXB,Bengalluru,47.0,Kodhihalli,Tharikere,Chikkmagaluru,Karnataka,577228.0,Chikkamagaluru

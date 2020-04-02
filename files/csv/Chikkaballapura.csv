@@ -1,0 +1,96 @@
+sno,arrival,quarantinedTill,origin,destination,houseNo,street,tehsil,district,state,pin,finalDistrict
+1.0,2020-03-22,2020-04-05,"BKK, Thailand",Bangalore,wabaz house,alspur village,gowribidanur,Chikkabalapura,KA,561213.0,Chikkaballapura
+2.0,2020-03-22,2020-04-05,Dubai,Bangalore,,I.K Road,Adipnre,Chikballapura,Karnataka,561213.0,Chikkaballapura
+3.0,2020-03-21,2020-04-04,Tanzania(Dar),Bengaluru,-,Alipur,Gowribidnur,Chickbalapur,Karnataka,56213.0,Chikkaballapura
+4.0,2020-03-21,2020-04-04,Indonesia,Indonesia,-,Aljpur,Thomsabaavi,Courikjdanur- Chjkkabalapur,Karnataka,561213.0,Chikkaballapura
+5.0,2020-03-21,2020-04-04,"Jakarta, Inpunesin",Bangalore,1.0,1.K Road Aepur,Thondsebhavi,Chaikbailapuk,Karnataka,561213.0,Chikkaballapura
+6.0,2020-03-21,2020-04-04,Bangkok,Bangalore,Near Zynabya,Mazynaby Street,,Chikkaballapur,Karnataka,561213.0,Chikkaballapura
+7.0,2020-03-21,2020-04-04,Bangkok,Bangalore,1K road ,Alipur,,Chikkaballapur,Karnataka,561213.0,Chikkaballapura
+8.0,2020-03-21,2020-04-04,Bangkok,Bangalore,43867.0,Alipur,,Chikkaballapur,Karnataka,561213.0,Chikkaballapura
+9.0,2020-03-21,2020-04-04,Bangkok,Bangalore,1K road ,Alipur,,Chikkaballapur,Karnataka,561213.0,Chikkaballapura
+10.0,2020-03-21,2020-04-04,Bangkok,Bangalore,54.0,Alipur,Gauribidanuru,Chikkaballapur,Karnataka,561213.0,Chikkaballapura
+11.0,2020-03-21,2020-04-04,bangkok,bengaluru,40.0,"i. k ,muh road",gocumbilm ali pun,chickasallupur,karnataka,561214.0,Chikkaballapura
+12.0,2020-03-21,2020-04-04,Bangkok ,Bangalore,29/2A,Zainabiya school road,Allipura,Bangalore ,KA,561213.0,Chikkaballapura
+13.0,2020-03-21,2020-04-04,"Bangkok, Thailand",Bangalore,A23228,Alipur village,,Chikballapur district,KA ,561213.0,Chikkaballapura
+14.0,2020-03-21,2020-04-04,Bangkok ,Bangalore,A23228,Alipur village,,Chikballapur district,KA ,561213.0,Chikkaballapura
+15.0,2020-03-20,2020-04-03,Dubai,Bangalore,2.0,Smethware,-,Chikballapur ,Karnatka,562104.0,Chikkaballapura
+16.0,2020-03-20,2020-04-03,"Doha, Quwait, ",Bangalore,312.0,Chiballapur,Prashanthnagar,-,Karnataka,562101.0,Chikkaballapura
+17.0,2020-03-20,2020-04-03,Bangkok,Bangalore,IK ROAD ALIPUR,Gowribinur Taluk,-,Chikkaballapur,Karnataka,562101.0,Chikkaballapura
+18.0,2020-03-20,2020-04-03,Thailand Bangkok,Bangalore,56.0,"I.K Main Road, Alipur",-,Chikkaballapur,Karnataka,561213.0,Chikkaballapura
+19.0,2020-03-20,2020-04-03,Bangkok,Bangalore,-,Alipur,-,Chikkaballapur,Karnataka,561213.0,Chikkaballapura
+20.0,2020-03-20,2020-04-03,Thailand Bangkok,Bangalore,50.0,"I.K Main Road, Alipur",-,Chikkaballapur,Karnataka,561213.0,Chikkaballapura
+21.0,2020-03-20,2020-04-03,Thailand Bangkok,Bangalore,No 04,"Alipura Gauribidanur, Chikkaballapur",-,Chikkaballapur,Karnataka,561213.0,Chikkaballapura
+22.0,2020-03-20,2020-04-03,Bangkok,Bangalore,193.0,Alipur,Gowribidnur,Chikkabaiapure,Karnataka,561213.0,Chikkaballapura
+23.0,2020-03-20,2020-04-03,Indonesia,Bangalore,201.0,Alipur/ Faroos Street,Gowribidnur,Chikkabaiapure,Karnataka,561213.0,Chikkaballapura
+24.0,2020-03-20,2020-04-03,Bangkok,Bangalore,-,Hovzid Road Alipur,Gowribidnur,Chikkabaiapure,Karnataka,561213.0,Chikkaballapura
+25.0,2020-03-19,2020-04-02,Delhi,Bangalore,105 I.K. road,Alipur,Gouribader,Chikballapur,Karnataka,561224.0,Chikkaballapura
+26.0,2020-03-19,2020-04-02,Delhi,Bangalore,105 I.K. road,Alipur,Gouribader,Chikballapur,Karnataka,561224.0,Chikkaballapura
+27.0,2020-03-19,2020-04-02,Delhi,Banaglaore,105 I k road,Alipur,Gouaribadnor,Chibellapur,Karnataka,561224.0,Chikkaballapura
+28.0,2020-03-19,2020-04-02,Delhi,Banaglaore,105 I k road,Alipur,Gouaribadnor,Chibellapur,Karnataka,561224.0,Chikkaballapura
+29.0,2020-03-19,2020-04-02,Shj,Bangalore,mohamadrura village ghand,Rahalli Post,Chinthamani,Chikaballaru,Karnataka,563125.0,Chikkaballapura
+30.0,2020-03-18,2020-04-01,Cjk,"Bangalore, India",-,Abid Ali Road,Chikballapur,Chikmanguluru,Karnataka,561213.0,Chikkaballapura
+31.0,2020-03-18,2020-04-01,Indonesia,"Bangalore, India",-,Alipur,Gowri Binur,Alipur,Karnataka,561213.0,Chikkaballapura
+32.0,2020-03-18,2020-04-01,Jakarta,"Bangalore, India",#76,I K Main Road,Alipur,Chickballapur,Karnataka,561213.0,Chikkaballapura
+33.0,2020-03-18,2020-04-01,Jakaria Indonesia,Bangalore ,-,Ik Main Road ,Alipur Gowribadnur ,Chikballapur,Karnataka,561213.0,Chikkaballapura
+34.0,2020-03-18,2020-04-01,"Paris,France","Bangalore, India","#1573, S/o M.Ravi",Royal School Circle Anjani Extn,Chintamani,Chikkaballapur,Karnataka,563125.0,Chikkaballapura
+35.0,2020-03-18,2020-04-01,Dubai,Bangalore,917.0,Gp Street,-,Chikhbellapur,Karnataka,562101.0,Chikkaballapura
+36.0,2020-03-18,2020-04-01,Cjk,"Bangalore, India",-,Abid Ali Road,Chikballapur,Chikmanguluru,Karnataka,561213.0,Chikkaballapura
+37.0,2020-03-18,2020-04-01,Indonesia,"Bangalore, India",-,Alipur,Gowri Binur,Alipur,Karnataka,561213.0,Chikkaballapura
+38.0,2020-03-18,2020-04-01,Jakarta,"Bangalore, India",#76,I K Main Road,Alipur,Chickballapur,Karnataka,561213.0,Chikkaballapura
+39.0,2020-03-17,2020-03-31,Dubai ,Mangalore,2/86/1,Ashraya Colony Road,Marpadi,-,Karnataka,574227.0,Chikkaballapura
+40.0,2020-03-17,2020-03-31,Dubai,Managlore,Moodukonnaje,-,-,Managalore,Karnataka,574227.0,Chikkaballapura
+41.0,2020-03-17,2020-03-31,Dubai,Mangalore,218611.0,Ashraya Colony Road,Marpady Village,-,Karnataka,574227.0,Chikkaballapura
+42.0,2020-03-17,2020-03-31,Bangkok,Bangalore,-,Alipur,Gowribidnur ,Chickblapur ,Karnataka,561213.0,Chikkaballapura
+43.0,2020-03-17,2020-03-31, Bangkok,Bangalore,-,Zainabia School Cross Alipur ,Gowribidnur ,Chickblapur ,Karnataka,561213.0,Chikkaballapura
+44.0,2020-03-17,2020-03-31,United King Dom,Bangalore,E-BLOCK,Prasanth Nagar,-,Chikkabalapur,Karnataka,562101.0,Chikkaballapura
+45.0,2020-03-17,2020-03-31,London Heathrow,Bangalore,WARD NO 6,Anjani Badavane,Chinthamani,Chikballapur,Karnataka,563125.0,Chikkaballapura
+46.0,2020-03-17,2020-03-31,Dubai,Bangalore,#1234,Alipur,Gowribidnur,Chikbalapur,Karnataka,561213.0,Chikkaballapura
+47.0,2020-03-17,2020-03-31,Riuscat,Bangaluru,MAAROF COTTRNO,Islam Pur,-,Chickballapur,Karnataka ,562101.0,Chikkaballapura
+48.0,2020-03-17,2020-03-31,Muscat,Bangaluru,MAAROF COTTRNO,Islam Pur,-,Chiccballapur,Karnataka ,562101.0,Chikkaballapura
+49.0,2020-03-17,2020-03-31,Muscat,Bangaluru,MAAROF COTTRNO,Islam Pur,-,Chiccballapur,Karnataka ,562101.0,Chikkaballapura
+50.0,2020-03-16,2020-03-30,Dubai,Mangalore,9964118695,Moodbidri,Mangalore,Dakshina Kannada,Karnataka,574227.0,Chikkaballapura
+51.0,2020-03-16,2020-03-30,Muscat,Mangalore,3286 D Vinisha,Gondinagar,Moodbidre,D K,Karnataka,574227.0,Chikkaballapura
+52.0,2020-03-16,2020-03-30,Dubai,Mangalore,#178,Kairagundi,Moodbidri,Dakshina Kannada,Karnataka,574227.0,Chikkaballapura
+53.0,2020-03-16,2020-03-30,Melbourne,Bangalore,"#16, Mudhalodu",Jeelekunte,Gowribidanur,Chikbailpur,Karnataka,561208.0,Chikkaballapura
+54.0,2020-03-16,2020-03-30,Sharjah,Bangalore,175.0,Verandhavi,Gaurbaidavi,Chikaballopur,Karnataka,561208.0,Chikkaballapura
+55.0,2020-03-16,2020-03-30,Boston,Bangalore,Villa 75,Qve The Hills,"Shroy, Chikhbell",Chikkaballapur,Karnataka,562103.0,Chikkaballapura
+56.0,2020-03-16,2020-03-30,Monch,Bangalore,282.0,"Shivleg,Grounfdgress,Kouripet",-,Chilbalpur,Karnataka,562101.0,Chikkaballapura
+57.0,2020-03-16,2020-03-30,Munich Abu-Dhabi,Bangalore,282.0,Shrlogo Gauda Street,Karkpet,Chikballapur,Karnataka,562101.0,Chikkaballapura
+58.0,2020-03-16,2020-03-30,"Munich,Germany",Bangalore,282.0,"Shritrypa,Goudatgou ",-,Chikballaour,Karnataka,5620101.0,Chikkaballapura
+59.0,2020-03-16,2020-03-30,"Munich, Germany",Bangalore,282.0,"Shivatrypa, Govadge, Karkanpet",-,Chickballapur,Karnataka,5020101.0,Chikkaballapura
+60.0,2020-03-16,2020-03-30,"Munich, Germany","Bangalore, India",282.0,Shivakrupa Goutami Karkanpet,-,Chikballapur ,Karnataka,5620101.0,Chikkaballapura
+61.0,2020-03-15,2020-03-29,Dubai,Bangalore,#69 kt halli,Gowribidanur,Gowribidanur,Kolar,Karnataka,561208.0,Chikkaballapura
+62.0,2020-03-15,2020-03-29,Colombo,Bengaluru_India,704.0,Chikkabalapur,Chikkabalapur,-,Karnataka,562101.0,Chikkaballapura
+63.0,2020-03-15,2020-03-29,Dubai,Banglore,1k main road,Alipur,-,Chikbalapur,Karnataka,561213.0,Chikkaballapura
+64.0,2020-03-14,2020-03-28,Uatal-Malayesia,Bangalore-India,H1007,M G Road,-,Chickballapur,Karnataka,562101.0,Chikkaballapura
+65.0,2020-03-14,2020-03-28,America Iad ,Bangalore,211.0,Dc Road,Chickballapur ,Bengaluru,Karnataka,562101.0,Chikkaballapura
+66.0,2020-03-14,2020-03-28,Germany,India,-,Bannikappe,-,Chickballapur,Karnataka,562101.0,Chikkaballapura
+67.0,2020-03-14,2020-03-28,"Detroit, Usa","Bengaluru, India",-,Dinne Garden,"Sabbenahalli, Manchana",Chickballapur,Karnataka,562101.0,Chikkaballapura
+68.0,2020-03-14,2020-03-28,Laos,Bangalore,"# 110, Sai Vishwa",Sathya Sai Grama,Mudenahalli,Chikballapur,Karnataka,562101.0,Chikkaballapura
+69.0,2020-03-14,2020-03-28,Ksa,Bangalore,-,Talagavara,Chintamani,Chickaballapur,Karnataka,563125.0,Chikkaballapura
+70.0,2020-03-14,2020-03-28,Dubai,Bangalore,16.0,Alipur,,Chickbelapur,Karnataka,561213.0,Chikkaballapura
+71.0,2020-03-14,2020-03-28,Dubai,Bengaluru,72.0,I.K Main Road ,Chikbauapur,-,Karnataka,561213.0,Chikkaballapura
+72.0,2020-03-13,2020-03-27,Bangkok,Bangalore,72 A,Kariyanapura H Cross,Sidlgatta Tq,Chikaballapura,Karnataka,562101.0,Chikkaballapura
+73.0,2020-03-13,2020-03-27,Dubai,"Bengalore, India",#52,Mg Road,Apmc,Chicka Ballapura,Karnataka,562101.0,Chikkaballapura
+74.0,2020-03-13,2020-03-27,Dusseldorf,Banglore,-,Peddathumkeplli,Bagapalli,Chikkaballapur,Karnataka,561207.0,Chikkaballapura
+75.0,2020-03-13,2020-03-27,Dusselfort,Bangalore,peddathupepalli,Mallasandra Fort,Bagepalli ,Chikballapur,Karnataka,561207.0,Chikkaballapura
+76.0,2020-03-13,2020-03-27,Iran,Bangalore,2224.0,I K Main Road,Gowribidanur Taluk,-,Karnataka,561213.0,Chikkaballapura
+77.0,2020-03-13,2020-03-27,Bangkok Thailand,Banglore,-,Alipur,Alipur,Chickaballapur,Karnataka,561213.0,Chikkaballapura
+78.0,2020-03-13,2020-03-27,"Tokyo, Japan","Banglore, India",s/o M. Adinarayana,"14Th Ward, 5Th Cross, Vani School Road",Sonna Shettahalli Chintamani,Chikabalapura,Karnataka,563125.0,Chikkaballapura
+79.0,2020-03-13,2020-03-27,Malaysia,Banglore Airport,-,Jalipigalipalli Thanda,Bagepalli,Chikkaballapura,Karnataka,561212.0,Chikkaballapura
+80.0,2020-03-12,2020-03-26,London (Lhr),Bangalore,SHUBHA NILAYA,Gnr Extension,Chintamani,Chickballapura,Karnataka,563125.0,Chikkaballapura
+81.0,2020-03-12,2020-03-26,Dubai,Bangalore,22ND WARD ,Behind Keb,Bagepalli,Chikkaballapure,Karnataka,561207.0,Chikkaballapura
+82.0,2020-03-12,2020-03-26,Indonesia,Bangalore,# 85 NEAR BUSTAND,Bustand Alipur,-,Chikkaballapur,Karnataka,561213.0,Chikkaballapura
+83.0,2020-03-12,2020-03-26,Hong Kong,Bangalore,Sapthasri Nilaya,Behind Municipal Office Nr Extn,Chitamani,Chittoor,Hikkallapur,563125.0,Chikkaballapura
+84.0,2020-03-12,2020-03-26,Dubai-Uae,Mangalore,Praker compound,Ranger Office Road,-,Moodubidre,Karnataka,574227.0,Chikkaballapura
+85.0,2020-03-11,2020-03-25,"Fco,Rome,Italy",Bangalore,48.0,"10Th Ward,Opp Z.P Office",-,Bagepalli,Karnataka,561207.0,Chikkaballapura
+86.0,2020-03-11,2020-03-25,Herat(Nato) Afghanistan,Bangalore,#345,Nandi,-,Chikkaballapur,Karnataka,562103.0,Chikkaballapura
+87.0,2020-03-11,2020-03-25,-,Senegal,95/7,Chartaker,-,Chikkaballapura,Karnataka,561213.0,Chikkaballapura
+88.0,2020-03-11,2020-03-25,Muscut,Bangalore,B-146,Vinayakanagar,Gowribidanur,Chikkaballapura,Karnataka,561208.0,Chikkaballapura
+89.0,2020-03-11,2020-03-25,Singapore,Bangalore,A1 Krupashraya,Muddanahalli,Chikkaballapur,Chikkaballapur,Karnataka,562101.0,Chikkaballapura
+90.0,2020-03-11,2020-03-25,Singapore,Bangalore,A1 Krupashraya,Muddanahalli,Chikkaballapur,Chikkaballapur,Karnataka,562101.0,Chikkaballapura
+91.0,2020-03-11,2020-03-25,Bangkok ,Bangalore,-,Alipur,-,Chikaballapur,Karnataka,561213.0,Chikkaballapura
+92.0,2020-03-11,2020-03-25,Bangkok ,Bangalore,-,1 Kamzan Road,-,Chikaballapur,Karnataka,561213.0,Chikkaballapura
+93.0,2020-03-11,2020-03-25,Dubai,Bangalore,74.0,Qvc The Hills,Angatta Town,Hobli - Nandi Hills,Chikkaballapura,562103.0,Chikkaballapura
+94.0,2020-03-11,2020-03-25,Dubai,Bangalore,74.0,Qvc The Hills,Angatta Town,Hobli - Nandi Hills,Chikkaballapura,562103.0,Chikkaballapura
+95.0,2020-03-10,2020-03-24,AMERICA RICHMOND,BANGALORE,-,CHINTAMANI,-,CHICKBALLAPURA ,KARNATAKA,-,Chikkaballapura
