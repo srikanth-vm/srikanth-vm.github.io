@@ -38,11 +38,22 @@ body {
   color: rgb(0, 0, 0);
   background-color: white;
   bottom: 0px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 .link {
   color: rgb(0, 0, 0);
   text-decoration: none;
+}
+
+.disclaimer {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  text-align: center;
+  padding-top: 8px;
 }
 
 /* Default table styles for this demo */
