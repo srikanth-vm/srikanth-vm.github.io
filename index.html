@@ -61,7 +61,7 @@
                     lastCheckedPinCode = pinCode;
                     $('#matchingCases').empty();
                     $('#loader').show();
-                    $.getJSON('https://karnataka-covid19-cases.firebaseio.com/quarantine.json', function(data) {
+                    $.getJSON('karnataka_05_04.json', function(data) {
                         $('#loader').hide();
                         $.each(data, function(k, person) {
                             if (person.pin == pinCode || person.pin == (pinCode + ".0")) {
