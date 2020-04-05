@@ -71,7 +71,7 @@
                                 person.district + '<span>District</span></td></tr>');
                             }
                         });
-                        var tableHeaders = '<thead><tr><th>Person Arrival</th><th>Arrived From</th><th>Quarantined Till</th><th>House No.</th><th>Street</th><th>Tehsil</th><th>District</th></tr></thead>'
+                        var tableHeaders = '<thead><tr><th>Person Arrival</th><th>Arrived From</th><th>Quarantined Till</th><th>House No.</th><th>Street</th><th>Area</th><th>District</th></tr></thead>'
 
                         if (caseMatchingPin.length > 0) {
                             $('#matchingCases').append('<table>' + tableHeaders + caseMatchingPin.join('') + '</table>');
@@ -99,7 +99,10 @@
     <div id="content">
         <div id="matchingCases"></div>
     </div>
-    <div class="footer"> <a class="link" href="http://supr.design">Brought to you by - Supr•Design</a></div>
+    <div class="footer"> 
+        <div> <a class="link" href="https://karunadu.karnataka.gov.in/hfw/kannada/Pages/distwise-home-quarantive.aspx"> Data as received from Govt. of KARNATAKA</a> </div>
+        <a class="link" href="http://supr.design">Brought to you by - Supr•Design</a>
+    </div>
 
 </body>
 
