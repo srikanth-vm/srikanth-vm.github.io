@@ -37,6 +37,7 @@ body {
   width: 100%;
   color: rgb(0, 0, 0);
   background-color: white;
+  bottom: 0px;
 }
 
 .link {
